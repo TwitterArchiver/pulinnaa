@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921870181195796480"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1921870192897884612",
+    "created_at": "2025-05-12T10:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T11:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921870192897884612"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "メイドの日2025"
+        },
+        {
+          "end": 17,
+          "start": 11,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UZaFUs7hTy",
+          "end": 41,
+          "expanded_url": "https://x.com/pulinnaa/status/1921870192897884612/photo/1",
+          "media_key": "3_1921870181195796480",
+          "start": 18,
+          "url": "https://t.co/UZaFUs7hTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921870192897884612",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#メイドの日2025 #自撮り界隈 https://t.co/UZaFUs7hTy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921870181195796480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqvav06XUAA94JF.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921870181195796480"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1921870192897884612",
+        "created_at": "2025-05-12T10:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921870192897884612"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "メイドの日2025"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZaFUs7hTy",
+              "end": 41,
+              "expanded_url": "https://x.com/pulinnaa/status/1921870192897884612/photo/1",
+              "media_key": "3_1921870181195796480",
+              "start": 18,
+              "url": "https://t.co/UZaFUs7hTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921870192897884612",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#メイドの日2025 #自撮り界隈 https://t.co/UZaFUs7hTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 162,
+          "like_count": 3925,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 1457
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

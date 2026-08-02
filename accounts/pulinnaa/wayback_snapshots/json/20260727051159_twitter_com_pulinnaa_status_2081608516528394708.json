@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2081090911275274600",
+    "created_at": "2026-07-27T05:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081608516528394708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1250407337434595328",
+          "start": 0,
+          "username": "Joe_lovefromprc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081608516528394708",
+    "in_reply_to_user_id": "1250407337434595328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081559476671496439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joe_lovefromprc 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2081090911275274600",
+        "created_at": "2026-07-27T05:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081608516528394708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1250407337434595328",
+              "start": 0,
+              "username": "Joe_lovefromprc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081608516528394708",
+        "in_reply_to_user_id": "1250407337434595328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081559476671496439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joe_lovefromprc 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250407337434595328",
+        "conversation_id": "2081090911275274600",
+        "created_at": "2026-07-27T01:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081559476671496439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081559476671496439",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081090911275274600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 😅我学会了玩烂梗和游玩时尚单品，我真是太潮辣😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 193,
+          "like_count": 4026,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 2847
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T12:55:29.000Z",
+        "description": "中国人，大学生",
+        "id": "1250407337434595328",
+        "name": "プロスマ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901232075568750592/TdX5FgNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 659,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "Joe_lovefromprc",
+        "verified": false
+      }
+    ]
+  }
+}

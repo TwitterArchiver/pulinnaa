@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2065460805940936777",
+    "created_at": "2026-06-13T10:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065741522503708871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2015833324472991744",
+          "start": 0,
+          "username": "me_q56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065741522503708871",
+    "in_reply_to_user_id": "2015833324472991744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065460805940936777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me_q56 無言F失礼します、主さん超可愛い！できれば、繋がりたいです！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065460803567005696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn9qFYasAAjein.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2065460805940936777",
+        "created_at": "2026-06-13T10:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065741522503708871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015833324472991744",
+              "start": 0,
+              "username": "me_q56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065741522503708871",
+        "in_reply_to_user_id": "2015833324472991744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065460805940936777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me_q56 無言F失礼します、主さん超可愛い！できれば、繋がりたいです！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065460803567005696"
+          ]
+        },
+        "author_id": "2015833324472991744",
+        "conversation_id": "2065460805940936777",
+        "created_at": "2026-06-12T15:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065460805940936777"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "地雷系"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 50,
+              "start": 36,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "地雷系女子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDiZZiN4pR",
+              "end": 100,
+              "expanded_url": "https://x.com/me_q56/status/2065460805940936777/photo/1",
+              "media_key": "3_2065460803567005696",
+              "start": 77,
+              "url": "https://t.co/mDiZZiN4pR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065460805940936777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0から\nお友達ください\n\n #自撮り界隈  #地雷系  #地雷系女子  #自撮り界隈さんと繋がりたい  #地雷系と繋がりたい  #地雷系女子と繋がりたい https://t.co/mDiZZiN4pR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 200,
+          "like_count": 4049,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 2647
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T17:05:05.000Z",
+        "description": "",
+        "id": "2015833324472991744",
+        "location": "北海道 12",
+        "name": "み❕",
+        "pinned_tweet_id": "2065460805940936777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064755116247502848/GBaZVOGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 4,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "me_q56",
+        "verified": false
+      }
+    ]
+  }
+}

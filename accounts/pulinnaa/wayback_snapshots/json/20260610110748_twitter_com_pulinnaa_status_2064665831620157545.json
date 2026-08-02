@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2064264629254320129",
+    "created_at": "2026-06-10T11:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064665831620157545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044068992491585536",
+          "start": 0,
+          "username": "Lingling527527"
+        },
+        {
+          "end": 27,
+          "id": "2038644495533723648",
+          "start": 16,
+          "username": "staryhrzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064665831620157545",
+    "in_reply_to_user_id": "2044068992491585536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064264629254320129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingling527527 @staryhrzzz 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2064264629254320129",
+        "created_at": "2026-06-10T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064665831620157545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044068992491585536",
+              "start": 0,
+              "username": "Lingling527527"
+            },
+            {
+              "end": 27,
+              "id": "2038644495533723648",
+              "start": 16,
+              "username": "staryhrzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064665831620157545",
+        "in_reply_to_user_id": "2044068992491585536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064264629254320129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingling527527 @staryhrzzz 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044068992491585536",
+        "conversation_id": "2064264629254320129",
+        "created_at": "2026-06-09T08:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064264629254320129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064264629254320129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1501,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "150fo抽人送75mg普瑞 转帖 关注 随机抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 193,
+          "like_count": 4045,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 2613
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:03:53.000Z",
+        "description": "11/od/自残/cos/双相/重抑/重焦\n什么都发 ip武汉可以来找我玩\n^-^ 一个很温柔的od妹^-^\n看成分互fo",
+        "id": "2044068992491585536",
+        "location": "青少年灾难",
+        "name": "Lingling",
+        "pinned_tweet_id": "2058242546682544548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 107,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 175
+        },
+        "username": "Lingling527527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:50:40.000Z",
+        "description": "我是kyo 會當日記來發 希望大家都獲得幸福！od｜宅家｜蕾系｜電波系｜infp\n戀人是教主大人💗\n素學家 and電波作愛好者 我吃信徒組",
+        "id": "2038644495533723648",
+        "name": "kyo",
+        "pinned_tweet_id": "2045425240092922059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645383853666305/UGax8MKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 174,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 255
+        },
+        "username": "staryhrzzz",
+        "verified": false
+      }
+    ]
+  }
+}

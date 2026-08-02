@@ -1,0 +1,362 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1814573083573039475",
+    "created_at": "2024-07-20T08:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T09:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1814573083573039475"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 52,
+          "start": 38,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 59,
+          "start": 53,
+          "tag": "いいね返し"
+        },
+        {
+          "end": 73,
+          "start": 60,
+          "tag": "美男美女さんと繋がりたい"
+        },
+        {
+          "end": 85,
+          "start": 74,
+          "tag": "美男美女と繋がりたい"
+        },
+        {
+          "end": 99,
+          "start": 86,
+          "tag": "いいねした人全員フォロー"
+        },
+        {
+          "end": 115,
+          "start": 100,
+          "tag": "いいねした人全員フォローする"
+        },
+        {
+          "end": 134,
+          "start": 117,
+          "tag": "1mmでもいいなと思ったらいいね"
+        },
+        {
+          "end": 147,
+          "start": 135,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 153,
+          "start": 148,
+          "tag": "友達募集"
+        },
+        {
+          "end": 161,
+          "start": 154,
+          "tag": "自発ください"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/pulinnaa/statu…",
+          "end": 185,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1814239486345351669",
+          "start": 162,
+          "url": "https://t.co/ciZiitNuQw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814573083573039475",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814239486345351669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中にいいねお願いします૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა\n#自撮り界隈 #自撮り界隈さんと繋がりたい #いいね返し #美男美女さんと繋がりたい #美男美女と繋がりたい #いいねした人全員フォロー #いいねした人全員フォローする  #1mmでもいいなと思ったらいいね #病み垢さんと繋がりたい #友達募集 #自発ください https://t.co/ciZiitNuQw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1814573083573039475",
+        "created_at": "2024-07-20T08:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T09:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814573083573039475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 52,
+              "start": 38,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "いいね返し"
+            },
+            {
+              "end": 73,
+              "start": 60,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 85,
+              "start": 74,
+              "tag": "美男美女と繋がりたい"
+            },
+            {
+              "end": 99,
+              "start": 86,
+              "tag": "いいねした人全員フォロー"
+            },
+            {
+              "end": 115,
+              "start": 100,
+              "tag": "いいねした人全員フォローする"
+            },
+            {
+              "end": 134,
+              "start": 117,
+              "tag": "1mmでもいいなと思ったらいいね"
+            },
+            {
+              "end": 147,
+              "start": 135,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 153,
+              "start": 148,
+              "tag": "友達募集"
+            },
+            {
+              "end": 161,
+              "start": 154,
+              "tag": "自発ください"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/pulinnaa/statu…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1814239486345351669",
+              "start": 162,
+              "url": "https://t.co/ciZiitNuQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814573083573039475",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814239486345351669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中にいいねお願いします૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა\n#自撮り界隈 #自撮り界隈さんと繋がりたい #いいね返し #美男美女さんと繋がりたい #美男美女と繋がりたい #いいねした人全員フォロー #いいねした人全員フォローする  #1mmでもいいなと思ったらいいね #病み垢さんと繋がりたい #友達募集 #自発ください https://t.co/ciZiitNuQw"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814239473741578240"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1814239486345351669",
+        "created_at": "2024-07-19T10:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T11:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814239486345351669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 27,
+              "start": 13,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "いいね返し"
+            },
+            {
+              "end": 48,
+              "start": 35,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 60,
+              "start": 49,
+              "tag": "美男美女と繋がりたい"
+            },
+            {
+              "end": 74,
+              "start": 61,
+              "tag": "いいねした人全員フォロー"
+            },
+            {
+              "end": 82,
+              "start": 76,
+              "tag": "彼氏募集中"
+            },
+            {
+              "end": 98,
+              "start": 83,
+              "tag": "いいねした人全員フォローする"
+            },
+            {
+              "end": 117,
+              "start": 100,
+              "tag": "1mmでもいいなと思ったらいいね"
+            },
+            {
+              "end": 130,
+              "start": 118,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "友達募集"
+            },
+            {
+              "end": 144,
+              "start": 137,
+              "tag": "自発ください"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 157,
+              "start": 150,
+              "tag": "いいねでDM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CHDVgl0ah4",
+              "end": 181,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1814239486345351669/photo/1",
+              "media_key": "3_1814239473741578240",
+              "start": 158,
+              "url": "https://t.co/CHDVgl0ah4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814239486345351669",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "指先の笑顔\n#自撮り界隈 #自撮り界隈さんと繋がりたい #いいね返し #美男美女さんと繋がりたい #美男美女と繋がりたい #いいねした人全員フォロー  #彼氏募集中 #いいねした人全員フォローする  #1mmでもいいなと思ったらいいね #病み垢さんと繋がりたい #友達募集 #自発ください #雰囲気 #いいねでDM https://t.co/CHDVgl0ah4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 149,
+          "like_count": 3013,
+          "listed_count": 0,
+          "tweet_count": 670
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

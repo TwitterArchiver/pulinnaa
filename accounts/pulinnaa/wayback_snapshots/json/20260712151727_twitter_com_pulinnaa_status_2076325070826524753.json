@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2076325070826524753",
+    "created_at": "2026-07-12T15:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076325070826524753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2039172080336334849",
+          "start": 3,
+          "username": "Oxycontin0226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076325070826524753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076191207793762416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oxycontin0226: 显化本来就是科学的，只是一个辅助生活的工具而已，我觉得不信很正常，不接触这些东西就行了，没必要去诋毁显化，说是邪教啥的吧，做人连尊重都学不会？我不信的东西我也没有去诋毁过，有时候一些东西我也觉得迷信，但是我从来不会去骂信奉这些东西的人好么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2076325070826524753",
+        "created_at": "2026-07-12T15:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076325070826524753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2039172080336334849",
+              "start": 3,
+              "username": "Oxycontin0226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076325070826524753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076191207793762416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oxycontin0226: 显化本来就是科学的，只是一个辅助生活的工具而已，我觉得不信很正常，不接触这些东西就行了，没必要去诋毁显化，说是邪教啥的吧，做人连尊重都学不会？我不信的东西我也没有去诋毁过，有时候一些东西我也觉得迷信，但是我从来不会去骂信奉这些东西的人好么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039172080336334849",
+        "conversation_id": "2076191207793762416",
+        "created_at": "2026-07-12T06:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076191207793762416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076191207793762416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3444,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "显化本来就是科学的，只是一个辅助生活的工具而已，我觉得不信很正常，不接触这些东西就行了，没必要去诋毁显化，说是邪教啥的吧，做人连尊重都学不会？我不信的东西我也没有去诋毁过，有时候一些东西我也觉得迷信，但是我从来不会去骂信奉这些东西的人好么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 201,
+          "like_count": 4058,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 2798
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T02:45:42.000Z",
+        "description": "他们看我的眼神像是看着父亲鬓角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soaunt.com",
+                "end": 23,
+                "expanded_url": "http://www.soaunt.com",
+                "start": 0,
+                "url": "https://t.co/XOiMhWSRDT"
+              }
+            ]
+          }
+        },
+        "id": "2039172080336334849",
+        "location": "墓地",
+        "name": "声色犬马",
+        "pinned_tweet_id": "2072304276349632904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075206365618790401/j_Vtb2RX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 606,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/XOiMhWSRDT",
+        "username": "Oxycontin0226",
+        "verified": false
+      }
+    ]
+  }
+}

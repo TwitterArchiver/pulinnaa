@@ -1,0 +1,226 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1810261760764674048"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pizza",
+          "id": "825048935626469376",
+          "name": "Pizza"
+        }
+      }
+    ],
+    "conversation_id": "1810261772739219487",
+    "created_at": "2024-07-08T10:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T11:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1810261772739219487"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 9,
+          "tag": "雰囲気嫌いじゃない人いいね"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "他撮り"
+        },
+        {
+          "end": 36,
+          "start": 29,
+          "tag": "自発ください"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/zhoPruzJcT",
+          "end": 60,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1810261772739219487/photo/1",
+          "media_key": "3_1810261760764674048",
+          "start": 37,
+          "url": "https://t.co/zhoPruzJcT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810261772739219487",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ピザの神www\n\n#雰囲気嫌いじゃない人いいね #他撮り #自発ください https://t.co/zhoPruzJcT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1810261760764674048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR9XevDaAAAnwM5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810261760764674048"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pizza",
+              "id": "825048935626469376",
+              "name": "Pizza"
+            }
+          }
+        ],
+        "conversation_id": "1810261772739219487",
+        "created_at": "2024-07-08T10:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T11:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810261772739219487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 9,
+              "tag": "雰囲気嫌いじゃない人いいね"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "他撮り"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "自発ください"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zhoPruzJcT",
+              "end": 60,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1810261772739219487/photo/1",
+              "media_key": "3_1810261760764674048",
+              "start": 37,
+              "url": "https://t.co/zhoPruzJcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810261772739219487",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ピザの神www\n\n#雰囲気嫌いじゃない人いいね #他撮り #自発ください https://t.co/zhoPruzJcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 146,
+          "like_count": 2697,
+          "listed_count": 1,
+          "tweet_count": 616
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

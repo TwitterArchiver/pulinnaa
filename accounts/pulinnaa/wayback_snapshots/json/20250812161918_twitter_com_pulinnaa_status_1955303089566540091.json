@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955303079265570819",
+        "3_1955303079257272320"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1955303089566540091",
+    "created_at": "2025-08-12T16:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T17:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955303089566540091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCTJnIgC68",
+          "end": 56,
+          "expanded_url": "https://x.com/pulinnaa/status/1955303089566540091/photo/1",
+          "media_key": "3_1955303079265570819",
+          "start": 33,
+          "url": "https://t.co/fCTJnIgC68"
+        },
+        {
+          "display_url": "pic.x.com/fCTJnIgC68",
+          "end": 56,
+          "expanded_url": "https://x.com/pulinnaa/status/1955303089566540091/photo/1",
+          "media_key": "3_1955303079257272320",
+          "start": 33,
+          "url": "https://t.co/fCTJnIgC68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955303089566540091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老子在最崩溃的时候收到了两条私信然后我满怀期待的点开要被气死了？ https://t.co/fCTJnIgC68"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1845,
+        "media_key": "3_1955303079265570819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKhynvaEAMmp6V.jpg",
+        "width": 1289
+      },
+      {
+        "height": 1384,
+        "media_key": "3_1955303079257272320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKhyntbcAAlutg.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955303079265570819",
+            "3_1955303079257272320"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1955303089566540091",
+        "created_at": "2025-08-12T16:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955303089566540091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCTJnIgC68",
+              "end": 56,
+              "expanded_url": "https://x.com/pulinnaa/status/1955303089566540091/photo/1",
+              "media_key": "3_1955303079265570819",
+              "start": 33,
+              "url": "https://t.co/fCTJnIgC68"
+            },
+            {
+              "display_url": "pic.x.com/fCTJnIgC68",
+              "end": 56,
+              "expanded_url": "https://x.com/pulinnaa/status/1955303089566540091/photo/1",
+              "media_key": "3_1955303079257272320",
+              "start": 33,
+              "url": "https://t.co/fCTJnIgC68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955303089566540091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子在最崩溃的时候收到了两条私信然后我满怀期待的点开要被气死了？ https://t.co/fCTJnIgC68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 165,
+          "like_count": 3991,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 1556
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

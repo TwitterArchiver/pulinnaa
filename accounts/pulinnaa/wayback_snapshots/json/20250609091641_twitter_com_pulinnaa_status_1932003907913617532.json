@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1931949041094742254",
+    "created_at": "2025-06-09T09:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T10:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932003907913617532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558048751302103041",
+          "start": 0,
+          "username": "ching__101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932003907913617532",
+    "in_reply_to_user_id": "1558048751302103041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931949041094742254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ching__101 宝宝我喜欢你😭接下来的日子好好生活吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_1931949034819977216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-paUiagAAPlS-.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931949034836721664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-paUmaAAAtF_-.jpg",
+        "width": 748
+      },
+      {
+        "height": 1865,
+        "media_key": "3_1931949034828398592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-paUkbAAATy7P.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1882,
+        "media_key": "3_1931949034845224960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-paUobwAACxSu.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1931949041094742254",
+        "created_at": "2025-06-09T09:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932003907913617532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558048751302103041",
+              "start": 0,
+              "username": "ching__101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932003907913617532",
+        "in_reply_to_user_id": "1558048751302103041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931949041094742254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ching__101 宝宝我喜欢你😭接下来的日子好好生活吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931949034819977216",
+            "3_1931949034836721664",
+            "3_1931949034828398592",
+            "3_1931949034845224960"
+          ]
+        },
+        "author_id": "1558048751302103041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931949041094742254",
+        "created_at": "2025-06-09T05:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T06:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931949041094742254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62vMS0FgSk",
+              "end": 169,
+              "expanded_url": "https://x.com/ching__101/status/1931949041094742254/photo/1",
+              "media_key": "3_1931949034819977216",
+              "start": 146,
+              "url": "https://t.co/62vMS0FgSk"
+            },
+            {
+              "display_url": "pic.x.com/62vMS0FgSk",
+              "end": 169,
+              "expanded_url": "https://x.com/ching__101/status/1931949041094742254/photo/1",
+              "media_key": "3_1931949034836721664",
+              "start": 146,
+              "url": "https://t.co/62vMS0FgSk"
+            },
+            {
+              "display_url": "pic.x.com/62vMS0FgSk",
+              "end": 169,
+              "expanded_url": "https://x.com/ching__101/status/1931949041094742254/photo/1",
+              "media_key": "3_1931949034828398592",
+              "start": 146,
+              "url": "https://t.co/62vMS0FgSk"
+            },
+            {
+              "display_url": "pic.x.com/62vMS0FgSk",
+              "end": 169,
+              "expanded_url": "https://x.com/ching__101/status/1931949041094742254/photo/1",
+              "media_key": "3_1931949034845224960",
+              "start": 146,
+              "url": "https://t.co/62vMS0FgSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931949041094742254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不會忘記你們對我的好\n這個號最近一直都很低浮上\n主要原因是我進醫院了\n還有就是最近發生了很多事\n需要時間沉澱並好好思考我未來的人生\n我以前從來沒有想過自己會有未來\n但我想至少好好活下去已經很厲害了\n希望大家會支持我 之後也不會接線下了\n這個號可能會偶然分享我的日常\n就這樣 私訊不會回別發了 https://t.co/62vMS0FgSk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 169,
+          "like_count": 4035,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 1490
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T11:12:47.000Z",
+        "description": "謝謝你的關注",
+        "id": "1558048751302103041",
+        "name": "離禾",
+        "pinned_tweet_id": "1931836265059803490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931841192817483777/PhfkrKty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3561,
+          "following_count": 64,
+          "like_count": 325,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 692
+        },
+        "username": "ching__101",
+        "verified": false
+      }
+    ]
+  }
+}

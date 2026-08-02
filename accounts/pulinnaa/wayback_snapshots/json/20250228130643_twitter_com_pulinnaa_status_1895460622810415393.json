@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1895460083376804045",
+    "created_at": "2025-02-28T13:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T14:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895460622810415393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886413119809024000",
+          "start": 0,
+          "username": "ytllyt7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895460622810415393",
+    "in_reply_to_user_id": "1886413119809024000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895460578719916176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ytllyt7 允许"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1895460083376804045",
+        "created_at": "2025-02-28T13:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895460622810415393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886413119809024000",
+              "start": 0,
+              "username": "ytllyt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895460622810415393",
+        "in_reply_to_user_id": "1886413119809024000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895460578719916176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ytllyt7 允许"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886413119809024000",
+        "conversation_id": "1895460083376804045",
+        "created_at": "2025-02-28T13:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895460578719916176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895460578719916176",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895460083376804045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 161,
+          "like_count": 3810,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1272
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T13:55:24.000Z",
+        "description": "︎琦琦 isfp♎️ 08双 坐标🇨🇳丨od 🈹 精神状态不好丨感谢follow",
+        "id": "1886413119809024000",
+        "location": "Tokyo-to, Japan",
+        "name": "ytllyt7",
+        "pinned_tweet_id": "1886635771358257322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899576618582016/fBp5zyep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "ytllyt7",
+        "verified": false
+      }
+    ]
+  }
+}

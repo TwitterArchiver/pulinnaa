@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1792859996939522489",
+    "created_at": "2024-06-09T19:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T20:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799888276263985167"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1799888276263985167",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792859996939522489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "100♡ありがと՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻💞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1792859996939522489",
+        "created_at": "2024-06-09T19:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T20:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799888276263985167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799888276263985167",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792859996939522489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "100♡ありがと՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻💞"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792859988249239552",
+            "3_1792859988354023425"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1792859996939522489",
+        "created_at": "2024-05-21T10:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T11:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792859996939522489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "病み垢"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 75,
+              "start": 69,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "友達募集"
+            },
+            {
+              "end": 97,
+              "start": 83,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 106,
+              "start": 98,
+              "tag": "共依存相手募集"
+            },
+            {
+              "end": 113,
+              "start": 107,
+              "tag": "ネッ友募集"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/iC33mzfes3",
+              "end": 137,
+              "expanded_url": "https://twitter.com/erueru927879/status/1792859996939522489/photo/1",
+              "media_key": "3_1792859988249239552",
+              "start": 114,
+              "url": "https://t.co/iC33mzfes3"
+            },
+            {
+              "display_url": "pic.twitter.com/iC33mzfes3",
+              "end": 137,
+              "expanded_url": "https://twitter.com/erueru927879/status/1792859996939522489/photo/1",
+              "media_key": "3_1792859988354023425",
+              "start": 114,
+              "url": "https://t.co/iC33mzfes3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792859996939522489",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10681,
+          "like_count": 100,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "tag🏷️\n\n08｜砂糖｜不登校｜嫉妬｜DM🙆🏻‍♀️\n\nお友達ください(*´꒳`*)\n♡or↺でお迎え❕\n\n#病み垢   #病み垢女子 #地雷系女子 \n#友達募集 #自撮り界隈さんと繋がりたい\n#共依存相手募集 #ネッ友募集 https://t.co/iC33mzfes3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 125,
+          "like_count": 1775,
+          "listed_count": 1,
+          "tweet_count": 406
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034394881678794752"
+      ],
+      "media_source_tweet_id": [
+        "2034394974364516460"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2035245478984786007",
+    "created_at": "2026-03-21T06:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T07:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035245478984786007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3644684357",
+          "start": 3,
+          "username": "AdaPereway"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4jXFLoBfVw",
+          "end": 57,
+          "expanded_url": "https://x.com/iamelvisyayo/status/2034394974364516460/video/1",
+          "media_key": "13_2034394881678794752",
+          "start": 34,
+          "url": "https://t.co/4jXFLoBfVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035245478984786007",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034950161084858629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AdaPereway: Very long ingrown https://t.co/4jXFLoBfVw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53966,
+        "height": 576,
+        "media_key": "13_2034394881678794752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034394881678794752/img/u8_tlE19rISofcff.jpg",
+        "public_metrics": {
+          "view_count": 835259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034394881678794752/vid/avc1/320x320/817_6P3Ur_-dNLfE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034394881678794752/vid/avc1/576x576/25thCehoRP8Ba_36.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034394881678794752/pl/eTvNn88XbCIXWqSz.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034394881678794752"
+          ],
+          "media_source_tweet_id": [
+            "2034394974364516460"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035245478984786007",
+        "created_at": "2026-03-21T06:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035245478984786007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3644684357",
+              "start": 3,
+              "username": "AdaPereway"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jXFLoBfVw",
+              "end": 57,
+              "expanded_url": "https://x.com/iamelvisyayo/status/2034394974364516460/video/1",
+              "media_key": "13_2034394881678794752",
+              "start": 34,
+              "url": "https://t.co/4jXFLoBfVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035245478984786007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034950161084858629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AdaPereway: Very long ingrown https://t.co/4jXFLoBfVw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034394881678794752"
+          ],
+          "media_source_tweet_id": [
+            "2034394974364516460"
+          ]
+        },
+        "author_id": "3644684357",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034950161084858629",
+        "created_at": "2026-03-20T11:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034950161084858629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jXFLoBfVw",
+              "end": 41,
+              "expanded_url": "https://x.com/iamelvisyayo/status/2034394974364516460/video/1",
+              "media_key": "13_2034394881678794752",
+              "start": 18,
+              "url": "https://t.co/4jXFLoBfVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034950161084858629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 1713918,
+          "like_count": 5618,
+          "quote_count": 29,
+          "reply_count": 25,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "Very long ingrown https://t.co/4jXFLoBfVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 147,
+          "like_count": 3949,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 1729
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-13T18:17:29.000Z",
+        "description": "Jeweler, Wrist Watch Vendor\n\nshopping and retail",
+        "id": "3644684357",
+        "location": "Nigeria",
+        "name": "Ada eze. Baby",
+        "pinned_tweet_id": "1963068289933799864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931829520685809664/PQpB5IMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21454,
+          "following_count": 11666,
+          "like_count": 37752,
+          "listed_count": 11,
+          "media_count": 3446,
+          "tweet_count": 118180
+        },
+        "username": "AdaPereway",
+        "verified": true
+      }
+    ]
+  }
+}

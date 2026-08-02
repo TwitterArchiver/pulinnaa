@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1808146523710234903",
+    "created_at": "2024-07-02T14:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T15:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808150621268103575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807252654311260160",
+          "start": 0,
+          "username": "si2_____o_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808150621268103575",
+    "in_reply_to_user_id": "1807252654311260160",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808146523710234903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@si2_____o_ おやすみー"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1808146523710234903].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1808146523710234903",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1808146523710234903"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1808146523710234903",
+        "created_at": "2024-07-02T14:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T15:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808150621268103575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807252654311260160",
+              "start": 0,
+              "username": "si2_____o_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808150621268103575",
+        "in_reply_to_user_id": "1807252654311260160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808146523710234903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@si2_____o_ おやすみー"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 148,
+          "like_count": 2533,
+          "listed_count": 1,
+          "tweet_count": 568
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T03:20:05.000Z",
+        "description": "",
+        "id": "1807252654311260160",
+        "name": "くろの転生垢だよ",
+        "pinned_tweet_id": "1807716197276012658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807714172568002560/RJATlZKq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 83,
+          "like_count": 455,
+          "listed_count": 3,
+          "tweet_count": 46
+        },
+        "username": "si2_____o_",
+        "verified": false
+      }
+    ]
+  }
+}

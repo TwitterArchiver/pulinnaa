@@ -1,0 +1,97 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1824139360129954296",
+    "created_at": "2024-08-15T17:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T18:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824139360129954296"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1824139360129954296",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我也没有很想od但是我对象跟我说要是我o了就跟我分手搞得我心里有点难受好吗但是随便吧呵呵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1824139360129954296",
+        "created_at": "2024-08-15T17:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T18:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824139360129954296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824139360129954296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也没有很想od但是我对象跟我说要是我o了就跟我分手搞得我心里有点难受好吗但是随便吧呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 156,
+          "like_count": 3336,
+          "listed_count": 1,
+          "tweet_count": 773
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

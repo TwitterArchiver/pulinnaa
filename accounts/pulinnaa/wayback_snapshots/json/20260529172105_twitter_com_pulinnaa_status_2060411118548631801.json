@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2060389717414215774",
+    "created_at": "2026-05-29T17:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060411118548631801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723307524743397376",
+          "start": 0,
+          "username": "shijiannisile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060411118548631801",
+    "in_reply_to_user_id": "1723307524743397376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060389717414215774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shijiannisile 他不是被爆融ano的脸还有户籍广西了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2060389717414215774",
+        "created_at": "2026-05-29T17:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060411118548631801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723307524743397376",
+              "start": 0,
+              "username": "shijiannisile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060411118548631801",
+        "in_reply_to_user_id": "1723307524743397376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060389717414215774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shijiannisile 他不是被爆融ano的脸还有户籍广西了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723307524743397376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "2060389717414215774",
+        "created_at": "2026-05-29T15:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060389717414215774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unihai_0/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/unihai_0/status/2060023448022159371",
+              "start": 8,
+              "url": "https://t.co/3CshUnVBv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060389717414215774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060023448022159371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个我被萌晕了 https://t.co/3CshUnVBv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 180,
+          "like_count": 4033,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 2452
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T11:52:14.000Z",
+        "description": "里人格@yaniaodawang/💙💙：@xiaoren00 @boboxie993876\n没有非绿和线下。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "yaniaodawang"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "xiaoren00"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "boboxie993876"
+              }
+            ]
+          }
+        },
+        "id": "1723307524743397376",
+        "location": "🚪66/128",
+        "name": "鸦鸦",
+        "pinned_tweet_id": "2051676261463073019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058917535945248768/hH2nwLpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 486,
+          "like_count": 13832,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 4312
+        },
+        "username": "shijiannisile",
+        "verified": false
+      }
+    ]
+  }
+}

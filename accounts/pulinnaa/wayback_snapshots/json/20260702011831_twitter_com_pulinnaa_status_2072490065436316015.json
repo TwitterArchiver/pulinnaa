@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2072443478215479573",
+    "created_at": "2026-07-02T01:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072490065436316015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1328359187504525313",
+          "start": 0,
+          "username": "000kkp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072490065436316015",
+    "in_reply_to_user_id": "1328359187504525313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072443478215479573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@000kkp 不好意思用中文发送评论了。这个4/21是制造日期哦！赏味期限是180天，所以应该是10/18🙌🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072443461656317952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLMWR0bEAAENJa.jpg",
+        "width": 1814
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072443474205646848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLMXAkaoAAfIpr.jpg",
+        "width": 1910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2072443478215479573",
+        "created_at": "2026-07-02T01:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072490065436316015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1328359187504525313",
+              "start": 0,
+              "username": "000kkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072490065436316015",
+        "in_reply_to_user_id": "1328359187504525313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072443478215479573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@000kkp 不好意思用中文发送评论了。这个4/21是制造日期哦！赏味期限是180天，所以应该是10/18🙌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072443461656317952",
+            "3_2072443474205646848"
+          ]
+        },
+        "author_id": "1328359187504525313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2072443478215479573",
+        "created_at": "2026-07-01T22:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072443478215479573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlLbUdbuQF",
+              "end": 95,
+              "expanded_url": "https://x.com/000kkp/status/2072443478215479573/photo/1",
+              "media_key": "3_2072443461656317952",
+              "start": 72,
+              "url": "https://t.co/AlLbUdbuQF"
+            },
+            {
+              "display_url": "pic.x.com/AlLbUdbuQF",
+              "end": 95,
+              "expanded_url": "https://x.com/000kkp/status/2072443478215479573/photo/1",
+              "media_key": "3_2072443474205646848",
+              "start": 72,
+              "url": "https://t.co/AlLbUdbuQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072443478215479573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "職場の人に謎のお菓子貰ったんだけど怖くて食べれない\nしかもこの4/21って製造日だよね？\n流石に賞味期限じゃないよね\n貰ったばっかりなんだけど https://t.co/AlLbUdbuQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 201,
+          "like_count": 4052,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 2757
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T15:28:24.000Z",
+        "description": "お酒と猫が好きです",
+        "id": "1328359187504525313",
+        "name": "𝑵𝑬𝑶 𝑪𝒀𝑩𝑬𝑹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057073577745432576/5FdTl4HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 797,
+          "like_count": 216114,
+          "listed_count": 10,
+          "media_count": 6600,
+          "tweet_count": 46792
+        },
+        "url": "",
+        "username": "000kkp",
+        "verified": false
+      }
+    ]
+  }
+}

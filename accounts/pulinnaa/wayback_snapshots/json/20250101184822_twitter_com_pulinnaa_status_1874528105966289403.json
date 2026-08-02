@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874528098810826752"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1874528105966289403",
+    "created_at": "2025-01-01T18:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T19:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874528105966289403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9dpeqIxDhL",
+          "end": 52,
+          "expanded_url": "https://x.com/pulinnaa/status/1874528105966289403/photo/1",
+          "media_key": "3_1874528098810826752",
+          "start": 29,
+          "url": "https://t.co/9dpeqIxDhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874528105966289403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恭喜我在自己微信私人群发这张裸照被晶哥sj然后告诉了我爸 https://t.co/9dpeqIxDhL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1874528105966289403].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1874528105966289403",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1874528105966289403"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1874528098810826752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgOpX8sbkAAyMN_.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 177,
+          "like_count": 3650,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1149
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

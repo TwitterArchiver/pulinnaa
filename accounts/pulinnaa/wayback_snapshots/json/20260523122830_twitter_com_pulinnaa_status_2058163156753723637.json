@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2058159976691225016",
+    "created_at": "2026-05-23T12:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058163156753723637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1307554135797948418",
+          "start": 0,
+          "username": "yukimuramoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058163156753723637",
+    "in_reply_to_user_id": "1307554135797948418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058159976691225016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukimuramoa おめでとう"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2058159956315234304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJANk18aYAAK5nK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2058159976691225016",
+        "created_at": "2026-05-23T12:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058163156753723637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1307554135797948418",
+              "start": 0,
+              "username": "yukimuramoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058163156753723637",
+        "in_reply_to_user_id": "1307554135797948418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058159976691225016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukimuramoa おめでとう"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058159956315234304"
+          ]
+        },
+        "author_id": "1307554135797948418",
+        "conversation_id": "2058159976691225016",
+        "created_at": "2026-05-23T12:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058159976691225016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOjneSzj9r",
+              "end": 71,
+              "expanded_url": "https://x.com/yukimuramoa/status/2058159976691225016/photo/1",
+              "media_key": "3_2058159956315234304",
+              "start": 48,
+              "url": "https://t.co/GOjneSzj9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058159976691225016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "TikTokフォロワー70万人！\nありがとうございます（ ;  ; ）\nこれからも頑張ります💪 https://t.co/GOjneSzj9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 173,
+          "like_count": 4027,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 2343
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-20T05:36:23.000Z",
+        "description": "心霊配信者💀Korectiveエリートライバー✨コレコレさんの企画にたまにいる人です😷超メンシプ会員😷ほしい物リスト→https://t.co/kzz1tfqGDr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 82,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1LPWP6S0WB5Q6?ref_=wl_share",
+                "start": 59,
+                "url": "https://t.co/kzz1tfqGDr"
+              }
+            ]
+          }
+        },
+        "id": "1307554135797948418",
+        "location": "日本 東京",
+        "name": "もあ様🥶😷超心霊配信者",
+        "pinned_tweet_id": "2004200603388699045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989505070426460162/jnawrRHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36311,
+          "following_count": 4773,
+          "like_count": 144435,
+          "listed_count": 41,
+          "media_count": 1603,
+          "tweet_count": 9592
+        },
+        "username": "yukimuramoa",
+        "verified": true
+      }
+    ]
+  }
+}

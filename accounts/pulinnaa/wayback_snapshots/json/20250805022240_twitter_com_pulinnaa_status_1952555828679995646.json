@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1952555828679995646",
+    "created_at": "2025-08-05T02:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T03:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952555828679995646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580880299042508800",
+          "start": 3,
+          "username": "Gfreedman9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952555828679995646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952402675405893780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gfreedman9: 别等被关进猪笼车，才发现自己一直在猪圈里生活……\n\n别以为今天你没被装进猪笼，就代表你被他们当作人。\n在他们的眼里，所有人都只是圈养在秩序笼子里的牲口——只是暂时还没轮到你罢了……\n\n8月4日，四川江油。\n一场校园霸凌的伤口还在流血，无数名市民聚…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952402669928169472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhT4k-XwAA0Iut.jpg",
+        "width": 945
+      },
+      {
+        "height": 1908,
+        "media_key": "3_1952402669886189570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhT4k0XMAIZQXu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 960,
+        "media_key": "3_1952402670729244678",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhT4n9XMAY3Lkb.jpg",
+        "width": 540
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1952402670175596546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhT4l5XMAIDXDe.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1952555828679995646",
+        "created_at": "2025-08-05T02:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952555828679995646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580880299042508800",
+              "start": 3,
+              "username": "Gfreedman9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952555828679995646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952402675405893780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gfreedman9: 别等被关进猪笼车，才发现自己一直在猪圈里生活……\n\n别以为今天你没被装进猪笼，就代表你被他们当作人。\n在他们的眼里，所有人都只是圈养在秩序笼子里的牲口——只是暂时还没轮到你罢了……\n\n8月4日，四川江油。\n一场校园霸凌的伤口还在流血，无数名市民聚…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952402669928169472",
+            "3_1952402669886189570",
+            "3_1952402670729244678",
+            "3_1952402670175596546"
+          ]
+        },
+        "author_id": "1580880299042508800",
+        "conversation_id": "1952402675405893780",
+        "created_at": "2025-08-04T16:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952402675405893780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0F5vPbiZB",
+              "end": 163,
+              "expanded_url": "https://x.com/Gfreedman9/status/1952402675405893780/photo/1",
+              "media_key": "3_1952402669928169472",
+              "start": 140,
+              "url": "https://t.co/n0F5vPbiZB"
+            },
+            {
+              "display_url": "pic.x.com/n0F5vPbiZB",
+              "end": 163,
+              "expanded_url": "https://x.com/Gfreedman9/status/1952402675405893780/photo/1",
+              "media_key": "3_1952402669886189570",
+              "start": 140,
+              "url": "https://t.co/n0F5vPbiZB"
+            },
+            {
+              "display_url": "pic.x.com/n0F5vPbiZB",
+              "end": 163,
+              "expanded_url": "https://x.com/Gfreedman9/status/1952402675405893780/photo/1",
+              "media_key": "3_1952402670729244678",
+              "start": 140,
+              "url": "https://t.co/n0F5vPbiZB"
+            },
+            {
+              "display_url": "pic.x.com/n0F5vPbiZB",
+              "end": 163,
+              "expanded_url": "https://x.com/Gfreedman9/status/1952402675405893780/photo/1",
+              "media_key": "3_1952402670175596546",
+              "start": 140,
+              "url": "https://t.co/n0F5vPbiZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952402675405893780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别等被关进猪笼车，才发现自己一直在猪圈里生活……\n\n别以为今天你没被装进猪笼，就代表你被他们当作人。\n在他们的眼里，所有人都只是圈养在秩序笼子里的牲口——只是暂时还没轮到你罢了……\n\n8月4日，四川江油。\n一场校园霸凌的伤口还在流血，无数名市民聚到市政府门口，为受害女孩讨公道；\n绵阳警方却暴力抓捕、用运猪车拉走了声援市民，网络炸开了锅：一群为受害者发声的人，竟被装进本该运牲畜的车里，这画面荒诞到让人作呕。\n\n更让人揪心的是，网传受害者的母亲是聋哑人。她没有喊出一句话的能力，只能给官员下跪“替我的孩子做主”。在这个需要喊破喉咙才能换来一点关注的社会，她的沉默，成了最尖锐的呐喊。\n\n霸凌只是表象，真正的病灶，是这个体系从未把普通人当作人。\n在体制的眼里，那不过是两只猪崽在互相殴斗，不值得关注和同情，更不值得去伸张什么正义；\n\n因为在他们的眼里本身就没有正义，心里都有霸凌者的心态；他们早就默许了这种谁的拳头硬谁有理的丛林法则社会；在一个不承认人人平等的制度里，霸凌早已不止是校园里的恶习，这和社会上的互相欺压，弱肉强食异曲同工；就连整个体制内也是谁的背景深、谁的后台硬，就可以任意践踏其他人；这种思想早已经根植于所有掌权者和执法者的内心，他们不是没有办法去纠正错误，去惩恶扬善，是他们根本分不清到底什么是真正的善恶；\n\n而当你试图追问真相，讨回公道，运猪车就成了对付你的工具。用猪车拉人，不是他们工作疏忽，只是他们不小心真实的流露出，你在他们心中猪狗不如的现实。\n\n如果那个女孩不是聋哑人的女儿，而是你自己的孩子，你会怎么办？\n\n今天是她，明天谁能保证不会是你。\n今天没装进猪笼，不等于你就被他们当人看……这些人，才是真正纵容霸凌的罪魁祸首。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 190356,
+          "like_count": 1189,
+          "quote_count": 11,
+          "reply_count": 88,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "别等被关进猪笼车，才发现自己一直在猪圈里生活……\n\n别以为今天你没被装进猪笼，就代表你被他们当作人。\n在他们的眼里，所有人都只是圈养在秩序笼子里的牲口——只是暂时还没轮到你罢了……\n\n8月4日，四川江油。\n一场校园霸凌的伤口还在流血，无数名市民聚到市政府门口，为受害女孩讨公道； https://t.co/n0F5vPbiZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1947238127078121746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 164,
+          "like_count": 3976,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 1552
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T11:17:10.000Z",
+        "description": "獨立思考，明辨是非，尊重人格，清晰人性；在光明處安逸，棄恥辱於暗夜。",
+        "id": "1580880299042508800",
+        "name": "乔志飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647131793257013248/cDdKb1ML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 674,
+          "like_count": 9158,
+          "listed_count": 11,
+          "media_count": 526,
+          "tweet_count": 5569
+        },
+        "username": "Gfreedman9",
+        "verified": true
+      }
+    ]
+  }
+}

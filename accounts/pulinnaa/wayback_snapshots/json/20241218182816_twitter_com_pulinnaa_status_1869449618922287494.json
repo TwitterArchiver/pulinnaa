@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1869449618922287494",
+    "created_at": "2024-12-18T18:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T19:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869449618922287494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/namisaka39/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/namisaka39/status/1869447207411495338",
+          "start": 14,
+          "url": "https://t.co/5ftGWIYZw5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869449618922287494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869447207411495338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "千万不要和她互fo她是坏人 https://t.co/5ftGWIYZw5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1869449618922287494",
+        "created_at": "2024-12-18T18:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T19:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869449618922287494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/namisaka39/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/namisaka39/status/1869447207411495338",
+              "start": 14,
+              "url": "https://t.co/5ftGWIYZw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869449618922287494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869447207411495338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千万不要和她互fo她是坏人 https://t.co/5ftGWIYZw5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869447205230440448"
+          ]
+        },
+        "author_id": "1869305632320548864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1869447207411495338",
+        "created_at": "2024-12-18T18:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T19:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869447207411495338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "東雪蓮"
+            },
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQ4emLRrLq",
+              "end": 37,
+              "expanded_url": "https://x.com/Namisaka39/status/1869447207411495338/photo/1",
+              "media_key": "3_1869447205230440448",
+              "start": 14,
+              "url": "https://t.co/hQ4emLRrLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869447207411495338",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#東雪蓮 #cosplay https://t.co/hQ4emLRrLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 171,
+          "like_count": 3725,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1092
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T08:56:32.000Z",
+        "description": "我喜欢可爱的小猫咪\n\n🚪100/268/398/648/1314",
+        "id": "1869305632320548864",
+        "name": "Namisaka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869305934469910528/MA02LfRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "Namisaka39",
+        "verified": false
+      }
+    ]
+  }
+}

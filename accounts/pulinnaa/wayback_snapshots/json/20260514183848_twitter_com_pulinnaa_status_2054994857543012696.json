@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054994850492411904",
+        "3_2054994850500739072"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054080790",
+          "name": "ハッピーシュガーライフ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2054994857543012696",
+    "created_at": "2026-05-14T18:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054994857543012696"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 3,
+          "tag": "happysugarlife"
+        },
+        {
+          "end": 31,
+          "start": 19,
+          "tag": "ハッピーシュガーライフ"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 44,
+          "start": 38,
+          "tag": "松坂さとう"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "神户しお"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Aq8DX9V2mW",
+          "end": 74,
+          "expanded_url": "https://x.com/pulinnaa/status/2054994857543012696/photo/1",
+          "media_key": "3_2054994850492411904",
+          "start": 51,
+          "url": "https://t.co/Aq8DX9V2mW"
+        },
+        {
+          "display_url": "pic.x.com/Aq8DX9V2mW",
+          "end": 74,
+          "expanded_url": "https://x.com/pulinnaa/status/2054994857543012696/photo/1",
+          "media_key": "3_2054994850500739072",
+          "start": 51,
+          "url": "https://t.co/Aq8DX9V2mW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054994857543012696",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍬🧂\n#happysugarlife #ハッピーシュガーライフ #コスプレ #松坂さとう #神户しお https://t.co/Aq8DX9V2mW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054994850492411904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITO7b7bcAADj6G.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054994850500739072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITO7b9agAAQuTW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054994850492411904",
+            "3_2054994850500739072"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2054994857543012696",
+        "created_at": "2026-05-14T18:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054994857543012696"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 3,
+              "tag": "happysugarlife"
+            },
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "ハッピーシュガーライフ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "松坂さとう"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "神户しお"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aq8DX9V2mW",
+              "end": 74,
+              "expanded_url": "https://x.com/pulinnaa/status/2054994857543012696/photo/1",
+              "media_key": "3_2054994850492411904",
+              "start": 51,
+              "url": "https://t.co/Aq8DX9V2mW"
+            },
+            {
+              "display_url": "pic.x.com/Aq8DX9V2mW",
+              "end": 74,
+              "expanded_url": "https://x.com/pulinnaa/status/2054994857543012696/photo/1",
+              "media_key": "3_2054994850500739072",
+              "start": 51,
+              "url": "https://t.co/Aq8DX9V2mW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054994857543012696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍬🧂\n#happysugarlife #ハッピーシュガーライフ #コスプレ #松坂さとう #神户しお https://t.co/Aq8DX9V2mW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "2054868011987951703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 169,
+          "like_count": 4008,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 2191
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

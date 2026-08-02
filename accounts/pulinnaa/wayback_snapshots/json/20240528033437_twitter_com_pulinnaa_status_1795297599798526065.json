@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1795294893268668457",
+    "created_at": "2024-05-28T03:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T04:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795297599798526065"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "りんちゃん",
+          "probability": 0.8871,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690636522985541633",
+          "start": 0,
+          "username": "ri_boooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795297599798526065",
+    "in_reply_to_user_id": "1690636522985541633",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795297245686104323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_boooo うれしい！りんちゃんありがとう(о´∀`о)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1795294893268668457",
+        "created_at": "2024-05-28T03:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T04:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795297599798526065"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "りんちゃん",
+              "probability": 0.8871,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690636522985541633",
+              "start": 0,
+              "username": "ri_boooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795297599798526065",
+        "in_reply_to_user_id": "1690636522985541633",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795297245686104323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_boooo うれしい！りんちゃんありがとう(о´∀`о)"
+      },
+      {
+        "attachments": {},
+        "author_id": "1690636522985541633",
+        "conversation_id": "1795294893268668457",
+        "created_at": "2024-05-28T03:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T04:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795297245686104323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795297245686104323",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795294893268668457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa かわいー！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 82,
+          "like_count": 1595,
+          "listed_count": 1,
+          "tweet_count": 216
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T08:09:04.000Z",
+        "description": "06´(17)\n推しぴくん➡︎👦🏻🥕                                                             ｴﾛ垢🙅🏻‍♂️/出会い厨🙅🏻‍♂️/リアル🙅🏻‍♂️",
+        "id": "1690636522985541633",
+        "location": "👶🏻🍼︎",
+        "name": "りん",
+        "pinned_tweet_id": "1794562220250321187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795296495966822400/0lH8hMd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 12,
+          "like_count": 129,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "ri_boooo",
+        "verified": false
+      }
+    ]
+  }
+}

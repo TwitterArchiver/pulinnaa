@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      }
+    ],
+    "conversation_id": "1920788527337308362",
+    "created_at": "2025-05-09T10:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T11:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920788527337308362"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "YouTube Music Weekend",
+          "probability": 0.4015,
+          "start": 20,
+          "type": "Product"
+        },
+        {
+          "end": 91,
+          "normalized_text": "Fujii Kaze Stadium Live “Feelin' Good",
+          "probability": 0.3514,
+          "start": 55,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "藤井風"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1111562353923940352",
+          "start": 3,
+          "username": "fujiikazestaff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920788527337308362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920786128107393124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @fujiikazestaff: YouTube Music Weekendに参加決定！\n\n#藤井風 はFujii Kaze Stadium Live “Feelin' Good” [day1] edit verを5.16(fri) 22:45〜プレミア公開いたします☀️…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1920785890990809088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgAl1IW4AA9S_V.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1920788527337308362",
+        "created_at": "2025-05-09T10:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920788527337308362"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "YouTube Music Weekend",
+              "probability": 0.4015,
+              "start": 20,
+              "type": "Product"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Fujii Kaze Stadium Live “Feelin' Good",
+              "probability": 0.3514,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "藤井風"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1111562353923940352",
+              "start": 3,
+              "username": "fujiikazestaff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920788527337308362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920786128107393124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @fujiikazestaff: YouTube Music Weekendに参加決定！\n\n#藤井風 はFujii Kaze Stadium Live “Feelin' Good” [day1] edit verを5.16(fri) 22:45〜プレミア公開いたします☀️…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920785890990809088"
+          ]
+        },
+        "author_id": "1111562353923940352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1920786128107393124",
+        "created_at": "2025-05-09T10:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920786128107393124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "藤井風"
+            },
+            {
+              "end": 179,
+              "start": 159,
+              "tag": "YouTubeMusicWeekend"
+            },
+            {
+              "end": 188,
+              "start": 180,
+              "tag": "MAJ2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 158,
+              "id": "111048816",
+              "start": 145,
+              "username": "YouTubeJapan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Directed by Kento YamadaTo celebrate the holding of \"MUSIC AWARDS JAPAN,\" a special edition of “YouTube MusicWeekend celebrating the MUSIC AWARDS JAPAN\" will...",
+              "display_url": "youtu.be/ZKoTcSTYqQM",
+              "end": 143,
+              "expanded_url": "https://youtu.be/ZKoTcSTYqQM",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1920782004599050241/LWe6uac6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1920782004599050241/LWe6uac6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 120,
+              "status": 200,
+              "title": "Fujii Kaze Stadium Live “Feelin' Good” [day1] edit - for MUSIC AWARDS JAPAN 2025",
+              "unwound_url": "https://www.youtube.com/watch?v=ZKoTcSTYqQM&feature=youtu.be",
+              "url": "https://t.co/A8h3IHK0un"
+            },
+            {
+              "display_url": "pic.x.com/AsFeyJpJrT",
+              "end": 212,
+              "expanded_url": "https://x.com/fujiikazestaff/status/1920786128107393124/photo/1",
+              "media_key": "3_1920785890990809088",
+              "start": 189,
+              "url": "https://t.co/AsFeyJpJrT"
+            },
+            {
+              "display_url": "x.com/YouTubeJapan/s…",
+              "end": 236,
+              "expanded_url": "https://twitter.com/YouTubeJapan/status/1920780787579822129",
+              "start": 213,
+              "url": "https://t.co/kzZ59mMufO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920786128107393124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 11569,
+          "like_count": 792,
+          "quote_count": 35,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920780787579822129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "YouTube Music Weekendに参加決定！\n\n#藤井風 はFujii Kaze Stadium Live “Feelin' Good” [day1] edit verを5.16(fri) 22:45〜プレミア公開いたします☀️\nhttps://t.co/A8h3IHK0un\n\n@YouTubeJapan\n#YouTubeMusicWeekend #MAJ2025 https://t.co/AsFeyJpJrT https://t.co/kzZ59mMufO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 164,
+          "like_count": 3906,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 1444
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:34:51.000Z",
+        "description": "藤井 風Staffです。 \"真っ白\" 🎧 https://t.co/FPNu690EvC\n最新情報は公式無料アプリへ！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Fujii-Kaze.lnk.to/purewhite",
+                "end": 44,
+                "expanded_url": "http://Fujii-Kaze.lnk.to/purewhite",
+                "start": 21,
+                "url": "https://t.co/FPNu690EvC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-rayon.com/fujiikaze/",
+                "end": 23,
+                "expanded_url": "http://c-rayon.com/fujiikaze/",
+                "start": 0,
+                "url": "https://t.co/MugEZcx4S9"
+              }
+            ]
+          }
+        },
+        "id": "1111562353923940352",
+        "name": "Fujii Kaze Staff",
+        "pinned_tweet_id": "1900200408880210272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894676285831491584/LMoo-wKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328240,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 1159,
+          "media_count": 487,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/MugEZcx4S9",
+        "username": "fujiikazestaff",
+        "verified": false
+      }
+    ]
+  }
+}

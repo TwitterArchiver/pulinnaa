@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057421142873501696"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2057421150217757122",
+    "created_at": "2026-05-21T11:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057421150217757122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AbuMG7UsJM",
+          "end": 34,
+          "expanded_url": "https://x.com/pulinnaa/status/2057421150217757122/photo/1",
+          "media_key": "3_2057421142873501696",
+          "start": 11,
+          "url": "https://t.co/AbuMG7UsJM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057421150217757122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界上最痴情的恋师癖 https://t.co/AbuMG7UsJM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2057421142873501696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1toPZacAA2H-F.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057421142873501696"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2057421150217757122",
+        "created_at": "2026-05-21T11:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057421150217757122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbuMG7UsJM",
+              "end": 34,
+              "expanded_url": "https://x.com/pulinnaa/status/2057421150217757122/photo/1",
+              "media_key": "3_2057421142873501696",
+              "start": 11,
+              "url": "https://t.co/AbuMG7UsJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057421150217757122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最痴情的恋师癖 https://t.co/AbuMG7UsJM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 170,
+          "like_count": 4023,
+          "listed_count": 2,
+          "media_count": 382,
+          "tweet_count": 2308
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

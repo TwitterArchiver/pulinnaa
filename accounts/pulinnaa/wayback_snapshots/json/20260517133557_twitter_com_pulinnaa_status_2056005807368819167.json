@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2056005057112658401",
+    "created_at": "2026-05-17T13:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056005807368819167"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056005807368819167",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056005057112658401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然味道是甜的但是我感觉好恶心好难吃。一想到里面有玉米含量我就心理作用导致更反胃🧟‍♀️🧟‍♀️🧟‍♀️剩下的非必要不会吃了哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2056005057112658401",
+        "created_at": "2026-05-17T13:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056005807368819167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056005807368819167",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056005057112658401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然味道是甜的但是我感觉好恶心好难吃。一想到里面有玉米含量我就心理作用导致更反胃🧟‍♀️🧟‍♀️🧟‍♀️剩下的非必要不会吃了哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2056005057112658401",
+        "created_at": "2026-05-17T13:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056005057112658401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pulinnaa/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/pulinnaa/status/2055468164599984339",
+              "start": 68,
+              "url": "https://t.co/BVrYv6eGxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056005057112658401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055468164599984339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cnm难吃死了6t干嚼了两三分钟吧在嘴里化成水之后和白水一起吞了反正味道好恶心但是比ymp好吧。我现在很纠结是继续吃这个还是加ymp🙄 https://t.co/BVrYv6eGxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 173,
+          "like_count": 4023,
+          "listed_count": 2,
+          "media_count": 371,
+          "tweet_count": 2239
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

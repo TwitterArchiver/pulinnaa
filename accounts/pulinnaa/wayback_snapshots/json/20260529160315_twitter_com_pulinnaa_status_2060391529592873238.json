@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060391449175490560"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2060391529592873238",
+    "created_at": "2026-05-29T16:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060391529592873238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsAS7tcBEo",
+          "end": 37,
+          "expanded_url": "https://x.com/pulinnaa/status/2060391529592873238/video/1",
+          "media_key": "13_2060391449175490560",
+          "start": 14,
+          "url": "https://t.co/tsAS7tcBEo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060391529592873238",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "shanghai最甜女拉拉 https://t.co/tsAS7tcBEo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12633,
+        "height": 720,
+        "media_key": "13_2060391449175490560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060391449175490560/img/tZ7rxkfp1lEt--SQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060391449175490560/vid/avc1/480x270/IFiYvx7N0Se0q8K8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060391449175490560/vid/avc1/640x360/6VccT5ifzmnzhBV9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060391449175490560/vid/avc1/1280x720/rM3AOSisoqx7dKvN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060391449175490560/pl/-a1tRVtbf0S8x6wn.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060391449175490560"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2060391529592873238",
+        "created_at": "2026-05-29T16:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060391529592873238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsAS7tcBEo",
+              "end": 37,
+              "expanded_url": "https://x.com/pulinnaa/status/2060391529592873238/video/1",
+              "media_key": "13_2060391449175490560",
+              "start": 14,
+              "url": "https://t.co/tsAS7tcBEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060391529592873238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "shanghai最甜女拉拉 https://t.co/tsAS7tcBEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 180,
+          "like_count": 4033,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 2451
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

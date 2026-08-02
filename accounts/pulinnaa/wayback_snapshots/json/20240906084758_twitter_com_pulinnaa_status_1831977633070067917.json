@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831941924061868032"
+      ],
+      "media_source_tweet_id": [
+        "1831941936414126494"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1831977633070067917",
+    "created_at": "2024-09-06T08:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T09:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831977633070067917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1722032505350651904",
+          "start": 3,
+          "username": "dUo_oUw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ye7bfevfdr",
+          "end": 38,
+          "expanded_url": "https://twitter.com/dUo_oUw/status/1831941936414126494/photo/1",
+          "media_key": "3_1831941924061868032",
+          "start": 15,
+          "url": "https://t.co/yE7BfEVfDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831977633070067917",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831941936414126494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dUo_oUw: ⑲ https://t.co/yE7BfEVfDr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_1831941924061868032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWxdeVDacAATkKJ.jpg",
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831941924061868032"
+          ],
+          "media_source_tweet_id": [
+            "1831941936414126494"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1831977633070067917",
+        "created_at": "2024-09-06T08:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T09:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831977633070067917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1722032505350651904",
+              "start": 3,
+              "username": "dUo_oUw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ye7bfevfdr",
+              "end": 38,
+              "expanded_url": "https://twitter.com/dUo_oUw/status/1831941936414126494/photo/1",
+              "media_key": "3_1831941924061868032",
+              "start": 15,
+              "url": "https://t.co/yE7BfEVfDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831977633070067917",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831941936414126494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dUo_oUw: ⑲ https://t.co/yE7BfEVfDr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831941924061868032"
+          ]
+        },
+        "author_id": "1722032505350651904",
+        "conversation_id": "1831941936414126494",
+        "created_at": "2024-09-06T06:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T07:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831941936414126494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ye7bfevfdr",
+              "end": 25,
+              "expanded_url": "https://twitter.com/dUo_oUw/status/1831941936414126494/photo/1",
+              "media_key": "3_1831941924061868032",
+              "start": 2,
+              "url": "https://t.co/yE7BfEVfDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831941936414126494",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 58017,
+          "like_count": 1272,
+          "quote_count": 42,
+          "reply_count": 1,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "⑲ https://t.co/yE7BfEVfDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 156,
+          "like_count": 3545,
+          "listed_count": 1,
+          "tweet_count": 870
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T23:25:45.000Z",
+        "description": "『3コマ漫画投稿します。時間帯は気まぐれ』初心者なので優しくしてください🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/auo_ouk?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/auo_ouk?igsh=MWxvcGtreHZvcHZ2ZA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/WlxuE9PIzx"
+              }
+            ]
+          }
+        },
+        "id": "1722032505350651904",
+        "location": "インスタ中心に活動しています⤵︎ ⤵︎♡",
+        "name": "みうめる",
+        "pinned_tweet_id": "1826881083276988914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812493429001113600/0p-txaJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5322,
+          "following_count": 23,
+          "like_count": 399,
+          "listed_count": 16,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/WlxuE9PIzx",
+        "username": "dUo_oUw",
+        "verified": false
+      }
+    ]
+  }
+}

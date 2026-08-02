@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1812430998917042209",
+    "created_at": "2024-07-14T10:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T11:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812433783376994552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224274235561926659",
+          "start": 0,
+          "username": "AmamizuRei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812433783376994552",
+    "in_reply_to_user_id": "1224274235561926659",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812433413275873391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamizuRei0 暗恋哥不在我没心情出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1812430998917042209",
+        "created_at": "2024-07-14T10:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T11:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812433783376994552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224274235561926659",
+              "start": 0,
+              "username": "AmamizuRei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812433783376994552",
+        "in_reply_to_user_id": "1224274235561926659",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812433413275873391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamizuRei0 暗恋哥不在我没心情出"
+      },
+      {
+        "attachments": {},
+        "author_id": "1224274235561926659",
+        "conversation_id": "1812430998917042209",
+        "created_at": "2024-07-14T10:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T11:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812433413275873391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812433413275873391",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812430998917042209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 这样还能出勤吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 150,
+          "like_count": 2877,
+          "listed_count": 1,
+          "tweet_count": 632
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T10:11:59.000Z",
+        "description": "实际上是一只经常会饿的野猪精 | 男的 | 没脑子的精神病",
+        "id": "1224274235561926659",
+        "location": "橘子树上",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1799291223657881758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720746628070744064/hDWjf5uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3416,
+          "following_count": 1277,
+          "like_count": 114937,
+          "listed_count": 9,
+          "tweet_count": 16704
+        },
+        "username": "AmamizuRei0",
+        "verified": false
+      }
+    ]
+  }
+}

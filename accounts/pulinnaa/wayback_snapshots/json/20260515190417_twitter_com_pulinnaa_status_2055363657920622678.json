@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2055363657920622678",
+    "created_at": "2026-05-15T19:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055363657920622678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/pulinnaa72722",
+          "end": 37,
+          "expanded_url": "https://ngl.link/pulinnaa72722",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2052821984065753088/arm4DYeW?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052821984065753088/arm4DYeW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "@pulinnaa: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/pulinnaa72722",
+          "url": "https://t.co/b7MFLEYT1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055363657920622678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上好～评论区先回复以前的 https://t.co/b7MFLEYT1C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2055363657920622678",
+        "created_at": "2026-05-15T19:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055363657920622678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/pulinnaa72722",
+              "end": 37,
+              "expanded_url": "https://ngl.link/pulinnaa72722",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2052821984065753088/arm4DYeW?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052821984065753088/arm4DYeW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "@pulinnaa: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/pulinnaa72722",
+              "url": "https://t.co/b7MFLEYT1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055363657920622678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好～评论区先回复以前的 https://t.co/b7MFLEYT1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "2054868011987951703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 171,
+          "like_count": 4012,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2205
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

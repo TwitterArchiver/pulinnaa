@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883016293970046976"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1883016300026544486",
+    "created_at": "2025-01-25T04:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T05:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883016300026544486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0WI48mHa1q",
+          "end": 23,
+          "expanded_url": "https://x.com/pulinnaa/status/1883016300026544486/photo/1",
+          "media_key": "3_1883016293970046976",
+          "start": 0,
+          "url": "https://t.co/0WI48mHa1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883016300026544486",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0WI48mHa1q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883016293970046976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiHRV7xbcAAv5O5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883016293970046976"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1883016300026544486",
+        "created_at": "2025-01-25T04:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883016300026544486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WI48mHa1q",
+              "end": 23,
+              "expanded_url": "https://x.com/pulinnaa/status/1883016300026544486/photo/1",
+              "media_key": "3_1883016293970046976",
+              "start": 0,
+              "url": "https://t.co/0WI48mHa1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883016300026544486",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0WI48mHa1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 168,
+          "like_count": 3769,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1221
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

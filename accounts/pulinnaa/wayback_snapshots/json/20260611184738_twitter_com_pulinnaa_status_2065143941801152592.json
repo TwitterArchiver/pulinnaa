@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2065015130203832780",
+    "created_at": "2026-06-11T18:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065143941801152592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059997747865108480",
+          "start": 0,
+          "username": "loggessw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065143941801152592",
+    "in_reply_to_user_id": "2059997747865108480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065119271504769512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loggessw ありがとう、めちゃうれしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2065015130203832780",
+        "created_at": "2026-06-11T18:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065143941801152592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059997747865108480",
+              "start": 0,
+              "username": "loggessw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065143941801152592",
+        "in_reply_to_user_id": "2059997747865108480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065119271504769512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loggessw ありがとう、めちゃうれしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059997747865108480",
+        "conversation_id": "2065015130203832780",
+        "created_at": "2026-06-11T17:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065119271504769512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065119271504769512",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065015130203832780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 中国人ですか?きっとできるね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 196,
+          "like_count": 4046,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 2625
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T14:00:59.000Z",
+        "description": "日本語も中国語も英語もできるね",
+        "id": "2059997747865108480",
+        "name": "雪 爱莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059998678958624768/wF2KOGwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "loggessw",
+        "verified": false
+      }
+    ]
+  }
+}

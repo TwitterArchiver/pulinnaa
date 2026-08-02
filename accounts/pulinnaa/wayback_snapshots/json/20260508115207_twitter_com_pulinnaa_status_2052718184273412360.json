@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052527863908429824",
+        "3_2052527863811932160"
+      ],
+      "media_source_tweet_id": [
+        "2052527875077906776",
+        "2052527875077906776"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2052718184273412360",
+    "created_at": "2026-05-08T11:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052718184273412360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999068389864865794",
+          "start": 3,
+          "username": "0voki33Me2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rowctLpcHN",
+          "end": 81,
+          "expanded_url": "https://x.com/0voki33Me2/status/2052527875077906776/photo/1",
+          "media_key": "3_2052527863908429824",
+          "start": 58,
+          "url": "https://t.co/rowctLpcHN"
+        },
+        {
+          "display_url": "pic.x.com/rowctLpcHN",
+          "end": 81,
+          "expanded_url": "https://x.com/0voki33Me2/status/2052527875077906776/photo/1",
+          "media_key": "3_2052527863811932160",
+          "start": 58,
+          "url": "https://t.co/rowctLpcHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052718184273412360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052527875077906776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0voki33Me2: 我是静，我被封了7天，尼玛露头就秒啊我才发，阔以帮我转转寻回互关吗5555谢谢你萌 https://t.co/rowctLpcHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052527863908429824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwLN6vacAA4UZ_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052527863811932160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwLN6YaAAA4PtD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052527863908429824",
+            "3_2052527863811932160"
+          ],
+          "media_source_tweet_id": [
+            "2052527875077906776",
+            "2052527875077906776"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2052718184273412360",
+        "created_at": "2026-05-08T11:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052718184273412360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999068389864865794",
+              "start": 3,
+              "username": "0voki33Me2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rowctLpcHN",
+              "end": 81,
+              "expanded_url": "https://x.com/0voki33Me2/status/2052527875077906776/photo/1",
+              "media_key": "3_2052527863908429824",
+              "start": 58,
+              "url": "https://t.co/rowctLpcHN"
+            },
+            {
+              "display_url": "pic.x.com/rowctLpcHN",
+              "end": 81,
+              "expanded_url": "https://x.com/0voki33Me2/status/2052527875077906776/photo/1",
+              "media_key": "3_2052527863811932160",
+              "start": 58,
+              "url": "https://t.co/rowctLpcHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052718184273412360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052527875077906776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0voki33Me2: 我是静，我被封了7天，尼玛露头就秒啊我才发，阔以帮我转转寻回互关吗5555谢谢你萌 https://t.co/rowctLpcHN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052527863908429824",
+            "3_2052527863811932160"
+          ]
+        },
+        "author_id": "1999068389864865794",
+        "conversation_id": "2052527875077906776",
+        "created_at": "2026-05-07T23:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052527875077906776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rowctLpcHN",
+              "end": 65,
+              "expanded_url": "https://x.com/0voki33Me2/status/2052527875077906776/photo/1",
+              "media_key": "3_2052527863908429824",
+              "start": 42,
+              "url": "https://t.co/rowctLpcHN"
+            },
+            {
+              "display_url": "pic.x.com/rowctLpcHN",
+              "end": 65,
+              "expanded_url": "https://x.com/0voki33Me2/status/2052527875077906776/photo/1",
+              "media_key": "3_2052527863811932160",
+              "start": 42,
+              "url": "https://t.co/rowctLpcHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052527875077906776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是静，我被封了7天，尼玛露头就秒啊我才发，阔以帮我转转寻回互关吗5555谢谢你萌 https://t.co/rowctLpcHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 159,
+          "like_count": 3963,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 2017
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:47:14.000Z",
+        "description": "@0voki33Me我在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "0voki33Me"
+              }
+            ]
+          }
+        },
+        "id": "1999068389864865794",
+        "name": "J11NG",
+        "pinned_tweet_id": "1999387919614873632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999341990119636996/dagPjNfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 62,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "0voki33Me2",
+        "verified": false
+      }
+    ]
+  }
+}

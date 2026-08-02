@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2065791617609404510",
+    "created_at": "2026-06-13T16:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065840740543193273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653666360604647424",
+          "start": 0,
+          "username": "congng1327122"
+        },
+        {
+          "end": 31,
+          "id": "1732763258325762048",
+          "start": 15,
+          "username": "AmeAsukaLangley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065840740543193273",
+    "in_reply_to_user_id": "1653666360604647424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065791617609404510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congng1327122 @AmeAsukaLangley 恭喜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2065791617609404510",
+        "created_at": "2026-06-13T16:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065840740543193273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653666360604647424",
+              "start": 0,
+              "username": "congng1327122"
+            },
+            {
+              "end": 31,
+              "id": "1732763258325762048",
+              "start": 15,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065840740543193273",
+        "in_reply_to_user_id": "1653666360604647424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065791617609404510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congng1327122 @AmeAsukaLangley 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653666360604647424",
+        "conversation_id": "2065791617609404510",
+        "created_at": "2026-06-13T13:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065791617609404510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065791617609404510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了感谢你们\n等我生日那天开！\n一等奖请你喝杯奶茶（可以折现15r）\n二等奖ym（一盒）（但是我不知道怎么寄）\n三等奖5.2r\n四等奖我给你画一个草头！\n\n仅粉参加 \n关注➕转发➕评论\n我用豆包统计一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 197,
+          "like_count": 4053,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 2654
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T07:42:51.000Z",
+        "description": "yukiso/愈｜我不怎么会回复 不过我很喜欢你们！感谢评论｜互fo 基本只回同类｜想了解我的请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ac22161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ac22161",
+                "start": 0,
+                "url": "https://t.co/eE4dYT7zX6"
+              }
+            ]
+          }
+        },
+        "id": "1653666360604647424",
+        "location": "距离你0.1km",
+        "name": "ゆきそ",
+        "pinned_tweet_id": "2063025850530820389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064073250296983554/LbWwtr94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 183,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/eE4dYT7zX6",
+        "username": "congng1327122",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 313,
+          "like_count": 21583,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

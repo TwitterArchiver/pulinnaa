@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2061323519338946738",
+    "created_at": "2026-06-01T05:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061323519338946738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446002090237513731",
+          "start": 3,
+          "username": "Misaka1042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061323519338946738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061003875839283555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misaka1042: 你知道吗，中国是全世界跨性别福利做的最好的国家，因为中国会无偿为40岁以上的跨性别提供生活援助。\n\n每当你在中国大陆的流媒体平台看到关于跨性别的内容时，点开评论区会发现类似这样的评论\n\n“她40岁以后的生活费我包了”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2061323519338946738",
+        "created_at": "2026-06-01T05:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061323519338946738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446002090237513731",
+              "start": 3,
+              "username": "Misaka1042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061323519338946738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061003875839283555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misaka1042: 你知道吗，中国是全世界跨性别福利做的最好的国家，因为中国会无偿为40岁以上的跨性别提供生活援助。\n\n每当你在中国大陆的流媒体平台看到关于跨性别的内容时，点开评论区会发现类似这样的评论\n\n“她40岁以后的生活费我包了”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446002090237513731",
+        "conversation_id": "2061003875839283555",
+        "created_at": "2026-05-31T08:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061003875839283555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061003875839283555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 58223,
+          "like_count": 578,
+          "quote_count": 4,
+          "reply_count": 50,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，中国是全世界跨性别福利做的最好的国家，因为中国会无偿为40岁以上的跨性别提供生活援助。\n\n每当你在中国大陆的流媒体平台看到关于跨性别的内容时，点开评论区会发现类似这样的评论\n\n“她40岁以后的生活费我包了”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 186,
+          "like_count": 4034,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 2495
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T06:39:11.000Z",
+        "description": "19yr/out-dated JK/🍥:2021/MTF🏳️‍⚧️/SRS:2025/ENFP-T/ADHD?",
+        "id": "1446002090237513731",
+        "name": "Misaka10042🍥",
+        "pinned_tweet_id": "1766128163976036475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900091749701394432/oq_27XDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4777,
+          "following_count": 1225,
+          "like_count": 2920,
+          "listed_count": 15,
+          "media_count": 299,
+          "tweet_count": 1714
+        },
+        "username": "Misaka1042",
+        "verified": true
+      }
+    ]
+  }
+}

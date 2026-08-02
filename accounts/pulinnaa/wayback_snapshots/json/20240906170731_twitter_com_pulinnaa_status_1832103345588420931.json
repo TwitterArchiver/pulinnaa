@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1832103345588420931",
+    "created_at": "2024-09-06T17:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T18:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832103345588420931"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "od"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "右美沙芬"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783874726236172288",
+          "start": 3,
+          "username": "sansan2486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832103345588420931",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831010634429014129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sansan2486: 出出点右美沙芬～\n2400r35盒打包带走\n单卖80一盒，另外接非绿圆觉，坐标南京\n求帮扩\n点赞转发参与抽奖，50转发开\n一等奖：188\n二等奖：88\n三等奖：奶茶～可折现\n求求转发么么么么么 #od #右美沙芬 #爸爸活 https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832103345588420931].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832103345588420931",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832103345588420931"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831010618486464513"
+          ]
+        },
+        "author_id": "1783874726236172288",
+        "conversation_id": "1831010634429014129",
+        "created_at": "2024-09-03T16:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T17:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831010634429014129"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "od"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxrvfyrwe8",
+              "end": 135,
+              "expanded_url": "https://twitter.com/sansan2486/status/1831010634429014129/photo/1",
+              "media_key": "3_1831010618486464513",
+              "start": 112,
+              "url": "https://t.co/RxrVFYRWE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831010634429014129",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4497,
+          "like_count": 46,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "出出点右美沙芬～\n2400r35盒打包带走\n单卖80一盒，另外接非绿圆觉，坐标南京\n求帮扩\n点赞转发参与抽奖，50转发开\n一等奖：188\n二等奖：88\n三等奖：奶茶～可折现\n求求转发么么么么么 #od #右美沙芬 #爸爸活 https://t.co/RxrVFYRWE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 157,
+          "like_count": 3553,
+          "listed_count": 1,
+          "tweet_count": 873
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T15:04:34.000Z",
+        "description": "缺💰，od，出售包邮原味，接线下，过🚪52永久陪聊，线下价格过门咨询哦（♡´∀`♡）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sanfufu",
+                "end": 23,
+                "expanded_url": "https://t.me/Sanfufu",
+                "start": 0,
+                "url": "https://t.co/oQVhxV5Dfj"
+              }
+            ]
+          }
+        },
+        "id": "1783874726236172288",
+        "name": "Sanfufu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820388636640083969/sGZ7FcJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 24,
+          "like_count": 159,
+          "listed_count": 0,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/oQVhxV5Dfj",
+        "username": "sansan2486",
+        "verified": false
+      }
+    ]
+  }
+}

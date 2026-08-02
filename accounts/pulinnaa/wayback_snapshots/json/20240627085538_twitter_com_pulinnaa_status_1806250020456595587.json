@@ -1,0 +1,306 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806250020456595587",
+    "created_at": "2024-06-27T08:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T09:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806250020456595587"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 78,
+          "tag": "精神疾患持ちのための自己紹介カード"
+        },
+        {
+          "end": 114,
+          "start": 99,
+          "tag": "精神疾患を持つ人と繋がりたい"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "精神疾患"
+        },
+        {
+          "end": 136,
+          "start": 125,
+          "tag": "闘病垢自己紹介カード"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1805557901773488132",
+          "start": 3,
+          "username": "meruno_orz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806250020456595587",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806245353404121310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meruno_orz: 3つの疾患を持ってる高校鬱で辞めた17歳♀です‼️😸\n病み垢さん闘病垢さんフォロバ100です！！\nよろしくぬぇ‼️👊🏻😸\n #精神疾患持ちのための自己紹介カード \n #精神疾患を持つ人と繋がりたい \n #精神疾患 \n #闘病垢自己紹介カード\n #…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806250020456595587",
+        "created_at": "2024-06-27T08:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T09:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806250020456595587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 78,
+              "tag": "精神疾患持ちのための自己紹介カード"
+            },
+            {
+              "end": 114,
+              "start": 99,
+              "tag": "精神疾患を持つ人と繋がりたい"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "精神疾患"
+            },
+            {
+              "end": 136,
+              "start": 125,
+              "tag": "闘病垢自己紹介カード"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1805557901773488132",
+              "start": 3,
+              "username": "meruno_orz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806250020456595587",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806245353404121310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meruno_orz: 3つの疾患を持ってる高校鬱で辞めた17歳♀です‼️😸\n病み垢さん闘病垢さんフォロバ100です！！\nよろしくぬぇ‼️👊🏻😸\n #精神疾患持ちのための自己紹介カード \n #精神疾患を持つ人と繋がりたい \n #精神疾患 \n #闘病垢自己紹介カード\n #…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806245346907181056",
+            "3_1806245351172837376"
+          ]
+        },
+        "author_id": "1805557901773488132",
+        "conversation_id": "1806245353404121310",
+        "created_at": "2024-06-27T08:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T09:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806245353404121310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 62,
+              "tag": "精神疾患持ちのための自己紹介カード"
+            },
+            {
+              "end": 98,
+              "start": 83,
+              "tag": "精神疾患を持つ人と繋がりたい"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "精神疾患"
+            },
+            {
+              "end": 120,
+              "start": 109,
+              "tag": "闘病垢自己紹介カード"
+            },
+            {
+              "end": 128,
+              "start": 122,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "病み垢"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "うつ病"
+            },
+            {
+              "end": 151,
+              "start": 145,
+              "tag": "強迫性障害"
+            },
+            {
+              "end": 159,
+              "start": 154,
+              "tag": "不安障害"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2d4QczCehp",
+              "end": 183,
+              "expanded_url": "https://twitter.com/meruno_orz/status/1806245353404121310/photo/1",
+              "media_key": "3_1806245346907181056",
+              "start": 160,
+              "url": "https://t.co/2d4QczCehp"
+            },
+            {
+              "display_url": "pic.twitter.com/2d4QczCehp",
+              "end": 183,
+              "expanded_url": "https://twitter.com/meruno_orz/status/1806245353404121310/photo/1",
+              "media_key": "3_1806245351172837376",
+              "start": 160,
+              "url": "https://t.co/2d4QczCehp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806245353404121310",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "3つの疾患を持ってる高校鬱で辞めた17歳♀です‼️😸\n病み垢さん闘病垢さんフォロバ100です！！\nよろしくぬぇ‼️👊🏻😸\n #精神疾患持ちのための自己紹介カード \n #精神疾患を持つ人と繋がりたい \n #精神疾患 \n #闘病垢自己紹介カード\n #病み垢女子 \n #病み垢 \n #うつ病 \n #強迫性障害 \n #不安障害 https://t.co/2d4QczCehp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 135,
+          "like_count": 2291,
+          "listed_count": 1,
+          "tweet_count": 583
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T11:05:37.000Z",
+        "description": "07/♀/病み垢/OD/通話❌/片思い1日/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/21MEODXVM6RN7?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/hWCHjp84gT"
+              }
+            ]
+          }
+        },
+        "id": "1805557901773488132",
+        "location": "欲しリス→",
+        "name": "めるの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805558900906967040/0uQyRN45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 24,
+          "like_count": 559,
+          "listed_count": 1,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/hWCHjp84gT",
+        "username": "meruno_orz",
+        "verified": false
+      }
+    ]
+  }
+}

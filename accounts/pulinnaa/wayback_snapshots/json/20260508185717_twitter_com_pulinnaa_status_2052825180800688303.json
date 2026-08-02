@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052825113524142080"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2052825180800688303",
+    "created_at": "2026-05-08T18:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052825180800688303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xoYtVDquIx",
+          "end": 31,
+          "expanded_url": "https://x.com/pulinnaa/status/2052825180800688303/video/1",
+          "media_key": "13_2052825113524142080",
+          "start": 8,
+          "url": "https://t.co/xoYtVDquIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052825180800688303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我逃课了被发现 https://t.co/xoYtVDquIx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13466,
+        "height": 1280,
+        "media_key": "13_2052825113524142080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052825113524142080/img/bGGqLCfESGkAyT__.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052825113524142080/vid/avc1/320x568/C_qIunr4ndIfz0ak.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052825113524142080/vid/avc1/480x852/1h2y06xFL8cPj2jz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052825113524142080/vid/avc1/720x1280/8TO0SdbWHudVSeqN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052825113524142080/pl/1Gmxnyr_dBxum5dP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052825113524142080"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2052825180800688303",
+        "created_at": "2026-05-08T18:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052825180800688303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoYtVDquIx",
+              "end": 31,
+              "expanded_url": "https://x.com/pulinnaa/status/2052825180800688303/video/1",
+              "media_key": "13_2052825113524142080",
+              "start": 8,
+              "url": "https://t.co/xoYtVDquIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052825180800688303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我逃课了被发现 https://t.co/xoYtVDquIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 154,
+          "like_count": 3962,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 2042
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

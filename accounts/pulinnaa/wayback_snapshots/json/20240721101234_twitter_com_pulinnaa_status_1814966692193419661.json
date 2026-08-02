@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1814887453414858866",
+    "created_at": "2024-07-21T10:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T11:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814966692193419661"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "らんちゃん",
+          "probability": 0.8354,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783433602015105024",
+          "start": 0,
+          "username": "uVEmvPdg1N81148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814966692193419661",
+    "in_reply_to_user_id": "1783433602015105024",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814950814764667081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uVEmvPdg1N81148 らんちゃんありがと‼︎うれしいㅠㅠ🫶🏻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1814950814764667081].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1814950814764667081",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1814950814764667081"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1814887453414858866",
+        "created_at": "2024-07-21T10:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T11:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814966692193419661"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "らんちゃん",
+              "probability": 0.8354,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783433602015105024",
+              "start": 0,
+              "username": "uVEmvPdg1N81148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814966692193419661",
+        "in_reply_to_user_id": "1783433602015105024",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814950814764667081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uVEmvPdg1N81148 らんちゃんありがと‼︎うれしいㅠㅠ🫶🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 150,
+          "like_count": 3048,
+          "listed_count": 0,
+          "tweet_count": 672
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:51:46.000Z",
+        "description": "愛方→@si2_____o_ 🗝→@uuFKHFMlp627981",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "si2_____o_"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "uuFKHFMlp627981"
+              }
+            ]
+          }
+        },
+        "id": "1783433602015105024",
+        "location": "好きにさせてよ",
+        "name": "🎀",
+        "pinned_tweet_id": "1804120975543537745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811160951087042560/t8W6PkUn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 70,
+          "like_count": 5484,
+          "listed_count": 5,
+          "tweet_count": 1166
+        },
+        "username": "uVEmvPdg1N81148",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2021802162301616333",
+    "created_at": "2026-02-12T04:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T05:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021802162301616333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612365673006788609",
+          "start": 3,
+          "username": "aszer530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021802162301616333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 217
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020885488056381734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aszer530: 不是，你听我解释，我真没想杀你全家，我就是想杀你妈，然后连锁采集忘关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2021802162301616333",
+        "created_at": "2026-02-12T04:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021802162301616333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612365673006788609",
+              "start": 3,
+              "username": "aszer530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021802162301616333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020885488056381734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aszer530: 不是，你听我解释，我真没想杀你全家，我就是想杀你妈，然后连锁采集忘关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612365673006788609",
+        "conversation_id": "2020885488056381734",
+        "created_at": "2026-02-09T15:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020885488056381734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020885488056381734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 80493,
+          "like_count": 1862,
+          "quote_count": 10,
+          "reply_count": 43,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "不是，你听我解释，我真没想杀你全家，我就是想杀你妈，然后连锁采集忘关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 144,
+          "like_count": 3901,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1696
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T08:29:00.000Z",
+        "description": "ESFJ \n正经煮啵 不搞抽象",
+        "id": "1612365673006788609",
+        "location": "十万八千里",
+        "name": "面条馅柿子",
+        "pinned_tweet_id": "1956380600107245854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004405082553745408/PiiUFTkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 235,
+          "like_count": 36626,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 8480
+        },
+        "username": "aszer530",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1796968168680001909",
+    "created_at": "2024-06-01T18:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T19:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796968571337347543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771241496953647104",
+          "start": 0,
+          "username": "WaterSleeeep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796968571337347543",
+    "in_reply_to_user_id": "1771241496953647104",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796968168680001909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaterSleeeep 宝宝来上海我们一起玩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1796968168680001909",
+        "created_at": "2024-06-01T18:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T19:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796968571337347543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771241496953647104",
+              "start": 0,
+              "username": "WaterSleeeep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796968571337347543",
+        "in_reply_to_user_id": "1771241496953647104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796968168680001909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaterSleeeep 宝宝来上海我们一起玩！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1771241496953647104",
+        "conversation_id": "1796968168680001909",
+        "created_at": "2024-06-01T18:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T19:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796968168680001909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796968168680001909",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该去哪\n我为数不多的朋友们好像都不太欢迎我去她们的城市\n我不知道我应该去哪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 113,
+          "like_count": 1814,
+          "listed_count": 1,
+          "tweet_count": 301
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T18:24:36.000Z",
+        "description": "一个乌的黑团团 高高哩 哑哑哩",
+        "id": "1771241496953647104",
+        "location": "不自由，毋宁死",
+        "name": "冬鹂",
+        "pinned_tweet_id": "1796939759316873346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796967159362637824/ekaO_R6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 279,
+          "like_count": 3473,
+          "listed_count": 1,
+          "tweet_count": 2045
+        },
+        "username": "WaterSleeeep",
+        "verified": false
+      }
+    ]
+  }
+}

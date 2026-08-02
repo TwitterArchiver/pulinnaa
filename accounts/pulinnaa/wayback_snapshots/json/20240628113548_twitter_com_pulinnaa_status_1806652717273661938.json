@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806614964444254320",
+    "created_at": "2024-06-28T11:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T12:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806652717273661938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723396647512850432",
+          "start": 0,
+          "username": "Nobuyasuyoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806652717273661938",
+    "in_reply_to_user_id": "1723396647512850432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806614964444254320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nobuyasuyoki 老公我转你贴他好像都不显示啊啊啊啊啊啊，就是你转帖那里的数字没变一直是0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806614964444254320",
+        "created_at": "2024-06-28T11:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T12:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806652717273661938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723396647512850432",
+              "start": 0,
+              "username": "Nobuyasuyoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806652717273661938",
+        "in_reply_to_user_id": "1723396647512850432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806614964444254320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nobuyasuyoki 老公我转你贴他好像都不显示啊啊啊啊啊啊，就是你转帖那里的数字没变一直是0"
+      },
+      {
+        "attachments": {},
+        "author_id": "1723396647512850432",
+        "conversation_id": "1806614964444254320",
+        "created_at": "2024-06-28T09:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T10:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806614964444254320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806614964444254320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发抽奖就是想看看能不能不被限流了，结果涨了这么多粉没一个人转我帖，妈的我奖都抽给僵尸粉是吧，我受够了限你妈逼的流，我他妈重生得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 145,
+          "like_count": 2385,
+          "listed_count": 1,
+          "tweet_count": 612
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T17:46:09.000Z",
+        "description": "地雷系女子｜戒割中｜小女孩互fo请直关，没回可以小窗｜门纯绿50半绿100非绿200｜恋爱中",
+        "id": "1723396647512850432",
+        "location": "堆成山的蕾服里",
+        "name": "🍓电解草莓血🩸",
+        "pinned_tweet_id": "1806348270765298070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790469579388358656/a_if0DgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 335,
+          "like_count": 738,
+          "listed_count": 1,
+          "tweet_count": 1124
+        },
+        "username": "Nobuyasuyoki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1806705589181153280"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1806705646030721036",
+    "created_at": "2024-06-28T15:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T16:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806705646030721036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/9MBMjg9ywm",
+          "end": 29,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1806705646030721036/photo/1",
+          "media_key": "3_1806705589181153280",
+          "start": 6,
+          "url": "https://t.co/9MBMjg9ywm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806705646030721036",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "氏ね^_^ https://t.co/9MBMjg9ywm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1806705646030721036].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1806705646030721036",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1806705646030721036"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1806705589181153280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRK1KTjbAAAO3Z8.jpg",
+        "width": 1151
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 146,
+          "like_count": 2433,
+          "listed_count": 1,
+          "tweet_count": 590
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

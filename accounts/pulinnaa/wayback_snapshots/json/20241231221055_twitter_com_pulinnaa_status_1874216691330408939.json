@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1874216665770291200"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1874216691330408939",
+    "created_at": "2024-12-31T22:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T23:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874216691330408939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yjC0eAsNDM",
+          "end": 29,
+          "expanded_url": "https://x.com/pulinnaa/status/1874216691330408939/video/1",
+          "media_key": "7_1874216665770291200",
+          "start": 6,
+          "url": "https://t.co/yjC0eAsNDM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874216691330408939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "タバコ依存 https://t.co/yjC0eAsNDM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1024,
+        "media_key": "7_1874216665770291200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1874216665770291200/pu/img/E7-rsFdF5P74jhfW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874216665770291200/pu/vid/avc1/320x568/6XRDX8D4-bIT0Pq5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874216665770291200/pu/vid/avc1/480x852/-5EBlbMJEqe5AoBQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874216665770291200/pu/vid/avc1/576x1024/fydAhpHjAoKgG0D7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1874216665770291200/pu/pl/_AO8Ei60brLmWXr3.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874216665770291200"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1874216691330408939",
+        "created_at": "2024-12-31T22:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T23:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874216691330408939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yjC0eAsNDM",
+              "end": 29,
+              "expanded_url": "https://x.com/pulinnaa/status/1874216691330408939/video/1",
+              "media_key": "7_1874216665770291200",
+              "start": 6,
+              "url": "https://t.co/yjC0eAsNDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874216691330408939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "タバコ依存 https://t.co/yjC0eAsNDM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 177,
+          "like_count": 3760,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1138
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

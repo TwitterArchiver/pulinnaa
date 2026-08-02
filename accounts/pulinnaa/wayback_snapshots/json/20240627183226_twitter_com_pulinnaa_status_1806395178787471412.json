@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806335530881491369",
+    "created_at": "2024-06-27T18:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T19:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806395178787471412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1777706181135568896",
+          "start": 0,
+          "username": "shaojunren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806395178787471412",
+    "in_reply_to_user_id": "1777706181135568896",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806393009338192178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaojunren 先他妈给你妈上贡再狗叫，傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806335530881491369",
+        "created_at": "2024-06-27T18:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T19:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806395178787471412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1777706181135568896",
+              "start": 0,
+              "username": "shaojunren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806395178787471412",
+        "in_reply_to_user_id": "1777706181135568896",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806393009338192178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaojunren 先他妈给你妈上贡再狗叫，傻逼"
+      },
+      {
+        "attachments": {},
+        "author_id": "1777706181135568896",
+        "conversation_id": "1806335530881491369",
+        "created_at": "2024-06-27T18:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T19:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806393009338192178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806393009338192178",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806335530881491369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 想吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 140,
+          "like_count": 2358,
+          "listed_count": 1,
+          "tweet_count": 602
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T14:33:07.000Z",
+        "description": "",
+        "id": "1777706181135568896",
+        "name": "快来品尝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780514982683447297/mjdGAdVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 253,
+          "like_count": 148,
+          "listed_count": 0,
+          "tweet_count": 79
+        },
+        "username": "shaojunren",
+        "verified": false
+      }
+    ]
+  }
+}

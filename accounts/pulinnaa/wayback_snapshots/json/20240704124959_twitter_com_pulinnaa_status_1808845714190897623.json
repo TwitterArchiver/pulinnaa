@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1808588296504946947",
+    "created_at": "2024-07-04T12:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T13:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808845714190897623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1214894491968012288",
+          "start": 0,
+          "username": "l666lll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808845714190897623",
+    "in_reply_to_user_id": "1214894491968012288",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808837379320599029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l666lll ありがとう‼︎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1808588296504946947",
+        "created_at": "2024-07-04T12:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T13:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808845714190897623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1214894491968012288",
+              "start": 0,
+              "username": "l666lll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808845714190897623",
+        "in_reply_to_user_id": "1214894491968012288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808837379320599029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l666lll ありがとう‼︎"
+      },
+      {
+        "attachments": {},
+        "author_id": "1214894491968012288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "1808588296504946947",
+        "created_at": "2024-07-04T12:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T13:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808837379320599029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808837379320599029",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808715373950480727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 今日はなさきが、ファッションに注目が集まり、新しく買ったアイテムがあるなら、今日使い始めると良く、買い物運も良い、とても素晴らしい1日になります様に！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 150,
+          "like_count": 2590,
+          "listed_count": 1,
+          "tweet_count": 588
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T13:00:36.000Z",
+        "description": "ﾁｯ(･д･)！！ \nスーパーネガティブ人間ダミアンです！ \nよろしくお願いします♭\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▹◃┄▸◂┄▹◃┄▸◂\n病み垢┊︎男性┊︎61歳┊︎元A.Sax吹き┊︎車椅子ユーザー(脳梗塞で右半身麻痺)┊︎器質性パーソナリティー障害(希死念慮、自殺企図、情動不安定、被刺激の亢進、不眠)",
+        "id": "1214894491968012288",
+        "name": "ダミアン",
+        "pinned_tweet_id": "1393530150306816000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465763074670215168/zE0n6AXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 3525,
+          "like_count": 510446,
+          "listed_count": 88,
+          "tweet_count": 391259
+        },
+        "username": "l666lll",
+        "verified": true
+      }
+    ]
+  }
+}

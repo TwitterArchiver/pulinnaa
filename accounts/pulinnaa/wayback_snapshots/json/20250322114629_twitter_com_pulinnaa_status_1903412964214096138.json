@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903412956639227904"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "1903412964214096138",
+    "created_at": "2025-03-22T11:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T12:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903412964214096138"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 26,
+          "start": 12,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "いいね返し"
+        },
+        {
+          "end": 47,
+          "start": 34,
+          "tag": "美男美女さんと繋がりたい"
+        },
+        {
+          "end": 59,
+          "start": 48,
+          "tag": "美男美女と繋がりたい"
+        },
+        {
+          "end": 73,
+          "start": 60,
+          "tag": "いいねした人全員フォロー"
+        },
+        {
+          "end": 80,
+          "start": 74,
+          "tag": "彼氏募集中"
+        },
+        {
+          "end": 96,
+          "start": 81,
+          "tag": "いいねした人全員フォローする"
+        },
+        {
+          "end": 114,
+          "start": 97,
+          "tag": "1mmでもいいなと思ったらいいね"
+        },
+        {
+          "end": 127,
+          "start": 115,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "友達募集"
+        },
+        {
+          "end": 141,
+          "start": 134,
+          "tag": "自発ください"
+        },
+        {
+          "end": 146,
+          "start": 142,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 154,
+          "start": 147,
+          "tag": "いいねでDM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jti32NzeOM",
+          "end": 178,
+          "expanded_url": "https://x.com/pulinnaa/status/1903412964214096138/photo/1",
+          "media_key": "3_1903412956639227904",
+          "start": 155,
+          "url": "https://t.co/Jti32NzeOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903412964214096138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "タトゥー\n#自撮り界隈 #自撮り界隈さんと繋がりたい #いいね返し #美男美女さんと繋がりたい #美男美女と繋がりたい #いいねした人全員フォロー #彼氏募集中 #いいねした人全員フォローする #1mmでもいいなと思ったらいいね #病み垢さんと繋がりたい #友達募集 #自発ください #雰囲気 #いいねでDM https://t.co/Jti32NzeOM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_1903412956639227904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmpH_9VbcAAlO5v.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903412956639227904"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1903412964214096138",
+        "created_at": "2025-03-22T11:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903412964214096138"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 26,
+              "start": 12,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "いいね返し"
+            },
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 59,
+              "start": 48,
+              "tag": "美男美女と繋がりたい"
+            },
+            {
+              "end": 73,
+              "start": 60,
+              "tag": "いいねした人全員フォロー"
+            },
+            {
+              "end": 80,
+              "start": 74,
+              "tag": "彼氏募集中"
+            },
+            {
+              "end": 96,
+              "start": 81,
+              "tag": "いいねした人全員フォローする"
+            },
+            {
+              "end": 114,
+              "start": 97,
+              "tag": "1mmでもいいなと思ったらいいね"
+            },
+            {
+              "end": 127,
+              "start": 115,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "友達募集"
+            },
+            {
+              "end": 141,
+              "start": 134,
+              "tag": "自発ください"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 154,
+              "start": 147,
+              "tag": "いいねでDM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jti32NzeOM",
+              "end": 178,
+              "expanded_url": "https://x.com/pulinnaa/status/1903412964214096138/photo/1",
+              "media_key": "3_1903412956639227904",
+              "start": 155,
+              "url": "https://t.co/Jti32NzeOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903412964214096138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "タトゥー\n#自撮り界隈 #自撮り界隈さんと繋がりたい #いいね返し #美男美女さんと繋がりたい #美男美女と繋がりたい #いいねした人全員フォロー #彼氏募集中 #いいねした人全員フォローする #1mmでもいいなと思ったらいいね #病み垢さんと繋がりたい #友達募集 #自発ください #雰囲気 #いいねでDM https://t.co/Jti32NzeOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 165,
+          "like_count": 3909,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 1371
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

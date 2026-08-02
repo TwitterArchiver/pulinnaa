@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2040485938506379331",
+    "created_at": "2026-04-04T17:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040485938506379331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fuhgrc8964/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fuhgrc8964/status/2040313537877438710",
+          "start": 5,
+          "url": "https://t.co/XhFPuZmDJo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040485938506379331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040313537877438710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是真的 https://t.co/XhFPuZmDJo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2040485938506379331",
+        "created_at": "2026-04-04T17:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040485938506379331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fuhgrc8964/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fuhgrc8964/status/2040313537877438710",
+              "start": 5,
+              "url": "https://t.co/XhFPuZmDJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040485938506379331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040313537877438710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真的 https://t.co/XhFPuZmDJo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967962536000753666",
+        "conversation_id": "2040313537877438710",
+        "created_at": "2026-04-04T06:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040313537877438710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040313537877438710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3480,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "愈美片裡面含有大量的爽，普瑞裡面含有大量的爽，一起吃就會超級無敵爽。——死藤水大魔王。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 149,
+          "like_count": 3946,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 1752
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T14:43:37.000Z",
+        "description": "死藤水、庸醫／ftm04012010／躁鬱症／可能是odtwt,shtwt／碎碎念／嗯我不知道寫甚麼／",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cultsphil",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cultsphil",
+                "start": 0,
+                "url": "https://t.co/jBwePHUXbF"
+              }
+            ]
+          }
+        },
+        "id": "1967962536000753666",
+        "location": "迷拉星",
+        "name": "小人民大革命耶",
+        "pinned_tweet_id": "2035007617672888499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034998306628354048/41zkLwrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 96,
+          "like_count": 62437,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2697
+        },
+        "url": "https://t.co/jBwePHUXbF",
+        "username": "FUHGRC8964",
+        "verified": false
+      }
+    ]
+  }
+}

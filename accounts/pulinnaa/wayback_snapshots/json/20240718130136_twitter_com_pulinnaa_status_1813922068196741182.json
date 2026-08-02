@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1813921283001946546",
+    "created_at": "2024-07-18T13:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T14:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813922068196741182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224274235561926659",
+          "start": 0,
+          "username": "AmamizuRei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813922068196741182",
+    "in_reply_to_user_id": "1224274235561926659",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813921283001946546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamizuRei0 不出意外我也快谈现实的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1813921283001946546",
+        "created_at": "2024-07-18T13:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T14:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813922068196741182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224274235561926659",
+              "start": 0,
+              "username": "AmamizuRei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813922068196741182",
+        "in_reply_to_user_id": "1224274235561926659",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813921283001946546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamizuRei0 不出意外我也快谈现实的了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1224274235561926659",
+        "conversation_id": "1813921283001946546",
+        "created_at": "2024-07-18T12:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T13:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813921283001946546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813921283001946546",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看着那几个亲友好酸，好想抓个人来太恋爱(๑°⌓°๑)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 152,
+          "like_count": 2963,
+          "listed_count": 0,
+          "tweet_count": 671
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T10:11:59.000Z",
+        "description": "实际上是一只经常会饿的野猪精 | 男的 | 没脑子的精神病",
+        "id": "1224274235561926659",
+        "location": "橘子树上",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1799291223657881758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720746628070744064/hDWjf5uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3431,
+          "following_count": 1278,
+          "like_count": 115455,
+          "listed_count": 9,
+          "tweet_count": 16756
+        },
+        "username": "AmamizuRei0",
+        "verified": false
+      }
+    ]
+  }
+}

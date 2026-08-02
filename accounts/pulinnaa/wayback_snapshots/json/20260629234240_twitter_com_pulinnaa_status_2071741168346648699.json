@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2071701329668661318",
+    "created_at": "2026-06-29T23:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T00:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071741168346648699"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071741168346648699",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071701329668661318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你马勒戈壁是我妈骗我的根本不是警察"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2071701329668661318",
+        "created_at": "2026-06-29T23:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071741168346648699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071741168346648699",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071701329668661318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你马勒戈壁是我妈骗我的根本不是警察"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2071701329668661318",
+        "created_at": "2026-06-29T21:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T22:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071701329668661318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071701329668661318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❗️❗️因为警察连续两年一直在监视我的微信。我担心推特也在被监视。故打算换号。是私密账号。我会发在评论区。通过申请后我会回关。会查主页❕❕❕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 200,
+          "like_count": 4049,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 2725
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

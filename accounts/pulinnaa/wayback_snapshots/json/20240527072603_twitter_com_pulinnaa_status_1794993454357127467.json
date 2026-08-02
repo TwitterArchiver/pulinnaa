@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1794993418319564800"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1794993454357127467",
+    "created_at": "2024-05-27T07:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T08:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794993454357127467"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "自撮り"
+        },
+        {
+          "end": 18,
+          "start": 5,
+          "tag": "美男美女さんが繋がりたい"
+        },
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "いいね返し"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/glUpwPLdOO",
+          "end": 49,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1794993454357127467/video/1",
+          "media_key": "7_1794993418319564800",
+          "start": 26,
+          "url": "https://t.co/glUpwPLdOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794993454357127467",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り #美男美女さんが繋がりたい #いいね返し https://t.co/glUpwPLdOO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 1280,
+        "media_key": "7_1794993418319564800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1794993418319564800/pu/img/DSy0DeM8hRCWRsRa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794993418319564800/pu/vid/avc1/320x568/VZdVmkwUd2NSV0BL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794993418319564800/pu/vid/avc1/480x852/eS25XM6p27bHulbV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794993418319564800/pu/vid/avc1/720x1280/oFZTDSh33K0s_ggq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1794993418319564800/pu/pl/omP_5a51GZfVmryE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1794993418319564800"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1794993454357127467",
+        "created_at": "2024-05-27T07:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T08:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794993454357127467"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "自撮り"
+            },
+            {
+              "end": 18,
+              "start": 5,
+              "tag": "美男美女さんが繋がりたい"
+            },
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "いいね返し"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/glUpwPLdOO",
+              "end": 49,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1794993454357127467/video/1",
+              "media_key": "7_1794993418319564800",
+              "start": 26,
+              "url": "https://t.co/glUpwPLdOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794993454357127467",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り #美男美女さんが繋がりたい #いいね返し https://t.co/glUpwPLdOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 75,
+          "like_count": 1546,
+          "listed_count": 1,
+          "tweet_count": 208
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

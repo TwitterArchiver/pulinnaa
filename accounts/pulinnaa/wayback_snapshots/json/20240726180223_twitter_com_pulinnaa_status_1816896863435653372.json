@@ -1,0 +1,159 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1816896850454327296"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1816896863435653372",
+    "created_at": "2024-07-26T18:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T19:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816896863435653372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ZUBURss30n",
+          "end": 37,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1816896863435653372/video/1",
+          "media_key": "7_1816896850454327296",
+          "start": 14,
+          "url": "https://t.co/ZUBURss30n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816896863435653372",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完了完了。hnsk发神经了 https://t.co/ZUBURss30n"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4715,
+        "height": 720,
+        "media_key": "7_1816896850454327296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1816896850454327296/pu/img/uAwfHedrIaZya272.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816896850454327296/pu/vid/avc1/480x270/IjH1Y1EL8ShzWAc1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816896850454327296/pu/vid/avc1/640x360/KbLM_sr6xHzLRWOi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816896850454327296/pu/vid/avc1/1280x720/zeWRMqeu8i7Nq2iE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1816896850454327296/pu/pl/yjekYtWSTBSIzM08.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1816896850454327296"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1816896863435653372",
+        "created_at": "2024-07-26T18:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T19:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816896863435653372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZUBURss30n",
+              "end": 37,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1816896863435653372/video/1",
+              "media_key": "7_1816896850454327296",
+              "start": 14,
+              "url": "https://t.co/ZUBURss30n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816896863435653372",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了完了。hnsk发神经了 https://t.co/ZUBURss30n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 155,
+          "like_count": 3217,
+          "listed_count": 0,
+          "tweet_count": 710
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

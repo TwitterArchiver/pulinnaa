@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991532503358930944"
+      ],
+      "media_source_tweet_id": [
+        "1991532509340004451"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1991712164479135816",
+    "created_at": "2025-11-21T03:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T04:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991712164479135816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1695026363118551040",
+          "start": 3,
+          "username": "yyunana1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MqYAsGafZp",
+          "end": 72,
+          "expanded_url": "https://x.com/yyunana1234/status/1991532509340004451/photo/1",
+          "media_key": "3_1991532503358930944",
+          "start": 49,
+          "url": "https://t.co/MqYAsGafZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991712164479135816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991532509340004451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyunana1234: 𑁥౿ ⊹ ‧₊˚ ♡ ˳ ゆな ♡ ˖°.𖥔 ݁ ˖ ‧ ୨୧ https://t.co/MqYAsGafZp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991712164479135816].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991712164479135816",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991712164479135816"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1459,
+        "media_key": "3_1991532503358930944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6NYQp1agAA1qAw.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991532503358930944"
+          ]
+        },
+        "author_id": "1695026363118551040",
+        "conversation_id": "1991532509340004451",
+        "created_at": "2025-11-20T15:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T16:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991532509340004451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MqYAsGafZp",
+              "end": 55,
+              "expanded_url": "https://x.com/yyunana1234/status/1991532509340004451/photo/1",
+              "media_key": "3_1991532503358930944",
+              "start": 32,
+              "url": "https://t.co/MqYAsGafZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991532509340004451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "𑁥౿ ⊹ ‧₊˚ ♡ ˳ ゆな ♡ ˖°.𖥔 ݁ ˖ ‧ ୨୧ https://t.co/MqYAsGafZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk ♡@dyhj4431",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "dyhj4431"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977746501620412416/zeerqfLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 144,
+          "like_count": 3964,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1615
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T10:52:41.000Z",
+        "description": "貪嗔痴。三毒至怨。 *不線下沒有再搞門檻什麼的 沒在什麼照片影片訂製也沒賣原味 不約拍互惠等等 這個號是用來發癲的 *",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yyunana1234",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yyunana1234",
+                "start": 0,
+                "url": "https://t.co/ps4KSar5AY"
+              }
+            ]
+          }
+        },
+        "id": "1695026363118551040",
+        "location": "虛",
+        "name": "ゆな",
+        "pinned_tweet_id": "1991532509340004451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018042223980544/UNI-zw6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 278,
+          "like_count": 2564,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/ps4KSar5AY",
+        "username": "yyunana1234",
+        "verified": false
+      }
+    ]
+  }
+}

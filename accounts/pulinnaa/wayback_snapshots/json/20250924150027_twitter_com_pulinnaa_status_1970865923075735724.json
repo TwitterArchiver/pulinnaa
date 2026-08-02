@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970865906151755776",
+        "3_1970865906160128001",
+        "3_1970865906147643392",
+        "3_1970865906130866176"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1970865923075735724",
+    "created_at": "2025-09-24T15:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970865923075735724"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "春野さん",
+          "probability": 0.8668,
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 64,
+          "normalized_text": "上海",
+          "probability": 0.8647,
+          "start": 63,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 97,
+          "tag": "xupxq_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9cBnHpteM4",
+          "end": 128,
+          "expanded_url": "https://x.com/pulinnaa/status/1970865923075735724/photo/1",
+          "media_key": "3_1970865906151755776",
+          "start": 105,
+          "url": "https://t.co/9cBnHpteM4"
+        },
+        {
+          "display_url": "pic.x.com/9cBnHpteM4",
+          "end": 128,
+          "expanded_url": "https://x.com/pulinnaa/status/1970865923075735724/photo/1",
+          "media_key": "3_1970865906160128001",
+          "start": 105,
+          "url": "https://t.co/9cBnHpteM4"
+        },
+        {
+          "display_url": "pic.x.com/9cBnHpteM4",
+          "end": 128,
+          "expanded_url": "https://x.com/pulinnaa/status/1970865923075735724/photo/1",
+          "media_key": "3_1970865906147643392",
+          "start": 105,
+          "url": "https://t.co/9cBnHpteM4"
+        },
+        {
+          "display_url": "pic.x.com/9cBnHpteM4",
+          "end": 128,
+          "expanded_url": "https://x.com/pulinnaa/status/1970865923075735724/photo/1",
+          "media_key": "3_1970865906130866176",
+          "start": 105,
+          "url": "https://t.co/9cBnHpteM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970865923075735724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "春野さんお疲れ様！\nめっちゃ楽しい夜、ありがとうございます！すごくかっこよくて可愛いです、大好きだよ🫶🏻 約束して必ずまた上海に来ますよ、またお会いするのが楽しみです！！！今夜は一番かっこいい！#xupxq_ https://t.co/9cBnHpteM4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1970865906151755776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nsGXwakAATk6r.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970865906160128001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nsGXyaUAEklCh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970865906147643392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nsGXvb0AAgaM3.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970865906130866176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nsGXrb0AAHBdb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970865906151755776",
+            "3_1970865906160128001",
+            "3_1970865906147643392",
+            "3_1970865906130866176"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1970865923075735724",
+        "created_at": "2025-09-24T15:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970865923075735724"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "春野さん",
+              "probability": 0.8668,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 64,
+              "normalized_text": "上海",
+              "probability": 0.8647,
+              "start": 63,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 97,
+              "tag": "xupxq_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9cBnHpteM4",
+              "end": 128,
+              "expanded_url": "https://x.com/pulinnaa/status/1970865923075735724/photo/1",
+              "media_key": "3_1970865906151755776",
+              "start": 105,
+              "url": "https://t.co/9cBnHpteM4"
+            },
+            {
+              "display_url": "pic.x.com/9cBnHpteM4",
+              "end": 128,
+              "expanded_url": "https://x.com/pulinnaa/status/1970865923075735724/photo/1",
+              "media_key": "3_1970865906160128001",
+              "start": 105,
+              "url": "https://t.co/9cBnHpteM4"
+            },
+            {
+              "display_url": "pic.x.com/9cBnHpteM4",
+              "end": 128,
+              "expanded_url": "https://x.com/pulinnaa/status/1970865923075735724/photo/1",
+              "media_key": "3_1970865906147643392",
+              "start": 105,
+              "url": "https://t.co/9cBnHpteM4"
+            },
+            {
+              "display_url": "pic.x.com/9cBnHpteM4",
+              "end": 128,
+              "expanded_url": "https://x.com/pulinnaa/status/1970865923075735724/photo/1",
+              "media_key": "3_1970865906130866176",
+              "start": 105,
+              "url": "https://t.co/9cBnHpteM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970865923075735724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春野さんお疲れ様！\nめっちゃ楽しい夜、ありがとうございます！すごくかっこよくて可愛いです、大好きだよ🫶🏻 約束して必ずまた上海に来ますよ、またお会いするのが楽しみです！！！今夜は一番かっこいい！#xupxq_ https://t.co/9cBnHpteM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 156,
+          "like_count": 3988,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1568
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

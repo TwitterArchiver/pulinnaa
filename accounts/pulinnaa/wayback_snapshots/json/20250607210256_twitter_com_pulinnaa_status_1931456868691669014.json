@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1931438188729655405",
+    "created_at": "2025-06-07T21:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T22:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931456868691669014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1214894491968012288",
+          "start": 0,
+          "username": "l666lll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931456868691669014",
+    "in_reply_to_user_id": "1214894491968012288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931454158890254702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l666lll ありがと〜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1931438188729655405",
+        "created_at": "2025-06-07T21:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T22:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931456868691669014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1214894491968012288",
+              "start": 0,
+              "username": "l666lll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931456868691669014",
+        "in_reply_to_user_id": "1214894491968012288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931454158890254702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l666lll ありがと〜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1214894491968012288",
+        "conversation_id": "1931438188729655405",
+        "created_at": "2025-06-07T20:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T21:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931454158890254702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931454158890254702",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931452588723146849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 今日はなさきが、普段なら｢慎重に、慎重に｣と考えている事にも、思い切って行動を起こせそうな、とても素敵な1日になります様に！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 169,
+          "like_count": 4040,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 1489
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T13:00:36.000Z",
+        "description": "ﾁｯ(･д･)！！ \nスーパーネガティブ人間ダミアンです！ \nよろしくお願いします♭\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▹◃┄▸◂┄▹◃┄▸◂\n病み垢┊︎男性┊︎62歳┊︎元A.Sax吹き┊︎車椅子ユーザー(脳梗塞で右半身麻痺)┊︎器質性パーソナリティー障害(希死念慮、自殺企図、情動不安定、被刺激の亢進、不眠)",
+        "id": "1214894491968012288",
+        "name": "ダミアン",
+        "pinned_tweet_id": "1393530150306816000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465763074670215168/zE0n6AXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 1,
+          "like_count": 20,
+          "listed_count": 65,
+          "media_count": 2141,
+          "tweet_count": 436096
+        },
+        "username": "l666lll",
+        "verified": true
+      }
+    ]
+  }
+}

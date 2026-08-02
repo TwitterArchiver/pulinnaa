@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076903472738480128"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2076903483119398986",
+    "created_at": "2026-07-14T05:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076903483119398986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BWELm7eQPw",
+          "end": 73,
+          "expanded_url": "https://x.com/pulinnaa/status/2076903483119398986/photo/1",
+          "media_key": "3_2076903472738480128",
+          "start": 50,
+          "url": "https://t.co/BWELm7eQPw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076903483119398986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想了好几天要不要发但是我还是感觉这个人太脑残了我一定要发出来。说话跟吃弹药了一样给我一枪崩傻了😳 https://t.co/BWELm7eQPw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2076903472738480128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKktF1aMAAdm83.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076903472738480128"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2076903483119398986",
+        "created_at": "2026-07-14T05:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076903483119398986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWELm7eQPw",
+              "end": 73,
+              "expanded_url": "https://x.com/pulinnaa/status/2076903483119398986/photo/1",
+              "media_key": "3_2076903472738480128",
+              "start": 50,
+              "url": "https://t.co/BWELm7eQPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076903483119398986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想了好几天要不要发但是我还是感觉这个人太脑残了我一定要发出来。说话跟吃弹药了一样给我一枪崩傻了😳 https://t.co/BWELm7eQPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 204,
+          "like_count": 4056,
+          "listed_count": 2,
+          "media_count": 443,
+          "tweet_count": 2804
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

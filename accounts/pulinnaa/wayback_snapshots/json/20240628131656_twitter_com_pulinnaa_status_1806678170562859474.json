@@ -1,0 +1,268 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806673589900624219",
+    "created_at": "2024-06-28T13:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T14:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806678170562859474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573318416303525888",
+          "start": 0,
+          "username": "pan_chan_0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806678170562859474",
+    "in_reply_to_user_id": "1573318416303525888",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806673589900624219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pan_chan_0831 かわいい！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806673589900624219",
+        "created_at": "2024-06-28T13:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T14:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806678170562859474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573318416303525888",
+              "start": 0,
+              "username": "pan_chan_0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806678170562859474",
+        "in_reply_to_user_id": "1573318416303525888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806673589900624219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pan_chan_0831 かわいい！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806673585366564864"
+          ]
+        },
+        "author_id": "1573318416303525888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "1806673589900624219",
+        "created_at": "2024-06-28T12:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T13:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806673589900624219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ewQcpu5UJH",
+              "end": 39,
+              "expanded_url": "https://twitter.com/pan_chan_0831/status/1806673589900624219/photo/1",
+              "media_key": "3_1806673585366564864",
+              "start": 16,
+              "url": "https://t.co/ewQcpu5UJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806673589900624219",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🆕ネイル大人可愛いすぎる🤍✨️ https://t.co/ewQcpu5UJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 146,
+          "like_count": 2401,
+          "listed_count": 1,
+          "tweet_count": 617
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T14:28:44.000Z",
+        "description": "メタモンとお酒がすきで苦いものが苦手🤍",
+        "id": "1573318416303525888",
+        "location": "イースト菌",
+        "name": "🍞 主 食 用 ぱ ん 🍞",
+        "pinned_tweet_id": "1806210403644444889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759090153963040768/tKLAvQ8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 401,
+          "like_count": 13984,
+          "listed_count": 3,
+          "tweet_count": 649
+        },
+        "username": "pan_chan_0831",
+        "verified": false
+      }
+    ]
+  }
+}

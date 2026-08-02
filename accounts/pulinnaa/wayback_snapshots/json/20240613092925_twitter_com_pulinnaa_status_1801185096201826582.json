@@ -1,0 +1,259 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1800735874269016142",
+    "created_at": "2024-06-13T09:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T10:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801185096201826582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425733924085403648",
+          "start": 0,
+          "username": "xihugenshuo"
+        },
+        {
+          "end": 24,
+          "id": "711560851707207682",
+          "start": 13,
+          "username": "darkyolly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801185096201826582",
+    "in_reply_to_user_id": "1425733924085403648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800933156427571391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihugenshuo @darkyolly1 你真的能娶到老婆吗🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1800735874269016142",
+        "created_at": "2024-06-13T09:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T10:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801185096201826582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425733924085403648",
+              "start": 0,
+              "username": "xihugenshuo"
+            },
+            {
+              "end": 24,
+              "id": "711560851707207682",
+              "start": 13,
+              "username": "darkyolly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801185096201826582",
+        "in_reply_to_user_id": "1425733924085403648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800933156427571391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihugenshuo @darkyolly1 你真的能娶到老婆吗🤣"
+      },
+      {
+        "attachments": {},
+        "author_id": "1425733924085403648",
+        "conversation_id": "1800735874269016142",
+        "created_at": "2024-06-12T16:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T17:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800933156427571391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "711560851707207682",
+              "start": 0,
+              "username": "darkyolly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800933156427571391",
+        "in_reply_to_user_id": "711560851707207682",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800912815550877719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darkyolly1 难道没有老婆吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 124,
+          "like_count": 1854,
+          "listed_count": 1,
+          "tweet_count": 501
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T08:20:44.000Z",
+        "description": "代管北美各县",
+        "id": "1425733924085403648",
+        "name": "岭南经略安抚使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698744186487357440/8k4HKbcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 113,
+          "listed_count": 0,
+          "tweet_count": 152
+        },
+        "username": "xihugenshuo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-20T14:31:42.000Z",
+        "description": "日本程序员，保守右，从INTJ到INTP，日本考大学院凉凉中。 欢迎想来日本工作的IT人私信求内推。 無料帮人介绍怎么来日本。 TG：@YYYolly TG群https://t.co/0guSAZ82vl个人频道 https://t.co/d9K4ce0xMC 加密货币：https://t.co/XPMZanK5cZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "YYYolly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+njDfTCbFzKxkZ…",
+                "end": 102,
+                "expanded_url": "http://t.me/+njDfTCbFzKxkZDE9",
+                "start": 79,
+                "url": "https://t.co/0guSAZ82vl"
+              },
+              {
+                "display_url": "t.me/aboutYolly",
+                "end": 130,
+                "expanded_url": "http://t.me/aboutYolly",
+                "start": 107,
+                "url": "https://t.co/d9K4ce0xMC"
+              },
+              {
+                "display_url": "okx.com/join/13626110",
+                "end": 159,
+                "expanded_url": "http://okx.com/join/13626110",
+                "start": 136,
+                "url": "https://t.co/XPMZanK5cZ"
+              }
+            ]
+          }
+        },
+        "id": "711560851707207682",
+        "location": "Toshima-ku, Tokyo",
+        "name": "Yolly",
+        "pinned_tweet_id": "1622313716959297543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622871835917586434/ak3PXRCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 976,
+          "like_count": 91820,
+          "listed_count": 17,
+          "tweet_count": 16353
+        },
+        "username": "darkyolly1",
+        "verified": false
+      }
+    ]
+  }
+}

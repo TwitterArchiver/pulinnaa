@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1797591918660169816",
+    "created_at": "2024-06-03T11:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T12:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797592151188291594"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1797592151188291594",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797591918660169816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我确实很贱啊但是那又怎样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1797591918660169816",
+        "created_at": "2024-06-03T11:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T12:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797592151188291594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797592151188291594",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797591918660169816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我确实很贱啊但是那又怎样"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1797591918660169816",
+        "created_at": "2024-06-03T11:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T12:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797591918660169816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797591918660169816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要不真去当小三？反正我在中国那女的也没本事过来弄我。再看吧看那家伙还有没有脸来找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 115,
+          "like_count": 1545,
+          "listed_count": 1,
+          "tweet_count": 324
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2058240013398401212",
+    "created_at": "2026-05-23T17:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058240013398401212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1094453901783293952",
+          "start": 3,
+          "username": "_cookie_bing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058240013398401212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057789627139015086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_cookie_bing: 我嘴里能有几句实话啊😂😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2058240013398401212",
+        "created_at": "2026-05-23T17:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058240013398401212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1094453901783293952",
+              "start": 3,
+              "username": "_cookie_bing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058240013398401212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057789627139015086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_cookie_bing: 我嘴里能有几句实话啊😂😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094453901783293952",
+        "conversation_id": "2057789627139015086",
+        "created_at": "2026-05-22T11:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057789627139015086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057789627139015086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我嘴里能有几句实话啊😂😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 172,
+          "like_count": 4029,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2355
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T04:31:58.000Z",
+        "description": "或许我早就死在了看向月亮的那个夜",
+        "id": "1094453901783293952",
+        "name": "cookie",
+        "pinned_tweet_id": "1964510651747094775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721603552047661056/ZB2TEFoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 341,
+          "like_count": 4927,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 4078
+        },
+        "username": "_cookie_bing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1828482318018986402",
+    "created_at": "2024-08-27T17:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T18:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828482318018986402"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1828482318018986402",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总感觉时间越久他们学校的新生喜欢他的就会越来越多。司马仔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1828482318018986402",
+        "created_at": "2024-08-27T17:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T18:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828482318018986402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828482318018986402",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总感觉时间越久他们学校的新生喜欢他的就会越来越多。司马仔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 155,
+          "like_count": 3492,
+          "listed_count": 1,
+          "tweet_count": 831
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

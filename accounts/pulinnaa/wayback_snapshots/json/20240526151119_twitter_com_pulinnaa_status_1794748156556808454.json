@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1794747562744049810",
+    "created_at": "2024-05-26T15:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T16:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794748156556808454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1778439324360724480",
+          "start": 0,
+          "username": "_luv0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794748156556808454",
+    "in_reply_to_user_id": "1778439324360724480",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794747562744049810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_luv0214 おやすみー"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1794747562744049810",
+        "created_at": "2024-05-26T15:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T16:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794748156556808454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1778439324360724480",
+              "start": 0,
+              "username": "_luv0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794748156556808454",
+        "in_reply_to_user_id": "1778439324360724480",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794747562744049810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_luv0214 おやすみー"
+      },
+      {
+        "attachments": {},
+        "author_id": "1778439324360724480",
+        "conversation_id": "1794747562744049810",
+        "created_at": "2024-05-26T15:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T16:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794747562744049810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794747562744049810",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみなさい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 75,
+          "like_count": 1533,
+          "listed_count": 1,
+          "tweet_count": 203
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T15:07:39.000Z",
+        "description": "♡@p__lirx ┊︎避難垢→@00llxrq ┊︎片思い2日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 1,
+                "username": "p__lirx"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "00llxrq"
+              }
+            ]
+          }
+        },
+        "id": "1778439324360724480",
+        "location": "ひな",
+        "name": "ゆゆあい",
+        "pinned_tweet_id": "1794691805872869764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782361633106575361/tXwtT9lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 271,
+          "like_count": 6358,
+          "listed_count": 13,
+          "tweet_count": 1221
+        },
+        "username": "_luv0214",
+        "verified": false
+      }
+    ]
+  }
+}

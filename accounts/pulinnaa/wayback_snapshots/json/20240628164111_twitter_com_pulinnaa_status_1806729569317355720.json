@@ -1,0 +1,256 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806729569317355720",
+    "created_at": "2024-06-28T16:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T17:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806729569317355720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1805230537944203264",
+          "start": 3,
+          "username": "akai_nondemoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806729569317355720",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805249923832803405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akai_nondemoii: 宝宝们好！可以我小a 喜欢搞点地雷系什么的…有隐属，和我玩的好会告知！\n\n坐标上海，女宝可互fo可扩列\n⚠️门：88/128/188（介绍请看图）\n请多多支持呀。线下只接几单，攒到就不接啦(o^^o)\n*直接发隐私照拉黑，不过门前最多回3…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806729569317355720",
+        "created_at": "2024-06-28T16:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T17:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806729569317355720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1805230537944203264",
+              "start": 3,
+              "username": "akai_nondemoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806729569317355720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805249923832803405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akai_nondemoii: 宝宝们好！可以我小a 喜欢搞点地雷系什么的…有隐属，和我玩的好会告知！\n\n坐标上海，女宝可互fo可扩列\n⚠️门：88/128/188（介绍请看图）\n请多多支持呀。线下只接几单，攒到就不接啦(o^^o)\n*直接发隐私照拉黑，不过门前最多回3…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805249910851416064",
+            "3_1805249910863994880",
+            "3_1805249910859796480",
+            "3_1805249910859776000"
+          ]
+        },
+        "author_id": "1805230537944203264",
+        "conversation_id": "1805249923832803405",
+        "created_at": "2024-06-24T14:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T15:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805249923832803405"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "上海"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "纯绿"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "半绿"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "租借女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KOZni2OTu3",
+              "end": 179,
+              "expanded_url": "https://twitter.com/akai_nondemoii/status/1805249923832803405/photo/1",
+              "media_key": "3_1805249910851416064",
+              "start": 156,
+              "url": "https://t.co/KOZni2OTu3"
+            },
+            {
+              "display_url": "pic.twitter.com/KOZni2OTu3",
+              "end": 179,
+              "expanded_url": "https://twitter.com/akai_nondemoii/status/1805249923832803405/photo/1",
+              "media_key": "3_1805249910863994880",
+              "start": 156,
+              "url": "https://t.co/KOZni2OTu3"
+            },
+            {
+              "display_url": "pic.twitter.com/KOZni2OTu3",
+              "end": 179,
+              "expanded_url": "https://twitter.com/akai_nondemoii/status/1805249923832803405/photo/1",
+              "media_key": "3_1805249910859796480",
+              "start": 156,
+              "url": "https://t.co/KOZni2OTu3"
+            },
+            {
+              "display_url": "pic.twitter.com/KOZni2OTu3",
+              "end": 179,
+              "expanded_url": "https://twitter.com/akai_nondemoii/status/1805249923832803405/photo/1",
+              "media_key": "3_1805249910859776000",
+              "start": 156,
+              "url": "https://t.co/KOZni2OTu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805249923832803405",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1619,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们好！可以我小a 喜欢搞点地雷系什么的…有隐属，和我玩的好会告知！\n\n坐标上海，女宝可互fo可扩列\n⚠️门：88/128/188（介绍请看图）\n请多多支持呀。线下只接几单，攒到就不接啦(o^^o)\n*直接发隐私照拉黑，不过门前最多回3条私信\n#爸爸活 #妈妈活 #上海 #纯绿 #半绿 #门槛哥 #租借女友 https://t.co/KOZni2OTu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 147,
+          "like_count": 2437,
+          "listed_count": 1,
+          "tweet_count": 603
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T13:24:45.000Z",
+        "description": "08 160cm/43kg 风格为地雷系 女宝请互fo🙇‍♀️💕叫我akai就好！",
+        "id": "1805230537944203264",
+        "name": "akai（重生版",
+        "pinned_tweet_id": "1805249923832803405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805230683402670080/DjA6S2-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 37,
+          "like_count": 12,
+          "listed_count": 0,
+          "tweet_count": 12
+        },
+        "username": "akai_nondemoii",
+        "verified": false
+      }
+    ]
+  }
+}

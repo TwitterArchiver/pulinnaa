@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2052799194788929537",
+    "created_at": "2026-05-08T17:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052799194788929537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044441545685020672",
+          "start": 3,
+          "username": "Jierms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052799194788929537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052454734653735054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jierms: 把不爱舔笔的男人都杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2052799194788929537",
+        "created_at": "2026-05-08T17:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052799194788929537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044441545685020672",
+              "start": 3,
+              "username": "Jierms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052799194788929537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052454734653735054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jierms: 把不爱舔笔的男人都杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044441545685020672",
+        "conversation_id": "2052454734653735054",
+        "created_at": "2026-05-07T18:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052454734653735054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052454734653735054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8305,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "把不爱舔笔的男人都杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 160,
+          "like_count": 3963,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 2030
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T15:44:22.000Z",
+        "description": "🚪188",
+        "id": "2044441545685020672",
+        "name": "Jierms",
+        "pinned_tweet_id": "2044455573295665298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051003524394479616/H2gOpMpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 41,
+          "like_count": 182,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 151
+        },
+        "username": "Jierms",
+        "verified": false
+      }
+    ]
+  }
+}

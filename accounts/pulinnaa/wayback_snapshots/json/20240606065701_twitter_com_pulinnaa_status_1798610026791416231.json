@@ -1,0 +1,95 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1798610026791416231",
+    "created_at": "2024-06-06T06:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T07:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798610026791416231"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798610026791416231",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只想一个人发发推文哎。回消息好麻烦。尤其是对面发了个表情包。根本不知道怎么回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1798610026791416231",
+        "created_at": "2024-06-06T06:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T07:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798610026791416231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798610026791416231",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想一个人发发推文哎。回消息好麻烦。尤其是对面发了个表情包。根本不知道怎么回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 122,
+          "like_count": 1665,
+          "listed_count": 1,
+          "tweet_count": 343
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

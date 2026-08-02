@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1797346265597890973",
+    "created_at": "2024-06-02T19:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T20:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797346265597890973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurumi_nekotya…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kurumi_nekotyan/status/1796912814550044897",
+          "start": 4,
+          "url": "https://t.co/sngW909DBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797346265597890973",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796912814550044897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢… https://t.co/sngW909DBp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1797346265597890973",
+        "created_at": "2024-06-02T19:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T20:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797346265597890973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurumi_nekotya…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kurumi_nekotyan/status/1796912814550044897",
+              "start": 4,
+              "url": "https://t.co/sngW909DBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797346265597890973",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796912814550044897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢… https://t.co/sngW909DBp"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796912812893282304"
+          ]
+        },
+        "author_id": "1148492725659897856",
+        "conversation_id": "1796912814550044897",
+        "created_at": "2024-06-01T14:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T15:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796912814550044897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hmcHSbjj7g",
+              "end": 23,
+              "expanded_url": "https://twitter.com/kurumi_nekotyan/status/1796912814550044897/photo/1",
+              "media_key": "3_1796912812893282304",
+              "start": 0,
+              "url": "https://t.co/hmcHSbjj7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796912814550044897",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21288,
+          "impression_count": 2064323,
+          "like_count": 73156,
+          "quote_count": 87,
+          "reply_count": 88,
+          "retweet_count": 3747
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hmcHSbjj7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 115,
+          "like_count": 1529,
+          "listed_count": 1,
+          "tweet_count": 302
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-09T07:22:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/36EY0KGFIWLE5?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/R45IO2p51Y"
+              }
+            ]
+          }
+        },
+        "id": "1148492725659897856",
+        "name": "kurumi🔞",
+        "pinned_tweet_id": "1796846901331124340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796478123472830466/C5tlDaFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42622,
+          "following_count": 249,
+          "like_count": 14937,
+          "listed_count": 97,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/R45IO2p51Y",
+        "username": "kurumi_nekotyan",
+        "verified": false
+      }
+    ]
+  }
+}

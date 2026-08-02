@@ -1,0 +1,323 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1795332226835697677",
+    "created_at": "2024-05-28T05:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T06:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795332226835697677"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "東海",
+          "probability": 0.3679,
+          "start": 53,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "ネット垢"
+        },
+        {
+          "end": 110,
+          "start": 104,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 125,
+          "start": 111,
+          "tag": "病み垢女子さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690636522985541633",
+          "start": 3,
+          "username": "ri_boooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795332226835697677",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795328758452535437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ri_boooo: ˚*.꒰ 気軽に絡めるお友達探してます ꒱.*˚\n\n06´(17)/👧🏻/東海/不定期浮上/ﾒﾝﾍﾗ/ｴﾛ垢🙅🏻‍♂️/下ﾈﾀ🙆🏻\n\n♡ で 気になりｻﾏお迎え 🪄\n\n#ネット垢 #病み垢女子 #病み垢女子さんと繋がりたい #病み垢男子さんと繋がりた…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1795332226835697677",
+        "created_at": "2024-05-28T05:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T06:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795332226835697677"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "東海",
+              "probability": 0.3679,
+              "start": 53,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "ネット垢"
+            },
+            {
+              "end": 110,
+              "start": 104,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 125,
+              "start": 111,
+              "tag": "病み垢女子さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690636522985541633",
+              "start": 3,
+              "username": "ri_boooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795332226835697677",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795328758452535437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ri_boooo: ˚*.꒰ 気軽に絡めるお友達探してます ꒱.*˚\n\n06´(17)/👧🏻/東海/不定期浮上/ﾒﾝﾍﾗ/ｴﾛ垢🙅🏻‍♂️/下ﾈﾀ🙆🏻\n\n♡ で 気になりｻﾏお迎え 🪄\n\n#ネット垢 #病み垢女子 #病み垢女子さんと繋がりたい #病み垢男子さんと繋がりた…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795328755076104192",
+            "3_1795328754757320705",
+            "3_1795328755143229440",
+            "3_1795328755617214466"
+          ]
+        },
+        "author_id": "1690636522985541633",
+        "conversation_id": "1795328758452535437",
+        "created_at": "2024-05-28T05:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T06:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795328758452535437"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "東海",
+              "probability": 0.3511,
+              "start": 39,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "ネット垢"
+            },
+            {
+              "end": 96,
+              "start": 90,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 111,
+              "start": 97,
+              "tag": "病み垢女子さんと繋がりたい"
+            },
+            {
+              "end": 126,
+              "start": 112,
+              "tag": "病み垢男子さんと繋がりたい"
+            },
+            {
+              "end": 139,
+              "start": 127,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 151,
+              "start": 140,
+              "tag": "病み垢さんと絡みたい"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "友達募集"
+            },
+            {
+              "end": 165,
+              "start": 159,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9Pt19uYsOq",
+              "end": 189,
+              "expanded_url": "https://twitter.com/ri_boooo/status/1795328758452535437/photo/1",
+              "media_key": "3_1795328755076104192",
+              "start": 166,
+              "url": "https://t.co/9Pt19uYsOq"
+            },
+            {
+              "display_url": "pic.twitter.com/9Pt19uYsOq",
+              "end": 189,
+              "expanded_url": "https://twitter.com/ri_boooo/status/1795328758452535437/photo/1",
+              "media_key": "3_1795328754757320705",
+              "start": 166,
+              "url": "https://t.co/9Pt19uYsOq"
+            },
+            {
+              "display_url": "pic.twitter.com/9Pt19uYsOq",
+              "end": 189,
+              "expanded_url": "https://twitter.com/ri_boooo/status/1795328758452535437/photo/1",
+              "media_key": "3_1795328755143229440",
+              "start": 166,
+              "url": "https://t.co/9Pt19uYsOq"
+            },
+            {
+              "display_url": "pic.twitter.com/9Pt19uYsOq",
+              "end": 189,
+              "expanded_url": "https://twitter.com/ri_boooo/status/1795328758452535437/photo/1",
+              "media_key": "3_1795328755617214466",
+              "start": 166,
+              "url": "https://t.co/9Pt19uYsOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795328758452535437",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "˚*.꒰ 気軽に絡めるお友達探してます ꒱.*˚\n\n06´(17)/👧🏻/東海/不定期浮上/ﾒﾝﾍﾗ/ｴﾛ垢🙅🏻‍♂️/下ﾈﾀ🙆🏻\n\n♡ で 気になりｻﾏお迎え 🪄\n\n#ネット垢 #病み垢女子 #病み垢女子さんと繋がりたい #病み垢男子さんと繋がりたい #病み垢さんと繋がりたい #病み垢さんと絡みたい  #友達募集 #自撮り界隈 https://t.co/9Pt19uYsOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 82,
+          "like_count": 1598,
+          "listed_count": 1,
+          "tweet_count": 220
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T08:09:04.000Z",
+        "description": "06´(17)\n推しぴくん➡︎👦🏻🥕                                                             ｴﾛ垢🙅🏻‍♂️/出会い厨🙅🏻‍♂️/リアル🙅🏻‍♂️",
+        "id": "1690636522985541633",
+        "location": "生きてるだけでえらい",
+        "name": "りん@Tag出した",
+        "pinned_tweet_id": "1795328758452535437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795328910579871744/nbzsNULc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 14,
+          "like_count": 138,
+          "listed_count": 0,
+          "tweet_count": 23
+        },
+        "username": "ri_boooo",
+        "verified": false
+      }
+    ]
+  }
+}

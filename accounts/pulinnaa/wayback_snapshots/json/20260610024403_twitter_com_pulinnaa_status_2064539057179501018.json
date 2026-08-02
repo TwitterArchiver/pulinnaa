@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2064176286508155261",
+    "created_at": "2026-06-10T02:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064539057179501018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547310338328080384",
+          "start": 0,
+          "username": "gaoliang0808"
+        },
+        {
+          "end": 25,
+          "id": "1983042229720735744",
+          "start": 14,
+          "username": "mchchc5216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064539057179501018",
+    "in_reply_to_user_id": "1547310338328080384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064176286508155261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoliang0808 @mchchc5216 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2064175426168410112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVsnRbb0AAYHA7.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2064176286508155261",
+        "created_at": "2026-06-10T02:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064539057179501018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547310338328080384",
+              "start": 0,
+              "username": "gaoliang0808"
+            },
+            {
+              "end": 25,
+              "id": "1983042229720735744",
+              "start": 14,
+              "username": "mchchc5216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064539057179501018",
+        "in_reply_to_user_id": "1547310338328080384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064176286508155261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoliang0808 @mchchc5216 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064175426168410112"
+          ]
+        },
+        "author_id": "1547310338328080384",
+        "conversation_id": "2064176286508155261",
+        "created_at": "2026-06-09T02:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064176286508155261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "大概就是一直制作cos道具的小窝 本窝售出的所有商品不可食用 可以聊聊天喵",
+              "display_url": "t.me/hinakofor1",
+              "end": 76,
+              "expanded_url": "https://t.me/hinakofor1",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2063751458370330624/fXuemjiF?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063751458370330624/fXuemjiF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "花粉聚集地",
+              "unwound_url": "https://t.me/hinakofor1",
+              "url": "https://t.co/Sm4ZWEhLdF"
+            },
+            {
+              "display_url": "pic.x.com/e7vyZOysXt",
+              "end": 201,
+              "expanded_url": "https://x.com/gaoliang0808/status/2064176286508155261/photo/1",
+              "media_key": "3_2064175426168410112",
+              "start": 178,
+              "url": "https://t.co/e7vyZOysXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064176286508155261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2540,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖贴 新品登场! \n通过转帖 点赞 评论 关注参与\n满足上面条件后记得加tg群!\n群内还有很多抽奖ww https://t.co/Sm4ZWEhLdF\n一等奖 150mgpr 28t 抽一人\n二等奖 复方pr220mg 12t 抽二人\n超级安慰奖 柠檬水 十杯 抽十人\n迟到的儿童节礼物旺仔qq糖 抽十包\n被抽到的概率非常非常大。\n因为是延迟发货的补偿 https://t.co/e7vyZOysXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 192,
+          "like_count": 4046,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 2605
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T20:02:05.000Z",
+        "description": "这里是道心 有卖烟 是oder。可互fo 喜欢的我会回fo 对电子烟有需要可联系我呀 戒药中 互fo直关就可有的时候没看到就私  转帖点点赞就行啦 花粉聚集地https://t.co/5hrXf0TC6k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hinakofor1",
+                "end": 102,
+                "expanded_url": "https://t.me/hinakofor1",
+                "start": 79,
+                "url": "https://t.co/5hrXf0TC6k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg520",
+                "end": 23,
+                "expanded_url": "https://t.me/dddlg520",
+                "start": 0,
+                "url": "https://t.co/Au75Hgnn6Q"
+              }
+            ]
+          }
+        },
+        "id": "1547310338328080384",
+        "location": "卢布朗咖啡厅",
+        "name": "破滅道心（小花导）",
+        "pinned_tweet_id": "2034336433172086904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018955454953766912/ZTCWEOYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 369,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/Au75Hgnn6Q",
+        "username": "gaoliang0808",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 紫餐 Ⅱ 生产日期：2011.3.29 ll 坐标：山东济南 Ⅱ 优香单推人 Ⅱ 互fo Ⅱ 对象：@QY404XYN Ⅱ 扩列请加：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "QY404XYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "hc5216ˣʸⁿ | 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054021490711085421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 726,
+          "like_count": 2420,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 580
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": true
+      }
+    ]
+  }
+}

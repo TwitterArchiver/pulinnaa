@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2051106866617549094",
+    "created_at": "2026-05-04T01:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051106866617549094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1883117066812882944",
+          "start": 3,
+          "username": "jituiroubaogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051106866617549094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050979378289647877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jituiroubaogu: 350fo抽奖~400fo开\n一等奖:喜思平橙普1板(150mg*24)*1\n二等奖:闲立康pr1板(150mg*10)*3\n三等奖:一张画/mtf特供鱼板拼豆* 10\n以上药物为了避嫌所以散装 有干燥剂和盒 发货需提供:4月10日以前的o…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2051106866617549094",
+        "created_at": "2026-05-04T01:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051106866617549094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1883117066812882944",
+              "start": 3,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051106866617549094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050979378289647877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jituiroubaogu: 350fo抽奖~400fo开\n一等奖:喜思平橙普1板(150mg*24)*1\n二等奖:闲立康pr1板(150mg*10)*3\n三等奖:一张画/mtf特供鱼板拼豆* 10\n以上药物为了避嫌所以散装 有干燥剂和盒 发货需提供:4月10日以前的o…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2050979378289647877",
+        "created_at": "2026-05-03T16:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050979378289647877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050979378289647877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 890,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "350fo抽奖~400fo开\n一等奖:喜思平橙普1板(150mg*24)*1\n二等奖:闲立康pr1板(150mg*10)*3\n三等奖:一张画/mtf特供鱼板拼豆* 10\n以上药物为了避嫌所以散装 有干燥剂和盒 发货需提供:4月10日以前的od相关/雪兔推文截图或我眼熟你\n画的设定我只画小女孩 鱼板拼豆比掌心略小\n不是裸寄 不能折现\nfo+赞转评参与!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 154,
+          "like_count": 3961,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 1925
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 504,
+          "like_count": 2019,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

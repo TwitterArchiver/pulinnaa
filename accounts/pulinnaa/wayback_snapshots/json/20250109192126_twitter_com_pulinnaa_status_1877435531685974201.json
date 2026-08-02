@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1877434718645354628",
+    "created_at": "2025-01-09T19:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T20:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877435531685974201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635376360884690949",
+          "start": 0,
+          "username": "xlihuz80_46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877435531685974201",
+    "in_reply_to_user_id": "1635376360884690949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877434718645354628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xlihuz80_46 别这样我心疼你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1877434718645354628",
+        "created_at": "2025-01-09T19:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T20:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877435531685974201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635376360884690949",
+              "start": 0,
+              "username": "xlihuz80_46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877435531685974201",
+        "in_reply_to_user_id": "1635376360884690949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877434718645354628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xlihuz80_46 别这样我心疼你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877434710466637824",
+            "3_1877434715462053890"
+          ]
+        },
+        "author_id": "1635376360884690949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1877434718645354628",
+        "created_at": "2025-01-09T19:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T20:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877434718645354628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbdI31ekcs",
+              "end": 23,
+              "expanded_url": "https://x.com/xlihuz80_46/status/1877434718645354628/photo/1",
+              "media_key": "3_1877434710466637824",
+              "start": 0,
+              "url": "https://t.co/vbdI31ekcs"
+            },
+            {
+              "display_url": "pic.x.com/vbdI31ekcs",
+              "end": 23,
+              "expanded_url": "https://x.com/xlihuz80_46/status/1877434718645354628/photo/1",
+              "media_key": "3_1877434715462053890",
+              "start": 0,
+              "url": "https://t.co/vbdI31ekcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877434718645354628",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vbdI31ekcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 183,
+          "like_count": 3747,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1184
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T20:24:52.000Z",
+        "description": "🚪188 主人：@vir_coconut                       \n                   一直看着我吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vir_coconut"
+              }
+            ]
+          }
+        },
+        "id": "1635376360884690949",
+        "name": "永生王",
+        "pinned_tweet_id": "1874257111938720186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874836214689472512/DTg0AwyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13763,
+          "following_count": 67,
+          "like_count": 35,
+          "listed_count": 14,
+          "media_count": 146,
+          "tweet_count": 259
+        },
+        "username": "xlihuz80_46",
+        "verified": false
+      }
+    ]
+  }
+}

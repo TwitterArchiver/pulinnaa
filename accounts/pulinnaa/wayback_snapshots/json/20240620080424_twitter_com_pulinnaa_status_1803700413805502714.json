@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1803699587200459058",
+    "created_at": "2024-06-20T08:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T09:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803700413805502714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1803700413805502714",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803699587200459058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我谈恋爱从来没有让自己对象影响到我们之间的任何事情🙄我真的都想和我朋友绝交了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1803699587200459058",
+        "created_at": "2024-06-20T08:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T09:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803700413805502714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803700413805502714",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803699587200459058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我谈恋爱从来没有让自己对象影响到我们之间的任何事情🙄我真的都想和我朋友绝交了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1803699587200459058",
+        "created_at": "2024-06-20T08:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T09:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803699587200459058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803699587200459058",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我朋友她男朋友有点欺负我的感觉。不知道为什么总要骂我说我不好。我和我朋友去KTV他点了歌还把歌顶我的上面。。🤦‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 130,
+          "like_count": 2021,
+          "listed_count": 1,
+          "tweet_count": 535
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

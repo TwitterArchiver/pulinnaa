@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1837193495184036347",
+    "created_at": "2024-09-21T07:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T08:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837397103888552159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1707734562133184512",
+          "start": 0,
+          "username": "dazeiox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837397103888552159",
+    "in_reply_to_user_id": "1707734562133184512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837369465635287287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dazeiox 我是傻逼我是傻逼嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T07:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T08:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837397103888552159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1707734562133184512",
+              "start": 0,
+              "username": "dazeiox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837397103888552159",
+        "in_reply_to_user_id": "1707734562133184512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837369465635287287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dazeiox 我是傻逼我是傻逼嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707734562133184512",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T05:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T06:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837369465635287287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837369465635287287",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837193495184036347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 是不是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 158,
+          "like_count": 3626,
+          "listed_count": 1,
+          "tweet_count": 919
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T12:30:40.000Z",
+        "description": "m/sub ENFP统治世界！！！ 求投喂",
+        "id": "1707734562133184512",
+        "name": "拖拉机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835013521383526400/NqnfjERF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 15,
+          "like_count": 241,
+          "listed_count": 0,
+          "tweet_count": 33
+        },
+        "username": "dazeiox",
+        "verified": false
+      }
+    ]
+  }
+}

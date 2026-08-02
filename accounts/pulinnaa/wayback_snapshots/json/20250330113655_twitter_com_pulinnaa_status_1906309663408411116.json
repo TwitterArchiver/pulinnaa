@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1906309663408411116",
+    "created_at": "2025-03-30T11:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T12:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906309663408411116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dailycouplepos…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/dailycouplepost/status/1905847076954484948",
+          "start": 12,
+          "url": "https://t.co/VMdhp0IxFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906309663408411116",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905847076954484948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "me and who🥹 https://t.co/VMdhp0IxFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10959,
+        "height": 576,
+        "media_key": "7_1905847023003160576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1905847023003160576/pu/img/c7dylgN_8aVu0JCX.jpg",
+        "public_metrics": {
+          "view_count": 144058
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905847023003160576/pu/vid/avc1/480x270/nrbTPDki__GMWEIV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905847023003160576/pu/vid/avc1/640x360/sSjfIx4Fk1iA5bYR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905847023003160576/pu/vid/avc1/1024x576/_8lPMEpbvkhHuYi9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1905847023003160576/pu/pl/EC7SE7f5Kx_JzZHb.m3u8?tag=12"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1906309663408411116",
+        "created_at": "2025-03-30T11:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T12:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906309663408411116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dailycouplepos…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/dailycouplepost/status/1905847076954484948",
+              "start": 12,
+              "url": "https://t.co/VMdhp0IxFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906309663408411116",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905847076954484948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "me and who🥹 https://t.co/VMdhp0IxFW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1905847023003160576"
+          ]
+        },
+        "author_id": "1220804151208284160",
+        "conversation_id": "1905847076954484948",
+        "created_at": "2025-03-29T04:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T05:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905847076954484948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/630v87x0su",
+              "end": 30,
+              "expanded_url": "https://x.com/dailycouplepost/status/1905847076954484948/video/1",
+              "media_key": "7_1905847023003160576",
+              "start": 7,
+              "url": "https://t.co/630v87x0su"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905847076954484948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1888,
+          "impression_count": 344020,
+          "like_count": 11517,
+          "quote_count": 313,
+          "reply_count": 94,
+          "retweet_count": 2072
+        },
+        "reply_settings": "everyone",
+        "text": "need 🤍 https://t.co/630v87x0su"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 165,
+          "like_count": 3929,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 1406
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T20:23:00.000Z",
+        "description": "relationships goals || Follow us for more",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/INCfdazCoz"
+              }
+            ]
+          }
+        },
+        "id": "1220804151208284160",
+        "location": "California, USA",
+        "name": "me and who",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860750202761629696/IdoGF2Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275745,
+          "following_count": 116104,
+          "like_count": 402298,
+          "listed_count": 204,
+          "media_count": 330,
+          "tweet_count": 2008
+        },
+        "url": "https://t.co/INCfdazCoz",
+        "username": "dailycouplepost",
+        "verified": true
+      }
+    ]
+  }
+}

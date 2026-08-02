@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806929774545420599",
+    "created_at": "2024-06-29T05:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T06:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806930543818297537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1779475204584153088",
+          "start": 0,
+          "username": "OD_Dxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806930543818297537",
+    "in_reply_to_user_id": "1779475204584153088",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806929987746074936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OD_Dxm 我爸昨天酒局喝成傻逼了🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806929774545420599",
+        "created_at": "2024-06-29T05:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T06:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806930543818297537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1779475204584153088",
+              "start": 0,
+              "username": "OD_Dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806930543818297537",
+        "in_reply_to_user_id": "1779475204584153088",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806929987746074936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OD_Dxm 我爸昨天酒局喝成傻逼了🙄"
+      },
+      {
+        "attachments": {},
+        "author_id": "1779475204584153088",
+        "conversation_id": "1806929774545420599",
+        "created_at": "2024-06-29T05:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T06:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806929987746074936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806929987746074936",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806929774545420599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 你爸爸也玩od吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 148,
+          "like_count": 2447,
+          "listed_count": 1,
+          "tweet_count": 610
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T11:42:12.000Z",
+        "description": "",
+        "id": "1779475204584153088",
+        "name": "Bestnovo",
+        "pinned_tweet_id": "1784476126922125649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779475438408220672/XxhcmBNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 417,
+          "like_count": 74,
+          "listed_count": 0,
+          "tweet_count": 46
+        },
+        "username": "OD_Dxm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1894784159564079306",
+    "created_at": "2025-02-26T16:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T17:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894784159564079306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086/status/1894309998299369798",
+          "start": 8,
+          "url": "https://t.co/A3qvQ8gbqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894784159564079306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894309998299369798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吃曹氏就这样 https://t.co/A3qvQ8gbqa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1894309991424618496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gknw5pVWcAA7xL7.jpg",
+        "width": 576
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1894309861006934016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GknwyDfWgAAHlJM.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1894784159564079306",
+        "created_at": "2025-02-26T16:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T17:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894784159564079306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086/status/1894309998299369798",
+              "start": 8,
+              "url": "https://t.co/A3qvQ8gbqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894784159564079306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894309998299369798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃曹氏就这样 https://t.co/A3qvQ8gbqa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894309991424618496",
+            "3_1894309861006934016"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1894309998299369798",
+        "created_at": "2025-02-25T08:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T09:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894309998299369798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/viILJjYLdA",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1894309998299369798/photo/1",
+              "media_key": "3_1894309991424618496",
+              "start": 0,
+              "url": "https://t.co/viILJjYLdA"
+            },
+            {
+              "display_url": "pic.x.com/viILJjYLdA",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1894309998299369798/photo/1",
+              "media_key": "3_1894309861006934016",
+              "start": 0,
+              "url": "https://t.co/viILJjYLdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894309998299369798",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 457956,
+          "like_count": 1919,
+          "quote_count": 19,
+          "reply_count": 109,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/viILJjYLdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 161,
+          "like_count": 3800,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1267
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41310,
+          "following_count": 919,
+          "like_count": 36618,
+          "listed_count": 109,
+          "media_count": 6760,
+          "tweet_count": 12006
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

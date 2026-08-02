@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1810400165968359578",
+    "created_at": "2024-07-09T03:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T04:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810521815237935484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1214894491968012288",
+          "start": 0,
+          "username": "l666lll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810521815237935484",
+    "in_reply_to_user_id": "1214894491968012288",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810400165968359578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l666lll おはよー"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1810400165968359578",
+        "created_at": "2024-07-09T03:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T04:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810521815237935484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1214894491968012288",
+              "start": 0,
+              "username": "l666lll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810521815237935484",
+        "in_reply_to_user_id": "1214894491968012288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810400165968359578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l666lll おはよー"
+      },
+      {
+        "attachments": {},
+        "author_id": "1214894491968012288",
+        "conversation_id": "1810400165968359578",
+        "created_at": "2024-07-08T19:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T20:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810400165968359578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810400165968359578",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@pulinnaa はなさき\n(｡◕‿◕｡)♡おはよ～♡(｡◕‿◕｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 147,
+          "like_count": 2707,
+          "listed_count": 1,
+          "tweet_count": 633
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T13:00:36.000Z",
+        "description": "ﾁｯ(･д･)！！ \nスーパーネガティブ人間ダミアンです！ \nよろしくお願いします♭\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▹◃┄▸◂┄▹◃┄▸◂\n病み垢┊︎男性┊︎61歳┊︎元A.Sax吹き┊︎車椅子ユーザー(脳梗塞で右半身麻痺)┊︎器質性パーソナリティー障害(希死念慮、自殺企図、情動不安定、被刺激の亢進、不眠)",
+        "id": "1214894491968012288",
+        "name": "ダミアン",
+        "pinned_tweet_id": "1393530150306816000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465763074670215168/zE0n6AXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 3524,
+          "like_count": 512500,
+          "listed_count": 88,
+          "tweet_count": 392344
+        },
+        "username": "l666lll",
+        "verified": true
+      }
+    ]
+  }
+}

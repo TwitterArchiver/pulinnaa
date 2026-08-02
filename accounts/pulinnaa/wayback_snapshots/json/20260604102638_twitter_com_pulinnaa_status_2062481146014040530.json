@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062449341785325568",
+        "3_2062449623869063168",
+        "3_2062449652050620416"
+      ],
+      "media_source_tweet_id": [
+        "2062450399131705745",
+        "2062450399131705745",
+        "2062450399131705745"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2062481146014040530",
+    "created_at": "2026-06-04T10:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062481146014040530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2032802107745824768",
+          "start": 3,
+          "username": "guangzhouxidu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6N9lU6gvR",
+          "end": 82,
+          "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+          "media_key": "3_2062449341785325568",
+          "start": 59,
+          "url": "https://t.co/j6N9lU6gvR"
+        },
+        {
+          "display_url": "pic.x.com/j6N9lU6gvR",
+          "end": 82,
+          "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+          "media_key": "3_2062449623869063168",
+          "start": 59,
+          "url": "https://t.co/j6N9lU6gvR"
+        },
+        {
+          "display_url": "pic.x.com/j6N9lU6gvR",
+          "end": 82,
+          "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+          "media_key": "3_2062449652050620416",
+          "start": 59,
+          "url": "https://t.co/j6N9lU6gvR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062481146014040530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062450399131705745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guangzhouxidu: 6.4骗子栏目更新，此人实际可能皮下男，伪装成女号专门诈骗女性群体，举报+避雷 https://t.co/j6N9lU6gvR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2062449341785325568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9Kv8BaQAA_2Cv.png",
+        "width": 313
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062449623869063168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9LAW3agAAZqGi.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062449652050620416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9LB_2a8AAHDgA.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062449341785325568",
+            "3_2062449623869063168",
+            "3_2062449652050620416"
+          ],
+          "media_source_tweet_id": [
+            "2062450399131705745",
+            "2062450399131705745",
+            "2062450399131705745"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2062481146014040530",
+        "created_at": "2026-06-04T10:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062481146014040530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2032802107745824768",
+              "start": 3,
+              "username": "guangzhouxidu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6N9lU6gvR",
+              "end": 82,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+              "media_key": "3_2062449341785325568",
+              "start": 59,
+              "url": "https://t.co/j6N9lU6gvR"
+            },
+            {
+              "display_url": "pic.x.com/j6N9lU6gvR",
+              "end": 82,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+              "media_key": "3_2062449623869063168",
+              "start": 59,
+              "url": "https://t.co/j6N9lU6gvR"
+            },
+            {
+              "display_url": "pic.x.com/j6N9lU6gvR",
+              "end": 82,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+              "media_key": "3_2062449652050620416",
+              "start": 59,
+              "url": "https://t.co/j6N9lU6gvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062481146014040530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062450399131705745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guangzhouxidu: 6.4骗子栏目更新，此人实际可能皮下男，伪装成女号专门诈骗女性群体，举报+避雷 https://t.co/j6N9lU6gvR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062449341785325568",
+            "3_2062449623869063168",
+            "3_2062449652050620416"
+          ]
+        },
+        "author_id": "2032802107745824768",
+        "conversation_id": "2062450399131705745",
+        "created_at": "2026-06-04T08:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062450399131705745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6N9lU6gvR",
+              "end": 63,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+              "media_key": "3_2062449341785325568",
+              "start": 40,
+              "url": "https://t.co/j6N9lU6gvR"
+            },
+            {
+              "display_url": "pic.x.com/j6N9lU6gvR",
+              "end": 63,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+              "media_key": "3_2062449623869063168",
+              "start": 40,
+              "url": "https://t.co/j6N9lU6gvR"
+            },
+            {
+              "display_url": "pic.x.com/j6N9lU6gvR",
+              "end": 63,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2062450399131705745/photo/1",
+              "media_key": "3_2062449652050620416",
+              "start": 40,
+              "url": "https://t.co/j6N9lU6gvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062450399131705745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1020,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "6.4骗子栏目更新，此人实际可能皮下男，伪装成女号专门诈骗女性群体，举报+避雷 https://t.co/j6N9lU6gvR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 189,
+          "like_count": 4040,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 2563
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所，私信长期接投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 38,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 99
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

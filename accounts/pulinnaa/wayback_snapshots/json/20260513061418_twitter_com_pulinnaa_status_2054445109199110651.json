@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2054445109199110651",
+    "created_at": "2026-05-13T06:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054445109199110651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960505849362911232",
+          "start": 3,
+          "username": "allayaalq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054445109199110651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054323255713104232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @allayaalq: 求求了我想和餐券妹互fo\n关注转帖点赞评论参与抽奖\n一等奖：五盒加巴喷丁（折现20抽一个）\n二等奖：一盒贝印 可以自己选颜色（折现15抽两个）\n三等奖：三盒美金刚（折现5抽三个）\n求转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2054445109199110651",
+        "created_at": "2026-05-13T06:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054445109199110651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960505849362911232",
+              "start": 3,
+              "username": "allayaalq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054445109199110651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054323255713104232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @allayaalq: 求求了我想和餐券妹互fo\n关注转帖点赞评论参与抽奖\n一等奖：五盒加巴喷丁（折现20抽一个）\n二等奖：一盒贝印 可以自己选颜色（折现15抽两个）\n三等奖：三盒美金刚（折现5抽三个）\n求转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960505849362911232",
+        "conversation_id": "2054323255713104232",
+        "created_at": "2026-05-12T22:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054323255713104232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054323255713104232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 93,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "求求了我想和餐券妹互fo\n关注转帖点赞评论参与抽奖\n一等奖：五盒加巴喷丁（折现20抽一个）\n二等奖：一盒贝印 可以自己选颜色（折现15抽两个）\n三等奖：三盒美金刚（折现5抽三个）\n求转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 158,
+          "like_count": 3975,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2116
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T00:53:28.000Z",
+        "description": "泥嚎 我是黑洞总部派来毁灭地球的特别喜欢装可爱的小小生物 如果你和我一样是来毁灭地球的外星人就来和我互fo吧！😈😈😈@Leleucffq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "Leleucffq"
+              }
+            ]
+          }
+        },
+        "id": "1960505849362911232",
+        "location": "Hino-shi, Tokyo",
+        "name": "黑洞陨石啵啵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053557683882807296/x8DGE3Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 1674,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 430
+        },
+        "username": "allayaalq",
+        "verified": false
+      }
+    ]
+  }
+}

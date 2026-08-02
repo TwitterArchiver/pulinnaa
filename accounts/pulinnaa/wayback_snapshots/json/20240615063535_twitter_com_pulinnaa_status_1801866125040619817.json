@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1801863965729034610",
+    "created_at": "2024-06-15T06:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T07:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801866125040619817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1747138924450029568",
+          "start": 0,
+          "username": "OVERDOSE_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801866125040619817",
+    "in_reply_to_user_id": "1747138924450029568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801863965729034610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OVERDOSE_Wiki 解离你妈逼。你踏马拿来一个词就你妈乱讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1801863965729034610",
+        "created_at": "2024-06-15T06:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T07:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801866125040619817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "OVERDOSE_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801866125040619817",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801863965729034610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVERDOSE_Wiki 解离你妈逼。你踏马拿来一个词就你妈乱讲"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801863963447332864"
+          ]
+        },
+        "author_id": "1747138924450029568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1801863965729034610",
+        "created_at": "2024-06-15T06:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T07:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801863965729034610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TcTQcEz0zH",
+              "end": 167,
+              "expanded_url": "https://twitter.com/OVERDOSE_Wiki/status/1801863965729034610/photo/1",
+              "media_key": "3_1801863963447332864",
+              "start": 144,
+              "url": "https://t.co/TcTQcEz0zH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801863965729034610",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！解离干的！ 解离干的！ https://t.co/TcTQcEz0zH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 130,
+          "like_count": 1898,
+          "listed_count": 1,
+          "tweet_count": 507
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "这里是odwiki官号，目前由wiki主与后藤与一个人而运营\nwiki主比较nb，会乱关注人，会乱向别人发私信，请见谅\n该账号由多名人员运营，有些东西是wiki主发的，有些东西是后藤发的，请仔细鉴别",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/UVKr7EgL3R"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "✝️天国✝️",
+        "name": "Overdose Wiki（维护中）",
+        "pinned_tweet_id": "1796780832750989603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786914046882516992/r_sKIFUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5086,
+          "following_count": 2642,
+          "like_count": 1533,
+          "listed_count": 4,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/UVKr7EgL3R",
+        "username": "OVERDOSE_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2076211258962116705",
+    "created_at": "2026-07-14T05:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076897226589417488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076897226589417488",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076211258962116705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3520,
+        "media_key": "3_2076211245167124480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAvIJLboAAlkgH.jpg",
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2076211258962116705",
+        "created_at": "2026-07-14T05:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076897226589417488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076897226589417488",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076211258962116705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076211245167124480"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2076211258962116705",
+        "created_at": "2026-07-12T07:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076211258962116705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 84,
+              "id": "1545050439049064450",
+              "start": 77,
+              "username": "xz8796"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVKMVPfsQB",
+              "end": 124,
+              "expanded_url": "https://x.com/xz8796/status/2076211258962116705/photo/1",
+              "media_key": "3_2076211245167124480",
+              "start": 101,
+              "url": "https://t.co/oVKMVPfsQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076211258962116705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 817,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "免费送两盒韩版苯海拉明 评论区点赞抽一个 截止到14号utc+8 18点之前\n发顺丰到付 \n免责声明：受赠人 od苯海拉明的行为导致的死亡或者谵妄和辞落（@xz8796 ）没有任何关系 用途只用来助眠 https://t.co/oVKMVPfsQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 204,
+          "like_count": 4056,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 2803
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "李帆还是太抽象了 用下原名\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n生活號 | 一天會發10+條推請見諒\nINTJ | 无所谓性别 | ed | BMI15.5 | 友跨\n有點陰暗 囤積癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "plane294"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2076197204243742963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073918997352042496/2Op7wLRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 236,
+          "like_count": 2445,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1494
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

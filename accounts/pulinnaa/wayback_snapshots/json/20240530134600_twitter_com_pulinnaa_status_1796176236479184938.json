@@ -1,0 +1,317 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1796111357206470656",
+        "3_1796111362701053952",
+        "3_1796111368325664768",
+        "3_1796111373451091970"
+      ],
+      "media_source_tweet_id": [
+        "1796111381193797879",
+        "1796111381193797879",
+        "1796111381193797879",
+        "1796111381193797879"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1796176236479184938",
+    "created_at": "2024-05-30T13:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T14:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796176236479184938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789755108860866560",
+          "start": 3,
+          "username": "imteddy333"
+        },
+        {
+          "end": 34,
+          "id": "1745710045537746944",
+          "start": 23,
+          "username": "imteddy111"
+        },
+        {
+          "end": 46,
+          "id": "1780704470432976896",
+          "start": 35,
+          "username": "imteddy222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/DejUGYfQGM",
+          "end": 129,
+          "expanded_url": "https://twitter.com/imteddy333/status/1796111381193797879/photo/1",
+          "media_key": "3_1796111357206470656",
+          "start": 106,
+          "url": "https://t.co/DejUGYfQGM"
+        },
+        {
+          "display_url": "pic.twitter.com/DejUGYfQGM",
+          "end": 129,
+          "expanded_url": "https://twitter.com/imteddy333/status/1796111381193797879/photo/1",
+          "media_key": "3_1796111362701053952",
+          "start": 106,
+          "url": "https://t.co/DejUGYfQGM"
+        },
+        {
+          "display_url": "pic.twitter.com/DejUGYfQGM",
+          "end": 129,
+          "expanded_url": "https://twitter.com/imteddy333/status/1796111381193797879/photo/1",
+          "media_key": "3_1796111368325664768",
+          "start": 106,
+          "url": "https://t.co/DejUGYfQGM"
+        },
+        {
+          "display_url": "pic.twitter.com/DejUGYfQGM",
+          "end": 129,
+          "expanded_url": "https://twitter.com/imteddy333/status/1796111381193797879/photo/1",
+          "media_key": "3_1796111373451091970",
+          "start": 106,
+          "url": "https://t.co/DejUGYfQGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796176236479184938",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796111381193797879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imteddy333: 我是泰迪 前世@imteddy111 @imteddy222\n09 k8k9\n爱我请打钱\n🚪88/188/288/388/520/1314无上限\n女宝互fo大欢迎\n过🚪请口令红包 https://t.co/DejUGYfQGM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1796176236479184938].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1796176236479184938",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1796176236479184938"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [imteddy111].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "imteddy111",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "imteddy111"
+    },
+    {
+      "detail": "User has been suspended: [imteddy222].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "imteddy222",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "imteddy222"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1796111357206470656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GO0Rw19WIAASbzr.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1796111362701053952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GO0RxKbW0AAzM01.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1796111368325664768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GO0RxfYXkAAuDmH.jpg",
+        "width": 1720
+      },
+      {
+        "height": 1191,
+        "media_key": "3_1796111373451091970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GO0RxyeXYAImTYm.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796111357206470656",
+            "3_1796111362701053952",
+            "3_1796111368325664768",
+            "3_1796111373451091970"
+          ]
+        },
+        "author_id": "1789755108860866560",
+        "conversation_id": "1796111381193797879",
+        "created_at": "2024-05-30T09:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T10:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796111381193797879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1745710045537746944",
+              "start": 7,
+              "username": "imteddy111"
+            },
+            {
+              "end": 30,
+              "id": "1780704470432976896",
+              "start": 19,
+              "username": "imteddy222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DejUGYfQGM",
+              "end": 113,
+              "expanded_url": "https://twitter.com/imteddy333/status/1796111381193797879/photo/1",
+              "media_key": "3_1796111357206470656",
+              "start": 90,
+              "url": "https://t.co/DejUGYfQGM"
+            },
+            {
+              "display_url": "pic.twitter.com/DejUGYfQGM",
+              "end": 113,
+              "expanded_url": "https://twitter.com/imteddy333/status/1796111381193797879/photo/1",
+              "media_key": "3_1796111362701053952",
+              "start": 90,
+              "url": "https://t.co/DejUGYfQGM"
+            },
+            {
+              "display_url": "pic.twitter.com/DejUGYfQGM",
+              "end": 113,
+              "expanded_url": "https://twitter.com/imteddy333/status/1796111381193797879/photo/1",
+              "media_key": "3_1796111368325664768",
+              "start": 90,
+              "url": "https://t.co/DejUGYfQGM"
+            },
+            {
+              "display_url": "pic.twitter.com/DejUGYfQGM",
+              "end": 113,
+              "expanded_url": "https://twitter.com/imteddy333/status/1796111381193797879/photo/1",
+              "media_key": "3_1796111373451091970",
+              "start": 90,
+              "url": "https://t.co/DejUGYfQGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796111381193797879",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1111,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我是泰迪 前世@imteddy111 @imteddy222\n09 k8k9\n爱我请打钱\n🚪88/188/288/388/520/1314无上限\n女宝互fo大欢迎\n过🚪请口令红包 https://t.co/DejUGYfQGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 96,
+          "like_count": 1674,
+          "listed_count": 1,
+          "tweet_count": 233
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T20:30:56.000Z",
+        "description": "私信只回口令/过🚪问题询问",
+        "id": "1789755108860866560",
+        "location": "0.2km",
+        "name": "马嘉祺头并进三回",
+        "pinned_tweet_id": "1796111381193797879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796109256044785664/SgZ6gf5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 60,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "imteddy333",
+        "verified": false
+      }
+    ]
+  }
+}

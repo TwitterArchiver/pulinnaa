@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2045080305414156331",
+    "created_at": "2026-04-17T18:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045212361011950037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887181198486872066",
+          "start": 0,
+          "username": "OvOloveyu128"
+        },
+        {
+          "end": 26,
+          "id": "1560533329912311808",
+          "start": 14,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045212361011950037",
+    "in_reply_to_user_id": "1887181198486872066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045080305414156331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvOloveyu128 @BdZzbw6goo2 我蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2045080305414156331",
+        "created_at": "2026-04-17T18:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045212361011950037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887181198486872066",
+              "start": 0,
+              "username": "OvOloveyu128"
+            },
+            {
+              "end": 26,
+              "id": "1560533329912311808",
+              "start": 14,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045212361011950037",
+        "in_reply_to_user_id": "1887181198486872066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045080305414156331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOloveyu128 @BdZzbw6goo2 我蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887181198486872066",
+        "conversation_id": "2045080305414156331",
+        "created_at": "2026-04-17T10:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045080305414156331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045080305414156331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1294,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "250fo了 谢谢你们🐁🐁\n我没有什么钱但是我也想玩抽奖😢\n一等奖：免费过🚪288\n二等奖：一盒普瑞（折现14r）\n三等奖：5.2r\n点赞+评论+转贴 参加\n4月18号下午六点开奖\n中奖者我会发私信 请你们看私信谢谢😭\n如在中奖后12小时内没回 重新抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 151,
+          "like_count": 3946,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 1777
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T16:47:23.000Z",
+        "description": "前世@ytytcjkwy\n什么都发 乱七八糟\n好说话 可以找我互转互fo 骚扰信息不想回\n纯聊天🚪66 开放朋友圈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ytytcjkwy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mu%E2%80%86kie…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mu%E2%80%86kie%E2%80%86s%E2%80%86s_",
+                "start": 0,
+                "url": "https://t.co/WV0ZlGMkmz"
+              }
+            ]
+          }
+        },
+        "id": "1887181198486872066",
+        "name": "焦焦味",
+        "pinned_tweet_id": "2033093137380626679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031768383986028544/IQ7E53eS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 23,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/WV0ZlGMkmz",
+        "username": "OvOloveyu128",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 880,
+          "like_count": 56375,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 460
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

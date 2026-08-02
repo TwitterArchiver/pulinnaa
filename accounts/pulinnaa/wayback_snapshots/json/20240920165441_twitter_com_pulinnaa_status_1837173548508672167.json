@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1837065882885050759",
+    "created_at": "2024-09-20T16:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T17:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837173548508672167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1667437498556096514",
+          "start": 0,
+          "username": "YOULINGJUN2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837173548508672167",
+    "in_reply_to_user_id": "1667437498556096514",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837115946642858290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YOULINGJUN2022 わかった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1837065882885050759",
+        "created_at": "2024-09-20T16:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T17:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837173548508672167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1667437498556096514",
+              "start": 0,
+              "username": "YOULINGJUN2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837173548508672167",
+        "in_reply_to_user_id": "1667437498556096514",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837115946642858290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YOULINGJUN2022 わかった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667437498556096514",
+        "conversation_id": "1837065882885050759",
+        "created_at": "2024-09-20T13:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T14:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837115946642858290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837115946642858290",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837065882885050759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 地獄へ行け"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 158,
+          "like_count": 3600,
+          "listed_count": 1,
+          "tweet_count": 892
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T07:44:33.000Z",
+        "description": "情生情死情未了，缘起缘灭缘未央",
+        "id": "1667437498556096514",
+        "location": "波比波帝國！",
+        "name": "YOULINGJUN2022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673150814121230336/l9erAkto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 399,
+          "like_count": 1635,
+          "listed_count": 0,
+          "tweet_count": 1044
+        },
+        "username": "YOULINGJUN2022",
+        "verified": false
+      }
+    ]
+  }
+}

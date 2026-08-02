@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2061058994052149682",
+    "created_at": "2026-05-31T12:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061058994052149682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gfxvjt/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/gfxvjt/status/2060588869867999482",
+          "start": 18,
+          "url": "https://t.co/KOMoF1CTgm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061058994052149682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060588869867999482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我曾经对我前夫说过一模一样的话哈哈 https://t.co/KOMoF1CTgm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2061058994052149682",
+        "created_at": "2026-05-31T12:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061058994052149682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gfxvjt/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/gfxvjt/status/2060588869867999482",
+              "start": 18,
+              "url": "https://t.co/KOMoF1CTgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061058994052149682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060588869867999482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我曾经对我前夫说过一模一样的话哈哈 https://t.co/KOMoF1CTgm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839273704859250689",
+        "conversation_id": "2060588869867999482",
+        "created_at": "2026-05-30T05:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060588869867999482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060588869867999482",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 668,
+          "impression_count": 261171,
+          "like_count": 4251,
+          "quote_count": 648,
+          "reply_count": 0,
+          "retweet_count": 793
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "나 버리지마.. 내가 잘못했어.. 나 이용해도 좋으니까 나 버리지만 말아줘… 나 너한테 사랑받는거 원하지도않아 그냥 나 사용해줘… 곁에만 있을게 내가 남자친구 아니여도 괜찮아 다른 남자랑 있어도 상관안해… 이대로 우리 관계 끝내지 말아줘.. 난 이제 너 없으면 안될거 같아… 제발 부탁이야…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 182,
+          "like_count": 4036,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 2480
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T12:00:05.000Z",
+        "description": "뭘봐?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4192438055/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4192438055/",
+                "start": 0,
+                "url": "https://t.co/NOs5VHrmC8"
+              }
+            ]
+          }
+        },
+        "id": "1839273704859250689",
+        "location": "MS",
+        "name": "📷",
+        "pinned_tweet_id": "1961665532022964318",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6172,
+          "following_count": 0,
+          "like_count": 70,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/NOs5VHrmC8",
+        "username": "gfxvjt",
+        "verified": false
+      }
+    ]
+  }
+}

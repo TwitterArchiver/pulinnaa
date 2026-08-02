@@ -1,0 +1,212 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1801084921618002139",
+    "created_at": "2024-06-13T09:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T10:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801179735118209254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1747138924450029568",
+          "start": 0,
+          "username": "OVERDOSE_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801179735118209254",
+    "in_reply_to_user_id": "1747138924450029568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801088582658248959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OVERDOSE_Wiki 哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1801084921618002139",
+        "created_at": "2024-06-13T09:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T10:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801179735118209254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "OVERDOSE_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801179735118209254",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801088582658248959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVERDOSE_Wiki 哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "conversation_id": "1801084921618002139",
+        "created_at": "2024-06-13T03:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T04:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801088582658248959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801088582658248959",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 684,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801084921618002139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "异常情况发生，wiki主做出怪异举动，某些事物紧急修改，评估人员正在处理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 124,
+          "like_count": 1851,
+          "listed_count": 1,
+          "tweet_count": 493
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "欢迎来到 overdose维基！\n这里是或许可以给予帮助的地方...\nhttps://t.co/Se3CfE5xNq 致力于成为一个免费且持续更新的入门参考od 知识整合站点\n\nwiki主比较nb，会乱关注人，会乱向别人发私信，请见谅\n该账号由多名人员运营，有些东西是wiki主发的，有些东西是后藤发的，请仔细鉴别",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 58,
+                "expanded_url": "http://overdose.wiki",
+                "start": 35,
+                "url": "https://t.co/Se3CfE5xNq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/UVKr7EgL3R"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "✝️天国✝️",
+        "name": "Overdose Wiki（维护中）",
+        "pinned_tweet_id": "1796780832750989603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786914046882516992/r_sKIFUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5037,
+          "following_count": 2630,
+          "like_count": 1516,
+          "listed_count": 4,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/UVKr7EgL3R",
+        "username": "OVERDOSE_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

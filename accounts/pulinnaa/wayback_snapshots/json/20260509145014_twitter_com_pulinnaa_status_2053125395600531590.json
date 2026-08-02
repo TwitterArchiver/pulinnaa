@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2053124940162101466",
+    "created_at": "2026-05-09T14:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053125395600531590"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053125395600531590",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053124940162101466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只是很讨厌这种人呀。不过前夫和我在一起的时候真的对我很好。他给我前面的那任女孩的生日礼物才三百多。我后面那任八百多。但是给我的两千多。😳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053124925591027712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4qPe1agAAF_UW.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2053124940162101466",
+        "created_at": "2026-05-09T14:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053125395600531590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053125395600531590",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053124940162101466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只是很讨厌这种人呀。不过前夫和我在一起的时候真的对我很好。他给我前面的那任女孩的生日礼物才三百多。我后面那任八百多。但是给我的两千多。😳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053124925591027712"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053124940162101466",
+        "created_at": "2026-05-09T14:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053124940162101466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPUW1jKpbL",
+              "end": 60,
+              "expanded_url": "https://x.com/pulinnaa/status/2053124940162101466/photo/1",
+              "media_key": "3_2053124925591027712",
+              "start": 37,
+              "url": "https://t.co/aPUW1jKpbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053124940162101466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前夫跟第二任在一起的时候出轨求初恋复合的聊天记录我都找出来了。出轨成性哦 https://t.co/aPUW1jKpbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 155,
+          "like_count": 3966,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2068
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1871575151768457626",
+    "created_at": "2024-12-24T15:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T16:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871575151768457626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1774858357381140480",
+          "start": 3,
+          "username": "_moremoreKona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871575151768457626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862855081399570471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_moremoreKona: 寺川三角\n坐标上海 07高中生\n友達募集 想和小女孩一起玩！՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻💞萌妹子请和我互fo…！\n\n喜欢我就打钱让我过的更好吧…！好友位288随缘陪聊 过门无福利好处是认识我和我聊天 不接线下\n\n转关抽52*3、13.14*…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1871575151768457626].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1871575151768457626",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1871575151768457626"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862855046389776384",
+            "3_1862855046519541760"
+          ]
+        },
+        "author_id": "1774858357381140480",
+        "conversation_id": "1862855081399570471",
+        "created_at": "2024-11-30T13:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T14:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862855081399570471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgk1lG1TKg",
+              "end": 175,
+              "expanded_url": "https://x.com/_moremoreKona/status/1862855081399570471/photo/1",
+              "media_key": "3_1862855046389776384",
+              "start": 152,
+              "url": "https://t.co/hgk1lG1TKg"
+            },
+            {
+              "display_url": "pic.x.com/hgk1lG1TKg",
+              "end": 175,
+              "expanded_url": "https://x.com/_moremoreKona/status/1862855081399570471/photo/1",
+              "media_key": "3_1862855046519541760",
+              "start": 152,
+              "url": "https://t.co/hgk1lG1TKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862855081399570471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 98483,
+          "like_count": 185,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "寺川三角\n坐标上海 07高中生\n友達募集 想和小女孩一起玩！՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻💞萌妹子请和我互fo…！\n\n喜欢我就打钱让我过的更好吧…！好友位288随缘陪聊 过门无福利好处是认识我和我聊天 不接线下\n\n转关抽52*3、13.14*5以及1个免288门槛，圣诞节开，取关的不会再抽。 https://t.co/hgk1lG1TKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 175,
+          "like_count": 3736,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1109
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T17:56:29.000Z",
+        "description": "100%承認欲求雌竞女｜私信移步@skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "skk_minii"
+              }
+            ]
+          }
+        },
+        "id": "1774858357381140480",
+        "location": "我的命運線",
+        "name": "三角可麗餅",
+        "pinned_tweet_id": "1862855081399570471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837454130128080896/t46mHRZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 94,
+          "like_count": 755,
+          "listed_count": 6,
+          "media_count": 95,
+          "tweet_count": 411
+        },
+        "username": "_moremoreKona",
+        "verified": false
+      }
+    ]
+  }
+}

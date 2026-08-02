@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056293328480796672",
+        "13_2056293328396947457",
+        "13_2056293328468250625",
+        "3_2056293328438919168"
+      ],
+      "media_source_tweet_id": [
+        "2056293444163977426",
+        "2056293444163977426",
+        "2056293444163977426",
+        "2056293444163977426"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056947291676930238",
+    "created_at": "2026-05-20T03:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056947291676930238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1977768201414197248",
+          "start": 3,
+          "username": "hi682383713928"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ByiVc4Gq83",
+          "end": 112,
+          "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+          "media_key": "13_2056293328480796672",
+          "start": 89,
+          "url": "https://t.co/ByiVc4Gq83"
+        },
+        {
+          "display_url": "pic.x.com/ByiVc4Gq83",
+          "end": 112,
+          "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+          "media_key": "13_2056293328396947457",
+          "start": 89,
+          "url": "https://t.co/ByiVc4Gq83"
+        },
+        {
+          "display_url": "pic.x.com/ByiVc4Gq83",
+          "end": 112,
+          "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+          "media_key": "13_2056293328468250625",
+          "start": 89,
+          "url": "https://t.co/ByiVc4Gq83"
+        },
+        {
+          "display_url": "pic.x.com/ByiVc4Gq83",
+          "end": 112,
+          "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+          "media_key": "3_2056293328438919168",
+          "start": 89,
+          "url": "https://t.co/ByiVc4Gq83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056947291676930238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056293444163977426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hi682383713928: 转发送橙普一盒 宝贝们帮我转转\n\n新到甘草片 普瑞巴林 愈美片 长期有货渠道稳定 有需要看我主页➕ v 骗人全家死完 我自己也是oder https://t.co/ByiVc4Gq83"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7066,
+        "height": 1280,
+        "media_key": "13_2056293328480796672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056293328480796672/img/LdYcow3j30Wf0RVs.jpg",
+        "public_metrics": {
+          "view_count": 1179
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328480796672/vid/avc1/320x568/mcGe72CBaJf0kPYF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328480796672/vid/avc1/480x852/FAwTK4OtElZsvgoe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328480796672/vid/avc1/720x1280/zAEB1lgSI3K-CneJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056293328480796672/pl/FUP3ff8Asd5E548L.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 1578,
+        "height": 1280,
+        "media_key": "13_2056293328396947457",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056293328396947457/img/JgmUGGPKaryoOqQF.jpg",
+        "public_metrics": {
+          "view_count": 223
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328396947457/vid/avc1/320x568/X21lBPl919z4UwQR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328396947457/vid/avc1/480x852/7rSHuU08U-skoX_5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328396947457/vid/avc1/720x1280/RzPL15gQzmVGmhIG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056293328396947457/pl/2Jy_w2w9COLjd_OK.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 4273,
+        "height": 1280,
+        "media_key": "13_2056293328468250625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056293328468250625/img/snZR8bcKuUv_rg50.jpg",
+        "public_metrics": {
+          "view_count": 168
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328468250625/vid/avc1/320x568/zhNguhy7BEcUU_EL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328468250625/vid/avc1/480x852/g8rcUlhL4Da2mzNc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056293328468250625/vid/avc1/720x1280/vWUIBbSdDY0dYNpJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056293328468250625/pl/8DW7UN3xOJrlxyXS.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056293328438919168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlr4zObgAAMl1t.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056293328480796672",
+            "13_2056293328396947457",
+            "13_2056293328468250625",
+            "3_2056293328438919168"
+          ],
+          "media_source_tweet_id": [
+            "2056293444163977426",
+            "2056293444163977426",
+            "2056293444163977426",
+            "2056293444163977426"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056947291676930238",
+        "created_at": "2026-05-20T03:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056947291676930238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1977768201414197248",
+              "start": 3,
+              "username": "hi682383713928"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByiVc4Gq83",
+              "end": 112,
+              "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+              "media_key": "13_2056293328480796672",
+              "start": 89,
+              "url": "https://t.co/ByiVc4Gq83"
+            },
+            {
+              "display_url": "pic.x.com/ByiVc4Gq83",
+              "end": 112,
+              "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+              "media_key": "13_2056293328396947457",
+              "start": 89,
+              "url": "https://t.co/ByiVc4Gq83"
+            },
+            {
+              "display_url": "pic.x.com/ByiVc4Gq83",
+              "end": 112,
+              "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+              "media_key": "13_2056293328468250625",
+              "start": 89,
+              "url": "https://t.co/ByiVc4Gq83"
+            },
+            {
+              "display_url": "pic.x.com/ByiVc4Gq83",
+              "end": 112,
+              "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+              "media_key": "3_2056293328438919168",
+              "start": 89,
+              "url": "https://t.co/ByiVc4Gq83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056947291676930238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056293444163977426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hi682383713928: 转发送橙普一盒 宝贝们帮我转转\n\n新到甘草片 普瑞巴林 愈美片 长期有货渠道稳定 有需要看我主页➕ v 骗人全家死完 我自己也是oder https://t.co/ByiVc4Gq83"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056293328480796672",
+            "13_2056293328396947457",
+            "13_2056293328468250625",
+            "3_2056293328438919168"
+          ]
+        },
+        "author_id": "1977768201414197248",
+        "conversation_id": "2056293444163977426",
+        "created_at": "2026-05-18T08:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056293444163977426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByiVc4Gq83",
+              "end": 92,
+              "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+              "media_key": "13_2056293328480796672",
+              "start": 69,
+              "url": "https://t.co/ByiVc4Gq83"
+            },
+            {
+              "display_url": "pic.x.com/ByiVc4Gq83",
+              "end": 92,
+              "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+              "media_key": "13_2056293328396947457",
+              "start": 69,
+              "url": "https://t.co/ByiVc4Gq83"
+            },
+            {
+              "display_url": "pic.x.com/ByiVc4Gq83",
+              "end": 92,
+              "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+              "media_key": "13_2056293328468250625",
+              "start": 69,
+              "url": "https://t.co/ByiVc4Gq83"
+            },
+            {
+              "display_url": "pic.x.com/ByiVc4Gq83",
+              "end": 92,
+              "expanded_url": "https://x.com/hi682383713928/status/2056293444163977426/video/1",
+              "media_key": "3_2056293328438919168",
+              "start": 69,
+              "url": "https://t.co/ByiVc4Gq83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056293444163977426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4050,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "转发送橙普一盒 宝贝们帮我转转\n\n新到甘草片 普瑞巴林 愈美片 长期有货渠道稳定 有需要看我主页➕ v 骗人全家死完 我自己也是oder https://t.co/ByiVc4Gq83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 172,
+          "like_count": 4022,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 2285
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T16:07:54.000Z",
+        "description": "为何痛苦伴我如影随形\n➕🛰️Prunus-padus-L\n我是海 你想怎么叫我都可以 od/自残/精神病/精分双向/mha/胜出相关/杂食可能会转发cp相关雷到你了真是对不起 但是你又能怎么样呢👌\n感谢关注 认识你们会让我很开心",
+        "id": "1977768201414197248",
+        "name": "海",
+        "pinned_tweet_id": "2055627277178900693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045638773766262784/IRwYrsp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 64,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 124
+        },
+        "username": "hi682383713928",
+        "verified": false
+      }
+    ]
+  }
+}

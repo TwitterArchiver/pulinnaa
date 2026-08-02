@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1876669781920928231",
+    "created_at": "2025-01-07T16:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T17:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876672044806582493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1633757403232747520",
+          "start": 0,
+          "username": "seiyokuno_maou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876672044806582493",
+    "in_reply_to_user_id": "1633757403232747520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876671813654392955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiyokuno_maou ありがと〜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1876669781920928231",
+        "created_at": "2025-01-07T16:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T17:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876672044806582493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1633757403232747520",
+              "start": 0,
+              "username": "seiyokuno_maou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876672044806582493",
+        "in_reply_to_user_id": "1633757403232747520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876671813654392955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiyokuno_maou ありがと〜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633757403232747520",
+        "conversation_id": "1876669781920928231",
+        "created_at": "2025-01-07T16:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T17:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876671813654392955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876671813654392955",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876669781920928231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 可愛い💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 179,
+          "like_count": 3647,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1168
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T09:12:30.000Z",
+        "description": "東京住みで筋トレ、アニメ、ゲームが好きな30代です。\n婚活中です🥺\n\nよかったら仲良くしてください！！\n\n気軽にDMしてくださいね🥺",
+        "id": "1633757403232747520",
+        "name": "バン＠婚活中",
+        "pinned_tweet_id": "1820180861696008581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852696562100764673/u74kQGkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 203,
+          "like_count": 27232,
+          "listed_count": 5,
+          "media_count": 20,
+          "tweet_count": 21889
+        },
+        "username": "seiyokuno_maou",
+        "verified": false
+      }
+    ]
+  }
+}

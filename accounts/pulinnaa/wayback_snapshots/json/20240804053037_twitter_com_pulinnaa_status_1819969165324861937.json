@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1819967570151387195",
+    "created_at": "2024-08-04T05:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T06:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819969165324861937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754871332091682817",
+          "start": 0,
+          "username": "snake_lesyeux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819969165324861937",
+    "in_reply_to_user_id": "1754871332091682817",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819967570151387195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snake_lesyeux あおまる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1819967570151387195",
+        "created_at": "2024-08-04T05:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T06:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819969165324861937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754871332091682817",
+              "start": 0,
+              "username": "snake_lesyeux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819969165324861937",
+        "in_reply_to_user_id": "1754871332091682817",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819967570151387195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snake_lesyeux あおまる"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819967562530377728"
+          ]
+        },
+        "author_id": "1754871332091682817",
+        "conversation_id": "1819967570151387195",
+        "created_at": "2024-08-04T05:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T06:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819967570151387195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/QGNUUjg4bz",
+              "end": 52,
+              "expanded_url": "https://twitter.com/snake_lesyeux/status/1819967570151387195/photo/1",
+              "media_key": "3_1819967562530377728",
+              "start": 29,
+              "url": "https://t.co/QGNUUjg4bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819967570151387195",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友发给我这张图，想问问是哪位推主…她好可爱我想去关注她 https://t.co/QGNUUjg4bz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 155,
+          "like_count": 3279,
+          "listed_count": 0,
+          "tweet_count": 736
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "将死者，不爱人。",
+        "id": "1754871332091682817",
+        "name": "蛇瞳",
+        "pinned_tweet_id": "1815496561251754433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815478737212932096/oO6rsR8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 649,
+          "like_count": 21618,
+          "listed_count": 0,
+          "tweet_count": 1496
+        },
+        "username": "snake_lesyeux",
+        "verified": false
+      }
+    ]
+  }
+}

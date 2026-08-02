@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058163048838582273"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2058163079511417235",
+    "created_at": "2026-05-23T12:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058163079511417235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SFhUI141JE",
+          "end": 35,
+          "expanded_url": "https://x.com/pulinnaa/status/2058163079511417235/photo/1",
+          "media_key": "3_2058163048838582273",
+          "start": 12,
+          "url": "https://t.co/SFhUI141JE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058163079511417235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每日一恶搞之家谢谢谢谢 https://t.co/SFhUI141JE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058163079511417235].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058163079511417235",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058163079511417235"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058163048838582273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAQY2fb0AENtSp.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 173,
+          "like_count": 4027,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 2342
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

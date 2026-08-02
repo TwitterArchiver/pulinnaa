@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1813085745613316234",
+    "created_at": "2024-07-16T05:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T06:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813088650638553521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224274235561926659",
+          "start": 0,
+          "username": "AmamizuRei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813088650638553521",
+    "in_reply_to_user_id": "1224274235561926659",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813088198932730328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamizuRei0 有可能的版本是1.加到好友了开始每天患得患失的追他 2.我尼玛他咋找到对象了我自杀吧 3.嘻嘻谈上了好幸福 4.遇到了更喜欢的人已释怀（虽然这个不太可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1813085745613316234",
+        "created_at": "2024-07-16T05:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T06:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813088650638553521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224274235561926659",
+              "start": 0,
+              "username": "AmamizuRei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813088650638553521",
+        "in_reply_to_user_id": "1224274235561926659",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813088198932730328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamizuRei0 有可能的版本是1.加到好友了开始每天患得患失的追他 2.我尼玛他咋找到对象了我自杀吧 3.嘻嘻谈上了好幸福 4.遇到了更喜欢的人已释怀（虽然这个不太可能"
+      },
+      {
+        "attachments": {},
+        "author_id": "1224274235561926659",
+        "conversation_id": "1813085745613316234",
+        "created_at": "2024-07-16T05:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T06:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813088198932730328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813088198932730328",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813085745613316234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 我已经开始期待下一个版本的hnsk了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 155,
+          "like_count": 2891,
+          "listed_count": 1,
+          "tweet_count": 648
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T10:11:59.000Z",
+        "description": "实际上是一只经常会饿的野猪精 | 男的 | 没脑子的精神病",
+        "id": "1224274235561926659",
+        "location": "橘子树上",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1799291223657881758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720746628070744064/hDWjf5uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3424,
+          "following_count": 1276,
+          "like_count": 115189,
+          "listed_count": 9,
+          "tweet_count": 16722
+        },
+        "username": "AmamizuRei0",
+        "verified": false
+      }
+    ]
+  }
+}

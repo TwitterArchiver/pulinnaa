@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1931090557226627165",
+    "created_at": "2025-06-07T02:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T03:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931172599545159729"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "みぃちゃん",
+          "probability": 0.6892,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1521807076707737600",
+          "start": 0,
+          "username": "miimiichan1012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931172599545159729",
+    "in_reply_to_user_id": "1521807076707737600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931101438857654359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miimiichan1012 みぃちゃん、、、🥺🥺うれしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1931090557226627165",
+        "created_at": "2025-06-07T02:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T03:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931172599545159729"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "みぃちゃん",
+              "probability": 0.6892,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1521807076707737600",
+              "start": 0,
+              "username": "miimiichan1012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931172599545159729",
+        "in_reply_to_user_id": "1521807076707737600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931101438857654359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miimiichan1012 みぃちゃん、、、🥺🥺うれしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521807076707737600",
+        "conversation_id": "1931090557226627165",
+        "created_at": "2025-06-06T21:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T22:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931101438857654359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931101438857654359",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931090557226627165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 可愛いよ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 167,
+          "like_count": 3959,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 1484
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T11:01:05.000Z",
+        "description": "04無事に高校卒業｜お話垢｜女の子と面白い人だけ｜🔑サブ垢 @miimiichan10122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "miimiichan10122"
+              }
+            ]
+          }
+        },
+        "id": "1521807076707737600",
+        "name": "みぃちゃ🏳️‍🌈",
+        "pinned_tweet_id": "1522917198074945536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521811247607525383/wJCC3faw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 139,
+          "like_count": 1512,
+          "listed_count": 6,
+          "media_count": 30,
+          "tweet_count": 486
+        },
+        "username": "miimiichan1012",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1807713308541329466",
+    "created_at": "2024-07-01T12:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T13:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807749265583935630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744603962161213440",
+          "start": 0,
+          "username": "curocya__o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807749265583935630",
+    "in_reply_to_user_id": "1744603962161213440",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807713308541329466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@curocya__o ついてきたい❕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1807713308541329466",
+        "created_at": "2024-07-01T12:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T13:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807749265583935630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744603962161213440",
+              "start": 0,
+              "username": "curocya__o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807749265583935630",
+        "in_reply_to_user_id": "1744603962161213440",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807713308541329466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@curocya__o ついてきたい❕"
+      },
+      {
+        "attachments": {},
+        "author_id": "1744603962161213440",
+        "conversation_id": "1807713308541329466",
+        "created_at": "2024-07-01T09:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T10:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807713308541329466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807713308541329466",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "転生します!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807456345538568192/c1ZdEEFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 146,
+          "like_count": 2504,
+          "listed_count": 1,
+          "tweet_count": 557
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T06:16:45.000Z",
+        "description": "愛方@uVEmvPdg1N81148 ໒꒱°*。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "uVEmvPdg1N81148"
+              }
+            ]
+          }
+        },
+        "id": "1744603962161213440",
+        "location": "꒦꒷嫉妬でぐちゃぐちゃになった君がみたいの",
+        "name": "く ろ .ㄘゃ",
+        "pinned_tweet_id": "1807713308541329466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802687005136158720/K05Xli9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 480,
+          "like_count": 15064,
+          "listed_count": 11,
+          "tweet_count": 1259
+        },
+        "username": "curocya__o",
+        "verified": false
+      }
+    ]
+  }
+}

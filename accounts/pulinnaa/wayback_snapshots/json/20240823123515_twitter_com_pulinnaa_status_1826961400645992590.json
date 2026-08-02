@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1826707894861213777",
+    "created_at": "2024-08-23T12:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T13:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826961400645992590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1214894491968012288",
+          "start": 0,
+          "username": "l666lll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826961400645992590",
+    "in_reply_to_user_id": "1214894491968012288",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826956295842492707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l666lll ありがと！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1826707894861213777",
+        "created_at": "2024-08-23T12:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T13:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826961400645992590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1214894491968012288",
+              "start": 0,
+              "username": "l666lll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826961400645992590",
+        "in_reply_to_user_id": "1214894491968012288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826956295842492707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l666lll ありがと！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1214894491968012288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1826707894861213777",
+        "created_at": "2024-08-23T12:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T13:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826956295842492707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826956295842492707",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826818857346240714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 今日はなさきが、過去の出来事が、重要なヒントを与えてくれる様で、日記を読み返したり、写真の整理をすると良く、また読書にもツキがある。とても素敵な1日になります様に！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 152,
+          "like_count": 3379,
+          "listed_count": 1,
+          "tweet_count": 797
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T13:00:36.000Z",
+        "description": "ﾁｯ(･д･)！！ \nスーパーネガティブ人間ダミアンです！ \nよろしくお願いします♭\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▹◃┄▸◂┄▹◃┄▸◂\n病み垢┊︎男性┊︎61歳┊︎元A.Sax吹き┊︎車椅子ユーザー(脳梗塞で右半身麻痺)┊︎器質性パーソナリティー障害(希死念慮、自殺企図、情動不安定、被刺激の亢進、不眠)",
+        "id": "1214894491968012288",
+        "name": "ダミアン",
+        "pinned_tweet_id": "1393530150306816000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465763074670215168/zE0n6AXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 3539,
+          "like_count": 528174,
+          "listed_count": 90,
+          "tweet_count": 398759
+        },
+        "username": "l666lll",
+        "verified": true
+      }
+    ]
+  }
+}

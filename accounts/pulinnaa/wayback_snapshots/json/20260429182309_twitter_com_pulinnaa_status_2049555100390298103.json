@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2049555100390298103",
+    "created_at": "2026-04-29T18:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T19:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049555100390298103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1440331535492681733",
+          "start": 3,
+          "username": "badrhy888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049555100390298103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049496157517402449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badrhy888: 掉粉的时候看不出来谁取关了\n涨粉的时候也看不出来谁关注了\n推上就这样多出来幽灵粉丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2049555100390298103",
+        "created_at": "2026-04-29T18:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049555100390298103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1440331535492681733",
+              "start": 3,
+              "username": "badrhy888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049555100390298103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049496157517402449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badrhy888: 掉粉的时候看不出来谁取关了\n涨粉的时候也看不出来谁关注了\n推上就这样多出来幽灵粉丝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440331535492681733",
+        "conversation_id": "2049496157517402449",
+        "created_at": "2026-04-29T14:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049496157517402449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049496157517402449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14353,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "掉粉的时候看不出来谁取关了\n涨粉的时候也看不出来谁关注了\n推上就这样多出来幽灵粉丝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 151,
+          "like_count": 3956,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 1884
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T15:06:30.000Z",
+        "description": "ENTP双子 183/80 直男 喜欢体格差🎺@diandian010607 提问箱：https://t.co/7pgiG1xSLs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "diandian010607"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rhyme_82",
+                "end": 66,
+                "expanded_url": "https://ngl.link/rhyme_82",
+                "start": 43,
+                "url": "https://t.co/7pgiG1xSLs"
+              }
+            ]
+          }
+        },
+        "id": "1440331535492681733",
+        "location": "gym",
+        "name": ".",
+        "pinned_tweet_id": "1896926120416780627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962505812980682752/hWJ2Z9b-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10038,
+          "following_count": 999,
+          "like_count": 21512,
+          "listed_count": 26,
+          "media_count": 367,
+          "tweet_count": 1675
+        },
+        "username": "badrhy888",
+        "verified": false
+      }
+    ]
+  }
+}

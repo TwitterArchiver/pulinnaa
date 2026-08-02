@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1799783253358092601",
+    "created_at": "2024-06-09T12:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T13:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799783598171869377"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1799783598171869377",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799783253358092601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wiki男孩重度依赖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1799783253358092601",
+        "created_at": "2024-06-09T12:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T13:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799783598171869377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799783598171869377",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799783253358092601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wiki男孩重度依赖"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799783245137301505"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1799783253358092601",
+        "created_at": "2024-06-09T12:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T13:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799783253358092601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qBGhSMkstD",
+              "end": 35,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1799783253358092601/photo/1",
+              "media_key": "3_1799783245137301505",
+              "start": 12,
+              "url": "https://t.co/qBGhSMkstD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799783253358092601",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wiki主能不能断根🙄 https://t.co/qBGhSMkstD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 124,
+          "like_count": 1768,
+          "listed_count": 1,
+          "tweet_count": 386
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

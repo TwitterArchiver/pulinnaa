@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1824496532726616238",
+    "created_at": "2024-08-16T17:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T18:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824496532726616238"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 57,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 83,
+          "start": 70,
+          "tag": "病み垢女子とつながりたい"
+        },
+        {
+          "end": 90,
+          "start": 84,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 101,
+          "start": 91,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 114,
+          "start": 102,
+          "tag": "量産型女子と繋がりたい"
+        },
+        {
+          "end": 129,
+          "start": 115,
+          "tag": "雰囲気嫌いじゃない人いいね"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812411492752642048",
+          "start": 3,
+          "username": "_poison_A_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824496532726616238",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824490110139896249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_poison_A_: 🏷𓈒𓏸︎︎︎︎\n\nせめて夢くらいいい夢にして\n\nLJK￤♀︎￤躁鬱￤自傷￤甘党\n\n#病み垢さんと繋がりたい #病み垢女子とつながりたい #病み垢女子 #地雷系と繋がりたい #量産型女子と繋がりたい #雰囲気嫌いじゃない人いいね #病み垢さんとお友…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1824496532726616238",
+        "created_at": "2024-08-16T17:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T18:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824496532726616238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 83,
+              "start": 70,
+              "tag": "病み垢女子とつながりたい"
+            },
+            {
+              "end": 90,
+              "start": 84,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 101,
+              "start": 91,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 114,
+              "start": 102,
+              "tag": "量産型女子と繋がりたい"
+            },
+            {
+              "end": 129,
+              "start": 115,
+              "tag": "雰囲気嫌いじゃない人いいね"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812411492752642048",
+              "start": 3,
+              "username": "_poison_A_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824496532726616238",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824490110139896249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_poison_A_: 🏷𓈒𓏸︎︎︎︎\n\nせめて夢くらいいい夢にして\n\nLJK￤♀︎￤躁鬱￤自傷￤甘党\n\n#病み垢さんと繋がりたい #病み垢女子とつながりたい #病み垢女子 #地雷系と繋がりたい #量産型女子と繋がりたい #雰囲気嫌いじゃない人いいね #病み垢さんとお友…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824490080167399426",
+            "3_1824490080163205125",
+            "3_1824490080179982336",
+            "3_1824490080179982341"
+          ]
+        },
+        "author_id": "1812411492752642048",
+        "conversation_id": "1824490110139896249",
+        "created_at": "2024-08-16T16:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T17:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824490110139896249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 41,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 67,
+              "start": 54,
+              "tag": "病み垢女子とつながりたい"
+            },
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 98,
+              "start": 86,
+              "tag": "量産型女子と繋がりたい"
+            },
+            {
+              "end": 113,
+              "start": 99,
+              "tag": "雰囲気嫌いじゃない人いいね"
+            },
+            {
+              "end": 129,
+              "start": 114,
+              "tag": "病み垢さんとお友達になりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bimjqzscdr",
+              "end": 153,
+              "expanded_url": "https://twitter.com/_poison_A_/status/1824490110139896249/photo/1",
+              "media_key": "3_1824490080167399426",
+              "start": 130,
+              "url": "https://t.co/BimjQzSCdr"
+            },
+            {
+              "display_url": "pic.x.com/bimjqzscdr",
+              "end": 153,
+              "expanded_url": "https://twitter.com/_poison_A_/status/1824490110139896249/photo/1",
+              "media_key": "3_1824490080163205125",
+              "start": 130,
+              "url": "https://t.co/BimjQzSCdr"
+            },
+            {
+              "display_url": "pic.x.com/bimjqzscdr",
+              "end": 153,
+              "expanded_url": "https://twitter.com/_poison_A_/status/1824490110139896249/photo/1",
+              "media_key": "3_1824490080179982336",
+              "start": 130,
+              "url": "https://t.co/BimjQzSCdr"
+            },
+            {
+              "display_url": "pic.x.com/bimjqzscdr",
+              "end": 153,
+              "expanded_url": "https://twitter.com/_poison_A_/status/1824490110139896249/photo/1",
+              "media_key": "3_1824490080179982341",
+              "start": 130,
+              "url": "https://t.co/BimjQzSCdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824490110139896249",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🏷𓈒𓏸︎︎︎︎\n\nせめて夢くらいいい夢にして\n\nLJK￤♀︎￤躁鬱￤自傷￤甘党\n\n#病み垢さんと繋がりたい #病み垢女子とつながりたい #病み垢女子 #地雷系と繋がりたい #量産型女子と繋がりたい #雰囲気嫌いじゃない人いいね #病み垢さんとお友達になりたい https://t.co/BimjQzSCdr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 157,
+          "like_count": 3358,
+          "listed_count": 1,
+          "tweet_count": 779
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T08:59:16.000Z",
+        "description": "猛毒モード  ♡ @RgPvQBmCC916782",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "RgPvQBmCC916782"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_h2so3._?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/_h2so3._?igsh=MWNsejY3MGprMTAyZg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/UFKFOtaquO"
+              }
+            ]
+          }
+        },
+        "id": "1812411492752642048",
+        "name": "酔夢",
+        "pinned_tweet_id": "1824490110139896249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824027017492430848/0EriCwhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 57,
+          "like_count": 2582,
+          "listed_count": 6,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/UFKFOtaquO",
+        "username": "_poison_A_",
+        "verified": false
+      }
+    ]
+  }
+}

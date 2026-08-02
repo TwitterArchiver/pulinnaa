@@ -1,0 +1,350 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1803032016583094526",
+    "created_at": "2024-06-18T11:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T12:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803032016583094526"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 46,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 75,
+          "start": 60,
+          "tag": "病み垢さんとお友達になりたい"
+        },
+        {
+          "end": 90,
+          "start": 78,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 104,
+          "start": 91,
+          "tag": "病み垢さんとつながりたい"
+        },
+        {
+          "end": 118,
+          "start": 105,
+          "tag": "病み垢さんと仲良くしたい"
+        },
+        {
+          "end": 127,
+          "start": 119,
+          "tag": "病み垢フォロバ"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "病み垢"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1741110390191431680",
+          "start": 3,
+          "username": "samidare_0802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803032016583094526",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803027141870981345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samidare_0802: 🏷 \n\n06｜高浮上｜即レス\n\nいなくならないで\n\n #病み垢さんと繋がりたい  #病み垢さんとお友達になりたい \n #病み垢女子と繋がりたい #病み垢さんとつながりたい #病み垢さんと仲良くしたい #病み垢フォロバ #病み垢 #中高生さん…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1803032016583094526",
+        "created_at": "2024-06-18T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803032016583094526"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 46,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 75,
+              "start": 60,
+              "tag": "病み垢さんとお友達になりたい"
+            },
+            {
+              "end": 90,
+              "start": 78,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 104,
+              "start": 91,
+              "tag": "病み垢さんとつながりたい"
+            },
+            {
+              "end": 118,
+              "start": 105,
+              "tag": "病み垢さんと仲良くしたい"
+            },
+            {
+              "end": 127,
+              "start": 119,
+              "tag": "病み垢フォロバ"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "病み垢"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1741110390191431680",
+              "start": 3,
+              "username": "samidare_0802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803032016583094526",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803027141870981345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @samidare_0802: 🏷 \n\n06｜高浮上｜即レス\n\nいなくならないで\n\n #病み垢さんと繋がりたい  #病み垢さんとお友達になりたい \n #病み垢女子と繋がりたい #病み垢さんとつながりたい #病み垢さんと仲良くしたい #病み垢フォロバ #病み垢 #中高生さん…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803027137907339264",
+            "3_1803027137924055040"
+          ]
+        },
+        "author_id": "1741110390191431680",
+        "conversation_id": "1803027141870981345",
+        "created_at": "2024-06-18T11:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T12:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803027141870981345"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 56,
+              "start": 41,
+              "tag": "病み垢さんとお友達になりたい"
+            },
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 85,
+              "start": 72,
+              "tag": "病み垢さんとつながりたい"
+            },
+            {
+              "end": 99,
+              "start": 86,
+              "tag": "病み垢さんと仲良くしたい"
+            },
+            {
+              "end": 108,
+              "start": 100,
+              "tag": "病み垢フォロバ"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "病み垢"
+            },
+            {
+              "end": 126,
+              "start": 114,
+              "tag": "中高生さんと繋がりたい"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "拡散希望"
+            },
+            {
+              "end": 156,
+              "start": 133,
+              "tag": "いいねかＲＴした人で気になった人フォローする"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tcQpUo3wVN",
+              "end": 180,
+              "expanded_url": "https://twitter.com/samidare_0802/status/1803027141870981345/photo/1",
+              "media_key": "3_1803027137907339264",
+              "start": 157,
+              "url": "https://t.co/tcQpUo3wVN"
+            },
+            {
+              "display_url": "pic.twitter.com/tcQpUo3wVN",
+              "end": 180,
+              "expanded_url": "https://twitter.com/samidare_0802/status/1803027141870981345/photo/1",
+              "media_key": "3_1803027137924055040",
+              "start": 157,
+              "url": "https://t.co/tcQpUo3wVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803027141870981345",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 26,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "🏷 \n\n06｜高浮上｜即レス\n\nいなくならないで\n\n #病み垢さんと繋がりたい  #病み垢さんとお友達になりたい \n #病み垢女子と繋がりたい #病み垢さんとつながりたい #病み垢さんと仲良くしたい #病み垢フォロバ #病み垢 #中高生さんと繋がりたい #拡散希望 #いいねかＲＴした人で気になった人フォローする https://t.co/tcQpUo3wVN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 130,
+          "like_count": 1977,
+          "listed_count": 1,
+          "tweet_count": 520
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T14:54:10.000Z",
+        "description": "病み垢兼日常｜dm○｜片思い2日｜微糖｜監視｜スパム垢くんな｜だる絡み◎ 妹@yuzu_cat618",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "yuzu_cat618"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/samidare_08…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/samidare_0802/",
+                "start": 0,
+                "url": "https://t.co/tuFI2gzFqd"
+              }
+            ]
+          }
+        },
+        "id": "1741110390191431680",
+        "name": "五月雨（さみだれ）@おはよbot",
+        "pinned_tweet_id": "1803027141870981345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803031101860143104/wSrjX6Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 649,
+          "like_count": 17985,
+          "listed_count": 40,
+          "tweet_count": 10092
+        },
+        "url": "https://t.co/tuFI2gzFqd",
+        "username": "samidare_0802",
+        "verified": false
+      }
+    ]
+  }
+}

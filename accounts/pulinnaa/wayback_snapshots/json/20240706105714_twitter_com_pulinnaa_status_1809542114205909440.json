@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1809535915733246098",
+    "created_at": "2024-07-06T10:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T11:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809542114205909440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741110390191431680",
+          "start": 0,
+          "username": "samidare_0802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809542114205909440",
+    "in_reply_to_user_id": "1741110390191431680",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809535915733246098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samidare_0802 ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1809535915733246098",
+        "created_at": "2024-07-06T10:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T11:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809542114205909440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741110390191431680",
+              "start": 0,
+              "username": "samidare_0802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809542114205909440",
+        "in_reply_to_user_id": "1741110390191431680",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809535915733246098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samidare_0802 ！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1741110390191431680",
+        "conversation_id": "1809535915733246098",
+        "created_at": "2024-07-06T10:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T11:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809535915733246098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今日中に何リプ来るか"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809535915733246098",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#今日中に何リプ来るか\n\n全人類こい\n\n100人以上  大人気\n50人  人気 \n30人  まあまあ人気 \n10人  普通  \n7人    人気ないかも\n5人    不人気  \n3人　認知されてる？  \n1人    認知されてない  \n0人    引退だね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 148,
+          "like_count": 2665,
+          "listed_count": 1,
+          "tweet_count": 585
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T14:54:10.000Z",
+        "description": "病み日常｜dm○｜片思い2日｜微糖｜監視｜スパム垢くんな｜だる絡み◎ 妹@yuzu_cat618",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "yuzu_cat618"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/samidare_08…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/samidare_0802/",
+                "start": 0,
+                "url": "https://t.co/tuFI2gzFqd"
+              }
+            ]
+          }
+        },
+        "id": "1741110390191431680",
+        "name": "五月雨（さみだれ）@おはよbot",
+        "pinned_tweet_id": "1808117762424033364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809476030182420480/5jU_HGUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 741,
+          "like_count": 20370,
+          "listed_count": 45,
+          "tweet_count": 11517
+        },
+        "url": "https://t.co/tuFI2gzFqd",
+        "username": "samidare_0802",
+        "verified": false
+      }
+    ]
+  }
+}

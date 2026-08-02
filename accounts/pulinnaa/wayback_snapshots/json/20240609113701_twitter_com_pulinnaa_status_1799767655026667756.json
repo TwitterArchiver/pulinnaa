@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1799767652631752704"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1799767655026667756",
+    "created_at": "2024-06-09T11:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T12:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799767655026667756"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "Twitter",
+          "probability": 0.6053,
+          "start": 2,
+          "type": "Product"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinityweet.me/interaction-ci…",
+          "end": 44,
+          "expanded_url": "https://infinityweet.me/interaction-circle?lang=ja",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1798494842022187008/iQxLYlKj?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1798494842022187008/iQxLYlKj?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinityweet.me/interaction-circle?lang=ja",
+          "url": "https://t.co/ZASTAJVPsZ"
+        },
+        {
+          "display_url": "pic.twitter.com/Vjs1BrIetc",
+          "end": 68,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1799767655026667756/photo/1",
+          "media_key": "3_1799767652631752704",
+          "start": 45,
+          "url": "https://t.co/Vjs1BrIetc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799767655026667756",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/ZASTAJVPsZ https://t.co/Vjs1BrIetc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1799767652631752704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPoPJP1asAAcE74.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799767652631752704"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1799767655026667756",
+        "created_at": "2024-06-09T11:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T12:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799767655026667756"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Twitter",
+              "probability": 0.6053,
+              "start": 2,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 44,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=ja",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1798494842022187008/iQxLYlKj?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1798494842022187008/iQxLYlKj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=ja",
+              "url": "https://t.co/ZASTAJVPsZ"
+            },
+            {
+              "display_url": "pic.twitter.com/Vjs1BrIetc",
+              "end": 68,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1799767655026667756/photo/1",
+              "media_key": "3_1799767652631752704",
+              "start": 45,
+              "url": "https://t.co/Vjs1BrIetc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799767655026667756",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/ZASTAJVPsZ https://t.co/Vjs1BrIetc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 129,
+          "like_count": 1767,
+          "listed_count": 1,
+          "tweet_count": 378
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

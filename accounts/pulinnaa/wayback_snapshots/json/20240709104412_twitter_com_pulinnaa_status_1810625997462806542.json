@@ -1,0 +1,306 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1810625951992311808"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1810625997462806542",
+    "created_at": "2024-07-09T10:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T11:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1810625997462806542"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "地雷系"
+        },
+        {
+          "end": 29,
+          "start": 16,
+          "tag": "美男美女さんと繋がりたい"
+        },
+        {
+          "end": 43,
+          "start": 31,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 67,
+          "start": 49,
+          "tag": "いいねした人で気になった人フォロー"
+        },
+        {
+          "end": 74,
+          "start": 68,
+          "tag": "彼氏募集中"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "彼女募集"
+        },
+        {
+          "end": 98,
+          "start": 81,
+          "tag": "1mmでもいいなと思ったらいいね"
+        },
+        {
+          "end": 106,
+          "start": 99,
+          "tag": "いいねでDM"
+        },
+        {
+          "end": 113,
+          "start": 107,
+          "tag": "いいね返し"
+        },
+        {
+          "end": 121,
+          "start": 114,
+          "tag": "自発ください"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/0YjemdIzZd",
+          "end": 145,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1810625997462806542/video/1",
+          "media_key": "7_1810625951992311808",
+          "start": 122,
+          "url": "https://t.co/0YjemdIzZd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810625997462806542",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ずっとゲームは友達\n\n#地雷系 #美男美女さんと繋がりたい  #病み垢さんと繋がりたい #雰囲気 #いいねした人で気になった人フォロー #彼氏募集中 #彼女募集 #1mmでもいいなと思ったらいいね #いいねでDM #いいね返し #自発ください https://t.co/0YjemdIzZd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21933,
+        "height": 1280,
+        "media_key": "7_1810625951992311808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1810625951992311808/pu/img/uF8UndLgYft0mQVW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810625951992311808/pu/vid/avc1/320x568/EIl5KsOKrqi7I_3c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810625951992311808/pu/vid/avc1/480x852/wss5ABR40sqhWz3D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810625951992311808/pu/vid/avc1/720x1280/8T__EvmkariYJmh_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1810625951992311808/pu/pl/h21BuT4uWtQ6rdS5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810625951992311808"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1810625997462806542",
+        "created_at": "2024-07-09T10:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T11:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810625997462806542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "地雷系"
+            },
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 43,
+              "start": 31,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 67,
+              "start": 49,
+              "tag": "いいねした人で気になった人フォロー"
+            },
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "彼氏募集中"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "彼女募集"
+            },
+            {
+              "end": 98,
+              "start": 81,
+              "tag": "1mmでもいいなと思ったらいいね"
+            },
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "いいねでDM"
+            },
+            {
+              "end": 113,
+              "start": 107,
+              "tag": "いいね返し"
+            },
+            {
+              "end": 121,
+              "start": 114,
+              "tag": "自発ください"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0YjemdIzZd",
+              "end": 145,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1810625997462806542/video/1",
+              "media_key": "7_1810625951992311808",
+              "start": 122,
+              "url": "https://t.co/0YjemdIzZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810625997462806542",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ずっとゲームは友達\n\n#地雷系 #美男美女さんと繋がりたい  #病み垢さんと繋がりたい #雰囲気 #いいねした人で気になった人フォロー #彼氏募集中 #彼女募集 #1mmでもいいなと思ったらいいね #いいねでDM #いいね返し #自発ください https://t.co/0YjemdIzZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 148,
+          "like_count": 2719,
+          "listed_count": 1,
+          "tweet_count": 640
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1871528210363789625",
+    "created_at": "2024-12-24T12:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T13:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871528210363789625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "link.brawlstars.com/invite/gameroo…",
+          "end": 49,
+          "expanded_url": "https://link.brawlstars.com/invite/gameroom/cn?tag=XW4Q2WLW",
+          "start": 26,
+          "url": "https://t.co/9PDye0RRjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871528210363789625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点击该链接，与sakinya组队畅玩《荒野乱斗》！ https://t.co/9PDye0RRjn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1871528210363789625",
+        "created_at": "2024-12-24T12:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871528210363789625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "link.brawlstars.com/invite/gameroo…",
+              "end": 49,
+              "expanded_url": "https://link.brawlstars.com/invite/gameroom/cn?tag=XW4Q2WLW",
+              "start": 26,
+              "url": "https://t.co/9PDye0RRjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871528210363789625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点击该链接，与sakinya组队畅玩《荒野乱斗》！ https://t.co/9PDye0RRjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 175,
+          "like_count": 3734,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1106
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

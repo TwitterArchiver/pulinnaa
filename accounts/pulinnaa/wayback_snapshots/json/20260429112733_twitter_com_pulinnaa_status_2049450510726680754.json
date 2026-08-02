@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049357989510103040",
+        "3_2049357989493284864"
+      ],
+      "media_source_tweet_id": [
+        "2049358001170190682",
+        "2049358001170190682"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2049450510726680754",
+    "created_at": "2026-04-29T11:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049450510726680754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1695026363118551040",
+          "start": 3,
+          "username": "yyunana1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zaSz12qZKY",
+          "end": 47,
+          "expanded_url": "https://x.com/yyunana1234/status/2049358001170190682/photo/1",
+          "media_key": "3_2049357989510103040",
+          "start": 24,
+          "url": "https://t.co/zaSz12qZKY"
+        },
+        {
+          "display_url": "pic.x.com/zaSz12qZKY",
+          "end": 47,
+          "expanded_url": "https://x.com/yyunana1234/status/2049358001170190682/photo/1",
+          "media_key": "3_2049357989493284864",
+          "start": 24,
+          "url": "https://t.co/zaSz12qZKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049450510726680754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049358001170190682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyunana1234: 小心被我掐瘋 https://t.co/zaSz12qZKY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049450510726680754].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049450510726680754",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049450510726680754"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049357989510103040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDIO8ZbwAA_NV8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049357989493284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDIO8VbIAAgF1N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049357989510103040",
+            "3_2049357989493284864"
+          ]
+        },
+        "author_id": "1695026363118551040",
+        "conversation_id": "2049358001170190682",
+        "created_at": "2026-04-29T05:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049358001170190682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zaSz12qZKY",
+              "end": 30,
+              "expanded_url": "https://x.com/yyunana1234/status/2049358001170190682/photo/1",
+              "media_key": "3_2049357989510103040",
+              "start": 7,
+              "url": "https://t.co/zaSz12qZKY"
+            },
+            {
+              "display_url": "pic.x.com/zaSz12qZKY",
+              "end": 30,
+              "expanded_url": "https://x.com/yyunana1234/status/2049358001170190682/photo/1",
+              "media_key": "3_2049357989493284864",
+              "start": 7,
+              "url": "https://t.co/zaSz12qZKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049358001170190682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小心被我掐瘋 https://t.co/zaSz12qZKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 151,
+          "like_count": 3956,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 1880
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T10:52:41.000Z",
+        "description": "貪嗔痴。三毒至怨。 *不線下沒有再搞門檻什麼的 沒在什麼照片影片訂製也沒賣原味 不約拍互惠等等 這個號是用來發癲的 *",
+        "id": "1695026363118551040",
+        "location": "虛",
+        "name": "ゆな",
+        "pinned_tweet_id": "1991532509340004451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018042223980544/UNI-zw6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 265,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2557
+        },
+        "username": "yyunana1234",
+        "verified": false
+      }
+    ]
+  }
+}

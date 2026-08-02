@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1837193495184036347",
+    "created_at": "2024-09-21T23:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T00:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837631542195343407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811711259005669377",
+          "start": 0,
+          "username": "tianzouxueyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837631542195343407",
+    "in_reply_to_user_id": "1811711259005669377",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837630173459763293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianzouxueyin 可以可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T23:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T00:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837631542195343407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811711259005669377",
+              "start": 0,
+              "username": "tianzouxueyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837631542195343407",
+        "in_reply_to_user_id": "1811711259005669377",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837630173459763293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianzouxueyin 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811711259005669377",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T23:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T00:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837630173459763293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837630173459763293",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837345952761516320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 你骂是因为你被陌生人侮辱了，我骂你也是因为我被陌生人侮辱了。当你开地图炮时就该想到这个结果。下次请冷静一些，被别人骂了应该立即找别人骂回去才对吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 159,
+          "like_count": 3639,
+          "listed_count": 1,
+          "tweet_count": 942
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T10:36:59.000Z",
+        "description": "(●—●)",
+        "id": "1811711259005669377",
+        "location": "Chengdu",
+        "name": "tianzou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812214552534167552/AxvedR0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 21,
+          "like_count": 406,
+          "listed_count": 0,
+          "tweet_count": 62
+        },
+        "username": "tianzouxueyin",
+        "verified": false
+      }
+    ]
+  }
+}

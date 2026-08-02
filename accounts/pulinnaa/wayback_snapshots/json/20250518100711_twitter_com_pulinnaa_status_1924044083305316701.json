@@ -1,0 +1,674 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10032066735",
+          "name": "情報ライブ ミヤネ屋"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nippon Television (日本テレビ)",
+          "id": "1034887797990027264",
+          "name": "Nippon Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281312750648479744",
+          "name": "Talk shows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281313327956688896",
+          "name": "Daytime talk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1519403344862752768",
+          "name": "Miyane-ya"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Saitama",
+          "id": "1009173667677286400",
+          "name": "Saitama"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1519403344862752768",
+          "name": "Miyane-ya"
+        }
+      }
+    ],
+    "conversation_id": "1924044083305316701",
+    "created_at": "2025-05-18T10:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T11:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924044083305316701"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "ミヤネ屋 埼玉三郷",
+          "probability": 0.1545,
+          "start": 21,
+          "type": "Organization"
+        },
+        {
+          "end": 102,
+          "normalized_text": "宮根",
+          "probability": 0.6086,
+          "start": 101,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1561668100818599939",
+          "start": 3,
+          "username": "eitheroneisfine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924044083305316701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29707
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923251264067891382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eitheroneisfine: ミヤネ屋\n埼玉三郷小学生ひき逃げ事件について\n\n川口ナンバー、外国人である可能性に触れ、文化の違いだとか言い始めて\nガダルカナルタカ「凶悪犯って感じじゃない」\n宮根「重大な気がしてなかったのかも」\n\nなんで子供轢いて、車捨てずっと逃走し…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1923251258774913025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDC1H0aAAEQri5.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1923251258745552898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDC1HtaAAIuaPX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1923251258783301633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDC1H2aAAEw9qC.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1923251258800185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDC1H6boAAuaTn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10032066735",
+              "name": "情報ライブ ミヤネ屋"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nippon Television (日本テレビ)",
+              "id": "1034887797990027264",
+              "name": "Nippon Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313327956688896",
+              "name": "Daytime talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1519403344862752768",
+              "name": "Miyane-ya"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1519403344862752768",
+              "name": "Miyane-ya"
+            }
+          }
+        ],
+        "conversation_id": "1924044083305316701",
+        "created_at": "2025-05-18T10:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924044083305316701"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "ミヤネ屋 埼玉三郷",
+              "probability": 0.1545,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 102,
+              "normalized_text": "宮根",
+              "probability": 0.6086,
+              "start": 101,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1561668100818599939",
+              "start": 3,
+              "username": "eitheroneisfine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924044083305316701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29707
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923251264067891382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eitheroneisfine: ミヤネ屋\n埼玉三郷小学生ひき逃げ事件について\n\n川口ナンバー、外国人である可能性に触れ、文化の違いだとか言い始めて\nガダルカナルタカ「凶悪犯って感じじゃない」\n宮根「重大な気がしてなかったのかも」\n\nなんで子供轢いて、車捨てずっと逃走し…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923251258774913025",
+            "3_1923251258745552898",
+            "3_1923251258783301633",
+            "3_1923251258800185344"
+          ]
+        },
+        "author_id": "1561668100818599939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10032066735",
+              "name": "情報ライブ ミヤネ屋"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nippon Television (日本テレビ)",
+              "id": "1034887797990027264",
+              "name": "Nippon Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313327956688896",
+              "name": "Daytime talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1519403344862752768",
+              "name": "Miyane-ya"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1519403344862752768",
+              "name": "Miyane-ya"
+            }
+          }
+        ],
+        "conversation_id": "1923251264067891382",
+        "created_at": "2025-05-16T05:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T06:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923251264067891382"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "ミヤネ屋 埼玉三郷",
+              "probability": 0.2441,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 81,
+              "normalized_text": "宮根",
+              "probability": 0.6489,
+              "start": 80,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExEmsy6FfI",
+              "end": 166,
+              "expanded_url": "https://x.com/eitheroneisfine/status/1923251264067891382/photo/1",
+              "media_key": "3_1923251258774913025",
+              "start": 143,
+              "url": "https://t.co/ExEmsy6FfI"
+            },
+            {
+              "display_url": "pic.x.com/ExEmsy6FfI",
+              "end": 166,
+              "expanded_url": "https://x.com/eitheroneisfine/status/1923251264067891382/photo/1",
+              "media_key": "3_1923251258745552898",
+              "start": 143,
+              "url": "https://t.co/ExEmsy6FfI"
+            },
+            {
+              "display_url": "pic.x.com/ExEmsy6FfI",
+              "end": 166,
+              "expanded_url": "https://x.com/eitheroneisfine/status/1923251264067891382/photo/1",
+              "media_key": "3_1923251258783301633",
+              "start": 143,
+              "url": "https://t.co/ExEmsy6FfI"
+            },
+            {
+              "display_url": "pic.x.com/ExEmsy6FfI",
+              "end": 166,
+              "expanded_url": "https://x.com/eitheroneisfine/status/1923251264067891382/photo/1",
+              "media_key": "3_1923251258800185344",
+              "start": 143,
+              "url": "https://t.co/ExEmsy6FfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923251264067891382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1768,
+          "impression_count": 4680544,
+          "like_count": 142547,
+          "quote_count": 1600,
+          "reply_count": 2006,
+          "retweet_count": 29707
+        },
+        "reply_settings": "everyone",
+        "text": "ミヤネ屋\n埼玉三郷小学生ひき逃げ事件について\n\n川口ナンバー、外国人である可能性に触れ、文化の違いだとか言い始めて\nガダルカナルタカ「凶悪犯って感じじゃない」\n宮根「重大な気がしてなかったのかも」\n\nなんで子供轢いて、車捨てずっと逃走してる犯人を擁護してんの？\n\nもう終われよこの番組 https://t.co/ExEmsy6FfI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 165,
+          "like_count": 3915,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 1463
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T10:54:57.000Z",
+        "description": "",
+        "id": "1561668100818599939",
+        "name": "Dotch Demo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671650956784857088/8MM-jVRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 0,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 155
+        },
+        "username": "eitheroneisfine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1858022397657624671",
+    "created_at": "2024-11-17T11:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T12:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858107474341212621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741110390191431680",
+          "start": 0,
+          "username": "samidare_0802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858107474341212621",
+    "in_reply_to_user_id": "1741110390191431680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858023174048505866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samidare_0802 うれしい(˃̵ᴗ˂̵)ありがと！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1858022397657624671",
+        "created_at": "2024-11-17T11:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T12:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858107474341212621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741110390191431680",
+              "start": 0,
+              "username": "samidare_0802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858107474341212621",
+        "in_reply_to_user_id": "1741110390191431680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858023174048505866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samidare_0802 うれしい(˃̵ᴗ˂̵)ありがと！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741110390191431680",
+        "conversation_id": "1858022397657624671",
+        "created_at": "2024-11-17T05:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T06:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858023174048505866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858023174048505866",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858022397657624671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa かおつんよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 168,
+          "like_count": 3755,
+          "listed_count": 1,
+          "tweet_count": 1035
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T14:54:10.000Z",
+        "description": "06|病み｜dm○｜だる絡み◎ ｜自発いいねとリプ｜片想い2日 雰囲気メディア 相棒@xn_thx_x 妹@yuzu_cat618",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "xn_thx_x"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "yuzu_cat618"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/samidare_08…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/samidare_0802/",
+                "start": 0,
+                "url": "https://t.co/tuFI2gzFqd"
+              }
+            ]
+          }
+        },
+        "id": "1741110390191431680",
+        "name": "五月雨（zombie）",
+        "pinned_tweet_id": "1775043405103665367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855540227357683712/p0mVplSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 626,
+          "like_count": 34090,
+          "listed_count": 63,
+          "tweet_count": 21583
+        },
+        "url": "https://t.co/tuFI2gzFqd",
+        "username": "samidare_0802",
+        "verified": false
+      }
+    ]
+  }
+}

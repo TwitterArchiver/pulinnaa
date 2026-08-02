@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065769083896057856",
+        "3_2065769083887656960"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2065769093895221331",
+    "created_at": "2026-06-13T12:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065769093895221331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vNgHuvEOEw",
+          "end": 31,
+          "expanded_url": "https://x.com/pulinnaa/status/2065769093895221331/photo/1",
+          "media_key": "3_2065769083896057856",
+          "start": 8,
+          "url": "https://t.co/vNgHuvEOEw"
+        },
+        {
+          "display_url": "pic.x.com/vNgHuvEOEw",
+          "end": 31,
+          "expanded_url": "https://x.com/pulinnaa/status/2065769093895221331/photo/1",
+          "media_key": "3_2065769083887656960",
+          "start": 8,
+          "url": "https://t.co/vNgHuvEOEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065769093895221331",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人とイラスト https://t.co/vNgHuvEOEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2065769083896057856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsWCXGb0AAQQnU.jpg",
+        "width": 720
+      },
+      {
+        "height": 1335,
+        "media_key": "3_2065769083887656960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsWCXEboAAP9Ll.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065769083896057856",
+            "3_2065769083887656960"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2065769093895221331",
+        "created_at": "2026-06-13T12:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065769093895221331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNgHuvEOEw",
+              "end": 31,
+              "expanded_url": "https://x.com/pulinnaa/status/2065769093895221331/photo/1",
+              "media_key": "3_2065769083896057856",
+              "start": 8,
+              "url": "https://t.co/vNgHuvEOEw"
+            },
+            {
+              "display_url": "pic.x.com/vNgHuvEOEw",
+              "end": 31,
+              "expanded_url": "https://x.com/pulinnaa/status/2065769093895221331/photo/1",
+              "media_key": "3_2065769083887656960",
+              "start": 8,
+              "url": "https://t.co/vNgHuvEOEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065769093895221331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人とイラスト https://t.co/vNgHuvEOEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 196,
+          "like_count": 4052,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 2651
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

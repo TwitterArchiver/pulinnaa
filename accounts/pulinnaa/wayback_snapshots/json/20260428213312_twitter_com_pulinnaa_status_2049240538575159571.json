@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Scorpio",
+          "id": "1138888237630386177",
+          "name": "Scorpio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Scorpio",
+          "id": "1138888237630386177",
+          "name": "Scorpio"
+        }
+      }
+    ],
+    "conversation_id": "2049240538575159571",
+    "created_at": "2026-04-28T21:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T22:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049240538575159571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "862474304822288384",
+          "start": 3,
+          "username": "uranai_sasoriza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049240538575159571",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049154284957110350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uranai_sasoriza: 🦂4月29日(水)のさそり座🦂\n\n総合運 ★★★★★\n恋愛運 ★★★★★\n仕事運 ★★★★★\n金銭運 ★★★★☆\n\nなんと本日第1位！😇\n\nあなたの雰囲気良くて周りへの影響力が強まる日！タイミングよく発言してその場の雰囲気を変えることも…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          }
+        ],
+        "conversation_id": "2049240538575159571",
+        "created_at": "2026-04-28T21:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049240538575159571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "862474304822288384",
+              "start": 3,
+              "username": "uranai_sasoriza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049240538575159571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049154284957110350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uranai_sasoriza: 🦂4月29日(水)のさそり座🦂\n\n総合運 ★★★★★\n恋愛運 ★★★★★\n仕事運 ★★★★★\n金銭運 ★★★★☆\n\nなんと本日第1位！😇\n\nあなたの雰囲気良くて周りへの影響力が強まる日！タイミングよく発言してその場の雰囲気を変えることも…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "862474304822288384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          }
+        ],
+        "conversation_id": "2049154284957110350",
+        "created_at": "2026-04-28T15:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049154284957110350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049154284957110350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 21362,
+          "like_count": 1139,
+          "quote_count": 92,
+          "reply_count": 2,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "🦂4月29日(水)のさそり座🦂\n\n総合運 ★★★★★\n恋愛運 ★★★★★\n仕事運 ★★★★★\n金銭運 ★★★★☆\n\nなんと本日第1位！😇\n\nあなたの雰囲気良くて周りへの影響力が強まる日！タイミングよく発言してその場の雰囲気を変えることもできそう！積極的に自己アピールしてみて！🦐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 151,
+          "like_count": 3956,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 1872
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-11T01:07:53.000Z",
+        "description": "さそり座(10/24-11/21)の人の運勢を毎日botお届け🌟🦂チャット占いのMIROR(https://t.co/lNlk8tlXey)もチェックしてね😌！LINE@でさそり座の毎日の運勢を配信中💭(https://t.co/NTXgAB8ITg)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miror.jp",
+                "end": 69,
+                "expanded_url": "https://miror.jp",
+                "start": 46,
+                "url": "https://t.co/lNlk8tlXey"
+              },
+              {
+                "display_url": "goo.gl/KAZfx6",
+                "end": 125,
+                "expanded_url": "https://goo.gl/KAZfx6",
+                "start": 102,
+                "url": "https://t.co/NTXgAB8ITg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/%40kmk3…",
+                "end": 23,
+                "expanded_url": "https://line.me/R/ti/p/%40kmk3717k",
+                "start": 0,
+                "url": "https://t.co/ctnqhrXEqp"
+              }
+            ]
+          }
+        },
+        "id": "862474304822288384",
+        "location": "↓以下から占い相談受付中🔮お気軽にどうぞ🕴",
+        "name": "MIROR星座占い✧さそり座",
+        "pinned_tweet_id": "958354199376515072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/928264275562344448/Vo2ejNPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35135,
+          "following_count": 5151,
+          "like_count": 1432,
+          "listed_count": 129,
+          "media_count": 0,
+          "tweet_count": 3625
+        },
+        "url": "https://t.co/ctnqhrXEqp",
+        "username": "uranai_sasoriza",
+        "verified": false
+      }
+    ]
+  }
+}

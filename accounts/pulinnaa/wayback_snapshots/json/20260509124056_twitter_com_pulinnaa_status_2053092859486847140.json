@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2053088941298049328",
+    "created_at": "2026-05-09T12:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053092859486847140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979108124985561088",
+          "start": 0,
+          "username": "yumenoWchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053092859486847140",
+    "in_reply_to_user_id": "1979108124985561088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053088941298049328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumenoWchan 还需要吗宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2053088941298049328",
+        "created_at": "2026-05-09T12:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053092859486847140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979108124985561088",
+              "start": 0,
+              "username": "yumenoWchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053092859486847140",
+        "in_reply_to_user_id": "1979108124985561088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053088941298049328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumenoWchan 还需要吗宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979108124985561088",
+        "conversation_id": "2053088941298049328",
+        "created_at": "2026-05-09T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053088941298049328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053088941298049328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰能wx轉zfb⋯⋯有償"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 154,
+          "like_count": 3966,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 2057
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜🚫轉載🚫AI 🚫自作發言\n沒有其他帳號 請不要轉載我的作品",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046593454990619043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 497,
+          "like_count": 3040,
+          "listed_count": 5,
+          "media_count": 82,
+          "tweet_count": 499
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

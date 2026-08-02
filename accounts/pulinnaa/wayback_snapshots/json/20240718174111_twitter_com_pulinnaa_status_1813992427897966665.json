@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1813958208865902998",
+    "created_at": "2024-07-18T17:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T18:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813992427897966665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813049239003451392",
+          "start": 0,
+          "username": "gimysote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813992427897966665",
+    "in_reply_to_user_id": "1813049239003451392",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813966619410120835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimysote ohh thank u soooo much🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1813958208865902998",
+        "created_at": "2024-07-18T17:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T18:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813992427897966665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813049239003451392",
+              "start": 0,
+              "username": "gimysote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813992427897966665",
+        "in_reply_to_user_id": "1813049239003451392",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813966619410120835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimysote ohh thank u soooo much🫶🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1813049239003451392",
+        "conversation_id": "1813958208865902998",
+        "created_at": "2024-07-18T15:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T16:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813966619410120835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813966619410120835",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813958208865902998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa your nails are so cuuuteeee 🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 153,
+          "like_count": 2970,
+          "listed_count": 0,
+          "tweet_count": 675
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T03:13:46.000Z",
+        "description": "ex. @/cyberacidote\n甘い暴力 🍭、ザアザア ☔、NAZARE 👺、電脳ヒメカ🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gimysote?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gimysote?igsh=MTBucXd5c2M1d2poeg==",
+                "start": 0,
+                "url": "https://t.co/xFnfsm3uAR"
+              }
+            ]
+          }
+        },
+        "id": "1813049239003451392",
+        "name": "Gimy 💛 (NAZARE 18/10)",
+        "pinned_tweet_id": "1813680875717976459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813049953620492288/7wGse1-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 56,
+          "like_count": 108,
+          "listed_count": 0,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/xFnfsm3uAR",
+        "username": "gimysote",
+        "verified": false
+      }
+    ]
+  }
+}

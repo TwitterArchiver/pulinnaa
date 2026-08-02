@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2056201627137421317",
+    "created_at": "2026-05-18T13:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056359523565322614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1525433973111140353",
+          "start": 0,
+          "username": "10CFreeze"
+        },
+        {
+          "end": 27,
+          "id": "1777730090924978176",
+          "start": 11,
+          "username": "Hiiragi_qin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056359523565322614",
+    "in_reply_to_user_id": "1525433973111140353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056352681590235548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10CFreeze @Hiiragi_qin8964 这个是10mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2056201627137421317",
+        "created_at": "2026-05-18T13:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056359523565322614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1525433973111140353",
+              "start": 0,
+              "username": "10CFreeze"
+            },
+            {
+              "end": 27,
+              "id": "1777730090924978176",
+              "start": 11,
+              "username": "Hiiragi_qin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056359523565322614",
+        "in_reply_to_user_id": "1525433973111140353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056352681590235548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10CFreeze @Hiiragi_qin8964 这个是10mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525433973111140353",
+        "conversation_id": "2056201627137421317",
+        "created_at": "2026-05-18T12:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056352681590235548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777730090924978176",
+              "start": 0,
+              "username": "Hiiragi_qin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056352681590235548",
+        "in_reply_to_user_id": "1777730090924978176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056201627137421317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiiragi_qin8964 这个糖也是1t＝15mg吗？还是说被削了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 174,
+          "like_count": 4023,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 2264
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T11:13:35.000Z",
+        "description": "舟批 澄厨\nArknights player，Goldenglow lover\n\n——————以上为原版简介——————\n\n把推特当推推空间用 / 不爱鉴证 / 想到什么会随便说说/想骂我就是你赢了 / 每天活在焦虑抑郁之中 / 屈服于无药的苦痛而重拾od/ 被bpd搞砸一切 / 不害怕bpd欢迎互关 / 已打工失败",
+        "id": "1525433973111140353",
+        "name": "10CFREEZE/テンフリーズ",
+        "pinned_tweet_id": "2038534772578975862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645932489544957952/d7Aovv6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 241,
+          "like_count": 3295,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 2418
+        },
+        "username": "10CFreeze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "止まりどっかで またやり直せたら\n（欢迎查成分互fo，成分不明的勿fo）\n阿普唑仑重度依赖\n稍微懂一点点药理（学习中）、可提供建议、乐子\n欢迎咨询\nCN\\JP\n累了，反正我本来就很无聊\n我自己本来就是乐子，也喜欢给带伙们提供乐子，我自己也喜欢笑我自己\n以防自己被ban先加个防ban数字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hiiragi_qin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hiiragi_qin",
+                "start": 0,
+                "url": "https://t.co/uj2xkcmm73"
+              }
+            ]
+          }
+        },
+        "id": "1777730090924978176",
+        "location": "穿越过去给自己一巴掌",
+        "name": "ヒイラギ（冬青）",
+        "pinned_tweet_id": "2040691843143512093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 270,
+          "like_count": 18367,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/uj2xkcmm73",
+        "username": "Hiiragi_qin8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2053819826720878778",
+    "created_at": "2026-05-11T12:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053819826720878778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "ovoTvTo3o7777u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053819826720878778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053525943508168866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovoTvTo3o7777u: 有惨不卖我不白经历了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2053819826720878778",
+        "created_at": "2026-05-11T12:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053819826720878778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "ovoTvTo3o7777u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053819826720878778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053525943508168866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovoTvTo3o7777u: 有惨不卖我不白经历了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2053525943508168866",
+        "created_at": "2026-05-10T17:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053525943508168866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053525943508168866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15343,
+          "like_count": 617,
+          "quote_count": 15,
+          "reply_count": 32,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "有惨不卖我不白经历了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 158,
+          "like_count": 3972,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 2101
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 67,
+          "like_count": 3110,
+          "listed_count": 4,
+          "media_count": 443,
+          "tweet_count": 5841
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "ovoTvTo3o7777u",
+        "verified": false
+      }
+    ]
+  }
+}

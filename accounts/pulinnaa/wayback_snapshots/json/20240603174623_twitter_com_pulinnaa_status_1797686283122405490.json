@@ -1,0 +1,105 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797686267519643648"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1797686283122405490",
+    "created_at": "2024-06-03T17:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T18:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797686283122405490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/LTvFF00Mwb",
+          "end": 33,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1797686283122405490/photo/1",
+          "media_key": "3_1797686267519643648",
+          "start": 10,
+          "url": "https://t.co/LTvFF00Mwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797686283122405490",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他以前说想帮我舔掉 https://t.co/LTvFF00Mwb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1797686283122405490].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1797686283122405490",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1797686283122405490"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1797686267519643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPKqIsEbMAAqw0V.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 115,
+          "like_count": 1542,
+          "listed_count": 1,
+          "tweet_count": 336
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1724509618271838208",
+          "name": "CES 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1861836747824328705",
+          "name": "CES 2025"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      }
+    ],
+    "conversation_id": "2060154183270240317",
+    "created_at": "2026-05-29T00:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060154183270240317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2383844606",
+          "start": 3,
+          "username": "Portes_Thomas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060154183270240317",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28863
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059744858554696113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Portes_Thomas: L’HORREUR ABSOLUE. \n\nÀ Gaza des enfants palestiniens sont déchiquetés par les forces d’occupation israéliennes. \n\nNe ces…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35433,
+        "height": 1024,
+        "media_key": "13_2059744801692479492",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059744801692479492/img/8xI9ZvqBn18la5Ax.jpg",
+        "public_metrics": {
+          "view_count": 652294
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059744801692479492/vid/avc1/320x568/kZfvRvSo5rOHa-AS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059744801692479492/vid/avc1/480x852/SECmnP22vjourNyC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059744801692479492/vid/avc1/576x1024/kQG8TBs0pzNEAYmi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059744801692479492/pl/1DdHHYgznXpp9Hqa.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1724509618271838208",
+              "name": "CES 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1861836747824328705",
+              "name": "CES 2025"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          }
+        ],
+        "conversation_id": "2060154183270240317",
+        "created_at": "2026-05-29T00:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060154183270240317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2383844606",
+              "start": 3,
+              "username": "Portes_Thomas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060154183270240317",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28863
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059744858554696113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Portes_Thomas: L’HORREUR ABSOLUE. \n\nÀ Gaza des enfants palestiniens sont déchiquetés par les forces d’occupation israéliennes. \n\nNe ces…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059744801692479492"
+          ]
+        },
+        "author_id": "2383844606",
+        "conversation_id": "2059744858554696113",
+        "created_at": "2026-05-27T21:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059744858554696113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCMFDkNW0h",
+              "end": 182,
+              "expanded_url": "https://x.com/Portes_Thomas/status/2059744858554696113/video/1",
+              "media_key": "13_2059744801692479492",
+              "start": 159,
+              "url": "https://t.co/BCMFDkNW0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059744858554696113",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3217,
+          "impression_count": 1382718,
+          "like_count": 62375,
+          "quote_count": 641,
+          "reply_count": 998,
+          "retweet_count": 28863
+        },
+        "reply_settings": "everyone",
+        "text": "L’HORREUR ABSOLUE. \n\nÀ Gaza des enfants palestiniens sont déchiquetés par les forces d’occupation israéliennes. \n\nNe cessez jamais de parler de la Palestine ! https://t.co/BCMFDkNW0h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 178,
+          "like_count": 4036,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2437
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-11T14:58:13.000Z",
+        "description": "Cheminot - Député LFI de la 3ème circonscription de Seine-Saint-Denis. @cgtcheminots Président de l’@ONextdroite. Président du groupe d’études kurdes.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "cgtcheminots"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "ONextdroite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thomasportes93.com",
+                "end": 23,
+                "expanded_url": "http://thomasportes93.com",
+                "start": 0,
+                "url": "https://t.co/PKEAVRuVz1"
+              }
+            ]
+          }
+        },
+        "id": "2383844606",
+        "location": "Noisy-le-Grand, France",
+        "name": "Thomas Portes",
+        "pinned_tweet_id": "1451162691847004160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963020990264299520/FQbAK28o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152597,
+          "following_count": 7333,
+          "like_count": 10789,
+          "listed_count": 869,
+          "media_count": 12582,
+          "tweet_count": 62793
+        },
+        "url": "https://t.co/PKEAVRuVz1",
+        "username": "Portes_Thomas",
+        "verified": true
+      }
+    ]
+  }
+}

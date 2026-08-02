@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055314217969000448"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2055314275762421780",
+    "created_at": "2026-05-15T15:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055314275762421780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BWPwAfIzZA",
+          "end": 39,
+          "expanded_url": "https://x.com/pulinnaa/status/2055314275762421780/video/1",
+          "media_key": "13_2055314217969000448",
+          "start": 16,
+          "url": "https://t.co/BWPwAfIzZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055314275762421780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎你们就继续拍这种傻逼东西吧。 https://t.co/BWPwAfIzZA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6461,
+        "height": 1280,
+        "media_key": "13_2055314217969000448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055314217969000448/img/aElFv6_e8lFZW1op.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055314217969000448/vid/avc1/320x568/TQEnrj7UV1iCYqEV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055314217969000448/vid/avc1/480x852/Z5slYkxQkVQJFEZC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055314217969000448/vid/avc1/720x1280/gmLGQNEm9hjBWbNl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055314217969000448/pl/AWsXgeIA5uT6DQDT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055314217969000448"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2055314275762421780",
+        "created_at": "2026-05-15T15:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055314275762421780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWPwAfIzZA",
+              "end": 39,
+              "expanded_url": "https://x.com/pulinnaa/status/2055314275762421780/video/1",
+              "media_key": "13_2055314217969000448",
+              "start": 16,
+              "url": "https://t.co/BWPwAfIzZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055314275762421780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎你们就继续拍这种傻逼东西吧。 https://t.co/BWPwAfIzZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "2054868011987951703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 170,
+          "like_count": 4009,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2202
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

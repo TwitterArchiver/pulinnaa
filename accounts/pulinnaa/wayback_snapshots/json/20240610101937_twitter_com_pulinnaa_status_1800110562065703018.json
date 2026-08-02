@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1800107873588171047",
+    "created_at": "2024-06-10T10:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T11:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800110562065703018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766412743488237568",
+          "start": 0,
+          "username": "zholngx588061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800110562065703018",
+    "in_reply_to_user_id": "1766412743488237568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800107873588171047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zholngx588061 你要知道日本工资很高🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1800107873588171047",
+        "created_at": "2024-06-10T10:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T11:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800110562065703018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766412743488237568",
+              "start": 0,
+              "username": "zholngx588061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800110562065703018",
+        "in_reply_to_user_id": "1766412743488237568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800107873588171047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zholngx588061 你要知道日本工资很高🥹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1766412743488237568",
+        "conversation_id": "1800107873588171047",
+        "created_at": "2024-06-10T10:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T11:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800107873588171047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/infowssjp/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/infowssjp/status/1799770742919508437",
+              "start": 18,
+              "url": "https://t.co/9iPdYVMeDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800107873588171047",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799770742919508437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱但是6600y死宅的钱真好赚 https://t.co/9iPdYVMeDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 127,
+          "like_count": 1793,
+          "listed_count": 1,
+          "tweet_count": 440
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:36:47.000Z",
+        "description": "昏昏｜sub｜双相｜双性恋｜isfp｜最爱的人@xia_shu13688",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xia_shu13688"
+              }
+            ]
+          }
+        },
+        "id": "1766412743488237568",
+        "name": "恶根性",
+        "pinned_tweet_id": "1792992290656395268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798334808487030784/q8Yt7Qtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 265,
+          "like_count": 6661,
+          "listed_count": 2,
+          "tweet_count": 1877
+        },
+        "username": "zholngx588061",
+        "verified": false
+      }
+    ]
+  }
+}

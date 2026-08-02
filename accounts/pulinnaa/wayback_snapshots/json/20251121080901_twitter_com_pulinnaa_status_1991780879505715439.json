@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991780870399881217"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1991780879505715439",
+    "created_at": "2025-11-21T08:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T09:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991780879505715439"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 3,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 16,
+          "start": 10,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "水色系統"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "天使界隈"
+        },
+        {
+          "end": 39,
+          "start": 29,
+          "tag": "相互フォロー100"
+        },
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "いいね返し"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GiPVzlMeQm",
+          "end": 70,
+          "expanded_url": "https://x.com/pulinnaa/status/1991780879505715439/photo/1",
+          "media_key": "3_1991780870399881217",
+          "start": 47,
+          "url": "https://t.co/GiPVzlMeQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991780879505715439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "うむ\n#自撮り界隈 #地雷系女子 #水色系統 #天使界隈 #相互フォロー100 #いいね返し https://t.co/GiPVzlMeQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991780870399881217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Q6JhKacAEY6lL.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991780870399881217"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1991780879505715439",
+        "created_at": "2025-11-21T08:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991780879505715439"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "水色系統"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "天使界隈"
+            },
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "相互フォロー100"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "いいね返し"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiPVzlMeQm",
+              "end": 70,
+              "expanded_url": "https://x.com/pulinnaa/status/1991780879505715439/photo/1",
+              "media_key": "3_1991780870399881217",
+              "start": 47,
+              "url": "https://t.co/GiPVzlMeQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991780879505715439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "うむ\n#自撮り界隈 #地雷系女子 #水色系統 #天使界隈 #相互フォロー100 #いいね返し https://t.co/GiPVzlMeQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk ♡@dyhj4431",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "dyhj4431"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977746501620412416/zeerqfLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 144,
+          "like_count": 3964,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1616
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1819644719988986107",
+    "created_at": "2024-08-04T07:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T08:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819992543490384256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224274235561926659",
+          "start": 0,
+          "username": "AmamizuRei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819992543490384256",
+    "in_reply_to_user_id": "1224274235561926659",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819644719988986107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamizuRei0 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1819644719988986107",
+        "created_at": "2024-08-04T07:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T08:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819992543490384256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224274235561926659",
+              "start": 0,
+              "username": "AmamizuRei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819992543490384256",
+        "in_reply_to_user_id": "1224274235561926659",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819644719988986107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamizuRei0 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819644705644466177"
+          ]
+        },
+        "author_id": "1224274235561926659",
+        "conversation_id": "1819644719988986107",
+        "created_at": "2024-08-03T08:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T09:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819644719988986107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TjRvhr63eV",
+              "end": 41,
+              "expanded_url": "https://twitter.com/AmamizuRei0/status/1819644719988986107/photo/1",
+              "media_key": "3_1819644705644466177",
+              "start": 18,
+              "url": "https://t.co/TjRvhr63eV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819644719988986107",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1085,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "把钱全炫嘴里后，只能穿的起这个了😿 https://t.co/TjRvhr63eV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 155,
+          "like_count": 3280,
+          "listed_count": 0,
+          "tweet_count": 737
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T10:11:59.000Z",
+        "description": "顶着橘子假装自己是橘猫的黑猫 | 实际上是一只经常会饿的野猪精 | 男的 | 没脑子的精神病",
+        "id": "1224274235561926659",
+        "location": "橘子树上",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1799291223657881758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720746628070744064/hDWjf5uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 1285,
+          "like_count": 117009,
+          "listed_count": 10,
+          "tweet_count": 16937
+        },
+        "username": "AmamizuRei0",
+        "verified": false
+      }
+    ]
+  }
+}

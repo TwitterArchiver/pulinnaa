@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2045884108065460736",
+    "created_at": "2026-04-19T15:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045884108065460736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lopez_geor8863…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/lopez_geor88631/status/2045882173308252366",
+          "start": 20,
+          "url": "https://t.co/KCCTbZC1wQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045884108065460736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045882173308252366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wdf我这么糊还有人在我帖文底下仙人跳 https://t.co/KCCTbZC1wQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2045884108065460736",
+        "created_at": "2026-04-19T15:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045884108065460736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lopez_geor8863…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/lopez_geor88631/status/2045882173308252366",
+              "start": 20,
+              "url": "https://t.co/KCCTbZC1wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045884108065460736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045882173308252366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wdf我这么糊还有人在我帖文底下仙人跳 https://t.co/KCCTbZC1wQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034337041430040576",
+        "conversation_id": "2045848956673151086",
+        "created_at": "2026-04-19T15:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045882173308252366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045882173308252366",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045848956673151086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 💖有没有离得近的😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 151,
+          "like_count": 3946,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 1793
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T18:32:07.000Z",
+        "description": "已入驻约p平台:👉https://t.co/j8bPicMBCQ只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/j8bPicMBCQ"
+              }
+            ]
+          }
+        },
+        "id": "2034337041430040576",
+        "location": "附近2.88km",
+        "name": "谷南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045882187854008321/VDTo6voz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 267
+        },
+        "username": "lopez_geor88631",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1812319206920405328",
+    "created_at": "2024-07-14T10:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T11:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812431641895457202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690945306345545729",
+          "start": 0,
+          "username": "kyururu_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812431641895457202",
+    "in_reply_to_user_id": "1690945306345545729",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812336172405817650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyururu_0 thanks！！luv u💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1812319206920405328",
+        "created_at": "2024-07-14T10:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T11:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812431641895457202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690945306345545729",
+              "start": 0,
+              "username": "kyururu_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812431641895457202",
+        "in_reply_to_user_id": "1690945306345545729",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812336172405817650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyururu_0 thanks！！luv u💕"
+      },
+      {
+        "attachments": {},
+        "author_id": "1690945306345545729",
+        "conversation_id": "1812319206920405328",
+        "created_at": "2024-07-14T03:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T04:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812336172405817650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812336172405817650",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812319206920405328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa cutest girl ever! 👑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 150,
+          "like_count": 2877,
+          "listed_count": 1,
+          "tweet_count": 631
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:36:21.000Z",
+        "description": "",
+        "id": "1690945306345545729",
+        "name": "クモ 🥩",
+        "pinned_tweet_id": "1800546080964391013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800005332153880576/dBjJI-w5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 513,
+          "like_count": 5237,
+          "listed_count": 2,
+          "tweet_count": 1924
+        },
+        "username": "kyururu_0",
+        "verified": false
+      }
+    ]
+  }
+}

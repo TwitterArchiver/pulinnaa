@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1798683491019985060",
+    "created_at": "2024-06-07T03:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T04:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798918774705549674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1695047180061724672",
+          "start": 0,
+          "username": "burua999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798918774705549674",
+    "in_reply_to_user_id": "1695047180061724672",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798863668006068272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@burua999 ありがと〜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1798683491019985060",
+        "created_at": "2024-06-07T03:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T04:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798918774705549674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695047180061724672",
+              "start": 0,
+              "username": "burua999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798918774705549674",
+        "in_reply_to_user_id": "1695047180061724672",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798863668006068272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@burua999 ありがと〜"
+      },
+      {
+        "attachments": {},
+        "author_id": "1695047180061724672",
+        "conversation_id": "1798683491019985060",
+        "created_at": "2024-06-06T23:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T00:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798863668006068272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798863668006068272",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798683491019985060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 美人さん！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 126,
+          "like_count": 1687,
+          "listed_count": 1,
+          "tweet_count": 363
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T12:16:30.000Z",
+        "description": "世界を救いたいいいね絶対するマンです\n\n個人勢Vtuber　主に麻雀とゲームするのねん\n\nコラボや仕事はDMでお願いします。\nイラストlive2d素材はza様@zazuzu_\n\n10/12雀魂スタート\n10/17雀傑\n10/29雀豪\n12/13雀聖\n麻雀界盛り上がれ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 79,
+                "username": "zazuzu_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@burua999",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@burua999",
+                "start": 0,
+                "url": "https://t.co/7ZFOnj6O3E"
+              }
+            ]
+          }
+        },
+        "id": "1695047180061724672",
+        "location": "地球",
+        "name": "ガリ",
+        "pinned_tweet_id": "1796008783367340304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737852590472527872/swKkkCvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1387,
+          "like_count": 57720,
+          "listed_count": 12,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/7ZFOnj6O3E",
+        "username": "burua999",
+        "verified": false
+      }
+    ]
+  }
+}

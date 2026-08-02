@@ -1,0 +1,315 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806558662120591817",
+    "created_at": "2024-06-28T05:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T06:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806558662120591817"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 35,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 54,
+          "start": 42,
+          "tag": "自撮り界隈と繋がりたい"
+        },
+        {
+          "end": 69,
+          "start": 55,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 83,
+          "start": 70,
+          "tag": "美男美女さんと繋がりたい"
+        },
+        {
+          "end": 97,
+          "start": 85,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 121,
+          "start": 103,
+          "tag": "いいねした人で気になった人フォロー"
+        },
+        {
+          "end": 139,
+          "start": 122,
+          "tag": "1mmでもいいなと思ったらいいね"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780570823063171072",
+          "start": 3,
+          "username": "pulinnaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806558662120591817",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806257372316221868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pulinnaa: 見てますにゃん ^ - ·̫ •̀ ^\n\n#自撮り界隈 #自撮り界隈と繋がりたい #自撮り界隈さんと繋がりたい #美男美女さんと繋がりたい  #病み垢さんと繋がりたい #雰囲気 #いいねした人で気になった人フォロー #1mmでもいいなと思ったらいいね…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806558662120591817",
+        "created_at": "2024-06-28T05:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T06:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806558662120591817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 69,
+              "start": 55,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 83,
+              "start": 70,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 97,
+              "start": 85,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 121,
+              "start": 103,
+              "tag": "いいねした人で気になった人フォロー"
+            },
+            {
+              "end": 139,
+              "start": 122,
+              "tag": "1mmでもいいなと思ったらいいね"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780570823063171072",
+              "start": 3,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806558662120591817",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806257372316221868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pulinnaa: 見てますにゃん ^ - ·̫ •̀ ^\n\n#自撮り界隈 #自撮り界隈と繋がりたい #自撮り界隈さんと繋がりたい #美男美女さんと繋がりたい  #病み垢さんと繋がりたい #雰囲気 #いいねした人で気になった人フォロー #1mmでもいいなと思ったらいいね…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806257362246017025"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806257372316221868",
+        "created_at": "2024-06-27T09:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T10:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806257372316221868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 40,
+              "start": 28,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 55,
+              "start": 41,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 69,
+              "start": 56,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 83,
+              "start": 71,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 107,
+              "start": 89,
+              "tag": "いいねした人で気になった人フォロー"
+            },
+            {
+              "end": 125,
+              "start": 108,
+              "tag": "1mmでもいいなと思ったらいいね"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "いいねでDM"
+            },
+            {
+              "end": 140,
+              "start": 134,
+              "tag": "いいね返し"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "片目界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HGfbMvwl9U",
+              "end": 170,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1806257372316221868/photo/1",
+              "media_key": "3_1806257362246017025",
+              "start": 147,
+              "url": "https://t.co/HGfbMvwl9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806257372316221868",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1233,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "見てますにゃん ^ - ·̫ •̀ ^\n\n#自撮り界隈 #自撮り界隈と繋がりたい #自撮り界隈さんと繋がりたい #美男美女さんと繋がりたい  #病み垢さんと繋がりたい #雰囲気 #いいねした人で気になった人フォロー #1mmでもいいなと思ったらいいね #いいねでDM #いいね返し #片目界隈 https://t.co/HGfbMvwl9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 142,
+          "like_count": 2373,
+          "listed_count": 1,
+          "tweet_count": 598
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

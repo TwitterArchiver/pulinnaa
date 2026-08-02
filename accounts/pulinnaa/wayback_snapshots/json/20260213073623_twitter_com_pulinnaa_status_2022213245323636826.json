@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2012104584492372178",
+    "created_at": "2026-02-13T07:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T08:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022213245323636826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1118826381587009536",
+          "start": 0,
+          "username": "1918Waist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022213245323636826",
+    "in_reply_to_user_id": "1118826381587009536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021906897276940544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1918Waist fo你了宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2012104584492372178",
+        "created_at": "2026-02-13T07:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022213245323636826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1118826381587009536",
+              "start": 0,
+              "username": "1918Waist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022213245323636826",
+        "in_reply_to_user_id": "1118826381587009536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021906897276940544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1918Waist fo你了宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118826381587009536",
+        "conversation_id": "2012104584492372178",
+        "created_at": "2026-02-12T11:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021906897276940544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021906897276940544",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012104584492372178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 我想 ๑⃙⃘´༥`๑⃙⃘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 145,
+          "like_count": 3901,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1698
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-18T10:39:30.000Z",
+        "description": "🚪88/188 我真的很缺钱",
+        "id": "1118826381587009536",
+        "name": "Yaoyoyoyao_03",
+        "pinned_tweet_id": "2021919340610859214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603461483517681665/F4FxYMVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 133,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "username": "1918Waist",
+        "verified": false
+      }
+    ]
+  }
+}

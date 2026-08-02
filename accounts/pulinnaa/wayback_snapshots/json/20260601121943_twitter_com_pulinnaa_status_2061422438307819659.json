@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2061325346281288001",
+    "created_at": "2026-06-01T12:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061422438307819659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037890001485074432",
+          "start": 0,
+          "username": "taffycvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061422438307819659",
+    "in_reply_to_user_id": "2037890001485074432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061410219004145675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taffycvc 不需要放辅料吗我看他们说直接吃酸性太大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2061325346281288001",
+        "created_at": "2026-06-01T12:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061422438307819659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037890001485074432",
+              "start": 0,
+              "username": "taffycvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061422438307819659",
+        "in_reply_to_user_id": "2037890001485074432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061410219004145675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taffycvc 不需要放辅料吗我看他们说直接吃酸性太大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037890001485074432",
+        "conversation_id": "2061325346281288001",
+        "created_at": "2026-06-01T11:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061410219004145675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061410219004145675",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061325346281288001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 口服生物利用率就是最大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 186,
+          "like_count": 4034,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 2504
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T13:50:38.000Z",
+        "description": "想要一辈子活在药效里\ninfp/普瑞巴林重度依赖/小号:@YuYpap🫐🫐🐰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "YuYpap"
+              }
+            ]
+          }
+        },
+        "id": "2037890001485074432",
+        "location": "普瑞药盒里",
+        "name": "taffy🐰",
+        "pinned_tweet_id": "2058417433262891055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 142,
+          "like_count": 6596,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 166
+        },
+        "username": "taffycvc",
+        "verified": false
+      }
+    ]
+  }
+}

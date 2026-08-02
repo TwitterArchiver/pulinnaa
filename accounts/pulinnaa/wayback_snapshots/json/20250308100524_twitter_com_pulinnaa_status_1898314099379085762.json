@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1897907049151053871",
+    "created_at": "2025-03-08T10:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T11:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898314099379085762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723307524743397376",
+          "start": 0,
+          "username": "shijiannisile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898314099379085762",
+    "in_reply_to_user_id": "1723307524743397376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898310104534913086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shijiannisile 可以可以我私你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1897907049151053871",
+        "created_at": "2025-03-08T10:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898314099379085762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723307524743397376",
+              "start": 0,
+              "username": "shijiannisile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898314099379085762",
+        "in_reply_to_user_id": "1723307524743397376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898310104534913086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shijiannisile 可以可以我私你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723307524743397376",
+        "conversation_id": "1897907049151053871",
+        "created_at": "2025-03-08T09:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898310104534913086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898310104534913086",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897907049151053871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 我来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 163,
+          "like_count": 3883,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1331
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T11:52:14.000Z",
+        "description": "住宿生工作日没空 \n里人格@yaniaodawang/💙💙：@xiaoren00\n🚪45/88\n不互转了碰到喜欢的自己会转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "yaniaodawang"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiaoren00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpdd.one/?r=20875",
+                "end": 23,
+                "expanded_url": "https://cpdd.one/?r=20875",
+                "start": 0,
+                "url": "https://t.co/sMhks0xVr7"
+              }
+            ]
+          }
+        },
+        "id": "1723307524743397376",
+        "location": "自用🪜→",
+        "name": "唯一昵称已被猫叼走",
+        "pinned_tweet_id": "1877212840462856605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876122850681126912/7N6khqG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 503,
+          "like_count": 13745,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 4274
+        },
+        "url": "https://t.co/sMhks0xVr7",
+        "username": "shijiannisile",
+        "verified": false
+      }
+    ]
+  }
+}

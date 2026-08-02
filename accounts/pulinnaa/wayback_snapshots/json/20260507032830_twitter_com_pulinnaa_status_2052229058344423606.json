@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2052063999223803958",
+    "created_at": "2026-05-07T03:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052229058344423606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048770227417251840",
+          "start": 0,
+          "username": "xxuan_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052229058344423606",
+    "in_reply_to_user_id": "2048770227417251840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052224554991562822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxuan_sama 傻子吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2052063999223803958",
+        "created_at": "2026-05-07T03:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052229058344423606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048770227417251840",
+              "start": 0,
+              "username": "xxuan_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052229058344423606",
+        "in_reply_to_user_id": "2048770227417251840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052224554991562822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxuan_sama 傻子吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048770227417251840",
+        "conversation_id": "2052063999223803958",
+        "created_at": "2026-05-07T03:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052224554991562822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052224554991562822",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052153908244742649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 是在意我吗（害羞脸）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 157,
+          "like_count": 3971,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 1992
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T14:24:44.000Z",
+        "description": "05/♂\n双相情感障碍\nvrc/耐电\n欢迎来互动喵\n（也可能去骚扰您就是了）",
+        "id": "2048770227417251840",
+        "name": "i 玄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048770473887203328/km3gSfoS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 57,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "xxuan_sama",
+        "verified": false
+      }
+    ]
+  }
+}

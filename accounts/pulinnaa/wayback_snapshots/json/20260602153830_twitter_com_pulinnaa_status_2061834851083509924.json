@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2061823862439092256",
+    "created_at": "2026-06-02T15:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061834851083509924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2060995635038568448",
+          "start": 0,
+          "username": "8964_L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061834851083509924",
+    "in_reply_to_user_id": "2060995635038568448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061823862439092256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_L 我可以🙋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2061823862439092256",
+        "created_at": "2026-06-02T15:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061834851083509924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2060995635038568448",
+              "start": 0,
+              "username": "8964_L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061834851083509924",
+        "in_reply_to_user_id": "2060995635038568448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061823862439092256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_L 我可以🙋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060995635038568448",
+        "conversation_id": "2061823862439092256",
+        "created_at": "2026-06-02T14:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061823862439092256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061823862439092256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人理我，所以过这个门又有什么意义呢。。。我好想聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 192,
+          "like_count": 4032,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 2539
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T08:04:21.000Z",
+        "description": "",
+        "id": "2060995635038568448",
+        "name": "ヰ世界优泠",
+        "pinned_tweet_id": "2061466683974488576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060995869542137856/pHc5cPHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 29,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 42
+        },
+        "username": "8964_L",
+        "verified": false
+      }
+    ]
+  }
+}

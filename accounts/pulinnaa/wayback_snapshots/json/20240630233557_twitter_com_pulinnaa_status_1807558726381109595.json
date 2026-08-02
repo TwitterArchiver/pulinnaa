@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1807551735629803858",
+    "created_at": "2024-06-30T23:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T00:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807558726381109595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1328359187504525313",
+          "start": 0,
+          "username": "000kkp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807558726381109595",
+    "in_reply_to_user_id": "1328359187504525313",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807551735629803858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@000kkp おはよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1807551735629803858",
+        "created_at": "2024-06-30T23:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T00:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807558726381109595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1328359187504525313",
+              "start": 0,
+              "username": "000kkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807558726381109595",
+        "in_reply_to_user_id": "1328359187504525313",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807551735629803858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@000kkp おはよ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807551733503258624"
+          ]
+        },
+        "author_id": "1328359187504525313",
+        "conversation_id": "1807551735629803858",
+        "created_at": "2024-06-30T23:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T00:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807551735629803858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/u4D75ystZD",
+              "end": 33,
+              "expanded_url": "https://twitter.com/000kkp/status/1807551735629803858/photo/1",
+              "media_key": "3_1807551733503258624",
+              "start": 10,
+              "url": "https://t.co/u4D75ystZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807551735629803858",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます https://t.co/u4D75ystZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807456345538568192/c1ZdEEFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 145,
+          "like_count": 2504,
+          "listed_count": 1,
+          "tweet_count": 595
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T15:28:24.000Z",
+        "description": "借金返済を目指すフリーターです\nお酒が好きです\n想和中国的朋友互相关注，好好相处",
+        "id": "1328359187504525313",
+        "name": "𝑵𝑬𝑶 𝑪𝒀𝑩𝑬𝑹",
+        "pinned_tweet_id": "1803555186839080991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804065075172675584/jJXtmWKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4113,
+          "following_count": 1142,
+          "like_count": 136786,
+          "listed_count": 9,
+          "tweet_count": 28364
+        },
+        "username": "000kkp",
+        "verified": false
+      }
+    ]
+  }
+}

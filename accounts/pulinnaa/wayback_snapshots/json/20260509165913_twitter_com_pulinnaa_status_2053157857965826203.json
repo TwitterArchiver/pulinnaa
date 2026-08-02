@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2053157857965826203",
+    "created_at": "2026-05-09T16:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053157857965826203"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053157857965826203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说实话前夫是个很会拉仇恨然后自己隐身的人。之前是和他谈恋爱的时候他一直说前任再骚扰他。导致我很生气耍阴招整了那女的。现在是他出轨无缝衔接我刚被甩以为是他现任在当小三疯狂辱骂那女生。以至于我现在在推特骂街人家还以为我在骂她😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2053157857965826203",
+        "created_at": "2026-05-09T16:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053157857965826203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053157857965826203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话前夫是个很会拉仇恨然后自己隐身的人。之前是和他谈恋爱的时候他一直说前任再骚扰他。导致我很生气耍阴招整了那女的。现在是他出轨无缝衔接我刚被甩以为是他现任在当小三疯狂辱骂那女生。以至于我现在在推特骂街人家还以为我在骂她😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 156,
+          "like_count": 3967,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2073
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

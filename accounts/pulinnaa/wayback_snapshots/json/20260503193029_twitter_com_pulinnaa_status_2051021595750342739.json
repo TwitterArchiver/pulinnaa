@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2051021595750342739",
+    "created_at": "2026-05-03T19:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T20:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051021595750342739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816489710682030080",
+          "start": 3,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051021595750342739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050691747576254528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keaiiea: 讨厌穷的，讨厌丑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2051021595750342739",
+        "created_at": "2026-05-03T19:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051021595750342739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816489710682030080",
+              "start": 3,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051021595750342739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050691747576254528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keaiiea: 讨厌穷的，讨厌丑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816489710682030080",
+        "conversation_id": "2050691747576254528",
+        "created_at": "2026-05-02T21:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T22:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050691747576254528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050691747576254528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2548,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌穷的，讨厌丑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 153,
+          "like_count": 3956,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 1913
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea1",
+                "start": 0,
+                "url": "https://t.co/6qTDtDAnmS"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 449,
+          "like_count": 26939,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/6qTDtDAnmS",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

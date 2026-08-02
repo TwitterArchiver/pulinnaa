@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1971049981655339191",
+    "created_at": "2025-09-25T06:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T07:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971098987664113849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2390345460",
+          "start": 0,
+          "username": "xupxq_"
+        },
+        {
+          "end": 22,
+          "id": "1602594567601078272",
+          "start": 8,
+          "username": "o0OmosiusaO0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971098987664113849",
+    "in_reply_to_user_id": "2390345460",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971049981655339191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xupxq_ @o0OmosiusaO0o お疲れ様でした！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1971049948860051456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1qTfERa8AAoWwR.jpg",
+        "width": 2730
+      },
+      {
+        "height": 2730,
+        "media_key": "3_1971049948847407107",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1qTfEOaAAM9w9x.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1971049981655339191",
+        "created_at": "2025-09-25T06:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T07:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971098987664113849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2390345460",
+              "start": 0,
+              "username": "xupxq_"
+            },
+            {
+              "end": 22,
+              "id": "1602594567601078272",
+              "start": 8,
+              "username": "o0OmosiusaO0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971098987664113849",
+        "in_reply_to_user_id": "2390345460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971049981655339191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xupxq_ @o0OmosiusaO0o お疲れ様でした！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971049948860051456",
+            "3_1971049948847407107"
+          ]
+        },
+        "author_id": "2390345460",
+        "conversation_id": "1971049981655339191",
+        "created_at": "2025-09-25T03:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T04:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971049981655339191"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "上海公園",
+              "probability": 0.787,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 9,
+              "normalized_text": "中国",
+              "probability": 0.7304,
+              "start": 8,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJ6rvmRKmE",
+              "end": 86,
+              "expanded_url": "https://x.com/xupxq_/status/1971049981655339191/photo/1",
+              "media_key": "3_1971049948860051456",
+              "start": 63,
+              "url": "https://t.co/mJ6rvmRKmE"
+            },
+            {
+              "display_url": "pic.x.com/mJ6rvmRKmE",
+              "end": 86,
+              "expanded_url": "https://x.com/xupxq_/status/1971049981655339191/photo/1",
+              "media_key": "3_1971049948847407107",
+              "start": 63,
+              "url": "https://t.co/mJ6rvmRKmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971049981655339191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6466,
+          "like_count": 267,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "昨日の上海公園で中国ツアー2025を走り切りました。\n\nたくさんパワーをいただき幸せでしたワタクシ。ありがとうございました🫶 https://t.co/mJ6rvmRKmE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 155,
+          "like_count": 3988,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 1570
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-15T03:50:11.000Z",
+        "description": "Singer-Producer harunoiswhoo#gmail.com @harunoupdates FA #xupxq_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 57,
+                "tag": "xupxq_"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "harunoupdates"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@harunoiswhoo",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@harunoiswhoo",
+                "start": 0,
+                "url": "https://t.co/gLa93gVURZ"
+              }
+            ]
+          }
+        },
+        "id": "2390345460",
+        "name": "春野",
+        "pinned_tweet_id": "1941501842284052917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920453326568607744/kV1PXZKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47711,
+          "following_count": 340,
+          "like_count": 924,
+          "listed_count": 346,
+          "media_count": 406,
+          "tweet_count": 4668
+        },
+        "url": "https://t.co/gLa93gVURZ",
+        "username": "xupxq_",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-13T09:22:14.000Z",
+        "description": "………………………… 🫶🏻 @xupxq_🫶🏻……………………… Mellow Youth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "xupxq_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/o0omosiusao0o?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/o0omosiusao0o?igsh=djBqYjRtbWxpZjRh&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/DE1ZYVsDFy"
+              }
+            ]
+          }
+        },
+        "id": "1602594567601078272",
+        "location": "ターミナルセンター",
+        "name": "momo",
+        "pinned_tweet_id": "1970648411075682788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658118153690394625/AfU2Z0fB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 234,
+          "like_count": 13439,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 6506
+        },
+        "url": "https://t.co/DE1ZYVsDFy",
+        "username": "o0OmosiusaO0o",
+        "verified": false
+      }
+    ]
+  }
+}

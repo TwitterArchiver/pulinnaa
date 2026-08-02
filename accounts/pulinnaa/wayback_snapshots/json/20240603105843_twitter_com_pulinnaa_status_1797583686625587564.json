@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1797583140590137573",
+    "created_at": "2024-06-03T10:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T11:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797583686625587564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634106992825634816",
+          "start": 0,
+          "username": "fiorathaptu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797583686625587564",
+    "in_reply_to_user_id": "1634106992825634816",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797583580014776687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fiorathaptu 浮気されました🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1797583140590137573",
+        "created_at": "2024-06-03T10:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T11:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797583686625587564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634106992825634816",
+              "start": 0,
+              "username": "fiorathaptu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797583686625587564",
+        "in_reply_to_user_id": "1634106992825634816",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797583580014776687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fiorathaptu 浮気されました🥹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1634106992825634816",
+        "conversation_id": "1797583140590137573",
+        "created_at": "2024-06-03T10:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T11:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797583580014776687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797583580014776687",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "pl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797583140590137573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa Doshitano?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 115,
+          "like_count": 1545,
+          "listed_count": 1,
+          "tweet_count": 319
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T08:20:53.000Z",
+        "description": "Infp   。08 。 ベトナム 。Line○+Instagram○+DM ○。",
+        "id": "1634106992825634816",
+        "location": "sài gòn",
+        "name": "†",
+        "pinned_tweet_id": "1771223624051019818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771223791139713024/7TYv1JKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 537,
+          "like_count": 6449,
+          "listed_count": 4,
+          "tweet_count": 1792
+        },
+        "username": "fiorathaptu",
+        "verified": false
+      }
+    ]
+  }
+}

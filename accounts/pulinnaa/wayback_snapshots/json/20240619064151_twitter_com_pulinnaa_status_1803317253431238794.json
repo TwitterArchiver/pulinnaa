@@ -1,0 +1,168 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803317243742425088"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1803317253431238794",
+    "created_at": "2024-06-19T06:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T07:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803317253431238794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/TomC4dq6Eu",
+          "end": 53,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1803317253431238794/photo/1",
+          "media_key": "3_1803317243742425088",
+          "start": 30,
+          "url": "https://t.co/TomC4dq6Eu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803317253431238794",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁给我打二十块钱我想吃炸鸡了。减肥和小帅哥什么的就都算了吧 https://t.co/TomC4dq6Eu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1803317243742425088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQarepKakAAxf1a.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803317243742425088"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1803317253431238794",
+        "created_at": "2024-06-19T06:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T07:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803317253431238794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TomC4dq6Eu",
+              "end": 53,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1803317253431238794/photo/1",
+              "media_key": "3_1803317243742425088",
+              "start": 30,
+              "url": "https://t.co/TomC4dq6Eu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803317253431238794",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给我打二十块钱我想吃炸鸡了。减肥和小帅哥什么的就都算了吧 https://t.co/TomC4dq6Eu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 131,
+          "like_count": 1986,
+          "listed_count": 1,
+          "tweet_count": 514
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

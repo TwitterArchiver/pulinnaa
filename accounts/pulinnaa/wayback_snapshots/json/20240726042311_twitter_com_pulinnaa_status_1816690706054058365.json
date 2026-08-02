@@ -1,0 +1,167 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1816689808187752943",
+    "created_at": "2024-07-26T04:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T05:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816690706054058365"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1816690706054058365",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816689808187752943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等会蹭亲友妆行吗我不是精彩人呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1816689808187752943",
+        "created_at": "2024-07-26T04:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T05:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816690706054058365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816690706054058365",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816689808187752943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等会蹭亲友妆行吗我不是精彩人呀"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816689795256766464"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1816689808187752943",
+        "created_at": "2024-07-26T04:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T05:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816689808187752943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wG0t2flGgU",
+              "end": 31,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1816689808187752943/photo/1",
+              "media_key": "3_1816689795256766464",
+              "start": 8,
+              "url": "https://t.co/wG0t2flGgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816689808187752943",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样瞪死你们 https://t.co/wG0t2flGgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 157,
+          "like_count": 3207,
+          "listed_count": 0,
+          "tweet_count": 717
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

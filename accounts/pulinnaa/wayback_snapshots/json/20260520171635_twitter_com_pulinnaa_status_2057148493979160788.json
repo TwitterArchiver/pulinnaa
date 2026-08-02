@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2054233922578629095",
+    "created_at": "2026-05-20T17:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057148493979160788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913918515188527104",
+          "start": 0,
+          "username": "ULIAN672761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057148493979160788",
+    "in_reply_to_user_id": "1913918515188527104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057101617875599809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ULIAN672761 原来如此谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2054233922578629095",
+        "created_at": "2026-05-20T17:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057148493979160788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913918515188527104",
+              "start": 0,
+              "username": "ULIAN672761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057148493979160788",
+        "in_reply_to_user_id": "1913918515188527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057101617875599809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ULIAN672761 原来如此谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913918515188527104",
+        "conversation_id": "2054233922578629095",
+        "created_at": "2026-05-20T14:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057101617875599809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057101617875599809",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054556847278116962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 我是10t10t吃的 因为我没有降压药 吃完之后药效很慢 要等半个多小时 然后会开始手脚发麻然后全身发麻 心跳加速 我会有点幻觉 不知道是不是所有人都这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 171,
+          "like_count": 4024,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 2297
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T11:32:30.000Z",
+        "description": "恭喜你 成为人类了 欢呼吧",
+        "id": "1913918515188527104",
+        "name": "商心慈0712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054229151205470208/1bhYKGOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "ULIAN672761",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801309323311857665"
+      ],
+      "media_source_tweet_id": [
+        "1801309331025240431"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1801473665739214904",
+    "created_at": "2024-06-14T04:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T05:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801473665739214904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666010240725450752",
+          "start": 3,
+          "username": "amedesu01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/06f762C9b4",
+          "end": 96,
+          "expanded_url": "https://twitter.com/amedesu01/status/1801309331025240431/photo/1",
+          "media_key": "3_1801309323311857665",
+          "start": 73,
+          "url": "https://t.co/06f762C9b4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801473665739214904",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801309331025240431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @amedesu01: 4000fo抽獎…！\n大家好我是ame\n小女孩和我互關好不 轉這條抽三個13.14\n還有我不接線下了除非鈔能力嗯嗯 https://t.co/06f762C9b4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1801473665739214904].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1801473665739214904",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1801473665739214904"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1801309323311857665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GP-JSSqaQAEF-zz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801309323311857665"
+          ]
+        },
+        "author_id": "1666010240725450752",
+        "conversation_id": "1801309331025240431",
+        "created_at": "2024-06-13T17:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T18:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801309331025240431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/06f762C9b4",
+              "end": 81,
+              "expanded_url": "https://twitter.com/amedesu01/status/1801309331025240431/photo/1",
+              "media_key": "3_1801309323311857665",
+              "start": 58,
+              "url": "https://t.co/06f762C9b4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801309331025240431",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2135,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 25
+        },
+        "reply_settings": "following",
+        "text": "4000fo抽獎…！\n大家好我是ame\n小女孩和我互關好不 轉這條抽三個13.14\n還有我不接線下了除非鈔能力嗯嗯 https://t.co/06f762C9b4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 125,
+          "like_count": 1873,
+          "listed_count": 1,
+          "tweet_count": 510
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "我是ame呀 喜歡和小女孩玩 不接線下",
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388过门解锁线下",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1794245593763840436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791642038758522880/l__8_obF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4004,
+          "following_count": 1400,
+          "like_count": 7755,
+          "listed_count": 10,
+          "tweet_count": 3307
+        },
+        "username": "amedesu01",
+        "verified": false
+      }
+    ]
+  }
+}

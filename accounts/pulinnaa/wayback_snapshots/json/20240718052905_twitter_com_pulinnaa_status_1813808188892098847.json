@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1813769586040582624",
+    "created_at": "2024-07-18T05:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T06:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813808188892098847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664988013406089217",
+          "start": 0,
+          "username": "SUKI_2023wasted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813808188892098847",
+    "in_reply_to_user_id": "1664988013406089217",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813769586040582624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUKI_2023wasted 我蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1813769586040582624",
+        "created_at": "2024-07-18T05:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T06:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813808188892098847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664988013406089217",
+              "start": 0,
+              "username": "SUKI_2023wasted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813808188892098847",
+        "in_reply_to_user_id": "1664988013406089217",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813769586040582624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUKI_2023wasted 我蹲"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1813769572736204801"
+          ]
+        },
+        "author_id": "1664988013406089217",
+        "conversation_id": "1813769586040582624",
+        "created_at": "2024-07-18T02:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T03:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813769586040582624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1JxV6RpnDv",
+              "end": 64,
+              "expanded_url": "https://twitter.com/SUKI_2023wasted/status/1813769586040582624/video/1",
+              "media_key": "13_1813769572736204801",
+              "start": 41,
+              "url": "https://t.co/1JxV6RpnDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813769586040582624",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 503,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "1kfo了开个敷衍的抽奖  不抽任何药了）\n条件关转赞评\n5个10r口令红包 ） https://t.co/1JxV6RpnDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 151,
+          "like_count": 2936,
+          "listed_count": 0,
+          "tweet_count": 669
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:31:13.000Z",
+        "description": "ftx🏳️‍⚧️｜泛｜🚩Ⓐ 🏴｜18⬆️｜shtwt🔪 /od💉",
+        "id": "1664988013406089217",
+        "name": "SUKI-2.0｜",
+        "pinned_tweet_id": "1813227843800989934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812633053459599360/Lw8QkHBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 431,
+          "like_count": 12654,
+          "listed_count": 0,
+          "tweet_count": 3443
+        },
+        "username": "SUKI_2023wasted",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      }
+    ],
+    "conversation_id": "1816492350455394384",
+    "created_at": "2024-07-25T15:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T16:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816492350455394384"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 121,
+          "tag": "feelingood"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "藤井風"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1111562353923940352",
+          "start": 3,
+          "username": "fujiikazestaff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Listen to content by 藤井 風.",
+          "display_url": "Fujii-Kaze.lnk.to/FeelinGood",
+          "end": 81,
+          "expanded_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+          "images": [
+            {
+              "height": 220,
+              "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=orig",
+              "width": 440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 58,
+          "status": 200,
+          "title": "Feelin’ Go(o)d",
+          "unwound_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+          "url": "https://t.co/5TojgHD6gP"
+        },
+        {
+          "description": "Release on July 26 🎧 https://Fujii-Kaze.lnk.to/FeelinGoodDirector：MESSOfficial APP: http://c-rayon.com/fujiikaze/TikTok: https://www.tiktok.com/@fujiikaze19...",
+          "display_url": "youtu.be/iyU1t8G0LZw",
+          "end": 119,
+          "expanded_url": "https://youtu.be/iyU1t8G0LZw",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1816036478050525187/beHQx6Rk?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1816036478050525187/beHQx6Rk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 96,
+          "status": 200,
+          "title": "Fujii Kaze - Feelin’ Go(o)d (Official video)",
+          "unwound_url": "https://www.youtube.com/watch?v=iyU1t8G0LZw&feature=youtu.be",
+          "url": "https://t.co/GfMgLFPIYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816492350455394384",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 869
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816490445972910155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @fujiikazestaff: 『Feelin’ Go(o)d』\n\nOUT NOW\n\n🎧Streaming\nhttps://t.co/5TojgHD6gP\n\n🎥Music Video\nhttps://t.co/GfMgLFPIYg\n\n#feelingood #藤井風 h…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1816492350455394384",
+        "created_at": "2024-07-25T15:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T16:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816492350455394384"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 121,
+              "tag": "feelingood"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "藤井風"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1111562353923940352",
+              "start": 3,
+              "username": "fujiikazestaff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by 藤井 風.",
+              "display_url": "Fujii-Kaze.lnk.to/FeelinGood",
+              "end": 81,
+              "expanded_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "Feelin’ Go(o)d",
+              "unwound_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+              "url": "https://t.co/5TojgHD6gP"
+            },
+            {
+              "description": "Release on July 26 🎧 https://Fujii-Kaze.lnk.to/FeelinGoodDirector：MESSOfficial APP: http://c-rayon.com/fujiikaze/TikTok: https://www.tiktok.com/@fujiikaze19...",
+              "display_url": "youtu.be/iyU1t8G0LZw",
+              "end": 119,
+              "expanded_url": "https://youtu.be/iyU1t8G0LZw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1816036478050525187/beHQx6Rk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1816036478050525187/beHQx6Rk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "Fujii Kaze - Feelin’ Go(o)d (Official video)",
+              "unwound_url": "https://www.youtube.com/watch?v=iyU1t8G0LZw&feature=youtu.be",
+              "url": "https://t.co/GfMgLFPIYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816492350455394384",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 869
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816490445972910155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @fujiikazestaff: 『Feelin’ Go(o)d』\n\nOUT NOW\n\n🎧Streaming\nhttps://t.co/5TojgHD6gP\n\n🎥Music Video\nhttps://t.co/GfMgLFPIYg\n\n#feelingood #藤井風 h…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816490439966699520"
+          ]
+        },
+        "author_id": "1111562353923940352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1816490445972910155",
+        "created_at": "2024-07-25T15:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T16:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816490445972910155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 101,
+              "tag": "feelingood"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "藤井風"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by 藤井 風.",
+              "display_url": "Fujii-Kaze.lnk.to/FeelinGood",
+              "end": 61,
+              "expanded_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "Feelin’ Go(o)d",
+              "unwound_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+              "url": "https://t.co/5TojgHD6gP"
+            },
+            {
+              "description": "Release on July 26 🎧 https://Fujii-Kaze.lnk.to/FeelinGoodDirector：MESSOfficial APP: http://c-rayon.com/fujiikaze/TikTok: https://www.tiktok.com/@fujiikaze19...",
+              "display_url": "youtu.be/iyU1t8G0LZw",
+              "end": 99,
+              "expanded_url": "https://youtu.be/iyU1t8G0LZw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1816036478050525187/beHQx6Rk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1816036478050525187/beHQx6Rk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 76,
+              "status": 200,
+              "title": "Fujii Kaze - Feelin’ Go(o)d (Official video)",
+              "unwound_url": "https://www.youtube.com/watch?v=iyU1t8G0LZw&feature=youtu.be",
+              "url": "https://t.co/GfMgLFPIYg"
+            },
+            {
+              "display_url": "pic.twitter.com/6RB8sTcKeD",
+              "end": 141,
+              "expanded_url": "https://twitter.com/fujiikazestaff/status/1816490445972910155/photo/1",
+              "media_key": "3_1816490439966699520",
+              "start": 118,
+              "url": "https://t.co/6RB8sTcKeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816490445972910155",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 21989,
+          "like_count": 3614,
+          "quote_count": 160,
+          "reply_count": 0,
+          "retweet_count": 869
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "『Feelin’ Go(o)d』\n\nOUT NOW\n\n🎧Streaming\nhttps://t.co/5TojgHD6gP\n\n🎥Music Video\nhttps://t.co/GfMgLFPIYg\n\n#feelingood #藤井風 https://t.co/6RB8sTcKeD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 156,
+          "like_count": 3207,
+          "listed_count": 0,
+          "tweet_count": 713
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:34:51.000Z",
+        "description": "藤井 風Staffです。 \"Feelin’ Go(o)d\" 🎧https://t.co/F3fGMdNu2V  最新情報は公式無料アプリへ！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Fujii-Kaze.lnk.to/FeelinGood",
+                "end": 54,
+                "expanded_url": "http://Fujii-Kaze.lnk.to/FeelinGood",
+                "start": 31,
+                "url": "https://t.co/F3fGMdNu2V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-rayon.com/fujiikaze/",
+                "end": 23,
+                "expanded_url": "http://c-rayon.com/fujiikaze/",
+                "start": 0,
+                "url": "https://t.co/MugEZcx4S9"
+              }
+            ]
+          }
+        },
+        "id": "1111562353923940352",
+        "name": "Fujii Kaze Staff",
+        "pinned_tweet_id": "1816490445972910155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767188732317417472/OdDm_gn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259995,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 1088,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/MugEZcx4S9",
+        "username": "fujiikazestaff",
+        "verified": false
+      }
+    ]
+  }
+}

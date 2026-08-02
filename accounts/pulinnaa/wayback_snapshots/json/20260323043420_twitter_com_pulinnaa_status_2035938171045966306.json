@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2035938171045966306",
+    "created_at": "2026-03-23T04:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T05:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035938171045966306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814174084617666560",
+          "start": 3,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035938171045966306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035626433876537453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MianXue525: ❄️700fo感谢🥹❄️\n❄️粉丝福利抽奖此评论参与❄️\n一等奖🎀普瑞巴林两盒（折现¥39）\n二等奖🎀麦记糖水一份（折现¥26）\n三等奖🎀愈美片两盒（折现¥20）\n❄️眠眠好喜欢你们💕❄️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2035938171045966306",
+        "created_at": "2026-03-23T04:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035938171045966306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814174084617666560",
+              "start": 3,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035938171045966306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035626433876537453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MianXue525: ❄️700fo感谢🥹❄️\n❄️粉丝福利抽奖此评论参与❄️\n一等奖🎀普瑞巴林两盒（折现¥39）\n二等奖🎀麦记糖水一份（折现¥26）\n三等奖🎀愈美片两盒（折现¥20）\n❄️眠眠好喜欢你们💕❄️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2035626433876537453",
+        "created_at": "2026-03-22T07:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035626433876537453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035626433876537453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3977,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "❄️700fo感谢🥹❄️\n❄️粉丝福利抽奖此评论参与❄️\n一等奖🎀普瑞巴林两盒（折现¥39）\n二等奖🎀麦记糖水一份（折现¥26）\n三等奖🎀愈美片两盒（折现¥20）\n❄️眠眠好喜欢你们💕❄️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 147,
+          "like_count": 3950,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 1732
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 168 48减肥中查成分回fo❄️ \n❄️提问箱欢迎来玩🫶🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 272,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

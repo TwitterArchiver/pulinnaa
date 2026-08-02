@@ -1,0 +1,435 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1795108447601709056"
+      ],
+      "media_source_tweet_id": [
+        "1795108455306362977"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      }
+    ],
+    "conversation_id": "1795111694764548275",
+    "created_at": "2024-05-27T15:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T16:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795111694764548275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1111562353923940352",
+          "start": 3,
+          "username": "fujiikazestaff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Listen to content by Fujii Kaze.",
+          "display_url": "Fujii-Kaze.lnk.to/2020-2024",
+          "end": 96,
+          "expanded_url": "https://Fujii-Kaze.lnk.to/2020-2024",
+          "images": [
+            {
+              "height": 220,
+              "url": "https://pbs.twimg.com/news_img/1795108456833101824/to3eZFzH?format=jpg&name=orig",
+              "width": 440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1795108456833101824/to3eZFzH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 73,
+          "status": 200,
+          "title": "Best of Fujii Kaze 2020-2024",
+          "unwound_url": "https://Fujii-Kaze.lnk.to/2020-2024",
+          "url": "https://t.co/UfxkR225hM"
+        },
+        {
+          "display_url": "pic.twitter.com/q4u4EObsDi",
+          "end": 120,
+          "expanded_url": "https://twitter.com/fujiikazestaff/status/1795108455306362977/photo/1",
+          "media_key": "3_1795108447601709056",
+          "start": 97,
+          "url": "https://t.co/q4u4EObsDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795111694764548275",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 773
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795108455306362977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @fujiikazestaff: \"Best of Fujii Kaze 2020-2024\"\n\nOUT NOW\n \n🎧Streaming\nhttps://t.co/UfxkR225hM https://t.co/q4u4EObsDi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1795108447601709056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOmBn0iaUAARR6-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795108447601709056"
+          ],
+          "media_source_tweet_id": [
+            "1795108455306362977"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1795111694764548275",
+        "created_at": "2024-05-27T15:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T16:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795111694764548275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1111562353923940352",
+              "start": 3,
+              "username": "fujiikazestaff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by Fujii Kaze.",
+              "display_url": "Fujii-Kaze.lnk.to/2020-2024",
+              "end": 96,
+              "expanded_url": "https://Fujii-Kaze.lnk.to/2020-2024",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1795108456833101824/to3eZFzH?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1795108456833101824/to3eZFzH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "Best of Fujii Kaze 2020-2024",
+              "unwound_url": "https://Fujii-Kaze.lnk.to/2020-2024",
+              "url": "https://t.co/UfxkR225hM"
+            },
+            {
+              "display_url": "pic.twitter.com/q4u4EObsDi",
+              "end": 120,
+              "expanded_url": "https://twitter.com/fujiikazestaff/status/1795108455306362977/photo/1",
+              "media_key": "3_1795108447601709056",
+              "start": 97,
+              "url": "https://t.co/q4u4EObsDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795111694764548275",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 773
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795108455306362977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @fujiikazestaff: \"Best of Fujii Kaze 2020-2024\"\n\nOUT NOW\n \n🎧Streaming\nhttps://t.co/UfxkR225hM https://t.co/q4u4EObsDi"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795108447601709056"
+          ]
+        },
+        "author_id": "1111562353923940352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1795108455306362977",
+        "created_at": "2024-05-27T15:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T16:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795108455306362977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Listen to content by Fujii Kaze.",
+              "display_url": "Fujii-Kaze.lnk.to/2020-2024",
+              "end": 76,
+              "expanded_url": "https://Fujii-Kaze.lnk.to/2020-2024",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1795108456833101824/to3eZFzH?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1795108456833101824/to3eZFzH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "Best of Fujii Kaze 2020-2024",
+              "unwound_url": "https://Fujii-Kaze.lnk.to/2020-2024",
+              "url": "https://t.co/UfxkR225hM"
+            },
+            {
+              "display_url": "pic.twitter.com/q4u4EObsDi",
+              "end": 100,
+              "expanded_url": "https://twitter.com/fujiikazestaff/status/1795108455306362977/photo/1",
+              "media_key": "3_1795108447601709056",
+              "start": 77,
+              "url": "https://t.co/q4u4EObsDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795108455306362977",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 48944,
+          "like_count": 3650,
+          "quote_count": 314,
+          "reply_count": 0,
+          "retweet_count": 773
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "\"Best of Fujii Kaze 2020-2024\"\n\nOUT NOW\n \n🎧Streaming\nhttps://t.co/UfxkR225hM https://t.co/q4u4EObsDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 78,
+          "like_count": 1562,
+          "listed_count": 1,
+          "tweet_count": 210
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:34:51.000Z",
+        "description": "藤井 風Staffです。 new digital single \"満ちてゆく(Overflowing)\" 🎧https://t.co/S782gxLJKW 最新情報は公式無料アプリへ！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fujii-kaze.lnk.to/MichiTeyuKu",
+                "end": 77,
+                "expanded_url": "https://fujii-kaze.lnk.to/MichiTeyuKu",
+                "start": 54,
+                "url": "https://t.co/S782gxLJKW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-rayon.com/fujiikaze/",
+                "end": 23,
+                "expanded_url": "http://c-rayon.com/fujiikaze/",
+                "start": 0,
+                "url": "https://t.co/MugEZcx4S9"
+              }
+            ]
+          }
+        },
+        "id": "1111562353923940352",
+        "name": "Fujii Kaze Staff",
+        "pinned_tweet_id": "1788856866304569454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767188732317417472/OdDm_gn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254124,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 1089,
+          "tweet_count": 1152
+        },
+        "url": "https://t.co/MugEZcx4S9",
+        "username": "fujiikazestaff",
+        "verified": false
+      }
+    ]
+  }
+}

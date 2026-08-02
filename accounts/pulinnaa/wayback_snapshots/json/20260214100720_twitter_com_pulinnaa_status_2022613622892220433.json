@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022431052267163648"
+      ],
+      "media_source_tweet_id": [
+        "2022431058885832707"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2022613622892220433",
+    "created_at": "2026-02-14T10:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T11:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022613622892220433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2017052934388011009",
+          "start": 3,
+          "username": "fragroooooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6XtSw2152I",
+          "end": 95,
+          "expanded_url": "https://x.com/fragroooooo/status/2022431058885832707/photo/1",
+          "media_key": "3_2022431052267163648",
+          "start": 72,
+          "url": "https://t.co/6XtSw2152I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022613622892220433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022431058885832707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fragroooooo: 出售糖糖磕的如图的魔法小物质，\n感兴趣私聊我喵，\n转关赞抽五个双C爆汁粑粑柑（折现15r）\n欢迎集邮喵🥺🥺🥺 https://t.co/6XtSw2152I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2022431052267163648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBEeU6UakAAdH5V.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022431052267163648"
+          ],
+          "media_source_tweet_id": [
+            "2022431058885832707"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2022613622892220433",
+        "created_at": "2026-02-14T10:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022613622892220433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2017052934388011009",
+              "start": 3,
+              "username": "fragroooooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XtSw2152I",
+              "end": 95,
+              "expanded_url": "https://x.com/fragroooooo/status/2022431058885832707/photo/1",
+              "media_key": "3_2022431052267163648",
+              "start": 72,
+              "url": "https://t.co/6XtSw2152I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022613622892220433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022431058885832707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fragroooooo: 出售糖糖磕的如图的魔法小物质，\n感兴趣私聊我喵，\n转关赞抽五个双C爆汁粑粑柑（折现15r）\n欢迎集邮喵🥺🥺🥺 https://t.co/6XtSw2152I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022431052267163648"
+          ]
+        },
+        "author_id": "2017052934388011009",
+        "conversation_id": "2022431058885832707",
+        "created_at": "2026-02-13T22:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T23:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022431058885832707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XtSw2152I",
+              "end": 78,
+              "expanded_url": "https://x.com/fragroooooo/status/2022431058885832707/photo/1",
+              "media_key": "3_2022431052267163648",
+              "start": 55,
+              "url": "https://t.co/6XtSw2152I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022431058885832707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 971,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "出售糖糖磕的如图的魔法小物质，\n感兴趣私聊我喵，\n转关赞抽五个双C爆汁粑粑柑（折现15r）\n欢迎集邮喵🥺🥺🥺 https://t.co/6XtSw2152I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 146,
+          "like_count": 3903,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1701
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T01:51:19.000Z",
+        "description": "前前前世@Muddledist破千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Muddledist"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2017052934388011009",
+        "location": "第五高原",
+        "name": "乙女椿（四代目）",
+        "pinned_tweet_id": "2017054353287414066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022170686165524481/835coBwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 289,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 192
+        },
+        "username": "fragroooooo",
+        "verified": false
+      }
+    ]
+  }
+}

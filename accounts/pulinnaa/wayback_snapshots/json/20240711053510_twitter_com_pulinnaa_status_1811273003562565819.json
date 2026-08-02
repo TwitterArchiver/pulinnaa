@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1811273003562565819",
+    "created_at": "2024-07-11T05:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T06:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811273003562565819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1799360815751200768",
+          "start": 3,
+          "username": "youmeishafen99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811273003562565819",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811253935992353093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youmeishafen99: 替美胶囊上线\n顾名思义替代右美胶囊\n7粒胶囊等于白云山右美24t（一盒）效果相同\n按袋卖。\n5袋360r\n10袋680r\n20袋1200r。\n开始预售与7.20开始全部发货。预售价8折\n转发，关注。\n第一名5袋\n第二名3袋\n第三名2袋\n在…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1811273003562565819",
+        "created_at": "2024-07-11T05:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T06:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811273003562565819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1799360815751200768",
+              "start": 3,
+              "username": "youmeishafen99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811273003562565819",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811253935992353093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youmeishafen99: 替美胶囊上线\n顾名思义替代右美胶囊\n7粒胶囊等于白云山右美24t（一盒）效果相同\n按袋卖。\n5袋360r\n10袋680r\n20袋1200r。\n开始预售与7.20开始全部发货。预售价8折\n转发，关注。\n第一名5袋\n第二名3袋\n第三名2袋\n在…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811253297975824384",
+            "3_1811253297988423680",
+            "3_1811253297963302912",
+            "3_1811253297963298816"
+          ]
+        },
+        "author_id": "1799360815751200768",
+        "conversation_id": "1811253935992353093",
+        "created_at": "2024-07-11T04:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T05:16:54.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811253306683236509",
+          "1811253819453698179",
+          "1811253935992353093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sheKL2eIEO",
+              "end": 171,
+              "expanded_url": "https://twitter.com/youmeishafen99/status/1811253935992353093/photo/1",
+              "media_key": "3_1811253297975824384",
+              "start": 148,
+              "url": "https://t.co/sheKL2eIEO"
+            },
+            {
+              "display_url": "pic.twitter.com/sheKL2eIEO",
+              "end": 171,
+              "expanded_url": "https://twitter.com/youmeishafen99/status/1811253935992353093/photo/1",
+              "media_key": "3_1811253297988423680",
+              "start": 148,
+              "url": "https://t.co/sheKL2eIEO"
+            },
+            {
+              "display_url": "pic.twitter.com/sheKL2eIEO",
+              "end": 171,
+              "expanded_url": "https://twitter.com/youmeishafen99/status/1811253935992353093/photo/1",
+              "media_key": "3_1811253297963302912",
+              "start": 148,
+              "url": "https://t.co/sheKL2eIEO"
+            },
+            {
+              "display_url": "pic.twitter.com/sheKL2eIEO",
+              "end": 171,
+              "expanded_url": "https://twitter.com/youmeishafen99/status/1811253935992353093/photo/1",
+              "media_key": "3_1811253297963298816",
+              "start": 148,
+              "url": "https://t.co/sheKL2eIEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811253935992353093",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 964,
+          "like_count": 21,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "替美胶囊上线\n顾名思义替代右美胶囊\n7粒胶囊等于白云山右美24t（一盒）效果相同\n按袋卖。\n5袋360r\n10袋680r\n20袋1200r。\n开始预售与7.20开始全部发货。预售价8折\n转发，关注。\n第一名5袋\n第二名3袋\n第三名2袋\n在抽五袋安慰奖。转发满200。7.21日晚上8-9点开奖。 https://t.co/sheKL2eIEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 147,
+          "like_count": 2774,
+          "listed_count": 1,
+          "tweet_count": 610
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T08:40:32.000Z",
+        "description": "交流群，电报群https://t.co/DOogVwr7fW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/youmeishafen999",
+                "end": 30,
+                "expanded_url": "https://t.me/youmeishafen999",
+                "start": 7,
+                "url": "https://t.co/DOogVwr7fW"
+              }
+            ]
+          }
+        },
+        "id": "1799360815751200768",
+        "location": "广州",
+        "name": "可达鸭滴药铺",
+        "pinned_tweet_id": "1802298141473181986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799360973683449856/yF3Vd0US_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 157,
+          "like_count": 205,
+          "listed_count": 0,
+          "tweet_count": 513
+        },
+        "username": "youmeishafen99",
+        "verified": true
+      }
+    ]
+  }
+}

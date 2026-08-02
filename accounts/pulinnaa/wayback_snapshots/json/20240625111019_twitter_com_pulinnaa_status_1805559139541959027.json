@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1805559139541959027",
+    "created_at": "2024-06-25T11:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T12:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805559139541959027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pulinnaa/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1805557113625920001",
+          "start": 18,
+          "url": "https://t.co/uyx5RxOqIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805559139541959027",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805557113625920001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本来p了刘海。但是没保存进去。哎 https://t.co/uyx5RxOqIO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1805559139541959027",
+        "created_at": "2024-06-25T11:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T12:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805559139541959027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pulinnaa/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1805557113625920001",
+              "start": 18,
+              "url": "https://t.co/uyx5RxOqIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805559139541959027",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805557113625920001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本来p了刘海。但是没保存进去。哎 https://t.co/uyx5RxOqIO"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805557105036083203"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1805557113625920001",
+        "created_at": "2024-06-25T11:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T12:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805557113625920001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 52,
+              "start": 40,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 67,
+              "start": 53,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 81,
+              "start": 68,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 95,
+              "start": 83,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 119,
+              "start": 101,
+              "tag": "いいねした人で気になった人フォロー"
+            },
+            {
+              "end": 137,
+              "start": 120,
+              "tag": "1mmでもいいなと思ったらいいね"
+            },
+            {
+              "end": 145,
+              "start": 138,
+              "tag": "いいねでDM"
+            },
+            {
+              "end": 152,
+              "start": 146,
+              "tag": "いいね返し"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ljw8MuvfjP",
+              "end": 176,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1805557113625920001/photo/1",
+              "media_key": "3_1805557105036083203",
+              "start": 153,
+              "url": "https://t.co/ljw8MuvfjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805557113625920001",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "𝔱𝔥𝔢 𝔥𝔢𝔞𝔯𝔱 𝔴𝔞𝔰 𝔪𝔞𝔡𝔢 𝔱𝔬 𝔟𝔢 𝔟𝔯𝔬𝔨𝔢𝔫\n\n#自撮り界隈 #自撮り界隈と繋がりたい #自撮り界隈さんと繋がりたい #美男美女さんと繋がりたい  #病み垢さんと繋がりたい #雰囲気 #いいねした人で気になった人フォロー #1mmでもいいなと思ったらいいね #いいねでDM #いいね返し https://t.co/ljw8MuvfjP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 130,
+          "like_count": 2200,
+          "listed_count": 1,
+          "tweet_count": 580
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

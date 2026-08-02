@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1802320628768518532",
+    "created_at": "2024-06-16T12:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T13:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802324786305257692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695026363118551040",
+          "start": 0,
+          "username": "yunanana0724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802324786305257692",
+    "in_reply_to_user_id": "1695026363118551040",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802320628768518532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunanana0724 宝宝呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1802320628768518532",
+        "created_at": "2024-06-16T12:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T13:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802324786305257692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695026363118551040",
+              "start": 0,
+              "username": "yunanana0724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802324786305257692",
+        "in_reply_to_user_id": "1695026363118551040",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802320628768518532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunanana0724 宝宝呀！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1695026363118551040",
+        "conversation_id": "1802320628768518532",
+        "created_at": "2024-06-16T12:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T13:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802320628768518532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pulinnaa/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1801851154130731300",
+              "start": 17,
+              "url": "https://t.co/UfimQ2gfSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802320628768518532",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801851154130731300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咋能那麼可愛(*๓´╰╯`๓)♡ https://t.co/UfimQ2gfSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 130,
+          "like_count": 1914,
+          "listed_count": 1,
+          "tweet_count": 500
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T10:52:41.000Z",
+        "description": "病み垢｜日常垢｜🇹🇼｜17y｜私訊不回覆，除非是妹子｜座標在臺灣｜我的生活就是吞各種藥，不是OD，是我真的需要｜INTJ-T｜平日很少活動，假日比較有時間，不代表假日都有很多時間！｜只要有時間，我會一直轉推，平日只會發自己的推，然後少少轉推｜",
+        "id": "1695026363118551040",
+        "location": "天國",
+        "name": "ゆな",
+        "pinned_tweet_id": "1726106639420518770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695026522728648704/p6IXKHa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 261,
+          "like_count": 1805,
+          "listed_count": 0,
+          "tweet_count": 1674
+        },
+        "username": "yunanana0724",
+        "verified": false
+      }
+    ]
+  }
+}

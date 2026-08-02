@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1837193495184036347",
+    "created_at": "2024-09-21T05:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T06:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837357687333384231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1241510684057145346",
+          "start": 0,
+          "username": "plmH7dTrJ4POvku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837357687333384231",
+    "in_reply_to_user_id": "1241510684057145346",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837355694267453595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plmH7dTrJ4POvku 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T05:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T06:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837357687333384231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1241510684057145346",
+              "start": 0,
+              "username": "plmH7dTrJ4POvku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837357687333384231",
+        "in_reply_to_user_id": "1241510684057145346",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837355694267453595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plmH7dTrJ4POvku 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241510684057145346",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T04:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T05:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837355694267453595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837355694267453595",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837193495184036347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 不要地图炮谢谢，去骂那些媚黑女吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 158,
+          "like_count": 3622,
+          "listed_count": 1,
+          "tweet_count": 912
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-21T23:43:18.000Z",
+        "description": "",
+        "id": "1241510684057145346",
+        "name": "你好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1241510815292776449/fhvlZIQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 2087,
+          "like_count": 270,
+          "listed_count": 0,
+          "tweet_count": 124
+        },
+        "username": "plmH7dTrJ4POvku",
+        "verified": false
+      }
+    ]
+  }
+}

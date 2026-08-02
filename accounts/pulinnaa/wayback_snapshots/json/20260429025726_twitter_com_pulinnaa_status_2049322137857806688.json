@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047489611358728192"
+      ],
+      "media_source_tweet_id": [
+        "2047489613934031033"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2049322137857806688",
+    "created_at": "2026-04-29T02:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049322137857806688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782932905419046912",
+          "start": 3,
+          "username": "ratshelprats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lglP6MgXkv",
+          "end": 48,
+          "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+          "media_key": "3_2047489611358728192",
+          "start": 25,
+          "url": "https://t.co/lglP6MgXkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049322137857806688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047489613934031033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratshelprats: 谢谢你们！🫰 https://t.co/lglP6MgXkv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "3_2047489611358728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGok9BZW8AARZUK.jpg",
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047489611358728192"
+          ],
+          "media_source_tweet_id": [
+            "2047489613934031033"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2049322137857806688",
+        "created_at": "2026-04-29T02:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049322137857806688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782932905419046912",
+              "start": 3,
+              "username": "ratshelprats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lglP6MgXkv",
+              "end": 48,
+              "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+              "media_key": "3_2047489611358728192",
+              "start": 25,
+              "url": "https://t.co/lglP6MgXkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049322137857806688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047489613934031033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratshelprats: 谢谢你们！🫰 https://t.co/lglP6MgXkv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047489611358728192"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "2047489613934031033",
+        "created_at": "2026-04-24T01:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047489613934031033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lglP6MgXkv",
+              "end": 30,
+              "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+              "media_key": "3_2047489611358728192",
+              "start": 7,
+              "url": "https://t.co/lglP6MgXkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047489613934031033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 30544,
+          "like_count": 1388,
+          "quote_count": 10,
+          "reply_count": 68,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们！🫰 https://t.co/lglP6MgXkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 151,
+          "like_count": 3956,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 1879
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2039406392768131266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104530,
+          "following_count": 503,
+          "like_count": 87693,
+          "listed_count": 159,
+          "media_count": 639,
+          "tweet_count": 1498
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

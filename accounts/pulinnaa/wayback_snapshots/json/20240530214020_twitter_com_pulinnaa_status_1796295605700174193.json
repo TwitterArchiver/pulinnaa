@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1796218264051470521",
+    "created_at": "2024-05-30T21:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T22:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796295605700174193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750104479096344576",
+          "start": 0,
+          "username": "ran12598759874"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796295605700174193",
+    "in_reply_to_user_id": "1750104479096344576",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796286379867168827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ran12598759874 よかったー"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1796286379867168827].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1796286379867168827",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1796286379867168827"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1796218264051470521",
+        "created_at": "2024-05-30T21:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T22:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796295605700174193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750104479096344576",
+              "start": 0,
+              "username": "ran12598759874"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796295605700174193",
+        "in_reply_to_user_id": "1750104479096344576",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796286379867168827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ran12598759874 よかったー"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 104,
+          "like_count": 1711,
+          "listed_count": 1,
+          "tweet_count": 270
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T10:33:54.000Z",
+        "description": "愛方→@curocya__o໒꒱*.ﾟ @uuFKHFMlp627981←🗝 ペア画→@erueru927879♡*.ﾟ·̩͙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "curocya__o"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "uuFKHFMlp627981"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "erueru927879"
+              }
+            ]
+          }
+        },
+        "id": "1750104479096344576",
+        "location": "初めてのときめきを忘れても私だけを見ててね♡",
+        "name": "らん",
+        "pinned_tweet_id": "1776100978468798953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779938924770779137/2EIPmx5Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 183,
+          "like_count": 32802,
+          "listed_count": 25,
+          "tweet_count": 6755
+        },
+        "username": "ran12598759874",
+        "verified": false
+      }
+    ]
+  }
+}

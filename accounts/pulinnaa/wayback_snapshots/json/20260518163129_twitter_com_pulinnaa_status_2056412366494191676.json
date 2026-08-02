@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2056357381068705939",
+    "created_at": "2026-05-18T16:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056412366494191676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054808444142755840",
+          "start": 0,
+          "username": "yinghuo1529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056412366494191676",
+    "in_reply_to_user_id": "2054808444142755840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056357381068705939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinghuo1529 我想知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2056357381068705939",
+        "created_at": "2026-05-18T16:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056412366494191676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054808444142755840",
+              "start": 0,
+              "username": "yinghuo1529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056412366494191676",
+        "in_reply_to_user_id": "2054808444142755840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056357381068705939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinghuo1529 我想知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054808444142755840",
+        "conversation_id": "2056357381068705939",
+        "created_at": "2026-05-18T12:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056357381068705939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056357381068705939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "免费告诉别人买药的方式都发不出去 要不我死了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 174,
+          "like_count": 4023,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 2273
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T06:18:34.000Z",
+        "description": "你好 我是荧惑 如果你感到眼熟 那就是我——\n——\n顺直男/双相/od史/血图猎奇爱好者/",
+        "id": "2054808444142755840",
+        "name": "荧惑",
+        "pinned_tweet_id": "2054816042493546623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054809551443304448/luPjskrT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 149,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "username": "yinghuo1529",
+        "verified": false
+      }
+    ]
+  }
+}

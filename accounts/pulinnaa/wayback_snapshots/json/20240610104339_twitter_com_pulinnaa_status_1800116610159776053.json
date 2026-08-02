@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1800110883236127006",
+    "created_at": "2024-06-10T10:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T11:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800116610159776053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766412743488237568",
+          "start": 0,
+          "username": "zholngx588061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800116610159776053",
+    "in_reply_to_user_id": "1766412743488237568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800115910226936011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zholngx588061 呼び名￤昏昏\n好感度(1~100)￤100\n信頼度(1~100)￤97\n第一印象￤萌，可恶的小情侣\n今の印象￤萌，可爱的小情侣\n身内にするなら￤可能会把你当妹妹\n通話できる？￤可以\nリアルで会える？￤可以。请面积\nガチ本音￤我要和你装熟\nこのツイートをやる￤你不是霓虹人但是你可以发🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1800110883236127006",
+        "created_at": "2024-06-10T10:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T11:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800116610159776053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766412743488237568",
+              "start": 0,
+              "username": "zholngx588061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800116610159776053",
+        "in_reply_to_user_id": "1766412743488237568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800115910226936011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zholngx588061 呼び名￤昏昏\n好感度(1~100)￤100\n信頼度(1~100)￤97\n第一印象￤萌，可恶的小情侣\n今の印象￤萌，可爱的小情侣\n身内にするなら￤可能会把你当妹妹\n通話できる？￤可以\nリアルで会える？￤可以。请面积\nガチ本音￤我要和你装熟\nこのツイートをやる￤你不是霓虹人但是你可以发🤓"
+      },
+      {
+        "attachments": {},
+        "author_id": "1766412743488237568",
+        "conversation_id": "1800110883236127006",
+        "created_at": "2024-06-10T10:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T11:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800115910226936011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800115910226936011",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800110883236127006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 不是霓虹人可以参加吗？私も"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 127,
+          "like_count": 1795,
+          "listed_count": 1,
+          "tweet_count": 448
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:36:47.000Z",
+        "description": "昏昏｜sub｜双相｜双性恋｜isfp｜最爱的人@xia_shu13688",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xia_shu13688"
+              }
+            ]
+          }
+        },
+        "id": "1766412743488237568",
+        "name": "恶根性",
+        "pinned_tweet_id": "1792992290656395268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798334808487030784/q8Yt7Qtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 265,
+          "like_count": 6666,
+          "listed_count": 2,
+          "tweet_count": 1880
+        },
+        "username": "zholngx588061",
+        "verified": false
+      }
+    ]
+  }
+}

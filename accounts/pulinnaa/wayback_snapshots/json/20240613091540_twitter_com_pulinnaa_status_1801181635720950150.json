@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1801181255792468474",
+    "created_at": "2024-06-13T09:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T10:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801181635720950150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1161631203650199552",
+          "start": 0,
+          "username": "AmatukaNoa2o16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801181635720950150",
+    "in_reply_to_user_id": "1161631203650199552",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801181396188496177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmatukaNoa2o16 🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1801181255792468474",
+        "created_at": "2024-06-13T09:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T10:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801181635720950150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1161631203650199552",
+              "start": 0,
+              "username": "AmatukaNoa2o16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801181635720950150",
+        "in_reply_to_user_id": "1161631203650199552",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801181396188496177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmatukaNoa2o16 🙄"
+      },
+      {
+        "attachments": {},
+        "author_id": "1161631203650199552",
+        "conversation_id": "1801181255792468474",
+        "created_at": "2024-06-13T09:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T10:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801181396188496177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801181396188496177",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801181255792468474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 124,
+          "like_count": 1852,
+          "listed_count": 1,
+          "tweet_count": 497
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-14T13:30:35.000Z",
+        "description": "#オタ活垢/病み垢/ #LESSERAFIM/ #IVE/ #aespa/KーPOPオタク！ 可愛い可愛い彼💍ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ @pulinnaa アイコンは推しLE SSERAFIMの咲良本人じゃないから！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "オタ活垢"
+              },
+              {
+                "end": 22,
+                "start": 11,
+                "tag": "LESSERAFIM"
+              },
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "IVE"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "aespa"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "pulinnaa"
+              }
+            ]
+          }
+        },
+        "id": "1161631203650199552",
+        "name": "のあ",
+        "pinned_tweet_id": "1683623456137674752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792452238163726337/opJx-0oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 262,
+          "like_count": 17291,
+          "listed_count": 31,
+          "tweet_count": 411
+        },
+        "username": "AmatukaNoa2o16",
+        "verified": false
+      }
+    ]
+  }
+}

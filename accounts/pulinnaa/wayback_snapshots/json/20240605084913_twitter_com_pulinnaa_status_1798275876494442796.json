@@ -1,0 +1,291 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1798275779639554048"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1798275876494442796",
+    "created_at": "2024-06-05T08:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T09:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798275876494442796"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "クロミちゃん",
+          "probability": 0.4447,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 34,
+          "start": 22,
+          "tag": "美男美女さんと繋がたい"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "自撮り"
+        },
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "雰囲気界隈"
+        },
+        {
+          "end": 55,
+          "start": 47,
+          "tag": "共依存相手募集"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "彼氏募集"
+        },
+        {
+          "end": 69,
+          "start": 62,
+          "tag": "いいねでDM"
+        },
+        {
+          "end": 76,
+          "start": 70,
+          "tag": "いいね返し"
+        },
+        {
+          "end": 95,
+          "start": 77,
+          "tag": "雰囲気きらいじゃないよって人いいね"
+        },
+        {
+          "end": 108,
+          "start": 96,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 115,
+          "start": 109,
+          "tag": "ネッ友募集"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/kkdmvtIxIn",
+          "end": 139,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1798275876494442796/video/1",
+          "media_key": "7_1798275779639554048",
+          "start": 116,
+          "url": "https://t.co/kkdmvtIxIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798275876494442796",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "クロミちゃん痛いですか？w\n\n#地雷系女子 #美男美女さんと繋がたい #自撮り #雰囲気界隈 #共依存相手募集 #彼氏募集 #いいねでDM #いいね返し #雰囲気きらいじゃないよって人いいね #病み垢さんと繋がりたい #ネッ友募集 https://t.co/kkdmvtIxIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11500,
+        "height": 1280,
+        "media_key": "7_1798275779639554048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1798275779639554048/pu/img/aA1TXT_mx33hP-Za.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798275779639554048/pu/vid/avc1/320x568/S4EjTQer1yyRNQZp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798275779639554048/pu/vid/avc1/480x852/q2UBgAkxcwpwDx-x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798275779639554048/pu/vid/avc1/720x1280/lk4L-SIUSOBMS13-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1798275779639554048/pu/pl/gt5cVJ5zSbxJJE--.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798275779639554048"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1798275876494442796",
+        "created_at": "2024-06-05T08:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T09:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798275876494442796"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "クロミちゃん",
+              "probability": 0.4447,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 34,
+              "start": 22,
+              "tag": "美男美女さんと繋がたい"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "自撮り"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "雰囲気界隈"
+            },
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "共依存相手募集"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "彼氏募集"
+            },
+            {
+              "end": 69,
+              "start": 62,
+              "tag": "いいねでDM"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "いいね返し"
+            },
+            {
+              "end": 95,
+              "start": 77,
+              "tag": "雰囲気きらいじゃないよって人いいね"
+            },
+            {
+              "end": 108,
+              "start": 96,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 115,
+              "start": 109,
+              "tag": "ネッ友募集"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kkdmvtIxIn",
+              "end": 139,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1798275876494442796/video/1",
+              "media_key": "7_1798275779639554048",
+              "start": 116,
+              "url": "https://t.co/kkdmvtIxIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798275876494442796",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "クロミちゃん痛いですか？w\n\n#地雷系女子 #美男美女さんと繋がたい #自撮り #雰囲気界隈 #共依存相手募集 #彼氏募集 #いいねでDM #いいね返し #雰囲気きらいじゃないよって人いいね #病み垢さんと繋がりたい #ネッ友募集 https://t.co/kkdmvtIxIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 119,
+          "like_count": 1606,
+          "listed_count": 1,
+          "tweet_count": 320
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

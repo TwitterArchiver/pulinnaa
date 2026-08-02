@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2034270479343866189",
+    "created_at": "2026-03-18T16:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T17:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034310842905444430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1992583415993171969",
+          "start": 0,
+          "username": "AsaGameF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034310842905444430",
+    "in_reply_to_user_id": "1992583415993171969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034270479343866189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsaGameF 活该"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2034270479343866189",
+        "created_at": "2026-03-18T16:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034310842905444430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1992583415993171969",
+              "start": 0,
+              "username": "AsaGameF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034310842905444430",
+        "in_reply_to_user_id": "1992583415993171969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034270479343866189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsaGameF 活该"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992583415993171969",
+        "conversation_id": "2034270479343866189",
+        "created_at": "2026-03-18T14:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034270479343866189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034270479343866189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "うつうつだ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 146,
+          "like_count": 3953,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 1724
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T13:18:12.000Z",
+        "description": "済￤男￤鬱￤少数派 浮上＝返信",
+        "id": "1992583415993171969",
+        "name": "あさ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992584861232816128/3n8I-k-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 1690,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "AsaGameF",
+        "verified": false
+      }
+    ]
+  }
+}

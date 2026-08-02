@@ -1,0 +1,428 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793975093267513344",
+        "3_1793975096035680257"
+      ],
+      "media_source_tweet_id": [
+        "1793975101026955272",
+        "1793975101026955272"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1794691882137874645",
+    "created_at": "2024-05-26T11:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T12:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794691882137874645"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 55,
+          "tag": "共依存相手募集"
+        },
+        {
+          "end": 74,
+          "start": 65,
+          "tag": "共依存相手募集中"
+        },
+        {
+          "end": 82,
+          "start": 75,
+          "tag": "依存先募集中"
+        },
+        {
+          "end": 92,
+          "start": 84,
+          "tag": "共依存先募集中"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "共依存"
+        },
+        {
+          "end": 106,
+          "start": 100,
+          "tag": "依存したい"
+        },
+        {
+          "end": 115,
+          "start": 108,
+          "tag": "お隣ください"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682344144411426819",
+          "start": 3,
+          "username": "yuaomochi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/NCZ42PnwOv",
+          "end": 139,
+          "expanded_url": "https://twitter.com/yuaomochi/status/1793975101026955272/photo/1",
+          "media_key": "3_1793975093267513344",
+          "start": 116,
+          "url": "https://t.co/NCZ42PnwOv"
+        },
+        {
+          "display_url": "pic.twitter.com/NCZ42PnwOv",
+          "end": 139,
+          "expanded_url": "https://twitter.com/yuaomochi/status/1793975101026955272/photo/1",
+          "media_key": "3_1793975096035680257",
+          "start": 116,
+          "url": "https://t.co/NCZ42PnwOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794691882137874645",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793975101026955272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuaomochi: お隣ください…ඉ₄ඉ\n18⤵︎ ︎￤♀￤LよりのB￤嫉妬￤依存\n男の人にがて…\n#共依存相手募集  #共依存相手募集中 #依存先募集中  #共依存先募集中  #共依存  #依存したい  #お隣ください https://t.co/NCZ42PnwOv"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "寝落ち通話とか毎日したい お金たまったら会いに行きたいしあいにきて？ちゅーぷりとかとったりカラオケ行ったりあそびたい ひまなときとかずーーーーっとおはなししてたい 位置情報共有したい プレゼントお手紙こうかんしたいしふくとかおそろいにしたいᡣ𐭩ピアスとか空けてるなら同じとこに開けるよ ゆあしか見ないでほしいもちろんゆあもほかの子見ないよ ほかのこと話してたらすぐ嫉妬しちゃうかもごめんね",
+        "height": 1074,
+        "media_key": "3_1793975093267513344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOV616obwAAm9dN.jpg",
+        "width": 1074
+      },
+      {
+        "alt_text": "ほかの子ふぉろーしたら浮気だよ？？",
+        "height": 2048,
+        "media_key": "3_1793975096035680257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOV62E8aoAEseNW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793975093267513344",
+            "3_1793975096035680257"
+          ],
+          "media_source_tweet_id": [
+            "1793975101026955272",
+            "1793975101026955272"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1794691882137874645",
+        "created_at": "2024-05-26T11:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T12:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794691882137874645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "共依存相手募集"
+            },
+            {
+              "end": 74,
+              "start": 65,
+              "tag": "共依存相手募集中"
+            },
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "依存先募集中"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "共依存先募集中"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "共依存"
+            },
+            {
+              "end": 106,
+              "start": 100,
+              "tag": "依存したい"
+            },
+            {
+              "end": 115,
+              "start": 108,
+              "tag": "お隣ください"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682344144411426819",
+              "start": 3,
+              "username": "yuaomochi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NCZ42PnwOv",
+              "end": 139,
+              "expanded_url": "https://twitter.com/yuaomochi/status/1793975101026955272/photo/1",
+              "media_key": "3_1793975093267513344",
+              "start": 116,
+              "url": "https://t.co/NCZ42PnwOv"
+            },
+            {
+              "display_url": "pic.twitter.com/NCZ42PnwOv",
+              "end": 139,
+              "expanded_url": "https://twitter.com/yuaomochi/status/1793975101026955272/photo/1",
+              "media_key": "3_1793975096035680257",
+              "start": 116,
+              "url": "https://t.co/NCZ42PnwOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794691882137874645",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793975101026955272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuaomochi: お隣ください…ඉ₄ඉ\n18⤵︎ ︎￤♀￤LよりのB￤嫉妬￤依存\n男の人にがて…\n#共依存相手募集  #共依存相手募集中 #依存先募集中  #共依存先募集中  #共依存  #依存したい  #お隣ください https://t.co/NCZ42PnwOv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793975093267513344",
+            "3_1793975096035680257"
+          ]
+        },
+        "author_id": "1682344144411426819",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1793975101026955272",
+        "created_at": "2024-05-24T11:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T12:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793975101026955272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "共依存相手募集"
+            },
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "共依存相手募集中"
+            },
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "依存先募集中"
+            },
+            {
+              "end": 77,
+              "start": 69,
+              "tag": "共依存先募集中"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "共依存"
+            },
+            {
+              "end": 91,
+              "start": 85,
+              "tag": "依存したい"
+            },
+            {
+              "end": 100,
+              "start": 93,
+              "tag": "お隣ください"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NCZ42PnwOv",
+              "end": 124,
+              "expanded_url": "https://twitter.com/yuaomochi/status/1793975101026955272/photo/1",
+              "media_key": "3_1793975093267513344",
+              "start": 101,
+              "url": "https://t.co/NCZ42PnwOv"
+            },
+            {
+              "display_url": "pic.twitter.com/NCZ42PnwOv",
+              "end": 124,
+              "expanded_url": "https://twitter.com/yuaomochi/status/1793975101026955272/photo/1",
+              "media_key": "3_1793975096035680257",
+              "start": 101,
+              "url": "https://t.co/NCZ42PnwOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793975101026955272",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "お隣ください…ඉ₄ඉ\n18⤵︎ ︎￤♀￤LよりのB￤嫉妬￤依存\n男の人にがて…\n#共依存相手募集  #共依存相手募集中 #依存先募集中  #共依存先募集中  #共依存  #依存したい  #お隣ください https://t.co/NCZ42PnwOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 77,
+          "like_count": 1511,
+          "listed_count": 1,
+          "tweet_count": 202
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T10:58:05.000Z",
+        "description": "18⤵︎ ︎￤♀￤片思い1日",
+        "id": "1682344144411426819",
+        "name": "ゆあ",
+        "pinned_tweet_id": "1768245406469857732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793972837130334208/CY4Lkg1-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 436,
+          "listed_count": 0,
+          "tweet_count": 23
+        },
+        "username": "yuaomochi",
+        "verified": false
+      }
+    ]
+  }
+}

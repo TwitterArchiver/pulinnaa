@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1799836669400752270",
+    "created_at": "2024-06-09T20:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T21:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799896723403473111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754816637419827200",
+          "start": 0,
+          "username": "qirongjing2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799896723403473111",
+    "in_reply_to_user_id": "1754816637419827200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799836669400752270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qirongjing2 我可以🙌🏻门槛35"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1799836669400752270",
+        "created_at": "2024-06-09T20:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T21:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799896723403473111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754816637419827200",
+              "start": 0,
+              "username": "qirongjing2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799896723403473111",
+        "in_reply_to_user_id": "1754816637419827200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799836669400752270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qirongjing2 我可以🙌🏻门槛35"
+      },
+      {
+        "attachments": {},
+        "author_id": "1754816637419827200",
+        "conversation_id": "1799836669400752270",
+        "created_at": "2024-06-09T16:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T17:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799836669400752270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799836669400752270",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2275,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有能提供情绪价值+晚上能熬夜的，我很久没过门槛了，我现在好无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 127,
+          "like_count": 1775,
+          "listed_count": 1,
+          "tweet_count": 412
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T10:37:52.000Z",
+        "description": "时间是逐渐失效的麻药 前世@qirongjing1 防走丢备用@CiciKnow233 看不惯我就b掉 少管闲事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "qirongjing1"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "CiciKnow233"
+              }
+            ]
+          }
+        },
+        "id": "1754816637419827200",
+        "location": "天堂疯人院 🚪88🚪188🚪288🚪520",
+        "name": "小熊拌饭🐻2.0",
+        "pinned_tweet_id": "1798425529567354990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754816916538187777/TD_cyftD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 334,
+          "like_count": 5152,
+          "listed_count": 1,
+          "tweet_count": 3225
+        },
+        "username": "qirongjing2",
+        "verified": false
+      }
+    ]
+  }
+}

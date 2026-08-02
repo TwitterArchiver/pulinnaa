@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061030071247544320"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061030084254003419",
+    "created_at": "2026-05-31T10:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061030084254003419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K0WjT5b3JY",
+          "end": 80,
+          "expanded_url": "https://x.com/pulinnaa/status/2061030084254003419/photo/1",
+          "media_key": "3_2061030071247544320",
+          "start": 57,
+          "url": "https://t.co/K0WjT5b3JY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061030084254003419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉呢我有这份闲工夫去干什么都会很好。但是我一旦试图把自己的情绪放到前夫和小三以外的事情上我就会变得愤怒内耗！ https://t.co/K0WjT5b3JY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1627,
+        "media_key": "3_2061030071247544320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo_7hQboAA_krL.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061030071247544320"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061030084254003419",
+        "created_at": "2026-05-31T10:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061030084254003419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0WjT5b3JY",
+              "end": 80,
+              "expanded_url": "https://x.com/pulinnaa/status/2061030084254003419/photo/1",
+              "media_key": "3_2061030071247544320",
+              "start": 57,
+              "url": "https://t.co/K0WjT5b3JY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061030084254003419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉呢我有这份闲工夫去干什么都会很好。但是我一旦试图把自己的情绪放到前夫和小三以外的事情上我就会变得愤怒内耗！ https://t.co/K0WjT5b3JY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 180,
+          "like_count": 4034,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 2476
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

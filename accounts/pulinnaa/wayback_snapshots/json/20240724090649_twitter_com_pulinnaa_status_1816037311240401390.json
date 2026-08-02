@@ -1,0 +1,589 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1816037311240401390",
+    "created_at": "2024-07-24T09:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T10:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816037311240401390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1111562353923940352",
+          "start": 3,
+          "username": "fujiikazestaff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Listen to content by 藤井 風.",
+          "display_url": "Fujii-Kaze.lnk.to/FeelinGood",
+          "end": 128,
+          "expanded_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+          "images": [
+            {
+              "height": 220,
+              "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=orig",
+              "width": 440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 105,
+          "status": 200,
+          "title": "Feelin’ Go(o)d",
+          "unwound_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+          "url": "https://t.co/5TojgHD6gP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816037311240401390",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 549
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816036434777890980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @fujiikazestaff: 新曲『Feelin’ Go(o)d』\n\n7/26(金) 0:00〜\n配信スタート＆ Music VideoをYouTubeでプレミア公開することが決定いたしました！\n\n🎧https://t.co/5TojgHD6gP\n\n🎥https://…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1816037311240401390",
+        "created_at": "2024-07-24T09:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T10:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816037311240401390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1111562353923940352",
+              "start": 3,
+              "username": "fujiikazestaff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by 藤井 風.",
+              "display_url": "Fujii-Kaze.lnk.to/FeelinGood",
+              "end": 128,
+              "expanded_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "Feelin’ Go(o)d",
+              "unwound_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+              "url": "https://t.co/5TojgHD6gP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816037311240401390",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 549
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816036434777890980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @fujiikazestaff: 新曲『Feelin’ Go(o)d』\n\n7/26(金) 0:00〜\n配信スタート＆ Music VideoをYouTubeでプレミア公開することが決定いたしました！\n\n🎧https://t.co/5TojgHD6gP\n\n🎥https://…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816036423847534597"
+          ]
+        },
+        "author_id": "1111562353923940352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1816036434777890980",
+        "created_at": "2024-07-24T09:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T10:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816036434777890980"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Feelin’ Go(o)d",
+              "probability": 0.8303,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "YouTube",
+              "probability": 0.6438,
+              "start": 54,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 136,
+              "tag": "feelingood"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "藤井風"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by 藤井 風.",
+              "display_url": "Fujii-Kaze.lnk.to/FeelinGood",
+              "end": 108,
+              "expanded_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1816036438942834690/z9-nIbgK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "Feelin’ Go(o)d",
+              "unwound_url": "https://Fujii-Kaze.lnk.to/FeelinGood",
+              "url": "https://t.co/5TojgHD6gP"
+            },
+            {
+              "description": "Release on July 26 🎧 https://Fujii-Kaze.lnk.to/FeelinGoodDirector：MESSOfficial APP: http://c-rayon.com/fujiikaze/TikTok: https://www.tiktok.com/@fujiikaze19...",
+              "display_url": "youtu.be/iyU1t8G0LZw",
+              "end": 134,
+              "expanded_url": "https://youtu.be/iyU1t8G0LZw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1816036478050525187/beHQx6Rk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1816036478050525187/beHQx6Rk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "Fujii Kaze - Feelin’ Go(o)d (Official video)",
+              "unwound_url": "https://www.youtube.com/watch?v=iyU1t8G0LZw&feature=youtu.be",
+              "url": "https://t.co/GfMgLFPIYg"
+            },
+            {
+              "display_url": "pic.twitter.com/wIgAEH5A9X",
+              "end": 176,
+              "expanded_url": "https://twitter.com/fujiikazestaff/status/1816036434777890980/photo/1",
+              "media_key": "3_1816036423847534597",
+              "start": 153,
+              "url": "https://t.co/wIgAEH5A9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816036434777890980",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 10961,
+          "like_count": 2329,
+          "quote_count": 216,
+          "reply_count": 1,
+          "retweet_count": 549
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "新曲『Feelin’ Go(o)d』\n\n7/26(金) 0:00〜\n配信スタート＆ Music VideoをYouTubeでプレミア公開することが決定いたしました！\n\n🎧https://t.co/5TojgHD6gP\n\n🎥https://t.co/GfMgLFPIYg\n\n#feelingood #藤井風 https://t.co/wIgAEH5A9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 153,
+          "like_count": 3154,
+          "listed_count": 0,
+          "tweet_count": 699
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:34:51.000Z",
+        "description": "藤井 風Staffです。 \"Best of Fujii Kaze 2020-2024\"   🎧https://t.co/7sfeogHewt 最新情報は公式無料アプリへ！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Fujii-Kaze.lnk.to/2020-2024",
+                "end": 70,
+                "expanded_url": "http://Fujii-Kaze.lnk.to/2020-2024",
+                "start": 47,
+                "url": "https://t.co/7sfeogHewt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-rayon.com/fujiikaze/",
+                "end": 23,
+                "expanded_url": "http://c-rayon.com/fujiikaze/",
+                "start": 0,
+                "url": "https://t.co/MugEZcx4S9"
+              }
+            ]
+          }
+        },
+        "id": "1111562353923940352",
+        "name": "Fujii Kaze Staff",
+        "pinned_tweet_id": "1816036434777890980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767188732317417472/OdDm_gn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259485,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 1087,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/MugEZcx4S9",
+        "username": "fujiikazestaff",
+        "verified": false
+      }
+    ]
+  }
+}

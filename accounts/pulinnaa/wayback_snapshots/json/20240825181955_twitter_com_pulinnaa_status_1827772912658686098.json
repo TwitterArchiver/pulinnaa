@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1827767516766384229",
+    "created_at": "2024-08-25T18:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T19:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827772912658686098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783433602015105024",
+          "start": 0,
+          "username": "uVEmvPdg1N81148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827772912658686098",
+    "in_reply_to_user_id": "1783433602015105024",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827767516766384229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uVEmvPdg1N81148 おやすみ！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1827767516766384229].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1827767516766384229",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1827767516766384229"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1827767516766384229",
+        "created_at": "2024-08-25T18:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T19:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827772912658686098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783433602015105024",
+              "start": 0,
+              "username": "uVEmvPdg1N81148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827772912658686098",
+        "in_reply_to_user_id": "1783433602015105024",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827767516766384229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uVEmvPdg1N81148 おやすみ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 153,
+          "like_count": 3416,
+          "listed_count": 1,
+          "tweet_count": 809
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:51:46.000Z",
+        "description": "09︙病み垢︙💍→@2x_ux2 ︙愛方→@si2_____o_ ︙🗝→@uuFKHFMlp627981",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "2x_ux2"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "si2_____o_"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "uuFKHFMlp627981"
+              }
+            ]
+          }
+        },
+        "id": "1783433602015105024",
+        "location": "はじめてのときめきを忘れても私だけを見ててね♡꒷꒦",
+        "name": "🎀",
+        "pinned_tweet_id": "1804120975543537745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825141338897301504/6BdKn2vT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 67,
+          "like_count": 9262,
+          "listed_count": 3,
+          "tweet_count": 1909
+        },
+        "username": "uVEmvPdg1N81148",
+        "verified": false
+      }
+    ]
+  }
+}

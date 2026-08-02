@@ -1,0 +1,352 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      }
+    ],
+    "conversation_id": "1796093474070053106",
+    "created_at": "2024-05-30T08:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T09:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796093474070053106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fujiikazestaff…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/fujiikazestaff/status/1796066559154127111",
+          "start": 2,
+          "url": "https://t.co/tj5xCTOCws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796093474070053106",
+    "lang": "art",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796066559154127111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤 https://t.co/tj5xCTOCws"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1796093474070053106",
+        "created_at": "2024-05-30T08:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T09:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796093474070053106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fujiikazestaff…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/fujiikazestaff/status/1796066559154127111",
+              "start": 2,
+              "url": "https://t.co/tj5xCTOCws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796093474070053106",
+        "lang": "art",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796066559154127111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤 https://t.co/tj5xCTOCws"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796066554821652480"
+          ]
+        },
+        "author_id": "1111562353923940352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1796066559154127111",
+        "created_at": "2024-05-30T06:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T07:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796066559154127111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "藤井 風の最新公式情報やチケット販売スケジュール、ここでしか見ることのできないアプリ限定のコンテンツ(フォトギャラリー等)をチェックしよう！",
+              "display_url": "c-rayon.com/fujiikaze/",
+              "end": 81,
+              "expanded_url": "http://c-rayon.com/fujiikaze/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1795645473564631040/I0zk5xuO?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1795645473564631040/I0zk5xuO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "藤井 風 公式アプリ『Fujii Kaze‪』",
+              "unwound_url": "https://c-rayon.com/result/fujiikaze/",
+              "url": "https://t.co/j47yFj243F"
+            },
+            {
+              "display_url": "pic.twitter.com/xlcaphprq1",
+              "end": 105,
+              "expanded_url": "https://twitter.com/fujiikazestaff/status/1796066559154127111/photo/1",
+              "media_key": "3_1796066554821652480",
+              "start": 82,
+              "url": "https://t.co/xlcaphprq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796066559154127111",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 78844,
+          "like_count": 4758,
+          "quote_count": 167,
+          "reply_count": 0,
+          "retweet_count": 548
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【Fujii Kaze app】\n\n\"U.S. tour\"\n\nStaff diary was updated📝\n\n🔗https://t.co/j47yFj243F https://t.co/xlcaphprq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 89,
+          "like_count": 1661,
+          "listed_count": 1,
+          "tweet_count": 228
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:34:51.000Z",
+        "description": "藤井 風Staffです。 \"Best of Fujii Kaze 2020-2024\"   🎧https://t.co/7sfeogHewt 最新情報は公式無料アプリへ！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Fujii-Kaze.lnk.to/2020-2024",
+                "end": 70,
+                "expanded_url": "http://Fujii-Kaze.lnk.to/2020-2024",
+                "start": 47,
+                "url": "https://t.co/7sfeogHewt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-rayon.com/fujiikaze/",
+                "end": 23,
+                "expanded_url": "http://c-rayon.com/fujiikaze/",
+                "start": 0,
+                "url": "https://t.co/MugEZcx4S9"
+              }
+            ]
+          }
+        },
+        "id": "1111562353923940352",
+        "name": "Fujii Kaze Staff",
+        "pinned_tweet_id": "1788856866304569454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767188732317417472/OdDm_gn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254732,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 1089,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/MugEZcx4S9",
+        "username": "fujiikazestaff",
+        "verified": false
+      }
+    ]
+  }
+}

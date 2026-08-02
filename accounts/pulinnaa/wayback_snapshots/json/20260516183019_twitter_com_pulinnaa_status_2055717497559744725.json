@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2055717497559744725",
+    "created_at": "2026-05-16T18:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055717497559744725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1495662254544789506",
+          "start": 3,
+          "username": "Aloevce"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/0luUoNBJ",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/0luUoNBJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055717497559744725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055713417680334879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aloevce: 扎人们 求帮忙发小红书宣传我萌的鸡尾酒摊 在成都金牛区五块石地铁站c口附近 有长发男吉他手和键盘手每天卖唱 顺便招募鼓手bass 招募成人乐器学徒 来光顾的推油们免费喝一杯苯人特调 异地的扎人们可获得小饮料🧧 https://t.co/0luUoNBJ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055713384532684800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdcbn0WMAArkjl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2055713385195479040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdcbqSXoAAKoG1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055713385568677888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdcbrrWMAAy61b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2055713384973139968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdcbpdXAAA94GK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2055717497559744725",
+        "created_at": "2026-05-16T18:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055717497559744725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1495662254544789506",
+              "start": 3,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/0luUoNBJ",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/0luUoNBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055717497559744725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055713417680334879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aloevce: 扎人们 求帮忙发小红书宣传我萌的鸡尾酒摊 在成都金牛区五块石地铁站c口附近 有长发男吉他手和键盘手每天卖唱 顺便招募鼓手bass 招募成人乐器学徒 来光顾的推油们免费喝一杯苯人特调 异地的扎人们可获得小饮料🧧 https://t.co/0luUoNBJ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055713384532684800",
+            "3_2055713385195479040",
+            "3_2055713385568677888",
+            "3_2055713384973139968"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2055713417680334879",
+        "created_at": "2026-05-16T18:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055713417680334879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0luUoNBJ5B",
+              "end": 128,
+              "expanded_url": "https://x.com/Aloevce/status/2055713417680334879/photo/1",
+              "media_key": "3_2055713384532684800",
+              "start": 105,
+              "url": "https://t.co/0luUoNBJ5B"
+            },
+            {
+              "display_url": "pic.x.com/0luUoNBJ5B",
+              "end": 128,
+              "expanded_url": "https://x.com/Aloevce/status/2055713417680334879/photo/1",
+              "media_key": "3_2055713385195479040",
+              "start": 105,
+              "url": "https://t.co/0luUoNBJ5B"
+            },
+            {
+              "display_url": "pic.x.com/0luUoNBJ5B",
+              "end": 128,
+              "expanded_url": "https://x.com/Aloevce/status/2055713417680334879/photo/1",
+              "media_key": "3_2055713385568677888",
+              "start": 105,
+              "url": "https://t.co/0luUoNBJ5B"
+            },
+            {
+              "display_url": "pic.x.com/0luUoNBJ5B",
+              "end": 128,
+              "expanded_url": "https://x.com/Aloevce/status/2055713417680334879/photo/1",
+              "media_key": "3_2055713384973139968",
+              "start": 105,
+              "url": "https://t.co/0luUoNBJ5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055713417680334879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "扎人们 求帮忙发小红书宣传我萌的鸡尾酒摊 在成都金牛区五块石地铁站c口附近 有长发男吉他手和键盘手每天卖唱 顺便招募鼓手bass 招募成人乐器学徒 来光顾的推油们免费喝一杯苯人特调 异地的扎人们可获得小饮料🧧 https://t.co/0luUoNBJ5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 173,
+          "like_count": 4017,
+          "listed_count": 2,
+          "media_count": 371,
+          "tweet_count": 2232
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18240,
+          "following_count": 1981,
+          "like_count": 55861,
+          "listed_count": 24,
+          "media_count": 6687,
+          "tweet_count": 23551
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

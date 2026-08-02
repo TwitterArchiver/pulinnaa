@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2052670705905618945",
+    "created_at": "2026-05-08T08:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052670705905618945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052670705905618945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "煊赫门抽的我打呕真的感觉这个味道好恶心。明明我之前抽这个不这样的呀。我都快被这个搞的戒纸烟了我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2052670705905618945",
+        "created_at": "2026-05-08T08:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052670705905618945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052670705905618945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "煊赫门抽的我打呕真的感觉这个味道好恶心。明明我之前抽这个不这样的呀。我都快被这个搞的戒纸烟了我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 158,
+          "like_count": 3977,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 2013
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

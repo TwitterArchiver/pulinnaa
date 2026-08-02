@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2053889474833396210",
+    "created_at": "2026-05-11T17:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T18:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053889474833396210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/fadai202202/status/2053356095092252869",
+          "start": 21,
+          "url": "https://t.co/3XBeL20sD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053889474833396210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053356095092252869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些傻屌就爱干这种事然后疯狂破防我都笑死 https://t.co/3XBeL20sD7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2053889474833396210",
+        "created_at": "2026-05-11T17:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053889474833396210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/fadai202202/status/2053356095092252869",
+              "start": 21,
+              "url": "https://t.co/3XBeL20sD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053889474833396210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053356095092252869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些傻屌就爱干这种事然后疯狂破防我都笑死 https://t.co/3XBeL20sD7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2053356095092252869",
+        "created_at": "2026-05-10T06:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053356095092252869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053356095092252869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 99282,
+          "like_count": 3212,
+          "quote_count": 57,
+          "reply_count": 154,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得世界上最恐怖的事情是 手贱去看影响情绪的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 157,
+          "like_count": 3974,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 2108
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n小号@berrybun_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "berrybun_04"
+              }
+            ]
+          }
+        },
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11340,
+          "following_count": 1,
+          "like_count": 945,
+          "listed_count": 8,
+          "media_count": 106,
+          "tweet_count": 879
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1837193495184036347",
+    "created_at": "2024-09-21T10:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T11:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837445227998859545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1477469477490991104",
+          "start": 0,
+          "username": "boan110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837445227998859545",
+    "in_reply_to_user_id": "1477469477490991104",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837436985859780985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boan110 我也是婊子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T10:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T11:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837445227998859545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1477469477490991104",
+              "start": 0,
+              "username": "boan110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837445227998859545",
+        "in_reply_to_user_id": "1477469477490991104",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837436985859780985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boan110 我也是婊子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477469477490991104",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T10:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T11:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837436985859780985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837436985859780985",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837193495184036347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 用中文说出来真的难绷🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 158,
+          "like_count": 3633,
+          "listed_count": 1,
+          "tweet_count": 926
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T02:39:19.000Z",
+        "description": "",
+        "id": "1477469477490991104",
+        "location": "香港",
+        "name": "locus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826488171485646848/VxFhzpOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 167,
+          "like_count": 524,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "boan110",
+        "verified": false
+      }
+    ]
+  }
+}

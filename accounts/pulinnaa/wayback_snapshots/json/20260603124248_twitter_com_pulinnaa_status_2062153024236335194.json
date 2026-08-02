@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062153011141677056"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2062153024236335194",
+    "created_at": "2026-06-03T12:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062153024236335194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sf3wSowkeg",
+          "end": 43,
+          "expanded_url": "https://x.com/pulinnaa/status/2062153024236335194/photo/1",
+          "media_key": "3_2062153011141677056",
+          "start": 20,
+          "url": "https://t.co/Sf3wSowkeg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062153024236335194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私の恋を悲劇の ジュリエットにしないで https://t.co/Sf3wSowkeg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062153011141677056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ49POWaEAAx0JA.jpg",
+        "width": 1432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062153011141677056"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2062153024236335194",
+        "created_at": "2026-06-03T12:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062153024236335194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sf3wSowkeg",
+              "end": 43,
+              "expanded_url": "https://x.com/pulinnaa/status/2062153024236335194/photo/1",
+              "media_key": "3_2062153011141677056",
+              "start": 20,
+              "url": "https://t.co/Sf3wSowkeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062153024236335194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私の恋を悲劇の ジュリエットにしないで https://t.co/Sf3wSowkeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 188,
+          "like_count": 4037,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 2548
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2021250173716795442",
+    "created_at": "2026-02-10T15:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021250173716795442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/valzatweet/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/valzatweet/status/2020998318655217966",
+          "start": 14,
+          "url": "https://t.co/Xpob5G0IIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021250173716795442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020998318655217966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我上推就是为了看这种东西的 https://t.co/Xpob5G0IIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74233,
+        "height": 1024,
+        "media_key": "13_2020652654830219264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020652654830219264/img/nEdniOL2BuDRkKGQ.jpg",
+        "public_metrics": {
+          "view_count": 7961773
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020652654830219264/vid/avc1/320x568/C_7oI2GREpV0H4ga.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020652654830219264/vid/avc1/480x852/BCb-ueh_-N316ZzZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020652654830219264/vid/avc1/576x1024/daLVuJ0K4Vcon56W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020652654830219264/pl/QYQWfez4GYzq9x2J.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2021250173716795442",
+        "created_at": "2026-02-10T15:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021250173716795442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/valzatweet/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/valzatweet/status/2020998318655217966",
+              "start": 14,
+              "url": "https://t.co/Xpob5G0IIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021250173716795442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020998318655217966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我上推就是为了看这种东西的 https://t.co/Xpob5G0IIt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020652654830219264"
+          ],
+          "media_source_tweet_id": [
+            "2020652727244836873"
+          ]
+        },
+        "author_id": "2003933193813237760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020998318655217966",
+        "created_at": "2026-02-09T23:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T00:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020998318655217966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZk1c7XG5R",
+              "end": 23,
+              "expanded_url": "https://x.com/janggal1804/status/2020652727244836873/video/1",
+              "media_key": "13_2020652654830219264",
+              "start": 0,
+              "url": "https://t.co/MZk1c7XG5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020998318655217966",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 708,
+          "impression_count": 3408258,
+          "like_count": 2609,
+          "quote_count": 18,
+          "reply_count": 645,
+          "retweet_count": 496
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MZk1c7XG5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 144,
+          "like_count": 3903,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1694
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T20:58:21.000Z",
+        "description": "just for fun",
+        "id": "2003933193813237760",
+        "name": "Rizki s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009557458910584833/O0D8cna1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 929,
+          "like_count": 21675,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 22692
+        },
+        "username": "Valzatweet",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "hahahanasaki",
+  "username": "@pulinnaa",
+  "bio": "18↓ DM⭕ 🗝️@pulinnakk",
+  "location": "さきです",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 20,
+        "start": 10,
+        "username": "pulinnakk"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg"
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1830200408868020295",
+    "created_at": "2024-09-01T11:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T12:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830200408868020295"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 38,
+          "start": 24,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 53,
+          "start": 39,
+          "tag": "自撮り界隈の人と繋がりたい"
+        },
+        {
+          "end": 66,
+          "start": 54,
+          "tag": "自撮り界隈と繋がりたい"
+        },
+        {
+          "end": 80,
+          "start": 67,
+          "tag": "美男美女さんと繋がりたい"
+        },
+        {
+          "end": 92,
+          "start": 81,
+          "tag": "美男美女と繋がりたい"
+        },
+        {
+          "end": 108,
+          "start": 94,
+          "tag": "いいねで気になった人お迎え"
+        },
+        {
+          "end": 116,
+          "start": 109,
+          "tag": "自発ください"
+        },
+        {
+          "end": 134,
+          "start": 117,
+          "tag": "1mmでもいいなと思ったらいいね"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1715902334381981696",
+          "start": 3,
+          "username": "yua_mo09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830200408868020295",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830063001279610905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yua_mo09: 🐳\n\n#自撮り界隈 #自撮り界隈さんと繋がりたい #自撮り界隈の人と繋がりたい #自撮り界隈と繋がりたい #美男美女さんと繋がりたい #美男美女と繋がりたい  #いいねで気になった人お迎え #自発ください #1mmでもいいなと思ったらいいね http…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1830200408868020295",
+        "created_at": "2024-09-01T11:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T12:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830200408868020295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 38,
+              "start": 24,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 53,
+              "start": 39,
+              "tag": "自撮り界隈の人と繋がりたい"
+            },
+            {
+              "end": 66,
+              "start": 54,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 80,
+              "start": 67,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 92,
+              "start": 81,
+              "tag": "美男美女と繋がりたい"
+            },
+            {
+              "end": 108,
+              "start": 94,
+              "tag": "いいねで気になった人お迎え"
+            },
+            {
+              "end": 116,
+              "start": 109,
+              "tag": "自発ください"
+            },
+            {
+              "end": 134,
+              "start": 117,
+              "tag": "1mmでもいいなと思ったらいいね"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1715902334381981696",
+              "start": 3,
+              "username": "yua_mo09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830200408868020295",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830063001279610905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yua_mo09: 🐳\n\n#自撮り界隈 #自撮り界隈さんと繋がりたい #自撮り界隈の人と繋がりたい #自撮り界隈と繋がりたい #美男美女さんと繋がりたい #美男美女と繋がりたい  #いいねで気になった人お迎え #自発ください #1mmでもいいなと思ったらいいね http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830062990005321731",
+            "3_1830062991141920768"
+          ]
+        },
+        "author_id": "1715902334381981696",
+        "conversation_id": "1830063001279610905",
+        "created_at": "2024-09-01T01:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T02:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830063001279610905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 24,
+              "start": 10,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 39,
+              "start": 25,
+              "tag": "自撮り界隈の人と繋がりたい"
+            },
+            {
+              "end": 52,
+              "start": 40,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 66,
+              "start": 53,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 78,
+              "start": 67,
+              "tag": "美男美女と繋がりたい"
+            },
+            {
+              "end": 94,
+              "start": 80,
+              "tag": "いいねで気になった人お迎え"
+            },
+            {
+              "end": 102,
+              "start": 95,
+              "tag": "自発ください"
+            },
+            {
+              "end": 120,
+              "start": 103,
+              "tag": "1mmでもいいなと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxmcec80hm",
+              "end": 144,
+              "expanded_url": "https://twitter.com/yua_mo09/status/1830063001279610905/photo/1",
+              "media_key": "3_1830062990005321731",
+              "start": 121,
+              "url": "https://t.co/BxMcec80Hm"
+            },
+            {
+              "display_url": "pic.x.com/bxmcec80hm",
+              "end": 144,
+              "expanded_url": "https://twitter.com/yua_mo09/status/1830063001279610905/photo/1",
+              "media_key": "3_1830062991141920768",
+              "start": 121,
+              "url": "https://t.co/BxMcec80Hm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830063001279610905",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🐳\n\n#自撮り界隈 #自撮り界隈さんと繋がりたい #自撮り界隈の人と繋がりたい #自撮り界隈と繋がりたい #美男美女さんと繋がりたい #美男美女と繋がりたい  #いいねで気になった人お迎え #自発ください #1mmでもいいなと思ったらいいね https://t.co/BxMcec80Hm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 157,
+          "like_count": 3550,
+          "listed_count": 1,
+          "tweet_count": 857
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T01:26:23.000Z",
+        "description": "INFJ  海外在住 ゼロ言語話者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "knoow.jp/@/yua_mo09",
+                "end": 23,
+                "expanded_url": "https://knoow.jp/@/yua_mo09",
+                "start": 0,
+                "url": "https://t.co/o3GJCTIoX3"
+              }
+            ]
+          }
+        },
+        "id": "1715902334381981696",
+        "location": "WISH for Our WISH",
+        "name": "heekyo",
+        "pinned_tweet_id": "1804009655326380438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830132354272411649/kDDjXuNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 536,
+          "like_count": 11197,
+          "listed_count": 0,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/o3GJCTIoX3",
+        "username": "yua_mo09",
+        "verified": false
+      }
+    ]
+  }
+}

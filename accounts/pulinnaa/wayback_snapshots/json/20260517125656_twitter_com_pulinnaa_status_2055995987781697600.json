@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2055995987781697600",
+    "created_at": "2026-05-17T12:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055995987781697600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyamura_/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/nyamura_/status/2040731651266011605",
+          "start": 8,
+          "url": "https://t.co/F8wadcPni7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055995987781697600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040731651266011605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "めっちゃわかる https://t.co/F8wadcPni7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2040731644446048256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIink0bAAAzaxw.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1290,
+        "media_key": "3_2040731644429234176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIinkwacAAgopP.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2055995987781697600",
+        "created_at": "2026-05-17T12:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055995987781697600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyamura_/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nyamura_/status/2040731651266011605",
+              "start": 8,
+              "url": "https://t.co/F8wadcPni7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055995987781697600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040731651266011605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "めっちゃわかる https://t.co/F8wadcPni7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040731644446048256",
+            "3_2040731644429234176"
+          ]
+        },
+        "author_id": "1270686711354257410",
+        "conversation_id": "2040731651266011605",
+        "created_at": "2026-04-05T10:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040731651266011605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/opqyB0DRWh",
+              "end": 137,
+              "expanded_url": "https://x.com/nyamura_/status/2040731651266011605/photo/1",
+              "media_key": "3_2040731644446048256",
+              "start": 114,
+              "url": "https://t.co/opqyB0DRWh"
+            },
+            {
+              "display_url": "pic.x.com/opqyB0DRWh",
+              "end": 137,
+              "expanded_url": "https://x.com/nyamura_/status/2040731651266011605/photo/1",
+              "media_key": "3_2040731644429234176",
+              "start": 114,
+              "url": "https://t.co/opqyB0DRWh"
+            },
+            {
+              "display_url": "x.com/nyamura_/statu…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/nyamura_/status/2040385139155308666",
+              "start": 138,
+              "url": "https://t.co/ip3kUbTGv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040731651266011605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 101792,
+          "like_count": 1842,
+          "quote_count": 32,
+          "reply_count": 3,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040385139155308666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "通しで聴くとこの1番最初の歌詞とラスサビ手前の歌詞の差で、いかに私が愚かなのかわかるんだけど、私は好きだった人間と別離したあとに、あえてこのパスワードにした。\n許せなかったから最も忌むべき日として、記念日とかじゃなく、誕生日。 https://t.co/opqyB0DRWh https://t.co/ip3kUbTGv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 173,
+          "like_count": 4023,
+          "listed_count": 2,
+          "media_count": 371,
+          "tweet_count": 2237
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-10T11:58:23.000Z",
+        "description": "7/26 リリイベ開催します、待ってるね◝✩ ̖́-︎\n⟡ NyxmNix CEO \n⟡ 作詞・作曲・歌唱\n⟡ info @nyamura_info ⟡ fa▶︎ #nyamurart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 82,
+                "tag": "nyamurart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "nyamura_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyamuu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyamuu",
+                "start": 0,
+                "url": "https://t.co/kRg2hnBslj"
+              }
+            ]
+          }
+        },
+        "id": "1270686711354257410",
+        "location": "▶︎ お仕事・ライブ出演ご依頼はメールにて",
+        "name": "nyamura",
+        "pinned_tweet_id": "2053068714203840904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984101679747493894/O9KI8iDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35110,
+          "following_count": 287,
+          "like_count": 9596,
+          "listed_count": 81,
+          "media_count": 420,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/kRg2hnBslj",
+        "username": "nyamura_",
+        "verified": true
+      }
+    ]
+  }
+}

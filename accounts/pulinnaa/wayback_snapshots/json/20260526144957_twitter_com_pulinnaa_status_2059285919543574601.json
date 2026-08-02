@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2059273754010845483",
+    "created_at": "2026-05-26T14:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059285919543574601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2036523006412070912",
+          "start": 0,
+          "username": "Ob0gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059285919543574601",
+    "in_reply_to_user_id": "2036523006412070912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059284741741011433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ob0gu 我本来说的是躯体化神经痛但是昨天o大了被发现了干脆爆了呃呃。如果去医院开的话我就说抗戒断吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2059273754010845483",
+        "created_at": "2026-05-26T14:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059285919543574601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2036523006412070912",
+              "start": 0,
+              "username": "Ob0gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059285919543574601",
+        "in_reply_to_user_id": "2036523006412070912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059284741741011433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ob0gu 我本来说的是躯体化神经痛但是昨天o大了被发现了干脆爆了呃呃。如果去医院开的话我就说抗戒断吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036523006412070912",
+        "conversation_id": "2059273754010845483",
+        "created_at": "2026-05-26T14:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059284741741011433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059284741741011433",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059284466749833224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 诶家长那边你说法是用于治疗还是什么呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 172,
+          "like_count": 4034,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2399
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T19:20:23.000Z",
+        "description": "一个药曲，一个小画师，一个小女孩，一个鼠王，一个被制裁之人。",
+        "id": "2036523006412070912",
+        "name": "O",
+        "pinned_tweet_id": "2057628304497418584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057416642356027392/shgd3UXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 43,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 66
+        },
+        "username": "Ob0gu",
+        "verified": false
+      }
+    ]
+  }
+}

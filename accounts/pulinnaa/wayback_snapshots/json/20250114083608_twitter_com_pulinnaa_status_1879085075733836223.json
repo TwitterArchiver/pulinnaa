@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879085068003770368"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1879085075733836223",
+    "created_at": "2025-01-14T08:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T09:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879085075733836223"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "自撮り"
+        },
+        {
+          "end": 25,
+          "start": 11,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "いいねでDM"
+        },
+        {
+          "end": 51,
+          "start": 34,
+          "tag": "1mmでもいいなと思ったらいいね"
+        },
+        {
+          "end": 59,
+          "start": 52,
+          "tag": "自発ください"
+        },
+        {
+          "end": 66,
+          "start": 60,
+          "tag": "いいね返し"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "東雪蓮"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJ3QN9uoON",
+          "end": 95,
+          "expanded_url": "https://x.com/pulinnaa/status/1879085075733836223/photo/1",
+          "media_key": "3_1879085068003770368",
+          "start": 72,
+          "url": "https://t.co/BJ3QN9uoON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879085075733836223",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#コスプレ #自撮り #自撮り界隈さんと繋がりたい #いいねでDM #1mmでもいいなと思ったらいいね #自発ください #いいね返し #東雪蓮 https://t.co/BJ3QN9uoON"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1879085068003770368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhPZ6d0bAAAbQJz.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879085068003770368"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1879085075733836223",
+        "created_at": "2025-01-14T08:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T09:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879085075733836223"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "自撮り"
+            },
+            {
+              "end": 25,
+              "start": 11,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "いいねでDM"
+            },
+            {
+              "end": 51,
+              "start": 34,
+              "tag": "1mmでもいいなと思ったらいいね"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "自発ください"
+            },
+            {
+              "end": 66,
+              "start": 60,
+              "tag": "いいね返し"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "東雪蓮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJ3QN9uoON",
+              "end": 95,
+              "expanded_url": "https://x.com/pulinnaa/status/1879085075733836223/photo/1",
+              "media_key": "3_1879085068003770368",
+              "start": 72,
+              "url": "https://t.co/BJ3QN9uoON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879085075733836223",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#コスプレ #自撮り #自撮り界隈さんと繋がりたい #いいねでDM #1mmでもいいなと思ったらいいね #自発ください #いいね返し #東雪蓮 https://t.co/BJ3QN9uoON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 168,
+          "like_count": 3772,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1199
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

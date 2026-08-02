@@ -1,0 +1,251 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806983210292933079",
+    "created_at": "2024-06-29T10:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T11:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806996624922808549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        },
+        {
+          "end": 26,
+          "id": "1747138924450029568",
+          "start": 12,
+          "username": "OVERDOSE_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806996624922808549",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806983210292933079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 @OVERDOSE_Wiki 老公啊😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806983210292933079",
+        "created_at": "2024-06-29T10:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T11:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806996624922808549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            },
+            {
+              "end": 26,
+              "id": "1747138924450029568",
+              "start": 12,
+              "username": "OVERDOSE_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806996624922808549",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806983210292933079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 @OVERDOSE_Wiki 老公啊😭😭😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1617685747116675073",
+        "conversation_id": "1806983210292933079",
+        "created_at": "2024-06-29T09:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T10:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806983210292933079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1617685747116675073",
+              "start": 29,
+              "username": "_mucha_000"
+            },
+            {
+              "end": 83,
+              "id": "1747138924450029568",
+              "start": 69,
+              "username": "OVERDOSE_Wiki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "引言",
+              "display_url": "overdose.wiki",
+              "end": 68,
+              "expanded_url": "http://overdose.wiki",
+              "start": 45,
+              "status": 200,
+              "title": "欢迎来到 overdose.wiki",
+              "unwound_url": "https://overdose.wiki/",
+              "url": "https://t.co/hfAMu1Qlvj"
+            },
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1806974484580368565",
+              "start": 166,
+              "url": "https://t.co/lVk7wkAjsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806983210292933079",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806974484580368565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于精力不足等个人原因，外加各方面理念不和，逢此时机，我（@_mucha_000）自愿放弃https://t.co/hfAMu1Qlvj @OVERDOSE_Wiki编辑一职，退出其编辑团队，日后不再参与该站点任何文章编写/内容规划，也暂无（重新）参与该站点/其他站点的意愿。已存有的文章保留公开权/署名权，其余交由管理人员处理。 https://t.co/lVk7wkAjsp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 146,
+          "like_count": 2453,
+          "listed_count": 1,
+          "tweet_count": 608
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "夜空由谎言编织  又何来虚伪一说？",
+        "id": "1617685747116675073",
+        "location": "IP属地：土星",
+        "name": "牧雨",
+        "pinned_tweet_id": "1806983210292933079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806579507039789056/RA79QaUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 453,
+          "like_count": 22659,
+          "listed_count": 2,
+          "tweet_count": 2671
+        },
+        "username": "_mucha_000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "一个死于管理人员内斗的网站",
+        "id": "1747138924450029568",
+        "name": "Anonymous.",
+        "pinned_tweet_id": "1806321629401919693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806974478993534976/JNMpXwQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 2961,
+          "like_count": 1694,
+          "listed_count": 4,
+          "tweet_count": 608
+        },
+        "username": "OVERDOSE_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

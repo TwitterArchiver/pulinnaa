@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1921889695077687349",
+    "created_at": "2025-05-13T04:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T05:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922143011024015415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "391368451",
+          "start": 0,
+          "username": "PHgil74137100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922143011024015415",
+    "in_reply_to_user_id": "391368451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921889695077687349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHgil74137100 めっちゃかわいい！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921889684579614720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvsfErbAAAk1fE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921889684751314944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvsfFUW8AAuDfJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1921889695077687349",
+        "created_at": "2025-05-13T04:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T05:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922143011024015415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "391368451",
+              "start": 0,
+              "username": "PHgil74137100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922143011024015415",
+        "in_reply_to_user_id": "391368451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921889695077687349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHgil74137100 めっちゃかわいい！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921889684579614720",
+            "3_1921889684751314944"
+          ]
+        },
+        "author_id": "391368451",
+        "conversation_id": "1921889695077687349",
+        "created_at": "2025-05-12T11:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921889695077687349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eUIpWc1Z8R",
+              "end": 32,
+              "expanded_url": "https://x.com/PHgil74137100/status/1921889695077687349/photo/1",
+              "media_key": "3_1921889684579614720",
+              "start": 9,
+              "url": "https://t.co/eUIpWc1Z8R"
+            },
+            {
+              "display_url": "pic.x.com/eUIpWc1Z8R",
+              "end": 32,
+              "expanded_url": "https://x.com/PHgil74137100/status/1921889695077687349/photo/1",
+              "media_key": "3_1921889684751314944",
+              "start": 9,
+              "url": "https://t.co/eUIpWc1Z8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921889695077687349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 15308,
+          "like_count": 567,
+          "quote_count": 15,
+          "reply_count": 50,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "ばっさりぃ～✂️ https://t.co/eUIpWc1Z8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 164,
+          "like_count": 3926,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 1458
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-15T13:24:56.000Z",
+        "description": "踊り手です𐔌՞･·･՞𐦯 わたちゃんとゲームが好き ✉️:【ご依頼はDMまで】🛒:【https://t.co/N6FQpz6CZj】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyuchi.thebase.in",
+                "end": 65,
+                "expanded_url": "https://miyuchi.thebase.in",
+                "start": 42,
+                "url": "https://t.co/N6FQpz6CZj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@miyuchi13",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@miyuchi13",
+                "start": 0,
+                "url": "https://t.co/OMCM83Hpvc"
+              }
+            ]
+          }
+        },
+        "id": "391368451",
+        "name": "みゆちー",
+        "pinned_tweet_id": "1895067186399715673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877163323227246592/ECjw27Vh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11472,
+          "following_count": 1721,
+          "like_count": 19052,
+          "listed_count": 164,
+          "media_count": 3777,
+          "tweet_count": 55905
+        },
+        "url": "https://t.co/OMCM83Hpvc",
+        "username": "PHgil74137100",
+        "verified": true
+      }
+    ]
+  }
+}

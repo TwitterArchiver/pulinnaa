@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829858075370799113"
+      ],
+      "media_source_tweet_id": [
+        "1829858170455671113"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1830204109661806957",
+    "created_at": "2024-09-01T11:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T12:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830204109661806957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1732129123735351296",
+          "start": 3,
+          "username": "medexiti2000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ye0xtfkfbe",
+          "end": 41,
+          "expanded_url": "https://twitter.com/medexiti2000/status/1829858170455671113/photo/1",
+          "media_key": "3_1829858075370799113",
+          "start": 18,
+          "url": "https://t.co/yE0xtFKfBe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830204109661806957",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4468
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829858170455671113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @medexiti2000: https://t.co/yE0xtFKfBe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1829858075370799113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWT2OXvbQAkQxMf.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829858075370799113"
+          ],
+          "media_source_tweet_id": [
+            "1829858170455671113"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1830204109661806957",
+        "created_at": "2024-09-01T11:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T12:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830204109661806957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732129123735351296",
+              "start": 3,
+              "username": "medexiti2000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ye0xtfkfbe",
+              "end": 41,
+              "expanded_url": "https://twitter.com/medexiti2000/status/1829858170455671113/photo/1",
+              "media_key": "3_1829858075370799113",
+              "start": 18,
+              "url": "https://t.co/yE0xtFKfBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830204109661806957",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4468
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829858170455671113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @medexiti2000: https://t.co/yE0xtFKfBe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829858075370799113"
+          ]
+        },
+        "author_id": "1732129123735351296",
+        "conversation_id": "1829858170455671113",
+        "created_at": "2024-08-31T12:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T13:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829858170455671113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ye0xtfkfbe",
+              "end": 23,
+              "expanded_url": "https://twitter.com/medexiti2000/status/1829858170455671113/photo/1",
+              "media_key": "3_1829858075370799113",
+              "start": 0,
+              "url": "https://t.co/yE0xtFKfBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829858170455671113",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3088,
+          "impression_count": 1385567,
+          "like_count": 57948,
+          "quote_count": 129,
+          "reply_count": 83,
+          "retweet_count": 4468
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yE0xtFKfBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 157,
+          "like_count": 3554,
+          "listed_count": 1,
+          "tweet_count": 858
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T20:05:51.000Z",
+        "description": "どこかの紫ツインテなの！\n以前の恰好はミスキーにあるなの！リンク集から辿ってね！なの！\nリンク集なの！https://t.co/aRexd6F4xz\nFANBOX🔞　https://t.co/NSMYPvULU8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/rokurono",
+                "end": 74,
+                "expanded_url": "https://lit.link/rokurono",
+                "start": 51,
+                "url": "https://t.co/aRexd6F4xz"
+              },
+              {
+                "display_url": "lokulo.fanbox.cc",
+                "end": 106,
+                "expanded_url": "https://lokulo.fanbox.cc/",
+                "start": 83,
+                "url": "https://t.co/NSMYPvULU8"
+              }
+            ]
+          }
+        },
+        "id": "1732129123735351296",
+        "name": "なの！",
+        "pinned_tweet_id": "1829829549250822233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774668073552986112/2WRaatiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15457,
+          "following_count": 1089,
+          "like_count": 4623,
+          "listed_count": 128,
+          "tweet_count": 4025
+        },
+        "username": "medexiti2000",
+        "verified": false
+      }
+    ]
+  }
+}

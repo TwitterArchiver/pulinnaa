@@ -1,0 +1,100 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1815105424271773973",
+    "created_at": "2024-07-21T19:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T20:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815105424271773973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1815105424271773973",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊呃呃呃那样的话说了让我很尴尬不是。我当时怎么想的。反正就是感觉很怪。嗯就这样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1815105424271773973",
+        "created_at": "2024-07-21T19:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T20:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815105424271773973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815105424271773973",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊呃呃呃那样的话说了让我很尴尬不是。我当时怎么想的。反正就是感觉很怪。嗯就这样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 150,
+          "like_count": 3068,
+          "listed_count": 0,
+          "tweet_count": 685
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

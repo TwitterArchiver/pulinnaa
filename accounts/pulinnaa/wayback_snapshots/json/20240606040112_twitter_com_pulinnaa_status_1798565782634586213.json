@@ -1,0 +1,295 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798561735882027008",
+        "3_1798561736716611584"
+      ],
+      "media_source_tweet_id": [
+        "1798561739220693241",
+        "1798561739220693241"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1798565782634586213",
+    "created_at": "2024-06-06T04:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T05:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798565782634586213"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "歌舞伎町",
+          "probability": 0.5226,
+          "start": 13,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1328359187504525313",
+          "start": 3,
+          "username": "000kkp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uTGtOEt82m",
+          "end": 52,
+          "expanded_url": "https://twitter.com/000kkp/status/1798561739220693241/photo/1",
+          "media_key": "3_1798561735882027008",
+          "start": 29,
+          "url": "https://t.co/uTGtOEt82m"
+        },
+        {
+          "display_url": "pic.twitter.com/uTGtOEt82m",
+          "end": 52,
+          "expanded_url": "https://twitter.com/000kkp/status/1798561739220693241/photo/1",
+          "media_key": "3_1798561736716611584",
+          "start": 29,
+          "url": "https://t.co/uTGtOEt82m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798565782634586213",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798561739220693241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @000kkp: ←歌舞伎町の女王　トー横の帝王→ https://t.co/uTGtOEt82m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1798561735882027008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPXGXp3bsAAoCqE.jpg",
+        "width": 1032
+      },
+      {
+        "height": 463,
+        "media_key": "3_1798561736716611584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPXGXs-acAAYCHj.jpg",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798561735882027008",
+            "3_1798561736716611584"
+          ],
+          "media_source_tweet_id": [
+            "1798561739220693241",
+            "1798561739220693241"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1798565782634586213",
+        "created_at": "2024-06-06T04:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T05:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798565782634586213"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "歌舞伎町",
+              "probability": 0.5226,
+              "start": 13,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1328359187504525313",
+              "start": 3,
+              "username": "000kkp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uTGtOEt82m",
+              "end": 52,
+              "expanded_url": "https://twitter.com/000kkp/status/1798561739220693241/photo/1",
+              "media_key": "3_1798561735882027008",
+              "start": 29,
+              "url": "https://t.co/uTGtOEt82m"
+            },
+            {
+              "display_url": "pic.twitter.com/uTGtOEt82m",
+              "end": 52,
+              "expanded_url": "https://twitter.com/000kkp/status/1798561739220693241/photo/1",
+              "media_key": "3_1798561736716611584",
+              "start": 29,
+              "url": "https://t.co/uTGtOEt82m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798565782634586213",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798561739220693241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @000kkp: ←歌舞伎町の女王　トー横の帝王→ https://t.co/uTGtOEt82m"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798561735882027008",
+            "3_1798561736716611584"
+          ]
+        },
+        "author_id": "1328359187504525313",
+        "conversation_id": "1798561739220693241",
+        "created_at": "2024-06-06T03:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T04:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798561739220693241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "歌舞伎町",
+              "probability": 0.6167,
+              "start": 1,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uTGtOEt82m",
+              "end": 40,
+              "expanded_url": "https://twitter.com/000kkp/status/1798561739220693241/photo/1",
+              "media_key": "3_1798561735882027008",
+              "start": 17,
+              "url": "https://t.co/uTGtOEt82m"
+            },
+            {
+              "display_url": "pic.twitter.com/uTGtOEt82m",
+              "end": 40,
+              "expanded_url": "https://twitter.com/000kkp/status/1798561739220693241/photo/1",
+              "media_key": "3_1798561736716611584",
+              "start": 17,
+              "url": "https://t.co/uTGtOEt82m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798561739220693241",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11767,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "←歌舞伎町の女王　トー横の帝王→ https://t.co/uTGtOEt82m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 121,
+          "like_count": 1660,
+          "listed_count": 1,
+          "tweet_count": 338
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T15:28:24.000Z",
+        "description": "借金返済を目指すフリーターです\nお酒が好きです",
+        "id": "1328359187504525313",
+        "name": "𝑵𝑬𝑶 𝑪𝒀𝑩𝑬𝑹",
+        "pinned_tweet_id": "1638101030490750976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739403389996576768/YZ0oGILE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4127,
+          "following_count": 970,
+          "like_count": 127951,
+          "listed_count": 8,
+          "tweet_count": 27331
+        },
+        "username": "000kkp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1853554176187605128",
+    "created_at": "2024-11-04T21:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T22:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853554176187605128"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "無償企画"
+        },
+        {
+          "end": 97,
+          "start": 90,
+          "tag": "無償イラスト"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "無償依"
+        },
+        {
+          "end": 111,
+          "start": 103,
+          "tag": "プレゼント企画"
+        },
+        {
+          "end": 121,
+          "start": 112,
+          "tag": "無償イラスト企画"
+        },
+        {
+          "end": 127,
+          "start": 122,
+          "tag": "夢絵企画"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "夢絵無償"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "991568730785103872",
+          "start": 3,
+          "username": "C1_S2_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853554176187605128",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1395
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852250780692357126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @C1_S2_: [11月無償イラスト企画]  \n\n背景付き/無し　単独/ペア画/夢絵全部O \n\n参加方法🖤RT＆フォロー\n当選人数 🖤1名様 \n締切🖤今月末\n\n#無償企画 #無償イラスト #無償依 #プレゼント企画 #無償イラスト企画 #夢絵企画 #夢絵無償 #夢絵無償…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1853554176187605128",
+        "created_at": "2024-11-04T21:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T22:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853554176187605128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "無償企画"
+            },
+            {
+              "end": 97,
+              "start": 90,
+              "tag": "無償イラスト"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "無償依"
+            },
+            {
+              "end": 111,
+              "start": 103,
+              "tag": "プレゼント企画"
+            },
+            {
+              "end": 121,
+              "start": 112,
+              "tag": "無償イラスト企画"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "夢絵企画"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "夢絵無償"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "991568730785103872",
+              "start": 3,
+              "username": "C1_S2_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853554176187605128",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1395
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852250780692357126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @C1_S2_: [11月無償イラスト企画]  \n\n背景付き/無し　単独/ペア画/夢絵全部O \n\n参加方法🖤RT＆フォロー\n当選人数 🖤1名様 \n締切🖤今月末\n\n#無償企画 #無償イラスト #無償依 #プレゼント企画 #無償イラスト企画 #夢絵企画 #夢絵無償 #夢絵無償…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852250482875756544",
+            "3_1852250488491905026",
+            "3_1852250534784438274"
+          ]
+        },
+        "author_id": "991568730785103872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1852250780692357126",
+        "created_at": "2024-11-01T07:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T08:23:42.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852250145007767839",
+          "1852250548847722792",
+          "1852250780692357126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "無償企画"
+            },
+            {
+              "end": 85,
+              "start": 78,
+              "tag": "無償イラスト"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "無償依"
+            },
+            {
+              "end": 99,
+              "start": 91,
+              "tag": "プレゼント企画"
+            },
+            {
+              "end": 109,
+              "start": 100,
+              "tag": "無償イラスト企画"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "夢絵企画"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "夢絵無償"
+            },
+            {
+              "end": 129,
+              "start": 122,
+              "tag": "夢絵無償企画"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NR66DGuXYZ",
+              "end": 153,
+              "expanded_url": "https://x.com/C1_S2_/status/1852250780692357126/photo/1",
+              "media_key": "3_1852250482875756544",
+              "start": 130,
+              "url": "https://t.co/NR66DGuXYZ"
+            },
+            {
+              "display_url": "pic.x.com/NR66DGuXYZ",
+              "end": 153,
+              "expanded_url": "https://x.com/C1_S2_/status/1852250780692357126/photo/1",
+              "media_key": "3_1852250488491905026",
+              "start": 130,
+              "url": "https://t.co/NR66DGuXYZ"
+            },
+            {
+              "display_url": "pic.x.com/NR66DGuXYZ",
+              "end": 153,
+              "expanded_url": "https://x.com/C1_S2_/status/1852250780692357126/photo/1",
+              "media_key": "3_1852250534784438274",
+              "start": 130,
+              "url": "https://t.co/NR66DGuXYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852250780692357126",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 84072,
+          "like_count": 2273,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 1395
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "[11月無償イラスト企画]  \n\n背景付き/無し　単独/ペア画/夢絵全部O \n\n参加方法🖤RT＆フォロー\n当選人数 🖤1名様 \n締切🖤今月末\n\n#無償企画 #無償イラスト #無償依 #プレゼント企画 #無償イラスト企画 #夢絵企画 #夢絵無償 #夢絵無償企画 https://t.co/NR66DGuXYZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849889957172871171/I6J78ENY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 163,
+          "like_count": 3726,
+          "listed_count": 1,
+          "tweet_count": 1071
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-02T06:43:02.000Z",
+        "description": "",
+        "id": "991568730785103872",
+        "location": "元病み垢・自撮り垢してた精神病持ちのあるイラストレーター",
+        "name": "死",
+        "pinned_tweet_id": "1843174841178062996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834108685951680512/KzExcdys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62804,
+          "following_count": 39,
+          "like_count": 12240,
+          "listed_count": 265,
+          "tweet_count": 846
+        },
+        "username": "C1_S2_",
+        "verified": false
+      }
+    ]
+  }
+}

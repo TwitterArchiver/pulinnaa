@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047608084558995456"
+      ],
+      "media_source_tweet_id": [
+        "2047608088220623298"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2047799142517465502",
+    "created_at": "2026-04-24T22:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047799142517465502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018959137070317568",
+          "start": 3,
+          "username": "02bd025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XL7FUth1ZX",
+          "end": 60,
+          "expanded_url": "https://x.com/02bd025/status/2047608088220623298/photo/1",
+          "media_key": "3_2047608084558995456",
+          "start": 37,
+          "url": "https://t.co/XL7FUth1ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047799142517465502",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 659
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047608088220623298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @02bd025: Twitterあるある\n\n左より右の方が嬉しい https://t.co/XL7FUth1ZX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 197,
+        "media_key": "3_2047608084558995456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqQtEdbYAAB6CT.jpg",
+        "width": 428
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047608084558995456"
+          ],
+          "media_source_tweet_id": [
+            "2047608088220623298"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2047799142517465502",
+        "created_at": "2026-04-24T22:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047799142517465502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018959137070317568",
+              "start": 3,
+              "username": "02bd025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XL7FUth1ZX",
+              "end": 60,
+              "expanded_url": "https://x.com/02bd025/status/2047608088220623298/photo/1",
+              "media_key": "3_2047608084558995456",
+              "start": 37,
+              "url": "https://t.co/XL7FUth1ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047799142517465502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 659
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047608088220623298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @02bd025: Twitterあるある\n\n左より右の方が嬉しい https://t.co/XL7FUth1ZX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047608084558995456"
+          ]
+        },
+        "author_id": "2018959137070317568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2047608088220623298",
+        "created_at": "2026-04-24T09:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047608088220623298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XL7FUth1ZX",
+              "end": 47,
+              "expanded_url": "https://x.com/02bd025/status/2047608088220623298/photo/1",
+              "media_key": "3_2047608084558995456",
+              "start": 24,
+              "url": "https://t.co/XL7FUth1ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047608088220623298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 301017,
+          "like_count": 8543,
+          "quote_count": 491,
+          "reply_count": 80,
+          "retweet_count": 659
+        },
+        "reply_settings": "everyone",
+        "text": "Twitterあるある\n\n左より右の方が嬉しい https://t.co/XL7FUth1ZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 151,
+          "like_count": 3956,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 1857
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T08:05:51.000Z",
+        "description": "し(あわせ)に(なり)たい",
+        "id": "2018959137070317568",
+        "name": "瀬名",
+        "pinned_tweet_id": "2035374067541573923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041993542202224641/0yBxCWHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 708,
+          "like_count": 3100,
+          "listed_count": 23,
+          "media_count": 43,
+          "tweet_count": 1845
+        },
+        "username": "02bd025",
+        "verified": false
+      }
+    ]
+  }
+}

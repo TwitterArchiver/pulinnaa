@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2044951336303898672",
+    "created_at": "2026-04-17T01:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T02:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044951336303898672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1560533329912311808",
+          "start": 3,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044951336303898672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044588959435796913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BdZzbw6goo2: 600fo的抽奖来了\n一等奖：绿普2盒或一盒国补（折20CNY）*1人\n二等奖：绿普1盒（折10CNY）*2人\n三等奖：ym一盒（折8CNY）*2人\n\n关注+转发+点赞+评论参与，4月18日下午2点开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2044951336303898672",
+        "created_at": "2026-04-17T01:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044951336303898672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1560533329912311808",
+              "start": 3,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044951336303898672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044588959435796913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BdZzbw6goo2: 600fo的抽奖来了\n一等奖：绿普2盒或一盒国补（折20CNY）*1人\n二等奖：绿普1盒（折10CNY）*2人\n三等奖：ym一盒（折8CNY）*2人\n\n关注+转发+点赞+评论参与，4月18日下午2点开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-16T01:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:27:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044588538117906515",
+          "2044588959435796913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044588959435796913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1881,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "600fo的抽奖来了\n一等奖：绿普2盒或一盒国补（折20CNY）*1人\n二等奖：绿普1盒（折10CNY）*2人\n三等奖：ym一盒（折8CNY）*2人\n\n关注+转发+点赞+评论参与，4月18日下午2点开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 149,
+          "like_count": 3945,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 1770
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 865,
+          "like_count": 56055,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 442
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

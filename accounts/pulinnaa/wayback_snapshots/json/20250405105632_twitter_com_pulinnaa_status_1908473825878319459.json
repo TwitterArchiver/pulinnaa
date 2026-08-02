@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1908332654069710848"
+      ],
+      "media_source_tweet_id": [
+        "1908332679847883161"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1908473825878319459",
+    "created_at": "2025-04-05T10:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T11:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908473825878319459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "805779842646110208",
+          "start": 3,
+          "username": "Dyc911900"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sM6DW0pw62",
+          "end": 70,
+          "expanded_url": "https://x.com/Dyc911900/status/1908332679847883161/video/1",
+          "media_key": "7_1908332654069710848",
+          "start": 47,
+          "url": "https://t.co/sM6DW0pw62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908473825878319459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908332679847883161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dyc911900: 大家转一下贴有💰的求求你们了我真的很着急我能接爸爸妈妈活😭😭😭 https://t.co/sM6DW0pw62"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908473825878319459].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908473825878319459",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908473825878319459"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3933,
+        "height": 1280,
+        "media_key": "7_1908332654069710848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1908332654069710848/pu/img/SSDOx_jQBXUlwZL-.jpg",
+        "public_metrics": {
+          "view_count": 1535
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908332654069710848/pu/vid/avc1/320x568/vp0Ly14h02Bqx_xB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908332654069710848/pu/vid/avc1/480x852/PS4FlyU3-Lf9zQ5S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908332654069710848/pu/vid/avc1/720x1280/7O6jdmf9PkOpYBb9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1908332654069710848/pu/pl/rKzu2K9HVhSlghBp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1908332654069710848"
+          ]
+        },
+        "author_id": "805779842646110208",
+        "conversation_id": "1908332679847883161",
+        "created_at": "2025-04-05T01:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T02:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908332679847883161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sM6DW0pw62",
+              "end": 55,
+              "expanded_url": "https://x.com/Dyc911900/status/1908332679847883161/video/1",
+              "media_key": "7_1908332654069710848",
+              "start": 32,
+              "url": "https://t.co/sM6DW0pw62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908332679847883161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2759,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "大家转一下贴有💰的求求你们了我真的很着急我能接爸爸妈妈活😭😭😭 https://t.co/sM6DW0pw62"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 164,
+          "like_count": 3923,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1415
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-05T14:24:19.000Z",
+        "description": "无性别克氏综合症/地雷系/🚪200好友位/ 288开pyq/520有tb /1314线下折扣/口令红包看喜歡的的人會關注不喜歡的 闺蜜@xueli333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "xueli333"
+              }
+            ]
+          }
+        },
+        "id": "805779842646110208",
+        "location": "地狱",
+        "name": "マメ",
+        "pinned_tweet_id": "1907269169378406463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906361953750294530/mUL40Z5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 56,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 143
+        },
+        "username": "Dyc911900",
+        "verified": false
+      }
+    ]
+  }
+}

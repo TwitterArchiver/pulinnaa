@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1816844172147753199",
+    "created_at": "2024-07-26T15:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T16:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816859278894071898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803342335511764992",
+          "start": 0,
+          "username": "waterjessy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816859278894071898",
+    "in_reply_to_user_id": "1803342335511764992",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816853650758861200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waterjessy 大嫌い🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1816844172147753199",
+        "created_at": "2024-07-26T15:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T16:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816859278894071898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803342335511764992",
+              "start": 0,
+              "username": "waterjessy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816859278894071898",
+        "in_reply_to_user_id": "1803342335511764992",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816853650758861200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waterjessy 大嫌い🙄"
+      },
+      {
+        "attachments": {},
+        "author_id": "1803342335511764992",
+        "conversation_id": "1816844172147753199",
+        "created_at": "2024-07-26T15:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T16:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816853650758861200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816853650758861200",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816844172147753199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa すき❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 155,
+          "like_count": 3212,
+          "listed_count": 0,
+          "tweet_count": 711
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T08:21:44.000Z",
+        "description": "上海在讀女高/美術生/水系地雷愛好者/亞文化/跑團/自戀狂/entp\n主要發現實照片 cos照 畫照和國內笑話\n\n誰か私のことを心配してくれる人はいますか。",
+        "id": "1803342335511764992",
+        "location": "Chuo-ku, Tokyo",
+        "name": "ばいzじょう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803342488289390592/XlgmZu5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 10,
+          "like_count": 94,
+          "listed_count": 0,
+          "tweet_count": 27
+        },
+        "username": "waterjessy",
+        "verified": false
+      }
+    ]
+  }
+}

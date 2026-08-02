@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1814241255465103451",
+    "created_at": "2024-07-19T10:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T11:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814241394611085422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1814241394611085422",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814241255465103451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那咋了。溺爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1814241255465103451",
+        "created_at": "2024-07-19T10:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T11:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814241394611085422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814241394611085422",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814241255465103451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那咋了。溺爱！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1814241255465103451",
+        "created_at": "2024-07-19T10:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T11:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814241255465103451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814241255465103451",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暗恋哥像跟不上时代的小男娘。到现在还在说“酱紫啊”🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808107031708282880/BsLtiUoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 150,
+          "like_count": 2985,
+          "listed_count": 0,
+          "tweet_count": 680
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

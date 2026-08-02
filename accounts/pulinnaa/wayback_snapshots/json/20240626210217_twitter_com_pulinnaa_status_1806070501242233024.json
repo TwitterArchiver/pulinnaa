@@ -1,0 +1,232 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1806069932897288417",
+    "created_at": "2024-06-26T21:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T22:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806070501242233024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738088385020100608",
+          "start": 0,
+          "username": "ayato_enanan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806070501242233024",
+    "in_reply_to_user_id": "1738088385020100608",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806069932897288417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayato_enanan おはよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1806069932897288417",
+        "created_at": "2024-06-26T21:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T22:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806070501242233024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738088385020100608",
+              "start": 0,
+              "username": "ayato_enanan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806070501242233024",
+        "in_reply_to_user_id": "1738088385020100608",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806069932897288417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayato_enanan おはよ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1738088385020100608",
+        "conversation_id": "1806069932897288417",
+        "created_at": "2024-06-26T21:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T22:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806069932897288417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806069932897288417",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おはよー"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 134,
+          "like_count": 2278,
+          "listed_count": 1,
+          "tweet_count": 578
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T06:45:56.000Z",
+        "description": "プセとドカバト垢になるはずだったけど今は雑多垢\n@syuu907748801←最推し@mini0227kame←師匠\n@Ylnmt2By←推し様\n@isumi_ENA←推し様\n@rui_honak←ヘッダーの方\n@AohaAyasea75772🪶📖\n@ayato_sabuun ←サブ垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "syuu907748801"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "mini0227kame"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "Ylnmt2By"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "isumi_ENA"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "rui_honak"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "AohaAyasea75772"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "ayato_sabuun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/ayato_enana…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/ayato_enanan/",
+                "start": 0,
+                "url": "https://t.co/NrKten4K9D"
+              }
+            ]
+          }
+        },
+        "id": "1738088385020100608",
+        "name": "あやと",
+        "pinned_tweet_id": "1767181301629784490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802306688206389250/37l-cbdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3982,
+          "following_count": 7482,
+          "like_count": 98199,
+          "listed_count": 41,
+          "tweet_count": 48101
+        },
+        "url": "https://t.co/NrKten4K9D",
+        "username": "ayato_enanan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1808103916577620321",
+    "created_at": "2024-07-02T11:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T12:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808103916577620321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pulinnaa/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1808097881741746195",
+          "start": 14,
+          "url": "https://t.co/8097wkdVtu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808103916577620321",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808097881741746195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死🐴画质就因为我没充钱吗？ https://t.co/8097wkdVtu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1808103916577620321",
+        "created_at": "2024-07-02T11:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T12:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808103916577620321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pulinnaa/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1808097881741746195",
+              "start": 14,
+              "url": "https://t.co/8097wkdVtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808103916577620321",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808097881741746195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死🐴画质就因为我没充钱吗？ https://t.co/8097wkdVtu"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808097798308626432"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1808097881741746195",
+        "created_at": "2024-07-02T11:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T12:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808097881741746195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CEk9dyUx8H",
+              "end": 28,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1808097881741746195/video/1",
+              "media_key": "7_1808097798308626432",
+              "start": 5,
+              "url": "https://t.co/CEk9dyUx8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808097881741746195",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#雰囲気 https://t.co/CEk9dyUx8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807456345538568192/c1ZdEEFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 148,
+          "like_count": 2529,
+          "listed_count": 1,
+          "tweet_count": 566
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

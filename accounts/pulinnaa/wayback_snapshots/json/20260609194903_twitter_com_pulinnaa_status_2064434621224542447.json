@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2063902480615006359",
+    "created_at": "2026-06-09T19:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064434621224542447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620279272467476481",
+          "start": 0,
+          "username": "jackeynight1"
+        },
+        {
+          "end": 24,
+          "id": "1946642385028718592",
+          "start": 14,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064434621224542447",
+    "in_reply_to_user_id": "1620279272467476481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064409094551949589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackeynight1 @kurabakei 我也喜欢你呀宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2063902480615006359",
+        "created_at": "2026-06-09T19:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064434621224542447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620279272467476481",
+              "start": 0,
+              "username": "jackeynight1"
+            },
+            {
+              "end": 24,
+              "id": "1946642385028718592",
+              "start": 14,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064434621224542447",
+        "in_reply_to_user_id": "1620279272467476481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064409094551949589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackeynight1 @kurabakei 我也喜欢你呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620279272467476481",
+        "conversation_id": "2063902480615006359",
+        "created_at": "2026-06-09T18:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064409094551949589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            },
+            {
+              "end": 20,
+              "id": "1946642385028718592",
+              "start": 10,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064409094551949589",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064064126507524525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa @kurabakei 那我呢那我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 191,
+          "like_count": 4045,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 2602
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T04:35:09.000Z",
+        "description": "这个人很懒所以几乎没有留下什么介绍...⭕dm＃惰天使＃od＃自伤 cn夕颜",
+        "id": "1620279272467476481",
+        "location": "天国",
+        "name": "夕颜",
+        "pinned_tweet_id": "1861772867106636056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998729382849032194/g1FkyEWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 471,
+          "like_count": 15911,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 8722
+        },
+        "username": "jackeynight1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ🚪188\nMy savior is you, for whom I owe my life.",
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉",
+        "pinned_tweet_id": "1976750551363981816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038986594074718209/txD_t6sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 438,
+          "like_count": 2716,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 700
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

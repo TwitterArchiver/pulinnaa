@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2024658323761746020",
+    "created_at": "2026-02-20T01:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T02:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024658323761746020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2017052934388011009",
+          "start": 3,
+          "username": "fragroooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024658323761746020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024352202618450190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fragroooooo: 普瑞巴林为什么是神？在谈论这个问题之前，我想先说说其他药相较于普瑞巴林究竟差在了哪里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2024658323761746020",
+        "created_at": "2026-02-20T01:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024658323761746020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2017052934388011009",
+              "start": 3,
+              "username": "fragroooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024658323761746020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024352202618450190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fragroooooo: 普瑞巴林为什么是神？在谈论这个问题之前，我想先说说其他药相较于普瑞巴林究竟差在了哪里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017052934388011009",
+        "conversation_id": "2024352202618450190",
+        "created_at": "2026-02-19T05:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024352202618450190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024352202618450190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7340,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林为什么是神？在谈论这个问题之前，我想先说说其他药相较于普瑞巴林究竟差在了哪里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 146,
+          "like_count": 3901,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1704
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T01:51:19.000Z",
+        "description": "前前前世@Muddledist破千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Muddledist"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2017052934388011009",
+        "location": "第五高原",
+        "name": "乙女椿（四代目）",
+        "pinned_tweet_id": "2022431058885832707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022170686165524481/835coBwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 391,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 219
+        },
+        "username": "fragroooooo",
+        "verified": false
+      }
+    ]
+  }
+}

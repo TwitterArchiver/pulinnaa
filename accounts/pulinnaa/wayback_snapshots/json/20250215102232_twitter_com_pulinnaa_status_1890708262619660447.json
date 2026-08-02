@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890708253748924416"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1890708262619660447",
+    "created_at": "2025-02-15T10:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T11:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890708262619660447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S0HN5RkO7K",
+          "end": 39,
+          "expanded_url": "https://x.com/pulinnaa/status/1890708262619660447/photo/1",
+          "media_key": "3_1890708253748924416",
+          "start": 16,
+          "url": "https://t.co/S0HN5RkO7K"
+        },
+        {
+          "display_url": "x.com/azumaseren/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/azumaseren/status/1880919507193196787",
+          "start": 40,
+          "url": "https://t.co/XY9gi36RNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890708262619660447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880919507193196787",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我恨死你了莲莲。我在上海看转播 https://t.co/S0HN5RkO7K https://t.co/XY9gi36RNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1890708253748924416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj0lI66akAA5lZj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890708253748924416"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1890708262619660447",
+        "created_at": "2025-02-15T10:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890708262619660447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0HN5RkO7K",
+              "end": 39,
+              "expanded_url": "https://x.com/pulinnaa/status/1890708262619660447/photo/1",
+              "media_key": "3_1890708253748924416",
+              "start": 16,
+              "url": "https://t.co/S0HN5RkO7K"
+            },
+            {
+              "display_url": "x.com/azumaseren/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/azumaseren/status/1880919507193196787",
+              "start": 40,
+              "url": "https://t.co/XY9gi36RNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890708262619660447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880919507193196787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我恨死你了莲莲。我在上海看转播 https://t.co/S0HN5RkO7K https://t.co/XY9gi36RNH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880919485319909376",
+            "3_1880919485630328832"
+          ]
+        },
+        "author_id": "1355900185235259396",
+        "conversation_id": "1880919507193196787",
+        "created_at": "2025-01-19T10:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880919507193196787"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "東雪蓮",
+              "probability": 0.1611,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 165,
+              "start": 150,
+              "tag": "azse_hanatokei"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2/15(土) Harevutai 東雪蓮 チケットの購入はLivePocketで https://t.livepocket.jp/e/azse_hanadokei?utm_source=Facebook&utm_medium=social&utm_campaign=341592&utm_conte...",
+              "display_url": "t.livepocket.jp/e/azse_hanadok…",
+              "end": 148,
+              "expanded_url": "https://t.livepocket.jp/e/azse_hanadokei",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1888591342873526272/zi9h8LhI?format=png&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1888591342873526272/zi9h8LhI?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "東雪蓮2ndワンマンライブ「花時計」",
+              "unwound_url": "https://t.livepocket.jp/e/azse_hanadokei",
+              "url": "https://t.co/EuJTKy1KKw"
+            },
+            {
+              "display_url": "pic.x.com/dYD2SmE7rj",
+              "end": 189,
+              "expanded_url": "https://x.com/AzumaSeren/status/1880919507193196787/photo/1",
+              "media_key": "3_1880919485319909376",
+              "start": 166,
+              "url": "https://t.co/dYD2SmE7rj"
+            },
+            {
+              "display_url": "pic.x.com/dYD2SmE7rj",
+              "end": 189,
+              "expanded_url": "https://x.com/AzumaSeren/status/1880919507193196787/photo/1",
+              "media_key": "3_1880919485630328832",
+              "start": 166,
+              "url": "https://t.co/dYD2SmE7rj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880919507193196787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 45709,
+          "like_count": 286,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 57
+        },
+        "reply_settings": "following",
+        "text": "東雪蓮2ndワンマンライブ花時計\n\n【1/2】グッズライナップ公開- ̗̀📣\nとても気合い入れたのでたくさん作ってしまいました．．．！\nオシャレno.1目指して頑張りました( ◜ω◝و(و \"是非チェックしてみてください🫶🏻\n\nチケットの購入は▶︎ https://t.co/EuJTKy1KKw\n\n#azse_hanatokei https://t.co/dYD2SmE7rj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 163,
+          "like_count": 3764,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1263
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T15:26:46.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/fKPzK4dlPm"
+              }
+            ]
+          }
+        },
+        "id": "1355900185235259396",
+        "location": "2ndﾜﾝﾏﾝﾗｲﾌﾞ▶︎2.15@Harevutai池袋",
+        "name": "東 雪蓮",
+        "pinned_tweet_id": "1880919507193196787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885760942061027328/BweMAhml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51724,
+          "following_count": 187,
+          "like_count": 19654,
+          "listed_count": 115,
+          "media_count": 907,
+          "tweet_count": 8242
+        },
+        "url": "https://t.co/fKPzK4dlPm",
+        "username": "AzumaSeren",
+        "verified": true
+      }
+    ]
+  }
+}

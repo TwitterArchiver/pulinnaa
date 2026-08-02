@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1896528408185860137",
+    "created_at": "2025-03-03T11:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T12:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896530894976168013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1888798502979022848",
+          "start": 0,
+          "username": "nx4vzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896530894976168013",
+    "in_reply_to_user_id": "1888798502979022848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896529779916161408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nx4vzl よろしく"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1896528408185860137",
+        "created_at": "2025-03-03T11:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896530894976168013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1888798502979022848",
+              "start": 0,
+              "username": "nx4vzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896530894976168013",
+        "in_reply_to_user_id": "1888798502979022848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896529779916161408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nx4vzl よろしく"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888798502979022848",
+        "conversation_id": "1896528408185860137",
+        "created_at": "2025-03-03T11:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896529779916161408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896529779916161408",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896528408185860137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa よろしくお願いします！よろしくお願いします！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 169,
+          "like_count": 3837,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 1304
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T03:54:02.000Z",
+        "description": "💍@Lelaphx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 1,
+                "username": "Lelaphx"
+              }
+            ]
+          }
+        },
+        "id": "1888798502979022848",
+        "name": "れいら",
+        "pinned_tweet_id": "1896522608243593381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892198656000090112/HL4gwNoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 63,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 778
+        },
+        "username": "nx4vzl",
+        "verified": false
+      }
+    ]
+  }
+}

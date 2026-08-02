@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1883030550023417856"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1883030613638443253",
+    "created_at": "2025-01-25T05:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T06:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883030613638443253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5DgkPaCiau",
+          "end": 37,
+          "expanded_url": "https://x.com/pulinnaa/status/1883030613638443253/video/1",
+          "media_key": "13_1883030550023417856",
+          "start": 14,
+          "url": "https://t.co/5DgkPaCiau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883030613638443253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好像长得越来越像前男友了 https://t.co/5DgkPaCiau"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_1883030550023417856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1883030550023417856/img/HVbm5SgJXPuRB4T5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883030550023417856/vid/avc1/320x568/VmPYIsxI9zveJwGX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883030550023417856/vid/avc1/480x852/O-YAerPcEW8OD5jc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883030550023417856/vid/avc1/720x1280/0vkjlH426sFjFNZr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1883030550023417856/pl/y-jby7fbmSafaMus.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1883030550023417856"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1883030613638443253",
+        "created_at": "2025-01-25T05:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T06:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883030613638443253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DgkPaCiau",
+              "end": 37,
+              "expanded_url": "https://x.com/pulinnaa/status/1883030613638443253/video/1",
+              "media_key": "13_1883030550023417856",
+              "start": 14,
+              "url": "https://t.co/5DgkPaCiau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883030613638443253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像长得越来越像前男友了 https://t.co/5DgkPaCiau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 168,
+          "like_count": 3770,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 1222
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

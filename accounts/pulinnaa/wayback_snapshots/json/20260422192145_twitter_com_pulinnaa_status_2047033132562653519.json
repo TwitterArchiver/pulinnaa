@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2046927939493822590",
+    "created_at": "2026-04-22T19:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047033132562653519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714008587012612097",
+          "start": 0,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047033132562653519",
+    "in_reply_to_user_id": "1714008587012612097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046927939493822590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2P 文拉法辛长期吃好像还能变瘦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2046927939493822590",
+        "created_at": "2026-04-22T19:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047033132562653519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714008587012612097",
+              "start": 0,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047033132562653519",
+        "in_reply_to_user_id": "1714008587012612097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046927939493822590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2P 文拉法辛长期吃好像还能变瘦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714008587012612097",
+        "conversation_id": "2046927939493822590",
+        "created_at": "2026-04-22T12:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046927939493822590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046927939493822590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文拉法辛 永康緒 氯硝西泮 思思 喹硫平 阿普 pr 這些有哪些藥副作用是變胖嗎⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 149,
+          "like_count": 3942,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 1833
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "🚪99｜病み垢 鬱症 od リスカ",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "天国ナミダ",
+        "pinned_tweet_id": "2039170935308296533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046852401135792128/yZdsndst_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 294,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 2165
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

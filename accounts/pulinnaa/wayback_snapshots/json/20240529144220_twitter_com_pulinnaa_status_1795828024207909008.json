@@ -1,0 +1,133 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1795828024207909008",
+    "created_at": "2024-05-29T14:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T15:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795828024207909008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "hahahanasaki’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1ynga…",
+          "end": 23,
+          "expanded_url": "https://twitter.com/i/spaces/1yNGaZWENmWJj",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 我服了爸爸",
+          "unwound_url": "https://twitter.com/i/spaces/1yNGaZWENmWJj/peek",
+          "url": "https://t.co/mOFRc4uvGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795828024207909008",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mOFRc4uvGD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1795828024207909008",
+        "created_at": "2024-05-29T14:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T15:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795828024207909008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "hahahanasaki’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ynga…",
+              "end": 23,
+              "expanded_url": "https://twitter.com/i/spaces/1yNGaZWENmWJj",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 我服了爸爸",
+              "unwound_url": "https://twitter.com/i/spaces/1yNGaZWENmWJj/peek",
+              "url": "https://t.co/mOFRc4uvGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795828024207909008",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mOFRc4uvGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 87,
+          "like_count": 1648,
+          "listed_count": 1,
+          "tweet_count": 221
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

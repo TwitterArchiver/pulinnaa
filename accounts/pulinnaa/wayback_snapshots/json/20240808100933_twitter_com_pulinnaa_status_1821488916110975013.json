@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1821488916110975013",
+    "created_at": "2024-08-08T10:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T11:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821488916110975013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1748286141000794112",
+          "start": 3,
+          "username": "hinako_ovo777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821488916110975013",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821396329215729892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hinako_ovo777: 哇咔咔要2000fo了\n转关抽\n\n🧧5.2r*10\n\n🧧13.14r*5\n\n🧧52r*3\n\n🧧免费🚪槛（可换88r *1\n\n有了新的🚪哥就开🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1821488916110975013",
+        "created_at": "2024-08-08T10:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T11:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821488916110975013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1748286141000794112",
+              "start": 3,
+              "username": "hinako_ovo777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821488916110975013",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821396329215729892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hinako_ovo777: 哇咔咔要2000fo了\n转关抽\n\n🧧5.2r*10\n\n🧧13.14r*5\n\n🧧52r*3\n\n🧧免费🚪槛（可换88r *1\n\n有了新的🚪哥就开🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748286141000794112",
+        "conversation_id": "1821396329215729892",
+        "created_at": "2024-08-08T04:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T05:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821396329215729892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821396329215729892",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2274,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "哇咔咔要2000fo了\n转关抽\n\n🧧5.2r*10\n\n🧧13.14r*5\n\n🧧52r*3\n\n🧧免费🚪槛（可换88r *1\n\n有了新的🚪哥就开🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 153,
+          "like_count": 3300,
+          "listed_count": 1,
+          "tweet_count": 759
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T10:08:07.000Z",
+        "description": "扭曲现实构成相互糜烂的我们 @AngelKawaiiBaii @noyachankawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "AngelKawaiiBaii"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "noyachankawaii"
+              }
+            ]
+          }
+        },
+        "id": "1748286141000794112",
+        "location": "私信只回🚪",
+        "name": "hinako",
+        "pinned_tweet_id": "1821396329215729892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754753289101660160/42pxhpHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 228,
+          "like_count": 2365,
+          "listed_count": 5,
+          "tweet_count": 1111
+        },
+        "username": "hinako_ovo777",
+        "verified": false
+      }
+    ]
+  }
+}

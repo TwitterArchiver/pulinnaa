@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2051022339446628803",
+    "created_at": "2026-05-03T19:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T20:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051022339446628803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xc8qvdejkt6614…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xc8qvdejkt66140/status/2050941821455565249",
+          "start": 5,
+          "url": "https://t.co/Dbe3MahLlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051022339446628803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050941821455565249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全是我 https://t.co/Dbe3MahLlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2050941815352934400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZotvcbQAACRiz.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2051022339446628803",
+        "created_at": "2026-05-03T19:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051022339446628803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xc8qvdejkt6614…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xc8qvdejkt66140/status/2050941821455565249",
+              "start": 5,
+              "url": "https://t.co/Dbe3MahLlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051022339446628803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050941821455565249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全是我 https://t.co/Dbe3MahLlg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050941815352934400"
+          ]
+        },
+        "author_id": "1890310608471617537",
+        "conversation_id": "2050941821455565249",
+        "created_at": "2026-05-03T14:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050941821455565249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpvMHl3TZz",
+              "end": 42,
+              "expanded_url": "https://x.com/xc8QVDeJKT66140/status/2050941821455565249/photo/1",
+              "media_key": "3_2050941815352934400",
+              "start": 19,
+              "url": "https://t.co/KpvMHl3TZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050941821455565249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 71608,
+          "like_count": 7613,
+          "quote_count": 78,
+          "reply_count": 1,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "👈🏻泣き顔の理想      現実👉🏻 https://t.co/KpvMHl3TZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 153,
+          "like_count": 3956,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 1915
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T08:02:49.000Z",
+        "description": "🌳👊🩸/社不/07/赤面症",
+        "id": "1890310608471617537",
+        "location": "同界隈以外は基本ミュートしてます‼️🚹DM❌",
+        "name": "わたし",
+        "pinned_tweet_id": "1982785471609540990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959543707042189312/gF9Q6VyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 772,
+          "like_count": 62044,
+          "listed_count": 14,
+          "media_count": 1,
+          "tweet_count": 904
+        },
+        "username": "xc8QVDeJKT66140",
+        "verified": false
+      }
+    ]
+  }
+}

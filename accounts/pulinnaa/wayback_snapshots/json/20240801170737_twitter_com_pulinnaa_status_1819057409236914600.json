@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1819045142256632202",
+    "created_at": "2024-08-01T17:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T18:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819057409236914600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814414822576214016",
+          "start": 0,
+          "username": "yingjingovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819057409236914600",
+    "in_reply_to_user_id": "1814414822576214016",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819057291469246568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingjingovo 没事没事。我们谈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1819045142256632202",
+        "created_at": "2024-08-01T17:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T18:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819057409236914600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814414822576214016",
+              "start": 0,
+              "username": "yingjingovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819057409236914600",
+        "in_reply_to_user_id": "1814414822576214016",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819057291469246568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingjingovo 没事没事。我们谈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814414822576214016",
+        "conversation_id": "1819045142256632202",
+        "created_at": "2024-08-01T17:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T18:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819057291469246568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819057291469246568",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819045142256632202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 集美这还是中文吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 155,
+          "like_count": 3278,
+          "listed_count": 0,
+          "tweet_count": 723
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T21:39:47.000Z",
+        "description": "一个很没用的人",
+        "id": "1814414822576214016",
+        "name": "小井",
+        "pinned_tweet_id": "1817841983236272421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818514713661022208/aNcDplkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 52,
+          "like_count": 1713,
+          "listed_count": 0,
+          "tweet_count": 247
+        },
+        "username": "yingjingovo",
+        "verified": false
+      }
+    ]
+  }
+}

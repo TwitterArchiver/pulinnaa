@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963165682105024512"
+      ],
+      "media_source_tweet_id": [
+        "1963165687070761183"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      }
+    ],
+    "conversation_id": "1963175724677796049",
+    "created_at": "2025-09-03T09:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T10:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963175724677796049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1111562353923940352",
+          "start": 3,
+          "username": "fujiikazestaff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Listen to content by Fujii Kaze.",
+          "display_url": "fujii-kaze.lnk.to/Prema",
+          "end": 58,
+          "expanded_url": "http://fujii-kaze.lnk.to/Prema",
+          "images": [
+            {
+              "height": 220,
+              "url": "https://pbs.twimg.com/news_img/1961766790431916032/AzmbrTF_?format=jpg&name=orig",
+              "width": 440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1961766790431916032/AzmbrTF_?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "Prema",
+          "unwound_url": "https://fujii-kaze.lnk.to/Prema",
+          "url": "https://t.co/RNO7GuXex0"
+        },
+        {
+          "description": "📽️ Prema - Premieres AUCKLAND Sep 5th 4pmBANGKOK Sep 5th 11amBEIJING Sep 5th 12pmLONDON Sep 5th 5amLOS ANGELES Sep 4th 9pmMANILA Sep 5th 12pmMEXICO CITY Sep...",
+          "display_url": "youtu.be/UJgPpzZcxGU",
+          "end": 103,
+          "expanded_url": "https://youtu.be/UJgPpzZcxGU",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1963165475799552001/xqlStJvw?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1963165475799552001/xqlStJvw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 80,
+          "status": 200,
+          "title": "Fujii Kaze - Prema [Official video]",
+          "unwound_url": "https://www.youtube.com/watch?v=UJgPpzZcxGU&feature=youtu.be",
+          "url": "https://t.co/nucT6bPJCs"
+        },
+        {
+          "display_url": "pic.x.com/tVapZ28mT2",
+          "end": 127,
+          "expanded_url": "https://x.com/fujiikazestaff/status/1963165687070761183/photo/1",
+          "media_key": "3_1963165682105024512",
+          "start": 104,
+          "url": "https://t.co/tVapZ28mT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963175724677796049",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1147
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963165687070761183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @fujiikazestaff: 🎧‘Prema’ Album\nhttps://t.co/RNO7GuXex0\n\n🎥“Prema”Music Video\nhttps://t.co/nucT6bPJCs https://t.co/tVapZ28mT2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1963165682105024512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6QyV0bgAA-2Ch.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963165682105024512"
+          ],
+          "media_source_tweet_id": [
+            "1963165687070761183"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1963175724677796049",
+        "created_at": "2025-09-03T09:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963175724677796049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1111562353923940352",
+              "start": 3,
+              "username": "fujiikazestaff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by Fujii Kaze.",
+              "display_url": "fujii-kaze.lnk.to/Prema",
+              "end": 58,
+              "expanded_url": "http://fujii-kaze.lnk.to/Prema",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1961766790431916032/AzmbrTF_?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1961766790431916032/AzmbrTF_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "Prema",
+              "unwound_url": "https://fujii-kaze.lnk.to/Prema",
+              "url": "https://t.co/RNO7GuXex0"
+            },
+            {
+              "description": "📽️ Prema - Premieres AUCKLAND Sep 5th 4pmBANGKOK Sep 5th 11amBEIJING Sep 5th 12pmLONDON Sep 5th 5amLOS ANGELES Sep 4th 9pmMANILA Sep 5th 12pmMEXICO CITY Sep...",
+              "display_url": "youtu.be/UJgPpzZcxGU",
+              "end": 103,
+              "expanded_url": "https://youtu.be/UJgPpzZcxGU",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1963165475799552001/xqlStJvw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963165475799552001/xqlStJvw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "Fujii Kaze - Prema [Official video]",
+              "unwound_url": "https://www.youtube.com/watch?v=UJgPpzZcxGU&feature=youtu.be",
+              "url": "https://t.co/nucT6bPJCs"
+            },
+            {
+              "display_url": "pic.x.com/tVapZ28mT2",
+              "end": 127,
+              "expanded_url": "https://x.com/fujiikazestaff/status/1963165687070761183/photo/1",
+              "media_key": "3_1963165682105024512",
+              "start": 104,
+              "url": "https://t.co/tVapZ28mT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963175724677796049",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1147
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963165687070761183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @fujiikazestaff: 🎧‘Prema’ Album\nhttps://t.co/RNO7GuXex0\n\n🎥“Prema”Music Video\nhttps://t.co/nucT6bPJCs https://t.co/tVapZ28mT2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963165682105024512"
+          ]
+        },
+        "author_id": "1111562353923940352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1963165687070761183",
+        "created_at": "2025-09-03T09:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963165687070761183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Listen to content by Fujii Kaze.",
+              "display_url": "fujii-kaze.lnk.to/Prema",
+              "end": 38,
+              "expanded_url": "http://fujii-kaze.lnk.to/Prema",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1961766790431916032/AzmbrTF_?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1961766790431916032/AzmbrTF_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "Prema",
+              "unwound_url": "https://fujii-kaze.lnk.to/Prema",
+              "url": "https://t.co/RNO7GuXex0"
+            },
+            {
+              "description": "📽️ Prema - Premieres AUCKLAND Sep 5th 4pmBANGKOK Sep 5th 11amBEIJING Sep 5th 12pmLONDON Sep 5th 5amLOS ANGELES Sep 4th 9pmMANILA Sep 5th 12pmMEXICO CITY Sep...",
+              "display_url": "youtu.be/UJgPpzZcxGU",
+              "end": 83,
+              "expanded_url": "https://youtu.be/UJgPpzZcxGU",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1963165475799552001/xqlStJvw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963165475799552001/xqlStJvw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "Fujii Kaze - Prema [Official video]",
+              "unwound_url": "https://www.youtube.com/watch?v=UJgPpzZcxGU&feature=youtu.be",
+              "url": "https://t.co/nucT6bPJCs"
+            },
+            {
+              "display_url": "pic.x.com/tVapZ28mT2",
+              "end": 107,
+              "expanded_url": "https://x.com/fujiikazestaff/status/1963165687070761183/photo/1",
+              "media_key": "3_1963165682105024512",
+              "start": 84,
+              "url": "https://t.co/tVapZ28mT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963165687070761183",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 59940,
+          "like_count": 5848,
+          "quote_count": 240,
+          "reply_count": 0,
+          "retweet_count": 1147
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🎧‘Prema’ Album\nhttps://t.co/RNO7GuXex0\n\n🎥“Prema”Music Video\nhttps://t.co/nucT6bPJCs https://t.co/tVapZ28mT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 156,
+          "like_count": 4002,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1580
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:34:51.000Z",
+        "description": "This is Fujii Kaze's staff acount. Fujii Kaze 3rd Album ‘Prema' Coming on September 5th 🎧 https://t.co/FEH2bm9Lqb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fujii-kaze.lnk.to/Prema",
+                "end": 113,
+                "expanded_url": "https://fujii-kaze.lnk.to/Prema",
+                "start": 90,
+                "url": "https://t.co/FEH2bm9Lqb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fujiikaze.com",
+                "end": 23,
+                "expanded_url": "http://fujiikaze.com",
+                "start": 0,
+                "url": "https://t.co/YnfK0Fuq3U"
+              }
+            ]
+          }
+        },
+        "id": "1111562353923940352",
+        "name": "Fujii Kaze Staff",
+        "pinned_tweet_id": "1933441293595947208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933375801564803073/1n4jI73X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346876,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 1169,
+          "media_count": 538,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/YnfK0Fuq3U",
+        "username": "fujiikazestaff",
+        "verified": false
+      }
+    ]
+  }
+}

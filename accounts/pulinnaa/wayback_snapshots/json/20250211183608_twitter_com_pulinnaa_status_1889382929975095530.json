@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1889382929975095530",
+    "created_at": "2025-02-11T18:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T19:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889382929975095530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1771241496953647104",
+          "start": 3,
+          "username": "Tonirina8964z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889382929975095530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889300310092575158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tonirina8964z: 大家好不定期回归的互关回馈又来了，依旧是小抽奖😸抽一个20r赞赏码和四个5.2r口令红包😼转发这条即可参与\n这是一个互关交友条我想交点精神病女孩新朋友😸除了健全人应该都可以吧，第一张照片是我之前虽然我现在已经完全脱美役了，当然也可以和我扩墙…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1889382929975095530",
+        "created_at": "2025-02-11T18:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T19:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889382929975095530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1771241496953647104",
+              "start": 3,
+              "username": "Tonirina8964z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889382929975095530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889300310092575158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tonirina8964z: 大家好不定期回归的互关回馈又来了，依旧是小抽奖😸抽一个20r赞赏码和四个5.2r口令红包😼转发这条即可参与\n这是一个互关交友条我想交点精神病女孩新朋友😸除了健全人应该都可以吧，第一张照片是我之前虽然我现在已经完全脱美役了，当然也可以和我扩墙…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889300294015881216",
+            "3_1889300306300985344"
+          ]
+        },
+        "author_id": "1771241496953647104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889300310092575158",
+        "created_at": "2025-02-11T13:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889300310092575158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQ3ghVfGpe",
+              "end": 149,
+              "expanded_url": "https://x.com/Tonirina8964z/status/1889300310092575158/photo/1",
+              "media_key": "3_1889300294015881216",
+              "start": 126,
+              "url": "https://t.co/dQ3ghVfGpe"
+            },
+            {
+              "display_url": "pic.x.com/dQ3ghVfGpe",
+              "end": 149,
+              "expanded_url": "https://x.com/Tonirina8964z/status/1889300310092575158/photo/1",
+              "media_key": "3_1889300306300985344",
+              "start": 126,
+              "url": "https://t.co/dQ3ghVfGpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889300310092575158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家好不定期回归的互关回馈又来了，依旧是小抽奖😸抽一个20r赞赏码和四个5.2r口令红包😼转发这条即可参与\n这是一个互关交友条我想交点精神病女孩新朋友😸除了健全人应该都可以吧，第一张照片是我之前虽然我现在已经完全脱美役了，当然也可以和我扩墙内😽求转发 https://t.co/dQ3ghVfGpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 163,
+          "like_count": 3778,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1252
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T18:24:36.000Z",
+        "description": "垃圾桶 互fo欢迎 二号机@Yahappiness510",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Yahappiness510"
+              }
+            ]
+          }
+        },
+        "id": "1771241496953647104",
+        "location": "不自由，毋宁死",
+        "name": "冬鹂",
+        "pinned_tweet_id": "1884367919452414190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887642139519266816/Bb1emOaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 519,
+          "like_count": 4275,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 4166
+        },
+        "username": "Tonirina8964z",
+        "verified": false
+      }
+    ]
+  }
+}

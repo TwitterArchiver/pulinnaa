@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2065377129823625638",
+    "created_at": "2026-06-12T11:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065391208017666235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044068992491585536",
+          "start": 0,
+          "username": "Lingling527527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065391208017666235",
+    "in_reply_to_user_id": "2044068992491585536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065377129823625638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingling527527 蹲蹲，但是希望你能开到pr嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2065377129823625638",
+        "created_at": "2026-06-12T11:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065391208017666235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044068992491585536",
+              "start": 0,
+              "username": "Lingling527527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065391208017666235",
+        "in_reply_to_user_id": "2044068992491585536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065377129823625638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingling527527 蹲蹲，但是希望你能开到pr嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044068992491585536",
+        "conversation_id": "2065377129823625638",
+        "created_at": "2026-06-12T10:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065377129823625638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065377129823625638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开不到pr就随机抽一个20r好不好？这条点赞评论，我就闭眼随机抽了！助力我200fo，真的没想到呀 你们关注我这个可爱的女孩子好不好 我长得还行^ω^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 200,
+          "like_count": 4050,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 2637
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:03:53.000Z",
+        "description": "11/od/自残/cos/双相/重抑/重焦\n什么都发 ip武汉可以来找我玩\n^-^ 一个很温柔的od妹^-^\n训小狗大师 已有主人\n看成分互fo",
+        "id": "2044068992491585536",
+        "location": "青少年灾难",
+        "name": "Lingling527",
+        "pinned_tweet_id": "2058242546682544548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065297819804790784/8vnHn0ra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 149,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 243
+        },
+        "username": "Lingling527527",
+        "verified": false
+      }
+    ]
+  }
+}

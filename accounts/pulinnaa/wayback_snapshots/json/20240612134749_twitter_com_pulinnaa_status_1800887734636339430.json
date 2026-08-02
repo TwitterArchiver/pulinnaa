@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1800887685982343168"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1800887734636339430",
+    "created_at": "2024-06-12T13:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T14:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800887734636339430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/fMLU5p3yNL",
+          "end": 41,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1800887734636339430/video/1",
+          "media_key": "7_1800887685982343168",
+          "start": 18,
+          "url": "https://t.co/fMLU5p3yNL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800887734636339430",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hnsk你五月病还没结束吗🤦‍♀️ https://t.co/fMLU5p3yNL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20400,
+        "height": 1280,
+        "media_key": "7_1800887685982343168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1800887685982343168/pu/img/8ergUjRLxnDVCVvW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800887685982343168/pu/vid/avc1/320x568/P7BB9H5qN8PpXlp9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800887685982343168/pu/vid/avc1/480x852/SAlUU5GHlkcT3LZP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800887685982343168/pu/vid/avc1/720x1280/NRX-9jpn14cZig-d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1800887685982343168/pu/pl/7ZUWZDAnS3rXIXgb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1800887685982343168"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1800887734636339430",
+        "created_at": "2024-06-12T13:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T14:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800887734636339430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fMLU5p3yNL",
+              "end": 41,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1800887734636339430/video/1",
+              "media_key": "7_1800887685982343168",
+              "start": 18,
+              "url": "https://t.co/fMLU5p3yNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800887734636339430",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hnsk你五月病还没结束吗🤦‍♀️ https://t.co/fMLU5p3yNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 123,
+          "like_count": 1827,
+          "listed_count": 1,
+          "tweet_count": 478
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

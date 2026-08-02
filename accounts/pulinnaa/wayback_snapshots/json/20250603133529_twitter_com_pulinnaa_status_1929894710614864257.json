@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1929849505610191210",
+    "created_at": "2025-06-03T13:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T14:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929894710614864257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541389062870687744",
+          "start": 0,
+          "username": "aotemusilaite1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929894710614864257",
+    "in_reply_to_user_id": "1541389062870687744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929850583034613866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aotemusilaite1 我靠我要来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1929849505610191210",
+        "created_at": "2025-06-03T13:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929894710614864257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541389062870687744",
+              "start": 0,
+              "username": "aotemusilaite1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929894710614864257",
+        "in_reply_to_user_id": "1541389062870687744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929850583034613866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aotemusilaite1 我靠我要来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541389062870687744",
+        "conversation_id": "1929849505610191210",
+        "created_at": "2025-06-03T10:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T11:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929850583034613866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929850583034613866",
+        "in_reply_to_user_id": "1541389062870687744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929849505610191210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯。。会有免费的一顿海底捞🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 165,
+          "like_count": 3934,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 1473
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T11:52:56.000Z",
+        "description": "纯四爱 男高 u15橄榄球db数据全国前三🏈\n男同滚",
+        "id": "1541389062870687744",
+        "location": "上海",
+        "name": "Cube Never Broke Again🩸",
+        "pinned_tweet_id": "1912372442095579420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869386359422832640/PKYV2bUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 100,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 59
+        },
+        "username": "aotemusilaite1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2051694665536335890",
+    "created_at": "2026-05-05T16:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T17:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051707770127450345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626412170337746944",
+          "start": 0,
+          "username": "moontidebemoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051707770127450345",
+    "in_reply_to_user_id": "1626412170337746944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051706214313312663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moontidebemoth 支持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2051694665536335890",
+        "created_at": "2026-05-05T16:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051707770127450345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626412170337746944",
+              "start": 0,
+              "username": "moontidebemoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051707770127450345",
+        "in_reply_to_user_id": "1626412170337746944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051706214313312663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moontidebemoth 支持！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626412170337746944",
+        "conversation_id": "2051694665536335890",
+        "created_at": "2026-05-05T16:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051706214313312663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051706214313312663",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051694665536335890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa aoi很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 154,
+          "like_count": 3964,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 1953
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T02:44:27.000Z",
+        "description": "PDD人格障碍 穷且益坚 黄毛碎钻 语言！\nYuki need 電波系宅女",
+        "id": "1626412170337746944",
+        "location": "阶段四",
+        "name": "AOI99905230523cocbg",
+        "pinned_tweet_id": "1791539273356972365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862057214338314240/ykNDOPkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 104,
+          "like_count": 4853,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1149
+        },
+        "username": "moontidebemoth",
+        "verified": false
+      }
+    ]
+  }
+}

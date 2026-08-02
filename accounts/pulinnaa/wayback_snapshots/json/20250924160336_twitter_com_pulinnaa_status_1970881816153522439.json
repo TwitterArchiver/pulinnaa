@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1970881725585936386"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1970881816153522439",
+    "created_at": "2025-09-24T16:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T17:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970881816153522439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9sZs1TYgZG",
+          "end": 71,
+          "expanded_url": "https://x.com/pulinnaa/status/1970881816153522439/video/1",
+          "media_key": "13_1970881725585936386",
+          "start": 48,
+          "url": "https://t.co/9sZs1TYgZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970881816153522439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我迫切的需要分享这一段…大概就是我喊了一声かわいい然后春野露出了耐人寻味的笑容😚😚😚。疯狂暗爽 https://t.co/9sZs1TYgZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35053,
+        "height": 1280,
+        "media_key": "13_1970881725585936386",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970881725585936386/img/ZNQEiQ8pYeTtBHJx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970881725585936386/vid/avc1/320x568/YQ_NUp8wdnpWkDrn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970881725585936386/vid/avc1/480x852/83SHWdCSafjwqBtb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970881725585936386/vid/avc1/720x1280/zHlLzEpNp_GvNytT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970881725585936386/pl/lpA7iN7fR4Sz7QPI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970881725585936386"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1970881816153522439",
+        "created_at": "2025-09-24T16:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970881816153522439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sZs1TYgZG",
+              "end": 71,
+              "expanded_url": "https://x.com/pulinnaa/status/1970881816153522439/video/1",
+              "media_key": "13_1970881725585936386",
+              "start": 48,
+              "url": "https://t.co/9sZs1TYgZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970881816153522439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我迫切的需要分享这一段…大概就是我喊了一声かわいい然后春野露出了耐人寻味的笑容😚😚😚。疯狂暗爽 https://t.co/9sZs1TYgZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 156,
+          "like_count": 3989,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 1569
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

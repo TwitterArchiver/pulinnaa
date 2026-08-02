@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2043763533666742356",
+    "created_at": "2026-04-13T18:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T19:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043763533666742356"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "线上"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "电子女友"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "金主"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "atm奴"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "门槛"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "门哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1708301558516207616",
+          "start": 3,
+          "username": "overdose_rourou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/uB",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/uB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043763533666742356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042186697098551475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_rourou: 被父母断供了 活不起了\n可以互转互fo 赞赏码口令🧧都可以\n🚪80🚪100⬆️可以语音陪聊随时在线\n爸爸妈妈哥哥姐姐 求你们了感恩一辈子🥺\n#线上 #门槛妹 #电子女友 #金主 #atm奴 #门槛 #门哥 https://t.co/uB…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042186674990370816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdN9f_WUAAVNvQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2042186674994577408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdN9gAWgAAr1L-.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2043763533666742356",
+        "created_at": "2026-04-13T18:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043763533666742356"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "线上"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "电子女友"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "金主"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "atm奴"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "门槛"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "门哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1708301558516207616",
+              "start": 3,
+              "username": "overdose_rourou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/uB",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/uB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043763533666742356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042186697098551475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_rourou: 被父母断供了 活不起了\n可以互转互fo 赞赏码口令🧧都可以\n🚪80🚪100⬆️可以语音陪聊随时在线\n爸爸妈妈哥哥姐姐 求你们了感恩一辈子🥺\n#线上 #门槛妹 #电子女友 #金主 #atm奴 #门槛 #门哥 https://t.co/uB…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042186674990370816",
+            "3_2042186674994577408"
+          ]
+        },
+        "author_id": "1708301558516207616",
+        "conversation_id": "2042186697098551475",
+        "created_at": "2026-04-09T10:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042186697098551475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "线上"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "电子女友"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "金主"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "atm奴"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "门槛"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "门哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBxV8iILb6",
+              "end": 126,
+              "expanded_url": "https://x.com/overdose_rourou/status/2042186697098551475/photo/1",
+              "media_key": "3_2042186674990370816",
+              "start": 103,
+              "url": "https://t.co/uBxV8iILb6"
+            },
+            {
+              "display_url": "pic.x.com/uBxV8iILb6",
+              "end": 126,
+              "expanded_url": "https://x.com/overdose_rourou/status/2042186697098551475/photo/1",
+              "media_key": "3_2042186674994577408",
+              "start": 103,
+              "url": "https://t.co/uBxV8iILb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042186697098551475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被父母断供了 活不起了\n可以互转互fo 赞赏码口令🧧都可以\n🚪80🚪100⬆️可以语音陪聊随时在线\n爸爸妈妈哥哥姐姐 求你们了感恩一辈子🥺\n#线上 #门槛妹 #电子女友 #金主 #atm奴 #门槛 #门哥 https://t.co/uBxV8iILb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 148,
+          "like_count": 3946,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 1763
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T02:03:46.000Z",
+        "description": "ずっとそばにいるね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/overdose_rourou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/overdose_rourou",
+                "start": 0,
+                "url": "https://t.co/3KbFAs2FYA"
+              }
+            ]
+          }
+        },
+        "id": "1708301558516207616",
+        "location": "存在しません",
+        "name": "りこ",
+        "pinned_tweet_id": "1795717221689557493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043743863383433216/MWxbyUbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 157,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/3KbFAs2FYA",
+        "username": "overdose_rourou",
+        "verified": false
+      }
+    ]
+  }
+}

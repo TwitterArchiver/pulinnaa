@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055262776520798208"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2055262926764916858",
+    "created_at": "2026-05-15T12:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055262926764916858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WYSQBz5Sm8",
+          "end": 34,
+          "expanded_url": "https://x.com/pulinnaa/status/2055262926764916858/video/1",
+          "media_key": "13_2055262776520798208",
+          "start": 11,
+          "url": "https://t.co/WYSQBz5Sm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055262926764916858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在笑场我不行了 https://t.co/WYSQBz5Sm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59000,
+        "height": 1024,
+        "media_key": "13_2055262776520798208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055262776520798208/img/O1YJoz7_gyo291FE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055262776520798208/vid/avc1/320x568/RQ4tmi5N2s-rZYDd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055262776520798208/vid/avc1/480x852/QayDW77LICvUALQv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055262776520798208/vid/avc1/576x1024/IZObqdV32mRvuVmx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055262776520798208/pl/2evSfrcpYl7hi79A.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055262776520798208"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2055262926764916858",
+        "created_at": "2026-05-15T12:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055262926764916858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYSQBz5Sm8",
+              "end": 34,
+              "expanded_url": "https://x.com/pulinnaa/status/2055262926764916858/video/1",
+              "media_key": "13_2055262776520798208",
+              "start": 11,
+              "url": "https://t.co/WYSQBz5Sm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055262926764916858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在笑场我不行了 https://t.co/WYSQBz5Sm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "2054868011987951703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 169,
+          "like_count": 4010,
+          "listed_count": 2,
+          "media_count": 361,
+          "tweet_count": 2198
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

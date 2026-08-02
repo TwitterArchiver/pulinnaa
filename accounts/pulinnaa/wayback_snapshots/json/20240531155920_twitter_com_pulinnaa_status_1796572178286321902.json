@@ -1,0 +1,232 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1796572178286321902",
+    "created_at": "2024-05-31T15:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T16:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796572178286321902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kit_tik910/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kit_tik910/status/1796130629979132031",
+          "start": 2,
+          "url": "https://t.co/sE0Yvz6rEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796572178286321902",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796130629979132031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草 https://t.co/sE0Yvz6rEx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1796572178286321902",
+        "created_at": "2024-05-31T15:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T16:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796572178286321902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kit_tik910/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kit_tik910/status/1796130629979132031",
+              "start": 2,
+              "url": "https://t.co/sE0Yvz6rEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796572178286321902",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796130629979132031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草 https://t.co/sE0Yvz6rEx"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796130625713528833"
+          ]
+        },
+        "author_id": "1677665256628424706",
+        "conversation_id": "1796130629979132031",
+        "created_at": "2024-05-30T10:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T11:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796130629979132031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wsDBqYNd4F",
+              "end": 34,
+              "expanded_url": "https://twitter.com/KIT_TIK910/status/1796130629979132031/photo/1",
+              "media_key": "3_1796130625713528833",
+              "start": 11,
+              "url": "https://t.co/wsDBqYNd4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796130629979132031",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 22425,
+          "like_count": 440,
+          "quote_count": 7,
+          "reply_count": 63,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "普通右から読まない？ https://t.co/wsDBqYNd4F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 107,
+          "like_count": 1782,
+          "listed_count": 1,
+          "tweet_count": 280
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T13:06:06.000Z",
+        "description": "雑多垢┊︎フォロバは気になった人のみ┊︎アイコン→ https://t.co/Gq24DY52T1・ヘッダー→ https://t.co/H5cd533PIE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pin.it/ANSmoRuW6",
+                "end": 49,
+                "expanded_url": "https://pin.it/ANSmoRuW6",
+                "start": 26,
+                "url": "https://t.co/Gq24DY52T1"
+              },
+              {
+                "display_url": "pin.it/6G8cd3h4v",
+                "end": 79,
+                "expanded_url": "https://pin.it/6G8cd3h4v",
+                "start": 56,
+                "url": "https://t.co/H5cd533PIE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/KIT_TIK910",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/KIT_TIK910",
+                "start": 0,
+                "url": "https://t.co/aFAIx24BPa"
+              }
+            ]
+          }
+        },
+        "id": "1677665256628424706",
+        "location": "にほん",
+        "name": "𝕂𝕀𝕋",
+        "pinned_tweet_id": "1794567070535086555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794575860890304513/t7X7Z_rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4189,
+          "following_count": 3747,
+          "like_count": 59098,
+          "listed_count": 17,
+          "tweet_count": 36671
+        },
+        "url": "https://t.co/aFAIx24BPa",
+        "username": "KIT_TIK910",
+        "verified": false
+      }
+    ]
+  }
+}

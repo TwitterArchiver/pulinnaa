@@ -1,0 +1,165 @@
+{
+  "data": {
+    "author_id": "1780570823063171072",
+    "conversation_id": "1848304729497243747",
+    "created_at": "2024-10-21T10:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T11:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848304729497243747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1111562353923940352",
+          "start": 3,
+          "username": "fujiikazestaff"
+        }
+      ]
+    },
+    "id": "1848304729497243747",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5784
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848213872760807800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @fujiikazestaff: 「NHK MUSIC SPECIAL 藤井 ⾵〜登れ、世界へ〜」の放送が決定いたしました！\n\n［放送］\n10/31(木) 22:00~22:45 NHK総合\n※NHKプラスで同時配信・1週間見逃し配信\n\n［再放送］\n11/4(月) 23:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1780570823063171072",
+        "conversation_id": "1848304729497243747",
+        "created_at": "2024-10-21T10:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T11:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848304729497243747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1111562353923940352",
+              "start": 3,
+              "username": "fujiikazestaff"
+            }
+          ]
+        },
+        "id": "1848304729497243747",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5784
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848213872760807800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @fujiikazestaff: 「NHK MUSIC SPECIAL 藤井 ⾵〜登れ、世界へ〜」の放送が決定いたしました！\n\n［放送］\n10/31(木) 22:00~22:45 NHK総合\n※NHKプラスで同時配信・1週間見逃し配信\n\n［再放送］\n11/4(月) 23:…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 168,
+          "like_count": 3718,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1063
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:34:51.000Z",
+        "description": "藤井 風Staffです。 \"Feelin’ Go(o)d\" 🎧https://t.co/F3fGMdNu2V  最新情報は公式無料アプリへ！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Fujii-Kaze.lnk.to/FeelinGood",
+                "end": 54,
+                "expanded_url": "http://Fujii-Kaze.lnk.to/FeelinGood",
+                "start": 31,
+                "url": "https://t.co/F3fGMdNu2V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-rayon.com/fujiikaze/",
+                "end": 23,
+                "expanded_url": "http://c-rayon.com/fujiikaze/",
+                "start": 0,
+                "url": "https://t.co/MugEZcx4S9"
+              }
+            ]
+          }
+        },
+        "id": "1111562353923940352",
+        "name": "Fujii Kaze Staff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767188732317417472/OdDm_gn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300241,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 1124,
+          "media_count": 455,
+          "tweet_count": 1255
+        },
+        "url": "https://t.co/MugEZcx4S9",
+        "username": "fujiikazestaff",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2059966950844006565",
+    "created_at": "2026-05-28T15:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060017780846674233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060017780846674233",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059966950844006565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059966910020849664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ4_ZDaEAA3LFF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059966910113153024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ4_ZZagAA5B_j.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059966910113239040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ4_ZZb0AAaKN3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059966910331314176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ4_aNbYAAMP9X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2059966950844006565",
+        "created_at": "2026-05-28T15:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060017780846674233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060017780846674233",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059966950844006565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059966910020849664",
+            "3_2059966910113153024",
+            "3_2059966910113239040",
+            "3_2059966910331314176"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2059966950844006565",
+        "created_at": "2026-05-28T11:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059966950844006565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/11XzaT4bJN",
+              "end": 80,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2059966950844006565/photo/1",
+              "media_key": "3_2059966910020849664",
+              "start": 57,
+              "url": "https://t.co/11XzaT4bJN"
+            },
+            {
+              "display_url": "pic.x.com/11XzaT4bJN",
+              "end": 80,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2059966950844006565/photo/1",
+              "media_key": "3_2059966910113153024",
+              "start": 57,
+              "url": "https://t.co/11XzaT4bJN"
+            },
+            {
+              "display_url": "pic.x.com/11XzaT4bJN",
+              "end": 80,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2059966950844006565/photo/1",
+              "media_key": "3_2059966910113239040",
+              "start": 57,
+              "url": "https://t.co/11XzaT4bJN"
+            },
+            {
+              "display_url": "pic.x.com/11XzaT4bJN",
+              "end": 80,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2059966950844006565/photo/1",
+              "media_key": "3_2059966910331314176",
+              "start": 57,
+              "url": "https://t.co/11XzaT4bJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059966950844006565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 572,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有我承认你们给我夸爽了，奖励你们看点其他的\n\np1-p3高一时期拍的无纹身无伤痕版\np4单纯为了凑四张排版好看 https://t.co/11XzaT4bJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 178,
+          "like_count": 4036,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2431
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回吱声)/备用号:@jiuyouforwhite2/偏爱:@Numiouoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 1458,
+          "like_count": 4647,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 2319
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

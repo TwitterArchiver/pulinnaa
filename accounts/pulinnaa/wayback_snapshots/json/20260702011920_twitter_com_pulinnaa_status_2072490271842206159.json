@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2072443478215479573",
+    "created_at": "2026-07-02T01:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072490271842206159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1328359187504525313",
+          "start": 0,
+          "username": "000kkp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072490271842206159",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072490065436316015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@000kkp 顺便一说，这个芝麻酥糖真的很好吃！请一定要仔细品尝，笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2072443478215479573",
+        "created_at": "2026-07-02T01:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072490271842206159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1328359187504525313",
+              "start": 0,
+              "username": "000kkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072490271842206159",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072490065436316015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@000kkp 顺便一说，这个芝麻酥糖真的很好吃！请一定要仔细品尝，笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2072443478215479573",
+        "created_at": "2026-07-02T01:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072490065436316015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1328359187504525313",
+              "start": 0,
+              "username": "000kkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072490065436316015",
+        "in_reply_to_user_id": "1328359187504525313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072443478215479573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@000kkp 不好意思用中文发送评论了。这个4/21是制造日期哦！赏味期限是180天，所以应该是10/18🙌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 201,
+          "like_count": 4052,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 2758
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T15:28:24.000Z",
+        "description": "お酒と猫が好きです",
+        "id": "1328359187504525313",
+        "name": "𝑵𝑬𝑶 𝑪𝒀𝑩𝑬𝑹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057073577745432576/5FdTl4HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 797,
+          "like_count": 216114,
+          "listed_count": 10,
+          "media_count": 6600,
+          "tweet_count": 46792
+        },
+        "url": "",
+        "username": "000kkp",
+        "verified": false
+      }
+    ]
+  }
+}

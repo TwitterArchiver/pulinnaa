@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1877264448047689728"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1877264490393166242",
+    "created_at": "2025-01-09T08:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T09:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877264490393166242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTgot4v8JU",
+          "end": 29,
+          "expanded_url": "https://x.com/pulinnaa/status/1877264490393166242/video/1",
+          "media_key": "7_1877264448047689728",
+          "start": 6,
+          "url": "https://t.co/QTgot4v8JU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877264490393166242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "追加工なし https://t.co/QTgot4v8JU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14901,
+        "height": 1280,
+        "media_key": "7_1877264448047689728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1877264448047689728/pu/img/sYTkcazYuBe4HUaZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877264448047689728/pu/vid/avc1/320x568/OpKX83C04awrcQ-y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877264448047689728/pu/vid/avc1/480x852/scawX_KQRQiuZQ0V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877264448047689728/pu/vid/avc1/720x1280/56vC1y9f-MW5lXO1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1877264448047689728/pu/pl/QEMZwQEojHZf4fd1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1877264448047689728"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1877264490393166242",
+        "created_at": "2025-01-09T08:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T09:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877264490393166242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTgot4v8JU",
+              "end": 29,
+              "expanded_url": "https://x.com/pulinnaa/status/1877264490393166242/video/1",
+              "media_key": "7_1877264448047689728",
+              "start": 6,
+              "url": "https://t.co/QTgot4v8JU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877264490393166242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追加工なし https://t.co/QTgot4v8JU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 184,
+          "like_count": 3722,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1183
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1983495674214961152"
+      ],
+      "media_source_tweet_id": [
+        "1983495734532968469"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1983888057255547036",
+    "created_at": "2025-10-30T13:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983888057255547036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1695026363118551040",
+          "start": 3,
+          "username": "yyunana1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bmp3yb6wMd",
+          "end": 80,
+          "expanded_url": "https://x.com/yyunana1234/status/1983495734532968469/video/1",
+          "media_key": "13_1983495674214961152",
+          "start": 57,
+          "url": "https://t.co/bmp3yb6wMd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983888057255547036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983495734532968469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyunana1234: 醉翁之意不在酒\n在於頂胯也\n終於發跳舞影片了\n就是跳爽的\n（證明我會幹人？？？ https://t.co/bmp3yb6wMd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983888057255547036].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983888057255547036",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983888057255547036"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18386,
+        "height": 828,
+        "media_key": "13_1983495674214961152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983495674214961152/img/sl9CLkBjPfKnNySS.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983495674214961152/vid/avc1/320x368/I-3JCKVepwtDvAbH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983495674214961152/vid/avc1/480x552/SlfDQVgaRvdbafFM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983495674214961152/vid/avc1/720x828/atnOAJrVWPzb0qXY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983495674214961152/pl/YkahnwY4ENpx9BHo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983495674214961152"
+          ]
+        },
+        "author_id": "1695026363118551040",
+        "conversation_id": "1983495734532968469",
+        "created_at": "2025-10-29T11:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983495734532968469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmp3yb6wMd",
+              "end": 63,
+              "expanded_url": "https://x.com/yyunana1234/status/1983495734532968469/video/1",
+              "media_key": "13_1983495674214961152",
+              "start": 40,
+              "url": "https://t.co/bmp3yb6wMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983495734532968469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醉翁之意不在酒\n在於頂胯也\n終於發跳舞影片了\n就是跳爽的\n（證明我會幹人？？？ https://t.co/bmp3yb6wMd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk ♡@dyhj4431",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "dyhj4431"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977746501620412416/zeerqfLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 146,
+          "like_count": 3973,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 1603
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T10:52:41.000Z",
+        "description": "умри если меня не любишь\n空虛的軀殼\n病み垢",
+        "id": "1695026363118551040",
+        "location": "虛",
+        "name": "ゆな",
+        "pinned_tweet_id": "1928394051448963480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965745103978565633/aQHcyzyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 278,
+          "like_count": 2307,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2101
+        },
+        "username": "yyunana1234",
+        "verified": false
+      }
+    ]
+  }
+}

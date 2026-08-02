@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2059923379558535277",
+    "created_at": "2026-05-28T09:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059923379558535277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1777730090924978176",
+          "start": 3,
+          "username": "Hiiragi_qin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059923379558535277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059654739697283370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiiragi_qin8964: 此条为抽奖贴，奖品为1板75mgpr(诺德尚)\n参加为点赞关注转发，谢谢大家的支持\n之后可能会更新rc使用记录（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2059923379558535277",
+        "created_at": "2026-05-28T09:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059923379558535277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1777730090924978176",
+              "start": 3,
+              "username": "Hiiragi_qin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059923379558535277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059654739697283370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiiragi_qin8964: 此条为抽奖贴，奖品为1板75mgpr(诺德尚)\n参加为点赞关注转发，谢谢大家的支持\n之后可能会更新rc使用记录（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777730090924978176",
+        "conversation_id": "2059654739697283370",
+        "created_at": "2026-05-27T15:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059654739697283370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059654739697283370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 596,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "此条为抽奖贴，奖品为1板75mgpr(诺德尚)\n参加为点赞关注转发，谢谢大家的支持\n之后可能会更新rc使用记录（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 175,
+          "like_count": 4035,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 2420
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "止まりどっかで またやり直せたら\n（欢迎查成分互fo，成分不明的不fo）\n阿普唑仑重度依赖\n稍微懂一点点药理（学习中）、可提供建议、乐子\n内容是trip和日常碎碎念（有概率爆个女装照？）\n欢迎咨询（不提供来源，不售出物质）\nCN\\JP\n以防自己被ban先加个防ban数字",
+        "id": "1777730090924978176",
+        "location": "穿越过去给自己一巴掌",
+        "name": "ヒイラギ（冬青）",
+        "pinned_tweet_id": "2040691843143512093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 305,
+          "like_count": 18498,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 545
+        },
+        "username": "Hiiragi_qin8964",
+        "verified": false
+      }
+    ]
+  }
+}

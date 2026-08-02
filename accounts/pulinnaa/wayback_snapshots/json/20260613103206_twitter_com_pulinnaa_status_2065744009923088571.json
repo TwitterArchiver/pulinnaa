@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065460803567005696"
+      ],
+      "media_source_tweet_id": [
+        "2065460805940936777"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2065744009923088571",
+    "created_at": "2026-06-13T10:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065744009923088571"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "地雷系"
+        },
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 62,
+          "start": 48,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 74,
+          "start": 64,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 88,
+          "start": 76,
+          "tag": "地雷系女子と繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015833324472991744",
+          "start": 3,
+          "username": "me_q56"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mDiZZiN4pR",
+          "end": 112,
+          "expanded_url": "https://x.com/me_q56/status/2065460805940936777/photo/1",
+          "media_key": "3_2065460803567005696",
+          "start": 89,
+          "url": "https://t.co/mDiZZiN4pR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065744009923088571",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065460805940936777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @me_q56: 0から\nお友達ください\n\n #自撮り界隈  #地雷系  #地雷系女子  #自撮り界隈さんと繋がりたい  #地雷系と繋がりたい  #地雷系女子と繋がりたい https://t.co/mDiZZiN4pR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065460803567005696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn9qFYasAAjein.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065460803567005696"
+          ],
+          "media_source_tweet_id": [
+            "2065460805940936777"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2065744009923088571",
+        "created_at": "2026-06-13T10:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065744009923088571"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "地雷系"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 62,
+              "start": 48,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 74,
+              "start": 64,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 88,
+              "start": 76,
+              "tag": "地雷系女子と繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015833324472991744",
+              "start": 3,
+              "username": "me_q56"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDiZZiN4pR",
+              "end": 112,
+              "expanded_url": "https://x.com/me_q56/status/2065460805940936777/photo/1",
+              "media_key": "3_2065460803567005696",
+              "start": 89,
+              "url": "https://t.co/mDiZZiN4pR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065744009923088571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065460805940936777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @me_q56: 0から\nお友達ください\n\n #自撮り界隈  #地雷系  #地雷系女子  #自撮り界隈さんと繋がりたい  #地雷系と繋がりたい  #地雷系女子と繋がりたい https://t.co/mDiZZiN4pR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065460803567005696"
+          ]
+        },
+        "author_id": "2015833324472991744",
+        "conversation_id": "2065460805940936777",
+        "created_at": "2026-06-12T15:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065460805940936777"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "地雷系"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 50,
+              "start": 36,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "地雷系女子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDiZZiN4pR",
+              "end": 100,
+              "expanded_url": "https://x.com/me_q56/status/2065460805940936777/photo/1",
+              "media_key": "3_2065460803567005696",
+              "start": 77,
+              "url": "https://t.co/mDiZZiN4pR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065460805940936777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0から\nお友達ください\n\n #自撮り界隈  #地雷系  #地雷系女子  #自撮り界隈さんと繋がりたい  #地雷系と繋がりたい  #地雷系女子と繋がりたい https://t.co/mDiZZiN4pR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 196,
+          "like_count": 4051,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 2649
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T17:05:05.000Z",
+        "description": "",
+        "id": "2015833324472991744",
+        "location": "北海道 12",
+        "name": "み❕",
+        "pinned_tweet_id": "2065460805940936777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064755116247502848/GBaZVOGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "me_q56",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1858022397657624671",
+    "created_at": "2024-11-27T17:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T18:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861831254553076072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770010661621501952",
+          "start": 0,
+          "username": "suudayo___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861831254553076072",
+    "in_reply_to_user_id": "1770010661621501952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861725589545291976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suudayo___ ありがと（＾ω＾）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1858022397657624671",
+        "created_at": "2024-11-27T17:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T18:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861831254553076072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770010661621501952",
+              "start": 0,
+              "username": "suudayo___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861831254553076072",
+        "in_reply_to_user_id": "1770010661621501952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861725589545291976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suudayo___ ありがと（＾ω＾）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770010661621501952",
+        "conversation_id": "1858022397657624671",
+        "created_at": "2024-11-27T10:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861725589545291976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861725589545291976",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858022397657624671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa かわいい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 170,
+          "like_count": 3728,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1055
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T08:53:45.000Z",
+        "description": "モデル",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantrie.com/semiii_n2",
+                "end": 23,
+                "expanded_url": "http://fantrie.com/semiii_n2",
+                "start": 0,
+                "url": "https://t.co/gIkATugciJ"
+              }
+            ]
+          }
+        },
+        "id": "1770010661621501952",
+        "location": "韓国人",
+        "name": "スウ",
+        "pinned_tweet_id": "1842053795720921089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841821094782853120/KBuDvarC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 7,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/gIkATugciJ",
+        "username": "suudayo___",
+        "verified": false
+      }
+    ]
+  }
+}

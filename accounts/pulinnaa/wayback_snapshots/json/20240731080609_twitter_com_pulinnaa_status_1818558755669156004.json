@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1818438547604668890",
+    "created_at": "2024-07-31T08:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T09:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818558755669156004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1407571705703268356",
+          "start": 0,
+          "username": "RYO_GF_AT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818558755669156004",
+    "in_reply_to_user_id": "1407571705703268356",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818528253021503657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RYO_GF_AT 嘿嘿，天使降临！ᜊ&gt;ᴗ&lt;ᜊ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1818438547604668890",
+        "created_at": "2024-07-31T08:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T09:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818558755669156004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1407571705703268356",
+              "start": 0,
+              "username": "RYO_GF_AT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818558755669156004",
+        "in_reply_to_user_id": "1407571705703268356",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818528253021503657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RYO_GF_AT 嘿嘿，天使降临！ᜊ&gt;ᴗ&lt;ᜊ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407571705703268356",
+        "conversation_id": "1818438547604668890",
+        "created_at": "2024-07-31T06:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T07:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818528253021503657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818528253021503657",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818438547604668890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 你是天使吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 155,
+          "like_count": 3274,
+          "listed_count": 0,
+          "tweet_count": 712
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T05:30:30.000Z",
+        "description": "最近仕事より釣りに行ってる事が多い\n30Overな馬鹿野郎😁\nフォトナ熱戻ってきたかも😂\n釣り仲間ほしいな～",
+        "id": "1407571705703268356",
+        "name": "りょう",
+        "pinned_tweet_id": "1528197522748891137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518267189232513024/tOo3nkMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 431,
+          "like_count": 24155,
+          "listed_count": 3,
+          "tweet_count": 2124
+        },
+        "username": "RYO_GF_AT",
+        "verified": false
+      }
+    ]
+  }
+}

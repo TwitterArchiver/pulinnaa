@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837517086203301888"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1837517106193355075",
+    "created_at": "2024-09-21T15:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T16:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837517106193355075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l49fa21ygl",
+          "end": 26,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1837517106193355075/photo/1",
+          "media_key": "3_1837517086203301888",
+          "start": 3,
+          "url": "https://t.co/L49FA21yGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837517106193355075",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿嘿 https://t.co/L49FA21yGL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_1837517086203301888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYAsDefb0AASAaR.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837517086203301888"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1837517106193355075",
+        "created_at": "2024-09-21T15:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T16:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837517106193355075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l49fa21ygl",
+              "end": 26,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1837517106193355075/photo/1",
+              "media_key": "3_1837517086203301888",
+              "start": 3,
+              "url": "https://t.co/L49FA21yGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837517106193355075",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿 https://t.co/L49FA21yGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 158,
+          "like_count": 3632,
+          "listed_count": 1,
+          "tweet_count": 932
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1797139738031456256"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1797139774853239124",
+    "created_at": "2024-06-02T05:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T06:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797139774853239124"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "地雷系"
+        },
+        {
+          "end": 16,
+          "start": 10,
+          "tag": "いいね返し"
+        },
+        {
+          "end": 28,
+          "start": 17,
+          "tag": "美男美女と繋がりたい"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "自撮り"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/vkU6cYVPj6",
+          "end": 57,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1797139774853239124/video/1",
+          "media_key": "7_1797139738031456256",
+          "start": 34,
+          "url": "https://t.co/vkU6cYVPj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797139774853239124",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "教えて～\n#地雷系 #いいね返し #美男美女と繋がりたい #自撮り https://t.co/vkU6cYVPj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17833,
+        "height": 1280,
+        "media_key": "7_1797139738031456256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1797139738031456256/pu/img/djVc28zo62hKNdX7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797139738031456256/pu/vid/avc1/320x568/ncYgQVTLD83JbU-z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797139738031456256/pu/vid/avc1/480x852/McZ2JmcClz7ISWmD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797139738031456256/pu/vid/avc1/720x1280/YtFYscupM_nmnLZo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1797139738031456256/pu/pl/FEn1-VWUgYP62Hkw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1797139738031456256"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1797139774853239124",
+        "created_at": "2024-06-02T05:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T06:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797139774853239124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "地雷系"
+            },
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "いいね返し"
+            },
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "美男美女と繋がりたい"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "自撮り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vkU6cYVPj6",
+              "end": 57,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1797139774853239124/video/1",
+              "media_key": "7_1797139738031456256",
+              "start": 34,
+              "url": "https://t.co/vkU6cYVPj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797139774853239124",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教えて～\n#地雷系 #いいね返し #美男美女と繋がりたい #自撮り https://t.co/vkU6cYVPj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 113,
+          "like_count": 1831,
+          "listed_count": 1,
+          "tweet_count": 297
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

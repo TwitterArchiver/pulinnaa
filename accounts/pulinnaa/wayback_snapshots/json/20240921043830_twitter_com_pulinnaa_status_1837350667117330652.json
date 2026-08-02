@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1837193495184036347",
+    "created_at": "2024-09-21T04:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T05:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837350667117330652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1832695669603364864",
+          "start": 0,
+          "username": "rwq14458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837350667117330652",
+    "in_reply_to_user_id": "1832695669603364864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837349333509038290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwq14458 既然你也这样想那就不要骂我了好吗🥲🥲🥲我要碎掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T04:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T05:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837350667117330652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1832695669603364864",
+              "start": 0,
+              "username": "rwq14458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837350667117330652",
+        "in_reply_to_user_id": "1832695669603364864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837349333509038290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwq14458 既然你也这样想那就不要骂我了好吗🥲🥲🥲我要碎掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832695669603364864",
+        "conversation_id": "1837193495184036347",
+        "created_at": "2024-09-21T04:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T05:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837349333509038290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837349333509038290",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837346436712952194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 说实话我觉得大部分女人，不对大部分人都很婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 158,
+          "like_count": 3622,
+          "listed_count": 1,
+          "tweet_count": 908
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T08:21:26.000Z",
+        "description": "倒霉蛋惜倒霉蛋",
+        "id": "1832695669603364864",
+        "location": "河底猪笼里",
+        "name": "加班纪念日",
+        "pinned_tweet_id": "1837102235148296393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832696116347072514/wzK_OD4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 504,
+          "listed_count": 0,
+          "tweet_count": 210
+        },
+        "username": "rwq14458",
+        "verified": false
+      }
+    ]
+  }
+}

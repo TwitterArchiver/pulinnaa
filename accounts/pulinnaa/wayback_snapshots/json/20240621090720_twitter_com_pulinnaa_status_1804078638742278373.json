@@ -1,0 +1,259 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803717708674109440"
+      ],
+      "media_source_tweet_id": [
+        "1803717803683492163"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1804078638742278373",
+    "created_at": "2024-06-21T09:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T10:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804078638742278373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777269759442337792",
+          "start": 3,
+          "username": "lxgofj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/B3quUxdCHz",
+          "end": 43,
+          "expanded_url": "https://twitter.com/lxgofj/status/1803717803683492163/photo/1",
+          "media_key": "3_1803717708674109440",
+          "start": 20,
+          "url": "https://t.co/B3quUxdCHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804078638742278373",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803717803683492163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxgofj: じゃあ私何なの https://t.co/B3quUxdCHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_1803717708674109440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQgXsxSaEAA2EgS.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803717708674109440"
+          ],
+          "media_source_tweet_id": [
+            "1803717803683492163"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1804078638742278373",
+        "created_at": "2024-06-21T09:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T10:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804078638742278373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777269759442337792",
+              "start": 3,
+              "username": "lxgofj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/B3quUxdCHz",
+              "end": 43,
+              "expanded_url": "https://twitter.com/lxgofj/status/1803717803683492163/photo/1",
+              "media_key": "3_1803717708674109440",
+              "start": 20,
+              "url": "https://t.co/B3quUxdCHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804078638742278373",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803717803683492163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxgofj: じゃあ私何なの https://t.co/B3quUxdCHz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803717708674109440"
+          ]
+        },
+        "author_id": "1777269759442337792",
+        "conversation_id": "1803717803683492163",
+        "created_at": "2024-06-20T09:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T10:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803717803683492163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/B3quUxdCHz",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lxgofj/status/1803717803683492163/photo/1",
+              "media_key": "3_1803717708674109440",
+              "start": 8,
+              "url": "https://t.co/B3quUxdCHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803717803683492163",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 297055,
+          "like_count": 9177,
+          "quote_count": 225,
+          "reply_count": 10,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "じゃあ私何なの https://t.co/B3quUxdCHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 130,
+          "like_count": 2104,
+          "listed_count": 1,
+          "tweet_count": 562
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T09:39:24.000Z",
+        "description": "ツイ廃 / 愚痴 / 怪垢以外フォロバ  縮小 @lxgofj_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "lxgofj_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lxgofj?igsh=a3…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lxgofj?igsh=a3loNHZmZmY4d3J6&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/wwLLBnT82S"
+              }
+            ]
+          }
+        },
+        "id": "1777269759442337792",
+        "location": "⬇️ インスタ繋がろう",
+        "name": "雑草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790375344412782592/owOrlwrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 485,
+          "like_count": 5446,
+          "listed_count": 14,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/wwLLBnT82S",
+        "username": "lxgofj",
+        "verified": false
+      }
+    ]
+  }
+}

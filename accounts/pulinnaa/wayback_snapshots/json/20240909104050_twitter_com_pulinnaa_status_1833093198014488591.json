@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1833093198014488591",
+    "created_at": "2024-09-09T10:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T11:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833093198014488591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756998476985233408",
+          "start": 3,
+          "username": "himeiki5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833093198014488591",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814169496921530702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @himeiki5: 🔝这里是Kana🐾\n坐标上海  想交往好朋友\n女生请和我扩列🤲🏻\n\n喜欢被夸可爱🥺🫶🏻\n最喜欢一切可爱的东西💕\n还有最喜欢草莓🍓\n\n梦想是一万粉丝🧎\n\n所以可以帮我转转推吗🥹🥹🥹\n抽奖52*3\n（太久没互转了流量好差qwq https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833093198014488591].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833093198014488591",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833093198014488591"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1814169488004349952",
+            "3_1814169488008585216",
+            "3_1814169487991873536",
+            "3_1814169488004415488"
+          ]
+        },
+        "author_id": "1756998476985233408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1814169496921530702",
+        "created_at": "2024-07-19T05:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T06:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814169496921530702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmhhnuilil",
+              "end": 135,
+              "expanded_url": "https://twitter.com/himeiki5/status/1814169496921530702/photo/1",
+              "media_key": "3_1814169488004349952",
+              "start": 112,
+              "url": "https://t.co/mmhhNUIliL"
+            },
+            {
+              "display_url": "pic.x.com/mmhhnuilil",
+              "end": 135,
+              "expanded_url": "https://twitter.com/himeiki5/status/1814169496921530702/photo/1",
+              "media_key": "3_1814169488008585216",
+              "start": 112,
+              "url": "https://t.co/mmhhNUIliL"
+            },
+            {
+              "display_url": "pic.x.com/mmhhnuilil",
+              "end": 135,
+              "expanded_url": "https://twitter.com/himeiki5/status/1814169496921530702/photo/1",
+              "media_key": "3_1814169487991873536",
+              "start": 112,
+              "url": "https://t.co/mmhhNUIliL"
+            },
+            {
+              "display_url": "pic.x.com/mmhhnuilil",
+              "end": 135,
+              "expanded_url": "https://twitter.com/himeiki5/status/1814169496921530702/photo/1",
+              "media_key": "3_1814169488004415488",
+              "start": 112,
+              "url": "https://t.co/mmhhNUIliL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814169496921530702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 53562,
+          "like_count": 170,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "🔝这里是Kana🐾\n坐标上海  想交往好朋友\n女生请和我扩列🤲🏻\n\n喜欢被夸可爱🥺🫶🏻\n最喜欢一切可爱的东西💕\n还有最喜欢草莓🍓\n\n梦想是一万粉丝🧎\n\n所以可以帮我转转推吗🥹🥹🥹\n抽奖52*3\n（太久没互转了流量好差qwq https://t.co/mmhhNUIliL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 160,
+          "like_count": 3594,
+          "listed_count": 1,
+          "tweet_count": 872
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T11:07:41.000Z",
+        "description": "しあわせ",
+        "id": "1756998476985233408",
+        "name": "ひめき",
+        "pinned_tweet_id": "1814169496921530702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786091768313962496/KVxo6zbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 183,
+          "like_count": 1551,
+          "listed_count": 4,
+          "tweet_count": 262
+        },
+        "username": "himeiki5",
+        "verified": false
+      }
+    ]
+  }
+}

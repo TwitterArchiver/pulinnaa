@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897220901118337024"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1897220908361900057",
+    "created_at": "2025-03-05T09:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T10:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897220908361900057"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "モーティス"
+        },
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "アニメムジカ"
+        },
+        {
+          "end": 32,
+          "start": 22,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "豐川祥子"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "コスプレ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbaYzND7AU",
+          "end": 68,
+          "expanded_url": "https://x.com/pulinnaa/status/1897220908361900057/photo/1",
+          "media_key": "3_1897220901118337024",
+          "start": 45,
+          "url": "https://t.co/NbaYzND7AU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897220908361900057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "マリオネット\n#モーティス #アニメムジカ #AveMujica #豐川祥子 #コスプレ https://t.co/NbaYzND7AU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897220901118337024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRIW4-a4AA6XVz.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897220901118337024"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1897220908361900057",
+        "created_at": "2025-03-05T09:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T10:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897220908361900057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "モーティス"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "アニメムジカ"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "豐川祥子"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbaYzND7AU",
+              "end": 68,
+              "expanded_url": "https://x.com/pulinnaa/status/1897220908361900057/photo/1",
+              "media_key": "3_1897220901118337024",
+              "start": 45,
+              "url": "https://t.co/NbaYzND7AU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897220908361900057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "マリオネット\n#モーティス #アニメムジカ #AveMujica #豐川祥子 #コスプレ https://t.co/NbaYzND7AU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 165,
+          "like_count": 3873,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1316
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

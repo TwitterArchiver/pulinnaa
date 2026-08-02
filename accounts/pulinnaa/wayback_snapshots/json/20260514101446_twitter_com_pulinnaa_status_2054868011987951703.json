@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054868001216958464",
+        "3_2054868001221193728"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2054868011987951703",
+    "created_at": "2026-05-14T10:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054868011987951703"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "病み垢"
+        },
+        {
+          "end": 79,
+          "start": 73,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "友達募集"
+        },
+        {
+          "end": 100,
+          "start": 86,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 112,
+          "start": 106,
+          "tag": "ネッ友募集"
+        },
+        {
+          "end": 119,
+          "start": 113,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 132,
+          "start": 120,
+          "tag": "病み垢さんフォロバする"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBuLSDs27d",
+          "end": 156,
+          "expanded_url": "https://x.com/pulinnaa/status/2054868011987951703/photo/1",
+          "media_key": "3_2054868001216958464",
+          "start": 133,
+          "url": "https://t.co/bBuLSDs27d"
+        },
+        {
+          "display_url": "pic.x.com/bBuLSDs27d",
+          "end": 156,
+          "expanded_url": "https://x.com/pulinnaa/status/2054868011987951703/photo/1",
+          "media_key": "3_2054868001221193728",
+          "start": 133,
+          "url": "https://t.co/bBuLSDs27d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054868011987951703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "tag🏷️女の子友達欲しい\n\n08｜砂糖｜病み｜OD｜ﾘｽｶ｜心愛推し\n\nお友達ください (ദ്ദി⩌𖥦⩌)\n♡or↺でお迎え❕\n\n#病み垢   #病み垢女子 #友達募集\n#自撮り界隈さんと繋がりたい\n#雰囲気 #ネッ友募集 #地雷系女子\n#病み垢さんフォロバする https://t.co/bBuLSDs27d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054868001216958464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRbj1jakAAKmpY.jpg",
+        "width": 1152
+      },
+      {
+        "height": 449,
+        "media_key": "3_2054868001221193728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRbj1kbMAAoDW1.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054868001216958464",
+            "3_2054868001221193728"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2054868011987951703",
+        "created_at": "2026-05-14T10:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054868011987951703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "病み垢"
+            },
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "友達募集"
+            },
+            {
+              "end": 100,
+              "start": 86,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 112,
+              "start": 106,
+              "tag": "ネッ友募集"
+            },
+            {
+              "end": 119,
+              "start": 113,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 132,
+              "start": 120,
+              "tag": "病み垢さんフォロバする"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBuLSDs27d",
+              "end": 156,
+              "expanded_url": "https://x.com/pulinnaa/status/2054868011987951703/photo/1",
+              "media_key": "3_2054868001216958464",
+              "start": 133,
+              "url": "https://t.co/bBuLSDs27d"
+            },
+            {
+              "display_url": "pic.x.com/bBuLSDs27d",
+              "end": 156,
+              "expanded_url": "https://x.com/pulinnaa/status/2054868011987951703/photo/1",
+              "media_key": "3_2054868001221193728",
+              "start": 133,
+              "url": "https://t.co/bBuLSDs27d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054868011987951703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tag🏷️女の子友達欲しい\n\n08｜砂糖｜病み｜OD｜ﾘｽｶ｜心愛推し\n\nお友達ください (ദ്ദി⩌𖥦⩌)\n♡or↺でお迎え❕\n\n#病み垢   #病み垢女子 #友達募集\n#自撮り界隈さんと繋がりたい\n#雰囲気 #ネッ友募集 #地雷系女子\n#病み垢さんフォロバする https://t.co/bBuLSDs27d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 161,
+          "like_count": 3984,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 2167
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

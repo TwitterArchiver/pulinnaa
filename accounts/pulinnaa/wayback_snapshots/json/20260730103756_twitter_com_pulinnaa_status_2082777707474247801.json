@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2082777707474247801",
+    "created_at": "2026-07-30T10:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082777707474247801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2390345460",
+          "start": 3,
+          "username": "xupxq_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "シングル • 2026年 • 1曲 • 3分",
+          "display_url": "linkco.re/8QtS3uBM",
+          "end": 125,
+          "expanded_url": "https://linkco.re/8QtS3uBM",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/2082425763513696256/XpGaYVrZ?format=png&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2082425763513696256/XpGaYVrZ?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 102,
+          "status": 200,
+          "title": "鬼ごっこ by 春野",
+          "unwound_url": "https://linkco.re/8QtS3uBM",
+          "url": "https://t.co/sn9MVxMTSb"
+        },
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082777707474247801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082425760284098981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xupxq_: 鬼ごっこ - 春野\n\nお待たせしました\n7/29~「鬼ごっこ」のサブスク配信がついに開始しました！何卒よろしくお願いします。\n\nリリースにあたりボーカルを新録・再MIXしました\n\nhttps://t.co/sn9MVxMTSb https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2082425755552931840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZDMQbbYAADy0n.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2082777707474247801",
+        "created_at": "2026-07-30T10:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082777707474247801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2390345460",
+              "start": 3,
+              "username": "xupxq_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "シングル • 2026年 • 1曲 • 3分",
+              "display_url": "linkco.re/8QtS3uBM",
+              "end": 125,
+              "expanded_url": "https://linkco.re/8QtS3uBM",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2082425763513696256/XpGaYVrZ?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082425763513696256/XpGaYVrZ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "鬼ごっこ by 春野",
+              "unwound_url": "https://linkco.re/8QtS3uBM",
+              "url": "https://t.co/sn9MVxMTSb"
+            },
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082777707474247801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082425760284098981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xupxq_: 鬼ごっこ - 春野\n\nお待たせしました\n7/29~「鬼ごっこ」のサブスク配信がついに開始しました！何卒よろしくお願いします。\n\nリリースにあたりボーカルを新録・再MIXしました\n\nhttps://t.co/sn9MVxMTSb https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082425755552931840"
+          ]
+        },
+        "author_id": "2390345460",
+        "conversation_id": "2082425760284098981",
+        "created_at": "2026-07-29T11:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082425760284098981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "シングル • 2026年 • 1曲 • 3分",
+              "display_url": "linkco.re/8QtS3uBM",
+              "end": 113,
+              "expanded_url": "https://linkco.re/8QtS3uBM",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2082425763513696256/XpGaYVrZ?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082425763513696256/XpGaYVrZ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "鬼ごっこ by 春野",
+              "unwound_url": "https://linkco.re/8QtS3uBM",
+              "url": "https://t.co/sn9MVxMTSb"
+            },
+            {
+              "display_url": "pic.x.com/onYq9TCrWh",
+              "end": 137,
+              "expanded_url": "https://x.com/xupxq_/status/2082425760284098981/photo/1",
+              "media_key": "3_2082425755552931840",
+              "start": 114,
+              "url": "https://t.co/onYq9TCrWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082425760284098981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 42370,
+          "like_count": 1231,
+          "quote_count": 45,
+          "reply_count": 7,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "鬼ごっこ - 春野\n\nお待たせしました\n7/29~「鬼ごっこ」のサブスク配信がついに開始しました！何卒よろしくお願いします。\n\nリリースにあたりボーカルを新録・再MIXしました\n\nhttps://t.co/sn9MVxMTSb https://t.co/onYq9TCrWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 193,
+          "like_count": 4035,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 2887
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-15T03:50:11.000Z",
+        "description": "3マス進む https://t.co/UosdaTgzZz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hrn.figma.site",
+                "end": 29,
+                "expanded_url": "https://hrn.figma.site",
+                "start": 6,
+                "url": "https://t.co/UosdaTgzZz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@harunoiswhoo",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@harunoiswhoo",
+                "start": 0,
+                "url": "https://t.co/gLa93gVURZ"
+              }
+            ]
+          }
+        },
+        "id": "2390345460",
+        "location": " harunoiswhoo@gmail.com",
+        "name": "春野",
+        "pinned_tweet_id": "2075869185562005821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920453326568607744/kV1PXZKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51476,
+          "following_count": 402,
+          "like_count": 2290,
+          "listed_count": 343,
+          "media_count": 442,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/gLa93gVURZ",
+        "username": "xupxq_",
+        "verified": true
+      }
+    ]
+  }
+}

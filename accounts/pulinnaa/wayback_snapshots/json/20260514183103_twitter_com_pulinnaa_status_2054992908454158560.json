@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2054825724696215612",
+    "created_at": "2026-05-14T18:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054992908454158560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1818650355065929728",
+          "start": 0,
+          "username": "mmmniang"
+        },
+        {
+          "end": 22,
+          "id": "1912916776519954432",
+          "start": 10,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054992908454158560",
+    "in_reply_to_user_id": "1818650355065929728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054990673405976728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmniang @liu_lu43456 非常感谢。因为看很多人说没效果所以很担心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2054825724696215612",
+        "created_at": "2026-05-14T18:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054992908454158560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1818650355065929728",
+              "start": 0,
+              "username": "mmmniang"
+            },
+            {
+              "end": 22,
+              "id": "1912916776519954432",
+              "start": 10,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054992908454158560",
+        "in_reply_to_user_id": "1818650355065929728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054990673405976728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmniang @liu_lu43456 非常感谢。因为看很多人说没效果所以很担心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818650355065929728",
+        "conversation_id": "2054825724696215612",
+        "created_at": "2026-05-14T18:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054990673405976728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            },
+            {
+              "end": 22,
+              "id": "1912916776519954432",
+              "start": 10,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054990673405976728",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054972234289250577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa @liu_lu43456 正常右美效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "2054868011987951703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 169,
+          "like_count": 4007,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 2190
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T14:10:20.000Z",
+        "description": "",
+        "id": "1818650355065929728",
+        "name": "禾下水手服",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053772671813607424/Dsti3eWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 126,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 85
+        },
+        "username": "mmmniang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2032181190757634518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568491171610625/R3Z2flJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 148,
+          "like_count": 430,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 2480
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

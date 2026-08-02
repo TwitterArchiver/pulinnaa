@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1938510360287580588",
+    "created_at": "2026-03-23T04:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T05:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035936974805336136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1680544465671561216",
+          "start": 0,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035936974805336136",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938510360287580588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LXL0102 宝宝看一下私信TT想问蜡烛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938510339790032896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub44iSbUAASDsT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938510339831959553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub44icbEAESv7q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938510339789963264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub44iSaQAAXAWT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1938510339785826304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub44iRbIAA-81e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1938510360287580588",
+        "created_at": "2026-03-23T04:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035936974805336136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035936974805336136",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938510360287580588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 宝宝看一下私信TT想问蜡烛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938510339790032896",
+            "3_1938510339831959553",
+            "3_1938510339789963264",
+            "3_1938510339785826304"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938510360287580588",
+        "created_at": "2025-06-27T08:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938510360287580588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svO3flqbUj",
+              "end": 172,
+              "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+              "media_key": "3_1938510339790032896",
+              "start": 149,
+              "url": "https://t.co/svO3flqbUj"
+            },
+            {
+              "display_url": "pic.x.com/svO3flqbUj",
+              "end": 172,
+              "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+              "media_key": "3_1938510339831959553",
+              "start": 149,
+              "url": "https://t.co/svO3flqbUj"
+            },
+            {
+              "display_url": "pic.x.com/svO3flqbUj",
+              "end": 172,
+              "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+              "media_key": "3_1938510339789963264",
+              "start": 149,
+              "url": "https://t.co/svO3flqbUj"
+            },
+            {
+              "display_url": "pic.x.com/svO3flqbUj",
+              "end": 172,
+              "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+              "media_key": "3_1938510339785826304",
+              "start": 149,
+              "url": "https://t.co/svO3flqbUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938510360287580588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 44999,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是离心力😈请不要再恶意举报我，私信互fo大欢迎‼️不爱看就滚\n🈚️🚪不加蝻\n\n神秘学爱好者，从事六年神秘学相关工作，东西玄兼得，女巫一枚，接一些塔罗｜蜡烛｜调频｜通灵等玄学项目\n\n前身餐券妹已脱离苦海😋我很爱我男朋友，发些🔞\n\n我的推文可能会出现：\n恋爱日常／自伤／擦边／od／不良言论 https://t.co/svO3flqbUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 146,
+          "like_count": 3950,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 1731
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 370,
+          "like_count": 1766,
+          "listed_count": 5,
+          "media_count": 646,
+          "tweet_count": 3686
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

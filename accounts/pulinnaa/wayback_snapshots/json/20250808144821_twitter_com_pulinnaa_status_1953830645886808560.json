@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953830629843644420"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1953830645886808560",
+    "created_at": "2025-08-08T14:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T15:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953830645886808560"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 21,
+          "start": 7,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "いいね返し"
+        },
+        {
+          "end": 42,
+          "start": 29,
+          "tag": "美男美女さんと繋がりたい"
+        },
+        {
+          "end": 54,
+          "start": 43,
+          "tag": "美男美女と繋がりたい"
+        },
+        {
+          "end": 68,
+          "start": 55,
+          "tag": "いいねした人全員フォロー"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "彼氏募集"
+        },
+        {
+          "end": 90,
+          "start": 75,
+          "tag": "いいねした人全員フォローする"
+        },
+        {
+          "end": 108,
+          "start": 91,
+          "tag": "1mmでもいいなと思ったらいいね"
+        },
+        {
+          "end": 121,
+          "start": 109,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 127,
+          "start": 122,
+          "tag": "友達募集"
+        },
+        {
+          "end": 135,
+          "start": 128,
+          "tag": "自発ください"
+        },
+        {
+          "end": 140,
+          "start": 136,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 149,
+          "start": 142,
+          "tag": "いいねでDM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4goDx1sHO",
+          "end": 173,
+          "expanded_url": "https://x.com/pulinnaa/status/1953830645886808560/photo/1",
+          "media_key": "3_1953830629843644420",
+          "start": 150,
+          "url": "https://t.co/q4goDx1sHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953830645886808560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 231,
+      "like_count": 22,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈 #自撮り界隈さんと繋がりたい #いいね返し #美男美女さんと繋がりたい #美男美女と繋がりたい #いいねした人全員フォロー #彼氏募集 #いいねした人全員フォローする #1mmでもいいなと思ったらいいね #病み垢さんと繋がりたい #友達募集 #自発ください #雰囲気  #いいねでDM https://t.co/q4goDx1sHO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1953830645886808560].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1953830645886808560",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953830645886808560"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1953830629843644420",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1mmyMbsAQzbcS.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 165,
+          "like_count": 3994,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 1554
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

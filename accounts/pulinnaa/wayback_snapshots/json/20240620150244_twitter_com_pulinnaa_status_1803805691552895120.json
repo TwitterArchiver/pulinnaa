@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1803804532050149688",
+    "created_at": "2024-06-20T15:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T16:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803805691552895120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766412743488237568",
+          "start": 0,
+          "username": "zholngx588061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803805691552895120",
+    "in_reply_to_user_id": "1766412743488237568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803804532050149688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zholngx588061 宝宝不可以🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1803804532050149688",
+        "created_at": "2024-06-20T15:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T16:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803805691552895120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766412743488237568",
+              "start": 0,
+              "username": "zholngx588061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803805691552895120",
+        "in_reply_to_user_id": "1766412743488237568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803804532050149688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zholngx588061 宝宝不可以🫂"
+      },
+      {
+        "attachments": {},
+        "author_id": "1766412743488237568",
+        "conversation_id": "1803804532050149688",
+        "created_at": "2024-06-20T14:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T15:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803804532050149688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803804532050149688",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很想死很想割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 130,
+          "like_count": 2056,
+          "listed_count": 1,
+          "tweet_count": 554
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:36:47.000Z",
+        "description": "昏昏｜sub｜双相｜双性恋｜isfp｜最爱的人@xia_shu13688",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xia_shu13688"
+              }
+            ]
+          }
+        },
+        "id": "1766412743488237568",
+        "name": "恶根性",
+        "pinned_tweet_id": "1792992290656395268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798334808487030784/q8Yt7Qtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 274,
+          "like_count": 8571,
+          "listed_count": 2,
+          "tweet_count": 2345
+        },
+        "username": "zholngx588061",
+        "verified": false
+      }
+    ]
+  }
+}

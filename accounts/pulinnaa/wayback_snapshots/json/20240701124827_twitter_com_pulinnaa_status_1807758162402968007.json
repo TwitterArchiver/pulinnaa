@@ -1,0 +1,331 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1807758162402968007",
+    "created_at": "2024-07-01T12:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T13:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807758162402968007"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "友達募集"
+        },
+        {
+          "end": 89,
+          "start": 77,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 102,
+          "start": 90,
+          "tag": "日常垢さんと繋がりたい"
+        },
+        {
+          "end": 115,
+          "start": 103,
+          "tag": "地雷系女子と繋がりたい"
+        },
+        {
+          "end": 130,
+          "start": 116,
+          "tag": "自撮り界隈さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1535944083486613504",
+          "start": 3,
+          "username": "_Oppai_3150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807758162402968007",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807757479478251556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Oppai_3150: Tag.\n\n￤♀︎￤下ネタ注意￤友達募集中￤\n\n〜  ♡   or  RT  で気になりさんお迎え  〜\n\n#友達募集 #病み垢さんと繋がりたい #日常垢さんと繋がりたい #地雷系女子と繋がりたい #自撮り界隈さんと繋がりたい #アニメ好きさん…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1807758162402968007",
+        "created_at": "2024-07-01T12:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T13:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807758162402968007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "友達募集"
+            },
+            {
+              "end": 89,
+              "start": 77,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 102,
+              "start": 90,
+              "tag": "日常垢さんと繋がりたい"
+            },
+            {
+              "end": 115,
+              "start": 103,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 130,
+              "start": 116,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1535944083486613504",
+              "start": 3,
+              "username": "_Oppai_3150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807758162402968007",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807757479478251556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Oppai_3150: Tag.\n\n￤♀︎￤下ネタ注意￤友達募集中￤\n\n〜  ♡   or  RT  で気になりさんお迎え  〜\n\n#友達募集 #病み垢さんと繋がりたい #日常垢さんと繋がりたい #地雷系女子と繋がりたい #自撮り界隈さんと繋がりたい #アニメ好きさん…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807757474612826112",
+            "3_1807757474617024512"
+          ]
+        },
+        "author_id": "1535944083486613504",
+        "conversation_id": "1807757479478251556",
+        "created_at": "2024-07-01T12:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T13:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807757479478251556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "友達募集"
+            },
+            {
+              "end": 72,
+              "start": 60,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 85,
+              "start": 73,
+              "tag": "日常垢さんと繋がりたい"
+            },
+            {
+              "end": 98,
+              "start": 86,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 113,
+              "start": 99,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 128,
+              "start": 114,
+              "tag": "アニメ好きさんと繋がりたい"
+            },
+            {
+              "end": 142,
+              "start": 129,
+              "tag": "いいねした人全員フォロー"
+            },
+            {
+              "end": 155,
+              "start": 144,
+              "tag": "巨乳好きと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YeASjhxHu7",
+              "end": 180,
+              "expanded_url": "https://twitter.com/_Oppai_3150/status/1807757479478251556/photo/1",
+              "media_key": "3_1807757474612826112",
+              "start": 157,
+              "url": "https://t.co/YeASjhxHu7"
+            },
+            {
+              "display_url": "pic.twitter.com/YeASjhxHu7",
+              "end": 180,
+              "expanded_url": "https://twitter.com/_Oppai_3150/status/1807757479478251556/photo/1",
+              "media_key": "3_1807757474617024512",
+              "start": 157,
+              "url": "https://t.co/YeASjhxHu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807757479478251556",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Tag.\n\n￤♀︎￤下ネタ注意￤友達募集中￤\n\n〜  ♡   or  RT  で気になりさんお迎え  〜\n\n#友達募集 #病み垢さんと繋がりたい #日常垢さんと繋がりたい #地雷系女子と繋がりたい #自撮り界隈さんと繋がりたい #アニメ好きさんと繋がりたい #いいねした人全員フォロー  #巨乳好きと繋がりたい。 https://t.co/YeASjhxHu7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807456345538568192/c1ZdEEFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 147,
+          "like_count": 2516,
+          "listed_count": 1,
+          "tweet_count": 559
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T11:17:27.000Z",
+        "description": "チンチラと暮らすのが夢￤本垢@0_fallenAngel_。 ￤彼氏@_kanade_is_god_ 。僕のだからフォローすんな￤推し@Xykmr 。⚠︎断固同担拒否￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "0_fallenAngel_"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "_kanade_is_god_"
+              },
+              {
+                "end": 73,
+                "start": 67,
+                "username": "Xykmr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/_Oppai_3150/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/_Oppai_3150/",
+                "start": 0,
+                "url": "https://t.co/nQhAKEo7YX"
+              }
+            ]
+          }
+        },
+        "id": "1535944083486613504",
+        "location": "あいちけんさん特上肉",
+        "name": "かなで。♡໒꒱@モテ期逆ハーレムなう",
+        "pinned_tweet_id": "1807757479478251556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798742657289838592/ixm3e2y__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 728,
+          "like_count": 11740,
+          "listed_count": 38,
+          "tweet_count": 16047
+        },
+        "url": "https://t.co/nQhAKEo7YX",
+        "username": "_Oppai_3150",
+        "verified": false
+      }
+    ]
+  }
+}

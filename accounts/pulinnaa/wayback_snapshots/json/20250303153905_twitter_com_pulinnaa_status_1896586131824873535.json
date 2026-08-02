@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1896586131824873535",
+    "created_at": "2025-03-03T15:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T16:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896586131824873535"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "いいねでDM"
+        },
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "彼氏募集中"
+        },
+        {
+          "end": 23,
+          "start": 15,
+          "tag": "話し相手募集中"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896586131824873535",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#いいねでDM #彼氏募集中 #話し相手募集中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1896586131824873535",
+        "created_at": "2025-03-03T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896586131824873535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "いいねでDM"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "彼氏募集中"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "話し相手募集中"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896586131824873535",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#いいねでDM #彼氏募集中 #話し相手募集中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 170,
+          "like_count": 3845,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1313
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

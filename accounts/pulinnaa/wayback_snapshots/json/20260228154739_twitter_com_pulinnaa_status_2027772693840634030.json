@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2027081299102695703",
+    "created_at": "2026-02-28T15:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027772693840634030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714008587012612097",
+          "start": 0,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027772693840634030",
+    "in_reply_to_user_id": "1714008587012612097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027081299102695703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2P 老公你可以看看五彩绯夏。她在b站也有号。我刚开始学化妆一直是看她的妆教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2027081299102695703",
+        "created_at": "2026-02-28T15:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027772693840634030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714008587012612097",
+              "start": 0,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027772693840634030",
+        "in_reply_to_user_id": "1714008587012612097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027081299102695703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2P 老公你可以看看五彩绯夏。她在b站也有号。我刚开始学化妆一直是看她的妆教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714008587012612097",
+        "conversation_id": "2027081299102695703",
+        "created_at": "2026-02-26T18:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027081299102695703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027081299102695703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹子們你們妝教都看誰的可以推給我嗎，我畫臥蠶特別死，不知道是刷子還是我手法問題反正就是特別災難"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 145,
+          "like_count": 3892,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1706
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "20↑｜病み垢｜置頂必読｜重加工 線下查無此人｜餐券od妹｜只回覆過門相關",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "天使ナミダ#土衛拾叁",
+        "pinned_tweet_id": "1971676121508024661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027482450541318144/Rg2rGHP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 190,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1494
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

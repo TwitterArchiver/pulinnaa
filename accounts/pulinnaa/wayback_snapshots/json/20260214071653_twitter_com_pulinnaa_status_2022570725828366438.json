@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2022570402225250484",
+    "created_at": "2026-02-14T07:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T08:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022570725828366438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1521807076707737600",
+          "start": 0,
+          "username": "miimiichan1012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022570725828366438",
+    "in_reply_to_user_id": "1521807076707737600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022570402225250484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@miimiichan1012 羨ましい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2022570402225250484",
+        "created_at": "2026-02-14T07:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022570725828366438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1521807076707737600",
+              "start": 0,
+              "username": "miimiichan1012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022570725828366438",
+        "in_reply_to_user_id": "1521807076707737600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022570402225250484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@miimiichan1012 羨ましい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521807076707737600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022570402225250484",
+        "created_at": "2026-02-14T07:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022570402225250484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022570402225250484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "今年のチョコは4人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 145,
+          "like_count": 3901,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1699
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T11:01:05.000Z",
+        "description": "04無事に高校卒業｜お話垢｜女の子と面白い人だけ｜B ｜ 🔑サブ垢 @miimiichan10122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "miimiichan10122"
+              }
+            ]
+          }
+        },
+        "id": "1521807076707737600",
+        "name": "みぃちゃ🏳️‍🌈",
+        "pinned_tweet_id": "1522917198074945536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521811247607525383/wJCC3faw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 133,
+          "like_count": 1452,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 557
+        },
+        "username": "miimiichan1012",
+        "verified": false
+      }
+    ]
+  }
+}

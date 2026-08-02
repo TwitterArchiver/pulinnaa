@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038784064539213824"
+      ],
+      "media_source_tweet_id": [
+        "2038784152208642141"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038924041877442943",
+    "created_at": "2026-03-31T10:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038924041877442943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2497002272",
+          "start": 3,
+          "username": "g_ibieneye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLCebuMqpT",
+          "end": 95,
+          "expanded_url": "https://x.com/g_ibieneye/status/2038784152208642141/video/1",
+          "media_key": "13_2038784064539213824",
+          "start": 72,
+          "url": "https://t.co/JLCebuMqpT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038924041877442943",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038784152208642141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @g_ibieneye: Did you see the amount of ingrown hair that came out? 😳 https://t.co/JLCebuMqpT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44751,
+        "height": 1024,
+        "media_key": "13_2038784064539213824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038784064539213824/img/8uowuQMLOWpUU9Jb.jpg",
+        "public_metrics": {
+          "view_count": 1492453
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038784064539213824/vid/avc1/320x568/Ed3Tm7JmHne3yabU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038784064539213824/vid/avc1/480x852/woN_xJcplF8uI9pw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038784064539213824/vid/avc1/576x1024/TmEBtJGx1IqtDYEN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038784064539213824/pl/I_strUmtq7AjP1LH.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038784064539213824"
+          ],
+          "media_source_tweet_id": [
+            "2038784152208642141"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038924041877442943",
+        "created_at": "2026-03-31T10:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038924041877442943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2497002272",
+              "start": 3,
+              "username": "g_ibieneye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLCebuMqpT",
+              "end": 95,
+              "expanded_url": "https://x.com/g_ibieneye/status/2038784152208642141/video/1",
+              "media_key": "13_2038784064539213824",
+              "start": 72,
+              "url": "https://t.co/JLCebuMqpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038924041877442943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038784152208642141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @g_ibieneye: Did you see the amount of ingrown hair that came out? 😳 https://t.co/JLCebuMqpT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038784064539213824"
+          ]
+        },
+        "author_id": "2497002272",
+        "conversation_id": "2038784152208642141",
+        "created_at": "2026-03-31T01:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038784152208642141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLCebuMqpT",
+              "end": 79,
+              "expanded_url": "https://x.com/g_ibieneye/status/2038784152208642141/video/1",
+              "media_key": "13_2038784064539213824",
+              "start": 56,
+              "url": "https://t.co/JLCebuMqpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038784152208642141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 933,
+          "impression_count": 3335317,
+          "like_count": 3731,
+          "quote_count": 20,
+          "reply_count": 233,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "Did you see the amount of ingrown hair that came out? 😳 https://t.co/JLCebuMqpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 148,
+          "like_count": 3946,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 1746
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-15T19:28:40.000Z",
+        "description": "Daily satisfying skincare & extractions 🫣😍\nBlackheads • Cysts • Ingrowns\nCarefully curated & credited content\n🎬 Movies | ⚽ Football | ❤️ Food vendor",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tdrfoundation.org",
+                "end": 23,
+                "expanded_url": "http://www.tdrfoundation.org",
+                "start": 0,
+                "url": "https://t.co/22qu1Tq5sM"
+              }
+            ]
+          }
+        },
+        "id": "2497002272",
+        "location": "Nigeria",
+        "name": "Gina",
+        "pinned_tweet_id": "2034780355568267287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537593127380426752/9Q8mCsmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3147,
+          "following_count": 2051,
+          "like_count": 31585,
+          "listed_count": 8,
+          "media_count": 240,
+          "tweet_count": 27133
+        },
+        "url": "https://t.co/22qu1Tq5sM",
+        "username": "g_ibieneye",
+        "verified": true
+      }
+    ]
+  }
+}

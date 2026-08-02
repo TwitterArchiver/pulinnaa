@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2055350179302453417",
+    "created_at": "2026-05-15T18:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055350179302453417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ignoredreal/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ignoredreal/status/2054795396531282237",
+          "start": 10,
+          "url": "https://t.co/2C0VuUHdTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055350179302453417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054795396531282237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这波这些想求教程 https://t.co/2C0VuUHdTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112221,
+        "height": 960,
+        "media_key": "13_2054795323160293376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054795323160293376/img/OhEUEuzPambZV_46.jpg",
+        "public_metrics": {
+          "view_count": 536388
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054795323160293376/vid/avc1/320x426/E_tA6iNzoxXdeYkM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054795323160293376/vid/avc1/480x640/uHyNXfL0FjBEoPOX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054795323160293376/vid/avc1/720x960/H_rmyljY7XMJIdUh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054795323160293376/pl/HFmsPlNjC8yIfHdF.m3u8?v=5eb"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2055350179302453417",
+        "created_at": "2026-05-15T18:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055350179302453417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ignoredreal/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ignoredreal/status/2054795396531282237",
+              "start": 10,
+              "url": "https://t.co/2C0VuUHdTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055350179302453417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054795396531282237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这波这些想求教程 https://t.co/2C0VuUHdTa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054795323160293376"
+          ]
+        },
+        "author_id": "962077200",
+        "conversation_id": "2054795396531282237",
+        "created_at": "2026-05-14T05:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054795396531282237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8URTm9SKd",
+              "end": 54,
+              "expanded_url": "https://x.com/IgnoredReal/status/2054795396531282237/video/1",
+              "media_key": "13_2054795323160293376",
+              "start": 31,
+              "url": "https://t.co/M8URTm9SKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054795396531282237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1665,
+          "impression_count": 1028191,
+          "like_count": 7057,
+          "quote_count": 6,
+          "reply_count": 889,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "小三给原配的道歉视频。什么把柄在人手里？被拿捏到这个程度了？ https://t.co/M8URTm9SKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "2054868011987951703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 171,
+          "like_count": 4012,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2203
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-21T09:32:51.000Z",
+        "description": "工作是996，新闻是404，关注主流忽略的新闻。人生苦短，新闻更短。点个关注，一起emo。| Mainstream too busy? We post the stuff nobody asked for. Ordinary life, zero likes, still going.",
+        "id": "962077200",
+        "name": "被忽略",
+        "pinned_tweet_id": "2020490608616538302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021682786449707008/4NbW5dve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22029,
+          "following_count": 1748,
+          "like_count": 565,
+          "listed_count": 28,
+          "media_count": 945,
+          "tweet_count": 14099
+        },
+        "username": "IgnoredReal",
+        "verified": true
+      }
+    ]
+  }
+}

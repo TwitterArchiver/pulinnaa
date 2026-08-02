@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1815621873281176003",
+    "created_at": "2024-07-23T14:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T15:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815753353705693246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564613336045477898",
+          "start": 0,
+          "username": "X2741404947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815753353705693246",
+    "in_reply_to_user_id": "1564613336045477898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815636392636285364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X2741404947 是呀是呀！所以我想通了，还是闭嘴多积口德更好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1815621873281176003",
+        "created_at": "2024-07-23T14:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T15:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815753353705693246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564613336045477898",
+              "start": 0,
+              "username": "X2741404947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815753353705693246",
+        "in_reply_to_user_id": "1564613336045477898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815636392636285364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X2741404947 是呀是呀！所以我想通了，还是闭嘴多积口德更好！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1564613336045477898",
+        "conversation_id": "1815621873281176003",
+        "created_at": "2024-07-23T06:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T07:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815636392636285364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815636392636285364",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815621873281176003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 骂人自己也生气，不值当的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@rednightmare962 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 151,
+          "like_count": 3115,
+          "listed_count": 0,
+          "tweet_count": 684
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T13:58:10.000Z",
+        "description": "还请男同不要私信我谢谢🙏",
+        "id": "1564613336045477898",
+        "location": "济南",
+        "name": "QQ萘萘的香辣牛逼鸡腿堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672894814864523265/dQY3qsgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 39,
+          "like_count": 9388,
+          "listed_count": 2,
+          "tweet_count": 5537
+        },
+        "username": "X2741404947",
+        "verified": false
+      }
+    ]
+  }
+}

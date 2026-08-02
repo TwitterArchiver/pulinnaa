@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2061023815040446832",
+    "created_at": "2026-05-31T09:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061023815040446832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806835463757406208",
+          "start": 3,
+          "username": "ykkmiguel2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061023815040446832",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 689
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060890080575696990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ykkmiguel2: sinto q eu nao acertei em NENHUMA decisão dos meus 13 aos 18 anos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2061023815040446832",
+        "created_at": "2026-05-31T09:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061023815040446832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806835463757406208",
+              "start": 3,
+              "username": "ykkmiguel2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061023815040446832",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 689
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060890080575696990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ykkmiguel2: sinto q eu nao acertei em NENHUMA decisão dos meus 13 aos 18 anos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806835463757406208",
+        "conversation_id": "2060890080575696990",
+        "created_at": "2026-05-31T01:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060890080575696990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060890080575696990",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 22832,
+          "like_count": 2368,
+          "quote_count": 48,
+          "reply_count": 19,
+          "retweet_count": 689
+        },
+        "reply_settings": "everyone",
+        "text": "sinto q eu nao acertei em NENHUMA decisão dos meus 13 aos 18 anos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 180,
+          "like_count": 4034,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 2475
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T23:42:07.000Z",
+        "description": "sou maconheiro jogo minecraft fumo cigarro bato punheta beijo na boca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ykkmiguel",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ykkmiguel",
+                "start": 0,
+                "url": "https://t.co/utcLcQFITz"
+              }
+            ]
+          }
+        },
+        "id": "1806835463757406208",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "Miguel",
+        "pinned_tweet_id": "1992675281883242802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005367155986923520/1eHhhpHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33291,
+          "following_count": 888,
+          "like_count": 40268,
+          "listed_count": 11,
+          "media_count": 2378,
+          "tweet_count": 15911
+        },
+        "url": "https://t.co/utcLcQFITz",
+        "username": "ykkmiguel2",
+        "verified": false
+      }
+    ]
+  }
+}

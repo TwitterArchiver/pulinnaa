@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1898369147244802406",
+    "created_at": "2025-03-08T16:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T17:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898405340234039533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821379196050124801",
+          "start": 0,
+          "username": "xnyn118248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898405340234039533",
+    "in_reply_to_user_id": "1821379196050124801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898369147244802406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnyn118248 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1898369147244802406",
+        "created_at": "2025-03-08T16:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T17:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898405340234039533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821379196050124801",
+              "start": 0,
+              "username": "xnyn118248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898405340234039533",
+        "in_reply_to_user_id": "1821379196050124801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898369147244802406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnyn118248 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821379196050124801",
+        "conversation_id": "1898369147244802406",
+        "created_at": "2025-03-08T13:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T14:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898369147244802406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898369147244802406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13036,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 103,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "粉丝福利专场\n庆祝首次100w➕浏览帖子\n和1w粉丝达成\n\n抽一个288红包\n和三个88红包，评论点赞参与哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 162,
+          "like_count": 3887,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1330
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T02:53:52.000Z",
+        "description": "武汉女大，假期在重庆。绝对的宠粉博主，希望大家都天天开心呀🥳🚪88 山田凉忠实粉丝，推止于推，不要侵犯个人隐私，否则直接拉黑。别来私信骚扰我，私信前先关注，先关注，谢谢。置顶为推广，不是本人！请大家多加小心谨慎！接推广是为了让大家能有更好的福利。",
+        "id": "1821379196050124801",
+        "name": "小妍 Ryo",
+        "pinned_tweet_id": "1897553597073907725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862525449705816064/u4F16upa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12913,
+          "following_count": 67,
+          "like_count": 2294,
+          "listed_count": 21,
+          "media_count": 75,
+          "tweet_count": 375
+        },
+        "username": "xnyn118248",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058208303227019264"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2058208384818766306",
+    "created_at": "2026-05-23T15:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058208384818766306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EDzzkEM9Qd",
+          "end": 39,
+          "expanded_url": "https://x.com/pulinnaa/status/2058208384818766306/video/1",
+          "media_key": "13_2058208303227019264",
+          "start": 16,
+          "url": "https://t.co/EDzzkEM9Qd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058208384818766306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两个人喝醉了。然后呢。正在跳舞 https://t.co/EDzzkEM9Qd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28900,
+        "height": 1280,
+        "media_key": "13_2058208303227019264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058208303227019264/img/rTl-C4kiVKvJZP-J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058208303227019264/vid/avc1/320x570/vcepTuA8u8Dtfx-K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058208303227019264/vid/avc1/480x854/8jLn_f48Ytx9YkNB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058208303227019264/vid/avc1/718x1280/NkudeHLPtySXUtbg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058208303227019264/pl/E6R7vNTIyTeet0io.m3u8"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058208303227019264"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2058208384818766306",
+        "created_at": "2026-05-23T15:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058208384818766306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDzzkEM9Qd",
+              "end": 39,
+              "expanded_url": "https://x.com/pulinnaa/status/2058208384818766306/video/1",
+              "media_key": "13_2058208303227019264",
+              "start": 16,
+              "url": "https://t.co/EDzzkEM9Qd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058208384818766306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个人喝醉了。然后呢。正在跳舞 https://t.co/EDzzkEM9Qd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 172,
+          "like_count": 4029,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 2344
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2056992813628461431",
+    "created_at": "2026-05-20T09:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057034843847037037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038644495533723648",
+          "start": 0,
+          "username": "staryhrzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057034843847037037",
+    "in_reply_to_user_id": "2038644495533723648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056992813628461431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@staryhrzzz 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2056992813628461431",
+        "created_at": "2026-05-20T09:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057034843847037037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038644495533723648",
+              "start": 0,
+              "username": "staryhrzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057034843847037037",
+        "in_reply_to_user_id": "2038644495533723648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056992813628461431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@staryhrzzz 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038644495533723648",
+        "conversation_id": "2056992813628461431",
+        "created_at": "2026-05-20T06:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056992813628461431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056992813628461431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我要來開150fo抽獎了！\n關注評論轉發點讚參與o^25號開獎\n1.抽ym一盒*1人（雲藥ym 但要等五月底才能發貨 因為藥在學校裡）可以折10r\n2.抽一人送一盒加巴！可以幫買 也可以折現7r\n3.抽3盒mjg*1人 情況同ym 月底發貨 可以幫買 也可以折5.5r \n4.抽5.2r*2人\n最後祝大家每一天都幸福！520大家要幸福喵^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 171,
+          "like_count": 4023,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 2290
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:50:40.000Z",
+        "description": "我是kyo 會當日記來發 希望大家都獲得幸福！od｜宅家｜蕾系｜電波系｜infp\n戀人是教主大人💗\n素學家 and電波作愛好者 我吃信徒組",
+        "id": "2038644495533723648",
+        "name": "kyo",
+        "pinned_tweet_id": "2045425240092922059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645383853666305/UGax8MKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 168,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 198
+        },
+        "username": "staryhrzzz",
+        "verified": false
+      }
+    ]
+  }
+}

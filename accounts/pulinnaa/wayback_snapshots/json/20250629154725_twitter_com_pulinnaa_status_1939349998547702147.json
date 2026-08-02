@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1939313819932844536",
+    "created_at": "2025-06-29T15:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T16:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939349998547702147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395012803442839558",
+          "start": 0,
+          "username": "babu_babu313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939349998547702147",
+    "in_reply_to_user_id": "1395012803442839558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939341363512070492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babu_babu313 ありがと"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1939313819932844536",
+        "created_at": "2025-06-29T15:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939349998547702147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395012803442839558",
+              "start": 0,
+              "username": "babu_babu313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939349998547702147",
+        "in_reply_to_user_id": "1395012803442839558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939341363512070492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babu_babu313 ありがと"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395012803442839558",
+        "conversation_id": "1939313819932844536",
+        "created_at": "2025-06-29T15:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939341363512070492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939341363512070492",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939313819932844536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa かわいい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 162,
+          "like_count": 3991,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1521
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T13:45:56.000Z",
+        "description": "モチベーション高低差激しいおはようかわいいbot。フォロバは返す。",
+        "id": "1395012803442839558",
+        "location": "高級ドッグフード",
+        "name": "どや犬",
+        "pinned_tweet_id": "1562583480000983047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781825213417881600/HcPu6tpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 49,
+          "like_count": 23344,
+          "listed_count": 14,
+          "media_count": 392,
+          "tweet_count": 67880
+        },
+        "username": "babu_babu313",
+        "verified": false
+      }
+    ]
+  }
+}

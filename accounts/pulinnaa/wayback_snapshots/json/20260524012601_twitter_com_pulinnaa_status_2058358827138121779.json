@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2058358827138121779",
+    "created_at": "2026-05-24T01:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058358827138121779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1441210439174537217",
+          "start": 3,
+          "username": "RadishCarrotBot"
+        },
+        {
+          "end": 47,
+          "id": "1655758232420249602",
+          "start": 34,
+          "username": "Yutuanzi2375"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/h1rJAu",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/h1rJAu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058358827138121779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058204063175761970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RadishCarrotBot: 这是我身边的一位跨性别女性@Yutuanzi2375 ，她的父亲现在遭遇不幸。辛苦各位朋友帮帮忙，转发扩散出去，让更多人能看到，一次转发也能救人。打扰大家了。谢谢各位，万分感激🙏🙏🙏 🍥🏳️‍⚧️ https://t.co/h1rJAu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2058201307731906560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAzLz-a0AAo3LQ.jpg",
+        "width": 1056
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058201307744477186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAzL0BaoAIqpd8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2058358827138121779",
+        "created_at": "2026-05-24T01:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058358827138121779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1441210439174537217",
+              "start": 3,
+              "username": "RadishCarrotBot"
+            },
+            {
+              "end": 47,
+              "id": "1655758232420249602",
+              "start": 34,
+              "username": "Yutuanzi2375"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/h1rJAu",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/h1rJAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058358827138121779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058204063175761970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RadishCarrotBot: 这是我身边的一位跨性别女性@Yutuanzi2375 ，她的父亲现在遭遇不幸。辛苦各位朋友帮帮忙，转发扩散出去，让更多人能看到，一次转发也能救人。打扰大家了。谢谢各位，万分感激🙏🙏🙏 🍥🏳️‍⚧️ https://t.co/h1rJAu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058201307731906560",
+            "3_2058201307744477186"
+          ]
+        },
+        "author_id": "1441210439174537217",
+        "conversation_id": "2058204063175761970",
+        "created_at": "2026-05-23T15:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:00:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058201400388342220",
+          "2058204063175761970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1655758232420249602",
+              "start": 13,
+              "username": "Yutuanzi2375"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1rJAuoIIK",
+              "end": 122,
+              "expanded_url": "https://x.com/RadishCarrotBot/status/2058204063175761970/photo/1",
+              "media_key": "3_2058201307731906560",
+              "start": 99,
+              "url": "https://t.co/h1rJAuoIIK"
+            },
+            {
+              "display_url": "pic.x.com/h1rJAuoIIK",
+              "end": 122,
+              "expanded_url": "https://x.com/RadishCarrotBot/status/2058204063175761970/photo/1",
+              "media_key": "3_2058201307744477186",
+              "start": 99,
+              "url": "https://t.co/h1rJAuoIIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058204063175761970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这是我身边的一位跨性别女性@Yutuanzi2375 ，她的父亲现在遭遇不幸。辛苦各位朋友帮帮忙，转发扩散出去，让更多人能看到，一次转发也能救人。打扰大家了。谢谢各位，万分感激🙏🙏🙏 🍥🏳️‍⚧️ https://t.co/h1rJAuoIIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 173,
+          "like_count": 4029,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2365
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-24T01:18:47.000Z",
+        "description": "Lost in the fog, calling out from different shores—we end as useless markers of a way.\"",
+        "id": "1441210439174537217",
+        "location": "Markham, Ontario",
+        "name": "すずしろ",
+        "pinned_tweet_id": "2058234056920477895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954842354348621824/vN1kGet9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 254,
+          "like_count": 6785,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1907
+        },
+        "username": "RadishCarrotBot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-09T02:15:17.000Z",
+        "description": "167cm，55kg，00年，应该是比较大龄了吧，无证嗑药，6月5日开始吃糖🏳️‍⚧️ 关注我会互fo /可爱的妹妹🥰@zhengzheng03（号又寄了初始号@penp58）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zhengzheng03"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "username": "penp58"
+              }
+            ]
+          }
+        },
+        "id": "1655758232420249602",
+        "location": "在你心里",
+        "name": "芋团子🏳️‍⚧️",
+        "pinned_tweet_id": "1840936789017833803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704477413542158336/w8horUOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 967,
+          "like_count": 80137,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 4550
+        },
+        "username": "Yutuanzi2375",
+        "verified": false
+      }
+    ]
+  }
+}

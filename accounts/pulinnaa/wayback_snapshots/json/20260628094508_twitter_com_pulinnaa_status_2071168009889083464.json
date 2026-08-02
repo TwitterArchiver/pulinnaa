@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071168002675077120"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071168009889083464",
+    "created_at": "2026-06-28T09:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071168009889083464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5aO3ZQEtC",
+          "end": 56,
+          "expanded_url": "https://x.com/pulinnaa/status/2071168009889083464/photo/1",
+          "media_key": "3_2071168002675077120",
+          "start": 33,
+          "url": "https://t.co/o5aO3ZQEtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071168009889083464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的好喜欢好喜欢好爱我的251。好开心。不操逼不亲嘴的恋人！对 https://t.co/o5aO3ZQEtC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2071168002675077120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5EUy2acAAO--q.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071168002675077120"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071168009889083464",
+        "created_at": "2026-06-28T09:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071168009889083464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5aO3ZQEtC",
+              "end": 56,
+              "expanded_url": "https://x.com/pulinnaa/status/2071168009889083464/photo/1",
+              "media_key": "3_2071168002675077120",
+              "start": 33,
+              "url": "https://t.co/o5aO3ZQEtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071168009889083464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好喜欢好喜欢好爱我的251。好开心。不操逼不亲嘴的恋人！对 https://t.co/o5aO3ZQEtC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 197,
+          "like_count": 4049,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 2708
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

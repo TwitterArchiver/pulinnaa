@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2052694345552417111",
+    "created_at": "2026-05-08T10:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052694345552417111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963870046708772864",
+          "start": 3,
+          "username": "Yuriovo_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052694345552417111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052683211059409076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuriovo_qaq: 我真的是那种暧昧聊骚都1v1的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2052694345552417111",
+        "created_at": "2026-05-08T10:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052694345552417111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963870046708772864",
+              "start": 3,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052694345552417111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052683211059409076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuriovo_qaq: 我真的是那种暧昧聊骚都1v1的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963870046708772864",
+        "conversation_id": "2052683211059409076",
+        "created_at": "2026-05-08T09:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052683211059409076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052683211059409076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的是那种暧昧聊骚都1v1的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 158,
+          "like_count": 3962,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 2016
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "叫我玉米 1i3i^ ^\n嫌我吵就去死没人在意你\n不礼貌回关 回了私信不代表我和你熟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuri52038",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuri52038",
+                "start": 0,
+                "url": "https://t.co/2tAedjx4ve"
+              }
+            ]
+          }
+        },
+        "id": "1963870046708772864",
+        "location": "玉米地",
+        "name": "梦中的我五彩斑斓",
+        "pinned_tweet_id": "2031258655442743714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051657657459818496/nOqLCgrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 124,
+          "like_count": 4099,
+          "listed_count": 0,
+          "media_count": 890,
+          "tweet_count": 7109
+        },
+        "url": "https://t.co/2tAedjx4ve",
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

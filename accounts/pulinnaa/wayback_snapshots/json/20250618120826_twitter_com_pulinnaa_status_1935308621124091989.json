@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1935308621124091989",
+    "created_at": "2025-06-18T12:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T13:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935308621124091989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1774858357381140480",
+          "start": 3,
+          "username": "_moremoreKona"
+        },
+        {
+          "end": 102,
+          "id": "1774859865644785667",
+          "start": 92,
+          "username": "skk_minii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935308621124091989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934595624223363493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_moremoreKona: 🔝我是三角 换新置顶了我想活下去\n\n坐标上海接线下 外地也跑 可以过门详询…！门槛相关都在p2！՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻💞\n\n小号@skk_minii 接收私信  喜欢有礼貌的人 \n24小时没回可能私信被吞 可以赞赏码留言vx号\n喜欢我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934595611912978432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkQdYgaQAA0EEw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 450,
+        "media_key": "3_1934595611896287232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkQdYcbkAAqF-t.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1935308621124091989",
+        "created_at": "2025-06-18T12:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T13:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935308621124091989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1774858357381140480",
+              "start": 3,
+              "username": "_moremoreKona"
+            },
+            {
+              "end": 102,
+              "id": "1774859865644785667",
+              "start": 92,
+              "username": "skk_minii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935308621124091989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934595624223363493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_moremoreKona: 🔝我是三角 换新置顶了我想活下去\n\n坐标上海接线下 外地也跑 可以过门详询…！门槛相关都在p2！՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻💞\n\n小号@skk_minii 接收私信  喜欢有礼貌的人 \n24小时没回可能私信被吞 可以赞赏码留言vx号\n喜欢我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934595611912978432",
+            "3_1934595611896287232"
+          ]
+        },
+        "author_id": "1774858357381140480",
+        "conversation_id": "1934595624223363493",
+        "created_at": "2025-06-16T12:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934595624223363493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1774859865644785667",
+              "start": 73,
+              "username": "skk_minii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjS5sDjj8w",
+              "end": 181,
+              "expanded_url": "https://x.com/_moremoreKona/status/1934595624223363493/photo/1",
+              "media_key": "3_1934595611912978432",
+              "start": 158,
+              "url": "https://t.co/GjS5sDjj8w"
+            },
+            {
+              "display_url": "pic.x.com/GjS5sDjj8w",
+              "end": 181,
+              "expanded_url": "https://x.com/_moremoreKona/status/1934595624223363493/photo/1",
+              "media_key": "3_1934595611896287232",
+              "start": 158,
+              "url": "https://t.co/GjS5sDjj8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934595624223363493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10487,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "🔝我是三角 换新置顶了我想活下去\n\n坐标上海接线下 外地也跑 可以过门详询…！门槛相关都在p2！՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻💞\n\n小号@skk_minii 接收私信  喜欢有礼貌的人 \n24小时没回可能私信被吞 可以赞赏码留言vx号\n喜欢我请打钱让我过的更好吧…！🥹\n\n转发这条抽两个88…！七月中旬开 https://t.co/GjS5sDjj8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 165,
+          "like_count": 4010,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1508
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T17:56:29.000Z",
+        "description": "100%承認欲求雌竞女｜接收私信→@skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "skk_minii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sankaku_nyan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sankaku_nyan",
+                "start": 0,
+                "url": "https://t.co/enZvQnWjaP"
+              }
+            ]
+          }
+        },
+        "id": "1774858357381140480",
+        "location": "我的命運線",
+        "name": "三角可麗餅",
+        "pinned_tweet_id": "1934595624223363493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837454130128080896/t46mHRZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8308,
+          "following_count": 137,
+          "like_count": 1635,
+          "listed_count": 16,
+          "media_count": 198,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/enZvQnWjaP",
+        "username": "_moremoreKona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T18:02:38.000Z",
+        "description": "普通的我是第一名｜本垢@_moremorekona",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "_moremorekona"
+              }
+            ]
+          }
+        },
+        "id": "1774859865644785667",
+        "name": "サンカク",
+        "pinned_tweet_id": "1865303413208289497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830274239947218944/8hrxNWmg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 43,
+          "like_count": 510,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 317
+        },
+        "username": "skk_minii",
+        "verified": false
+      }
+    ]
+  }
+}

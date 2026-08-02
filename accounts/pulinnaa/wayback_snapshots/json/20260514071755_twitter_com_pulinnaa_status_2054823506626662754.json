@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054823495536988160"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1415016995200765954",
+          "name": "Shein"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1415016995200765954",
+          "name": "Shein"
+        }
+      }
+    ],
+    "conversation_id": "2054823506626662754",
+    "created_at": "2026-05-14T07:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054823506626662754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jAfcHoke6D",
+          "end": 35,
+          "expanded_url": "https://x.com/pulinnaa/status/2054823506626662754/photo/1",
+          "media_key": "3_2054823495536988160",
+          "start": 12,
+          "url": "https://t.co/jAfcHoke6D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054823506626662754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我穿shein像卖水女 https://t.co/jAfcHoke6D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054823495536988160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQzFQ-b0AAL7fT.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054823495536988160"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1415016995200765954",
+              "name": "Shein"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1415016995200765954",
+              "name": "Shein"
+            }
+          }
+        ],
+        "conversation_id": "2054823506626662754",
+        "created_at": "2026-05-14T07:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054823506626662754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAfcHoke6D",
+              "end": 35,
+              "expanded_url": "https://x.com/pulinnaa/status/2054823506626662754/photo/1",
+              "media_key": "3_2054823495536988160",
+              "start": 12,
+              "url": "https://t.co/jAfcHoke6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054823506626662754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我穿shein像卖水女 https://t.co/jAfcHoke6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 161,
+          "like_count": 3982,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 2162
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

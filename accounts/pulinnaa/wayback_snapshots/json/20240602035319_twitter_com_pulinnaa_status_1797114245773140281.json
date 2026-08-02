@@ -1,0 +1,166 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1797114245773140281",
+    "created_at": "2024-06-02T03:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T04:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797114245773140281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pulinnaa/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1796981974000890311",
+          "start": 6,
+          "url": "https://t.co/KlF7cqARkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797114245773140281",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796981974000890311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请问有人吗 https://t.co/KlF7cqARkl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1797114245773140281",
+        "created_at": "2024-06-02T03:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T04:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797114245773140281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pulinnaa/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1796981974000890311",
+              "start": 6,
+              "url": "https://t.co/KlF7cqARkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797114245773140281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796981974000890311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请问有人吗 https://t.co/KlF7cqARkl"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1796981974000890311",
+        "created_at": "2024-06-01T19:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T20:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796981974000890311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796981974000890311",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想跟我一起出去玩啊。我买了欢乐谷年卡就去了一次。如果现在没有我就以后再问无数遍直到有人和我去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 通話🔺💍@ag56932 ペア画→@ran12598759874♡ 🗝️→@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "ag56932"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "ran12598759874"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780571719675318272/vjPhEsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 112,
+          "like_count": 1828,
+          "listed_count": 1,
+          "tweet_count": 309
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

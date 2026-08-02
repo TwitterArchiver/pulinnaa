@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2011857540284633191",
+    "created_at": "2026-01-17T12:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T13:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012498834962686197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012498834962686197",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012478751385285010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira 啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2011857540284633191",
+        "created_at": "2026-01-17T12:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T13:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012498834962686197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012498834962686197",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012478751385285010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira 啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "2011857540284633191",
+        "created_at": "2026-01-17T10:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012478751385285010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012478751385285010",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011857540284633191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 老角色都要入土了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 144,
+          "like_count": 3935,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 1673
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "請記住我｜メンブレ続き｜低浮上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966577490660605953/ofAloJra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 125,
+          "like_count": 6434,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 2477
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1819423565248450611",
+    "created_at": "2024-08-02T17:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T18:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819423635893113086"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1819423635893113086",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819423565248450611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他现在w54。真该死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1819423565248450611",
+        "created_at": "2024-08-02T17:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T18:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819423635893113086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819423635893113086",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819423565248450611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他现在w54。真该死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819423548265713667"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819423565248450611",
+        "created_at": "2024-08-02T17:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T18:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819423565248450611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/t37tN8qbWw",
+              "end": 42,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1819423565248450611/photo/1",
+              "media_key": "3_1819423548265713667",
+              "start": 19,
+              "url": "https://t.co/t37tN8qbWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819423565248450611",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿感动的乌蒙吃。我对象都快w6了🙄 https://t.co/t37tN8qbWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814752929347477505/AGX_E5Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 155,
+          "like_count": 3271,
+          "listed_count": 0,
+          "tweet_count": 746
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

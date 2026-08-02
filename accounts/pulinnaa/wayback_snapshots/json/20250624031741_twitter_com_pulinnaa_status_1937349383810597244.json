@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1937143987321589760"
+      ],
+      "media_source_tweet_id": [
+        "1937144096742916525"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1937349383810597244",
+    "created_at": "2025-06-24T03:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T04:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937349383810597244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573710448070795265",
+          "start": 3,
+          "username": "linkyo_qy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Vnj91u12A",
+          "end": 45,
+          "expanded_url": "https://x.com/linkyo_qy/status/1937144096742916525/video/1",
+          "media_key": "7_1937143987321589760",
+          "start": 22,
+          "url": "https://t.co/5Vnj91u12A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937349383810597244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937144096742916525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linkyo_qy: 🕳💡的iii https://t.co/5Vnj91u12A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77539,
+        "height": 720,
+        "media_key": "7_1937143987321589760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1937143987321589760/pu/img/DoxoCiatDk91kOcB.jpg",
+        "public_metrics": {
+          "view_count": 538
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937143987321589760/pu/vid/avc1/480x270/7JxNNWs7NH7j2Sbt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937143987321589760/pu/vid/avc1/640x360/lKlL8xIZYuTcloRI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937143987321589760/pu/vid/avc1/1280x720/I8kDuUQ025rqZAOl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1937143987321589760/pu/pl/y4_rJF9lcIQJg5K8.m3u8?tag=12&v=008"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937143987321589760"
+          ],
+          "media_source_tweet_id": [
+            "1937144096742916525"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1937349383810597244",
+        "created_at": "2025-06-24T03:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937349383810597244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573710448070795265",
+              "start": 3,
+              "username": "linkyo_qy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Vnj91u12A",
+              "end": 45,
+              "expanded_url": "https://x.com/linkyo_qy/status/1937144096742916525/video/1",
+              "media_key": "7_1937143987321589760",
+              "start": 22,
+              "url": "https://t.co/5Vnj91u12A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937349383810597244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937144096742916525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linkyo_qy: 🕳💡的iii https://t.co/5Vnj91u12A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937143987321589760"
+          ]
+        },
+        "author_id": "1573710448070795265",
+        "conversation_id": "1937144096742916525",
+        "created_at": "2025-06-23T13:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T14:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937144096742916525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Vnj91u12A",
+              "end": 30,
+              "expanded_url": "https://x.com/linkyo_qy/status/1937144096742916525/video/1",
+              "media_key": "7_1937143987321589760",
+              "start": 7,
+              "url": "https://t.co/5Vnj91u12A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937144096742916525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1129,
+          "like_count": 163,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "🕳💡的iii https://t.co/5Vnj91u12A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 164,
+          "like_count": 3982,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 1516
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:26:31.000Z",
+        "description": "miu404🍈🍞 es⭐️ tgbt🦊⚔  3SKM🍔   🕳💡左右相手固定‼️‼️ 中文⭕️日本語/English👉翻訳機",
+        "id": "1573710448070795265",
+        "name": "linkyo",
+        "pinned_tweet_id": "1909926753683878187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886280859235557376/sk0GS1wf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 135,
+          "like_count": 4612,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 1893
+        },
+        "username": "linkyo_qy",
+        "verified": false
+      }
+    ]
+  }
+}

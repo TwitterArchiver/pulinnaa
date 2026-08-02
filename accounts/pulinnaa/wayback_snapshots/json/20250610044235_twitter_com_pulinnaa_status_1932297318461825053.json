@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1932286630414729217"
+      ],
+      "media_source_tweet_id": [
+        "1932286723498897883"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1479197225737621507",
+          "name": "Fujii Kaze"
+        }
+      }
+    ],
+    "conversation_id": "1932297318461825053",
+    "created_at": "2025-06-10T04:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932297318461825053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1111562353923940352",
+          "start": 3,
+          "username": "fujiikazestaff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GL0q80CWB8",
+          "end": 43,
+          "expanded_url": "https://x.com/fujiikazestaff/status/1932286723498897883/video/1",
+          "media_key": "13_1932286630414729217",
+          "start": 20,
+          "url": "https://t.co/GL0q80CWB8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932297318461825053",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1499
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932286723498897883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @fujiikazestaff: https://t.co/GL0q80CWB8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13346,
+        "height": 1280,
+        "media_key": "13_1932286630414729217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932286630414729217/img/DBcgKTxkBawwtyhd.jpg",
+        "public_metrics": {
+          "view_count": 30887
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932286630414729217/vid/avc1/320x568/XPdgqIF3CbAqAzbZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932286630414729217/vid/avc1/480x852/m2OMExNLjGvVB0Rp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932286630414729217/vid/avc1/720x1280/-N-YMnXsbhvvGDi_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932286630414729217/pl/irIQL6ZHS4ChBO-5.m3u8?v=c9c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932286630414729217"
+          ],
+          "media_source_tweet_id": [
+            "1932286723498897883"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1932297318461825053",
+        "created_at": "2025-06-10T04:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932297318461825053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1111562353923940352",
+              "start": 3,
+              "username": "fujiikazestaff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GL0q80CWB8",
+              "end": 43,
+              "expanded_url": "https://x.com/fujiikazestaff/status/1932286723498897883/video/1",
+              "media_key": "13_1932286630414729217",
+              "start": 20,
+              "url": "https://t.co/GL0q80CWB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932297318461825053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1499
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932286723498897883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @fujiikazestaff: https://t.co/GL0q80CWB8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932286630414729217"
+          ]
+        },
+        "author_id": "1111562353923940352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1479197225737621507",
+              "name": "Fujii Kaze"
+            }
+          }
+        ],
+        "conversation_id": "1932286723498897883",
+        "created_at": "2025-06-10T04:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932286723498897883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GL0q80CWB8",
+              "end": 23,
+              "expanded_url": "https://x.com/fujiikazestaff/status/1932286723498897883/video/1",
+              "media_key": "13_1932286630414729217",
+              "start": 0,
+              "url": "https://t.co/GL0q80CWB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932286723498897883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 545,
+          "impression_count": 130744,
+          "like_count": 7861,
+          "quote_count": 709,
+          "reply_count": 0,
+          "retweet_count": 1499
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/GL0q80CWB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 169,
+          "like_count": 4036,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 1492
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:34:51.000Z",
+        "description": "藤井 風Staffです。 \"真っ白\" 🎧 https://t.co/FPNu690EvC 最新情報は公式無料アプリへ！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Fujii-Kaze.lnk.to/purewhite",
+                "end": 44,
+                "expanded_url": "http://Fujii-Kaze.lnk.to/purewhite",
+                "start": 21,
+                "url": "https://t.co/FPNu690EvC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-rayon.com/fujiikaze/",
+                "end": 23,
+                "expanded_url": "http://c-rayon.com/fujiikaze/",
+                "start": 0,
+                "url": "https://t.co/MugEZcx4S9"
+              }
+            ]
+          }
+        },
+        "id": "1111562353923940352",
+        "name": "Fujii Kaze Staff",
+        "pinned_tweet_id": "1900200408880210272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894676285831491584/LMoo-wKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333808,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 1161,
+          "media_count": 491,
+          "tweet_count": 1322
+        },
+        "url": "https://t.co/MugEZcx4S9",
+        "username": "fujiikazestaff",
+        "verified": false
+      }
+    ]
+  }
+}

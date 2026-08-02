@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1961039006197575833",
+    "created_at": "2025-08-28T12:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T13:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961039006197575833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ka0r1_tut/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ka0r1_tut/status/1960967357310124320",
+          "start": 24,
+          "url": "https://t.co/NUv6TvlHdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961039006197575833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960967357310124320",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么时候能轮到我过上撒个娇卖个萌就有钱拿的日子 https://t.co/NUv6TvlHdi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1961039006197575833",
+        "created_at": "2025-08-28T12:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961039006197575833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ka0r1_tut/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ka0r1_tut/status/1960967357310124320",
+              "start": 24,
+              "url": "https://t.co/NUv6TvlHdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961039006197575833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960967357310124320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候能轮到我过上撒个娇卖个萌就有钱拿的日子 https://t.co/NUv6TvlHdi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758104433282420736",
+        "conversation_id": "1960967357310124320",
+        "created_at": "2025-08-28T07:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960967357310124320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tailmating/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Tailmating/status/1960942630478454893",
+              "start": 24,
+              "url": "https://t.co/5sFjiZEWAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960967357310124320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960942630478454893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候能轮到我过上撒个娇卖个萌就有钱拿的日子 https://t.co/5sFjiZEWAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 159,
+          "like_count": 3995,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 1577
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T12:22:25.000Z",
+        "description": "我一直在哭｜🚪88纯绿｜不接线下",
+        "id": "1758104433282420736",
+        "name": "我是個可愛的孩子",
+        "pinned_tweet_id": "1952798107072381113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817627953490198529/I8zE8GUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 442,
+          "like_count": 678,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1277
+        },
+        "username": "KA0R1_TuT",
+        "verified": false
+      }
+    ]
+  }
+}

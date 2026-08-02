@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847422365267087365",
+        "3_1847422365267087361",
+        "3_1847422365267087366"
+      ],
+      "media_source_tweet_id": [
+        "1847422376579080673",
+        "1847422376579080673",
+        "1847422376579080673"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1847422640228880520",
+    "created_at": "2024-10-18T23:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T00:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847422640228880520"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "友達募集中"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769984363410907136",
+          "start": 3,
+          "username": "ximuaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1FWw2N7Ad3",
+          "end": 44,
+          "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+          "media_key": "3_1847422365267087365",
+          "start": 21,
+          "url": "https://t.co/1FWw2N7Ad3"
+        },
+        {
+          "display_url": "pic.x.com/1FWw2N7Ad3",
+          "end": 44,
+          "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+          "media_key": "3_1847422365267087361",
+          "start": 21,
+          "url": "https://t.co/1FWw2N7Ad3"
+        },
+        {
+          "display_url": "pic.x.com/1FWw2N7Ad3",
+          "end": 44,
+          "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+          "media_key": "3_1847422365267087366",
+          "start": 21,
+          "url": "https://t.co/1FWw2N7Ad3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847422640228880520",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847422376579080673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ximuaaaa: #友達募集中 https://t.co/1FWw2N7Ad3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1847422365267087365",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaNc2mfbUAU5mnf.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1847422365267087361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaNc2mfbUAEbm3t.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1847422365267087366",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaNc2mfbUAYE_Se.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847422365267087365",
+            "3_1847422365267087361",
+            "3_1847422365267087366"
+          ],
+          "media_source_tweet_id": [
+            "1847422376579080673",
+            "1847422376579080673",
+            "1847422376579080673"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1847422640228880520",
+        "created_at": "2024-10-18T23:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T00:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847422640228880520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "友達募集中"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769984363410907136",
+              "start": 3,
+              "username": "ximuaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FWw2N7Ad3",
+              "end": 44,
+              "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+              "media_key": "3_1847422365267087365",
+              "start": 21,
+              "url": "https://t.co/1FWw2N7Ad3"
+            },
+            {
+              "display_url": "pic.x.com/1FWw2N7Ad3",
+              "end": 44,
+              "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+              "media_key": "3_1847422365267087361",
+              "start": 21,
+              "url": "https://t.co/1FWw2N7Ad3"
+            },
+            {
+              "display_url": "pic.x.com/1FWw2N7Ad3",
+              "end": 44,
+              "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+              "media_key": "3_1847422365267087366",
+              "start": 21,
+              "url": "https://t.co/1FWw2N7Ad3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847422640228880520",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847422376579080673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ximuaaaa: #友達募集中 https://t.co/1FWw2N7Ad3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847422365267087365",
+            "3_1847422365267087361",
+            "3_1847422365267087366"
+          ]
+        },
+        "author_id": "1769984363410907136",
+        "conversation_id": "1847422376579080673",
+        "created_at": "2024-10-18T23:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T00:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847422376579080673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "友達募集中"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FWw2N7Ad3",
+              "end": 30,
+              "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+              "media_key": "3_1847422365267087365",
+              "start": 7,
+              "url": "https://t.co/1FWw2N7Ad3"
+            },
+            {
+              "display_url": "pic.x.com/1FWw2N7Ad3",
+              "end": 30,
+              "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+              "media_key": "3_1847422365267087361",
+              "start": 7,
+              "url": "https://t.co/1FWw2N7Ad3"
+            },
+            {
+              "display_url": "pic.x.com/1FWw2N7Ad3",
+              "end": 30,
+              "expanded_url": "https://x.com/ximuaaaa/status/1847422376579080673/photo/1",
+              "media_key": "3_1847422365267087366",
+              "start": 7,
+              "url": "https://t.co/1FWw2N7Ad3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847422376579080673",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#友達募集中 https://t.co/1FWw2N7Ad3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844859838024830976/Nxf3ooBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 160,
+          "like_count": 3702,
+          "listed_count": 1,
+          "tweet_count": 1017
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T07:08:59.000Z",
+        "description": "",
+        "id": "1769984363410907136",
+        "name": "西木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819569765977120768/ybelHTgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 9,
+          "like_count": 63,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "ximuaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

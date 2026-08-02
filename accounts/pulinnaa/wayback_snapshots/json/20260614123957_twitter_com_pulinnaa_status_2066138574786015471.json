@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2066138574786015471",
+    "created_at": "2026-06-14T12:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066138574786015471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kimtanjaajea/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/kimtanjaajea/status/2065840108193141154",
+          "start": 9,
+          "url": "https://t.co/W2yXuFTjsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066138574786015471",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065840108193141154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "my daddy https://t.co/W2yXuFTjsA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2065840101226377216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtWoHRa8AAu5X1.jpg",
+        "width": 1364
+      },
+      {
+        "height": 500,
+        "media_key": "3_2065840101230600192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtWoHSbYAAMX11.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2066138574786015471",
+        "created_at": "2026-06-14T12:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066138574786015471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kimtanjaajea/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kimtanjaajea/status/2065840108193141154",
+              "start": 9,
+              "url": "https://t.co/W2yXuFTjsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066138574786015471",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065840108193141154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "my daddy https://t.co/W2yXuFTjsA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065840101226377216",
+            "3_2065840101230600192"
+          ]
+        },
+        "author_id": "954730124686929920",
+        "conversation_id": "2065840108193141154",
+        "created_at": "2026-06-13T16:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065840108193141154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFpmbKYxmp",
+              "end": 99,
+              "expanded_url": "https://x.com/kimtanjaajea/status/2065840108193141154/photo/1",
+              "media_key": "3_2065840101226377216",
+              "start": 76,
+              "url": "https://t.co/eFpmbKYxmp"
+            },
+            {
+              "display_url": "pic.x.com/eFpmbKYxmp",
+              "end": 99,
+              "expanded_url": "https://x.com/kimtanjaajea/status/2065840108193141154/photo/1",
+              "media_key": "3_2065840101230600192",
+              "start": 76,
+              "url": "https://t.co/eFpmbKYxmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065840108193141154",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 39472,
+          "like_count": 1309,
+          "quote_count": 17,
+          "reply_count": 2,
+          "retweet_count": 703
+        },
+        "reply_settings": "everyone",
+        "text": "ศิลปินญี่ปุ่นคนแรกที่เข้างานประกาศรางวัลแบบมีหนวด แล้วออกจากงานแบบไม่มีหนวด https://t.co/eFpmbKYxmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 198,
+          "like_count": 4052,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 2656
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:59:34.000Z",
+        "description": "||| — 안유진🐶 — 김선호 ◡̈ — 藤井 風🌬️ — 💀💸🏛️ | a 21-yr broke ass design student",
+        "id": "954730124686929920",
+        "location": "ɯnןʇı̣-ɟɐupoɯ",
+        "name": "오스틴 ◡̈🍃",
+        "pinned_tweet_id": "1787911456123666593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763173016656396289/O9Colqv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 670,
+          "like_count": 184076,
+          "listed_count": 4,
+          "media_count": 973,
+          "tweet_count": 101162
+        },
+        "username": "kimtanjaajea",
+        "verified": false
+      }
+    ]
+  }
+}

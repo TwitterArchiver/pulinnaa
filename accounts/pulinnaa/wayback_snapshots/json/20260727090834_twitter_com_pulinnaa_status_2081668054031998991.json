@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2081668054031998991",
+    "created_at": "2026-07-27T09:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081668054031998991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866450388171558912",
+          "start": 3,
+          "username": "Ganonkyou52"
+        },
+        {
+          "end": 24,
+          "id": "1601843501444259843",
+          "start": 17,
+          "username": "plvrqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081668054031998991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081565551500091764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ganonkyou52: @plvrqr 無差別殺人やめろ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2081668054031998991",
+        "created_at": "2026-07-27T09:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081668054031998991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866450388171558912",
+              "start": 3,
+              "username": "Ganonkyou52"
+            },
+            {
+              "end": 24,
+              "id": "1601843501444259843",
+              "start": 17,
+              "username": "plvrqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081668054031998991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081565551500091764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ganonkyou52: @plvrqr 無差別殺人やめろ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866450388171558912",
+        "conversation_id": "2081361840127565943",
+        "created_at": "2026-07-27T02:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081565551500091764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1601843501444259843",
+              "start": 0,
+              "username": "plvrqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081565551500091764",
+        "in_reply_to_user_id": "1601843501444259843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 236002,
+          "like_count": 6429,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081361840127565943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plvrqr 無差別殺人やめろ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 194,
+          "like_count": 4029,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 2857
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T11:50:41.000Z",
+        "description": "ガノン教の教徒です\nhoi4をよくやっていて、よくつぶやいていると思います\n普通に悩みとかもつぶやきます\n今は中学三年なので受験勉強頑張りたいです\n超かぐや姫にずっっっとハマってます\n彩葉最高！！",
+        "id": "1866450388171558912",
+        "name": "ガノン教教徒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916376465324838912/uVYcyebC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 129,
+          "like_count": 27529,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "Ganonkyou52",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T07:37:10.000Z",
+        "description": "",
+        "id": "1601843501444259843",
+        "location": "愛知",
+        "name": "みその",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073746427914899456/JjVZwM3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 345,
+          "like_count": 23795,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 6432
+        },
+        "url": "",
+        "username": "plvrqr",
+        "verified": false
+      }
+    ]
+  }
+}

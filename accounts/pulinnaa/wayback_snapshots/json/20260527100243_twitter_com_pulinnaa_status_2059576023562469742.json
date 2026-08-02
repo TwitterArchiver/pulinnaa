@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2059283387664482627",
+    "created_at": "2026-05-27T10:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059576023562469742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000723611276173312",
+          "start": 0,
+          "username": "Bemylover_319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059576023562469742",
+    "in_reply_to_user_id": "2000723611276173312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059505372009005522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bemylover_319 哦不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2059283387664482627",
+        "created_at": "2026-05-27T10:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059576023562469742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000723611276173312",
+              "start": 0,
+              "username": "Bemylover_319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059576023562469742",
+        "in_reply_to_user_id": "2000723611276173312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059505372009005522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bemylover_319 哦不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000723611276173312",
+        "conversation_id": "2059283387664482627",
+        "created_at": "2026-05-27T05:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059505372009005522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059505372009005522",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059283387664482627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 容易坠机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 171,
+          "like_count": 4034,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2404
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T00:25:14.000Z",
+        "description": "=骨 od｜自傷｜雙向｜泛｜swtich\n聽點udg 查成分回fo",
+        "id": "2000723611276173312",
+        "location": "🚪88/188/288/520/1314",
+        "name": "Luvisdrug",
+        "pinned_tweet_id": "2041673116192272720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058749132727365632/yTx2H-Jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 76,
+          "like_count": 386,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 287
+        },
+        "username": "Bemylover_319",
+        "verified": false
+      }
+    ]
+  }
+}

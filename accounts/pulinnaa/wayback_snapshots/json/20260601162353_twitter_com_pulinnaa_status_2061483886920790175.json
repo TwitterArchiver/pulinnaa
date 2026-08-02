@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2061445538583826845",
+    "created_at": "2026-06-01T16:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061483886920790175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900814729683374080",
+          "start": 0,
+          "username": "Prm_x_x_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061483886920790175",
+    "in_reply_to_user_id": "1900814729683374080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061445538583826845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prm_x_x_ こち！🙌🏻繋がりたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2061445538583826845",
+        "created_at": "2026-06-01T16:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061483886920790175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900814729683374080",
+              "start": 0,
+              "username": "Prm_x_x_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061483886920790175",
+        "in_reply_to_user_id": "1900814729683374080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061445538583826845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prm_x_x_ こち！🙌🏻繋がりたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900814729683374080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Language Learning",
+              "id": "852226935044194304",
+              "name": "Language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364632995655610377",
+              "name": "Chinese language learning "
+            }
+          }
+        ],
+        "conversation_id": "2061445538583826845",
+        "created_at": "2026-06-01T13:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061445538583826845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061445538583826845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5036,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 103,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国語勉強したいから中国人の女の子と繋がりたいけどXにいるのかな🥺\n\n我想交朋友啊🥹🩷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 188,
+          "like_count": 4033,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 2515
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T07:42:11.000Z",
+        "description": "23さいisfj-t 中国語勉強中✍🏻💍251111",
+        "id": "1900814729683374080",
+        "name": "る",
+        "pinned_tweet_id": "2009957263876993374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951942454325940224/RrAk8CD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8918,
+          "following_count": 46,
+          "like_count": 12380,
+          "listed_count": 12,
+          "media_count": 61,
+          "tweet_count": 3557
+        },
+        "username": "Prm_x_x_",
+        "verified": false
+      }
+    ]
+  }
+}

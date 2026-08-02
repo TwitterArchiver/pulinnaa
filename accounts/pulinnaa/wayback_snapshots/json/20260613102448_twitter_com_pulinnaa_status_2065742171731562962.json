@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065742164336996352",
+        "3_2065742164320268288"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2065742171731562962",
+    "created_at": "2026-06-13T10:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065742171731562962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QNHMEmGIkN",
+          "end": 41,
+          "expanded_url": "https://x.com/pulinnaa/status/2065742171731562962/photo/1",
+          "media_key": "3_2065742164336996352",
+          "start": 18,
+          "url": "https://t.co/QNHMEmGIkN"
+        },
+        {
+          "display_url": "pic.x.com/QNHMEmGIkN",
+          "end": 41,
+          "expanded_url": "https://x.com/pulinnaa/status/2065742171731562962/photo/1",
+          "media_key": "3_2065742164320268288",
+          "start": 18,
+          "url": "https://t.co/QNHMEmGIkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065742171731562962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ピアス合計6つ、あまりにも少ない笑 https://t.co/QNHMEmGIkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2065742164336996352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr9jb7acAAQ8Dw.jpg",
+        "width": 962
+      },
+      {
+        "height": 1217,
+        "media_key": "3_2065742164320268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr9jb3bMAAclWy.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065742164336996352",
+            "3_2065742164320268288"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2065742171731562962",
+        "created_at": "2026-06-13T10:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065742171731562962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNHMEmGIkN",
+              "end": 41,
+              "expanded_url": "https://x.com/pulinnaa/status/2065742171731562962/photo/1",
+              "media_key": "3_2065742164336996352",
+              "start": 18,
+              "url": "https://t.co/QNHMEmGIkN"
+            },
+            {
+              "display_url": "pic.x.com/QNHMEmGIkN",
+              "end": 41,
+              "expanded_url": "https://x.com/pulinnaa/status/2065742171731562962/photo/1",
+              "media_key": "3_2065742164320268288",
+              "start": 18,
+              "url": "https://t.co/QNHMEmGIkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065742171731562962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ピアス合計6つ、あまりにも少ない笑 https://t.co/QNHMEmGIkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 200,
+          "like_count": 4049,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 2648
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

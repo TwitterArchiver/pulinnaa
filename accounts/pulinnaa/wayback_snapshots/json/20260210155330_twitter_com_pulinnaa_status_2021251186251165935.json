@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021015733019561984"
+      ],
+      "media_source_tweet_id": [
+        "2021015796227461171"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021251186251165935",
+    "created_at": "2026-02-10T15:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021251186251165935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1106007969181958144",
+          "start": 3,
+          "username": "0C0RV0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/knwdgmoPph",
+          "end": 46,
+          "expanded_url": "https://x.com/0C0RV0/status/2021015796227461171/video/1",
+          "media_key": "13_2021015733019561984",
+          "start": 23,
+          "url": "https://t.co/knwdgmoPph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021251186251165935",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021015796227461171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0C0RV0: Que agonia https://t.co/knwdgmoPph"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102400,
+        "height": 1024,
+        "media_key": "13_2021015733019561984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021015733019561984/img/1ajdeR1jUCgU7VnV.jpg",
+        "public_metrics": {
+          "view_count": 1846955
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021015733019561984/vid/avc1/320x568/7Te9uApJQE8P6QHF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021015733019561984/vid/avc1/480x852/ntBOGKYEGJPeJStF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021015733019561984/vid/avc1/576x1024/kVd9r7MDQHgdrEJJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021015733019561984/pl/JBQMdxd4EDk1a6KT.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021015733019561984"
+          ],
+          "media_source_tweet_id": [
+            "2021015796227461171"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021251186251165935",
+        "created_at": "2026-02-10T15:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021251186251165935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1106007969181958144",
+              "start": 3,
+              "username": "0C0RV0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/knwdgmoPph",
+              "end": 46,
+              "expanded_url": "https://x.com/0C0RV0/status/2021015796227461171/video/1",
+              "media_key": "13_2021015733019561984",
+              "start": 23,
+              "url": "https://t.co/knwdgmoPph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021251186251165935",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021015796227461171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0C0RV0: Que agonia https://t.co/knwdgmoPph"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021015733019561984"
+          ]
+        },
+        "author_id": "1106007969181958144",
+        "conversation_id": "2021015796227461171",
+        "created_at": "2026-02-10T00:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T01:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021015796227461171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/knwdgmoPph",
+              "end": 34,
+              "expanded_url": "https://x.com/0C0RV0/status/2021015796227461171/video/1",
+              "media_key": "13_2021015733019561984",
+              "start": 11,
+              "url": "https://t.co/knwdgmoPph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021015796227461171",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2129,
+          "impression_count": 3908868,
+          "like_count": 7911,
+          "quote_count": 115,
+          "reply_count": 225,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "Que agonia https://t.co/knwdgmoPph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 144,
+          "like_count": 3903,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1695
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-14T01:43:43.000Z",
+        "description": "National Conservative 🇧🇷",
+        "id": "1106007969181958144",
+        "location": "São Paulo",
+        "name": "O Corvo",
+        "pinned_tweet_id": "2012961110387769688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653023705000210434/8dNycHUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335271,
+          "following_count": 37673,
+          "like_count": 45554,
+          "listed_count": 316,
+          "media_count": 7433,
+          "tweet_count": 30597
+        },
+        "username": "0C0RV0",
+        "verified": true
+      }
+    ]
+  }
+}

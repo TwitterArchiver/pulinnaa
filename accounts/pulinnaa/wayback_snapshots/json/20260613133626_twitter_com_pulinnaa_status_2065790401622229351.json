@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065790395855044609"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2065790401622229351",
+    "created_at": "2026-06-13T13:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065790401622229351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UoWou7LBpq",
+          "end": 60,
+          "expanded_url": "https://x.com/pulinnaa/status/2065790401622229351/photo/1",
+          "media_key": "3_2065790395855044609",
+          "start": 37,
+          "url": "https://t.co/UoWou7LBpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065790401622229351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私とlineをつなぎたいという相互フォロワーはいませんか？友達欲しいㅠㅠ https://t.co/UoWou7LBpq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2065790395855044609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKspa4VagAEtVqE.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065790395855044609"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2065790401622229351",
+        "created_at": "2026-06-13T13:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065790401622229351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoWou7LBpq",
+              "end": 60,
+              "expanded_url": "https://x.com/pulinnaa/status/2065790401622229351/photo/1",
+              "media_key": "3_2065790395855044609",
+              "start": 37,
+              "url": "https://t.co/UoWou7LBpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065790401622229351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私とlineをつなぎたいという相互フォロワーはいませんか？友達欲しいㅠㅠ https://t.co/UoWou7LBpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 196,
+          "like_count": 4053,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 2652
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

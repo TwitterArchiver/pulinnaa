@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2073415284653019261",
+    "created_at": "2026-07-05T02:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073599832779088076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2015833324472991744",
+          "start": 0,
+          "username": "me_q56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073599832779088076",
+    "in_reply_to_user_id": "2015833324472991744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073415284653019261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me_q56 かわいい！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11424,
+        "height": 1280,
+        "media_key": "7_2073415256261668864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073415256261668864/pu/img/NMkuR3tgQoHBLFXu.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073415256261668864/pu/vid/avc1/320x568/UbxBsizsYZC7p-KQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073415256261668864/pu/vid/avc1/480x852/GfZcBFVA9xOHY5zd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073415256261668864/pu/vid/avc1/720x1280/uIOvRYJ-BqjwJrtn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073415256261668864/pu/pl/HVT7khKFKbZouhrI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2073415284653019261",
+        "created_at": "2026-07-05T02:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073599832779088076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015833324472991744",
+              "start": 0,
+              "username": "me_q56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073599832779088076",
+        "in_reply_to_user_id": "2015833324472991744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073415284653019261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me_q56 かわいい！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073415256261668864"
+          ]
+        },
+        "author_id": "2015833324472991744",
+        "conversation_id": "2073415284653019261",
+        "created_at": "2026-07-04T14:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073415284653019261"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NnydFVFfTw",
+              "end": 30,
+              "expanded_url": "https://x.com/me_q56/status/2073415284653019261/video/1",
+              "media_key": "7_2073415256261668864",
+              "start": 7,
+              "url": "https://t.co/NnydFVFfTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073415284653019261",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/NnydFVFfTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 199,
+          "like_count": 4055,
+          "listed_count": 2,
+          "media_count": 438,
+          "tweet_count": 2780
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T17:05:05.000Z",
+        "description": "",
+        "id": "2015833324472991744",
+        "location": "北海道 12",
+        "name": "み❕",
+        "pinned_tweet_id": "2065460805940936777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064755116247502848/GBaZVOGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 11,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "me_q56",
+        "verified": false
+      }
+    ]
+  }
+}

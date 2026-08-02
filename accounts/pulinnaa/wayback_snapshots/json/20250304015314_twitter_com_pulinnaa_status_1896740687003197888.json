@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1896730983808049546",
+    "created_at": "2025-03-04T01:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T02:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896740687003197888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813049239003451392",
+          "start": 0,
+          "username": "gimysote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896740687003197888",
+    "in_reply_to_user_id": "1813049239003451392",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896730983808049546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimysote sooooo cool！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 649,
+        "media_key": "3_1896730976903925760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKKxjDWkAAn-_7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1896730983808049546",
+        "created_at": "2025-03-04T01:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T02:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896740687003197888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813049239003451392",
+              "start": 0,
+              "username": "gimysote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896740687003197888",
+        "in_reply_to_user_id": "1813049239003451392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896730983808049546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimysote sooooo cool！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896730976903925760"
+          ]
+        },
+        "author_id": "1813049239003451392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Body Piercings",
+              "id": "854723787622830080",
+              "name": "Body Piercings"
+            }
+          }
+        ],
+        "conversation_id": "1896730983808049546",
+        "created_at": "2025-03-04T01:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T02:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896730983808049546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLxOTl0TsM",
+              "end": 80,
+              "expanded_url": "https://x.com/gimysote/status/1896730983808049546/photo/1",
+              "media_key": "3_1896730976903925760",
+              "start": 57,
+              "url": "https://t.co/QLxOTl0TsM"
+            },
+            {
+              "display_url": "x.com/gimysote/statu…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/gimysote/status/1895260069069258799",
+              "start": 81,
+              "url": "https://t.co/ggp9P8jLH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896730983808049546",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895260069069258799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "it wasn't that bad!, pain level 4.5/10\nthey're sooo cute https://t.co/QLxOTl0TsM https://t.co/ggp9P8jLH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 167,
+          "like_count": 3861,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1321
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T03:13:46.000Z",
+        "description": "📍🇨🇴 | Popayán, CO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gimysote?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gimysote?igsh=MTBucXd5c2M1d2poeg==",
+                "start": 0,
+                "url": "https://t.co/xFnfsm2WLj"
+              }
+            ]
+          }
+        },
+        "id": "1813049239003451392",
+        "name": "ギミ 📞",
+        "pinned_tweet_id": "1896033365335425091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892799140431560704/VVIdkOSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 218,
+          "like_count": 10822,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 5512
+        },
+        "url": "https://t.co/xFnfsm2WLj",
+        "username": "gimysote",
+        "verified": false
+      }
+    ]
+  }
+}

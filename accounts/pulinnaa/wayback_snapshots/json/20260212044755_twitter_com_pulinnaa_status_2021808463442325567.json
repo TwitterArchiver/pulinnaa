@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2021808463442325567",
+    "created_at": "2026-02-12T04:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T05:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021808463442325567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772241946050015232",
+          "start": 3,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021808463442325567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020910339479699696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re1_y0: 我卖惨根本没人买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2021808463442325567",
+        "created_at": "2026-02-12T04:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021808463442325567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1772241946050015232",
+              "start": 3,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021808463442325567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020910339479699696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Re1_y0: 我卖惨根本没人买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772241946050015232",
+        "conversation_id": "2020910339479699696",
+        "created_at": "2026-02-09T17:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020910339479699696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020910339479699696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 661,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我卖惨根本没人买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 144,
+          "like_count": 3902,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1697
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾 160/50kg｜🚪88/188/288/520 /1314 入门即可解锁视频图包 线下和定制视频（大尺度小尺度都可）请过门咨询‼️会报详细价格和坐标 入门赞赏码or口令 除过门外私信一律不回‼️ ｜主人格@LateefM34785｜女朋友 @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "LateefM34785"
+              },
+              {
+                "end": 132,
+                "start": 124,
+                "username": "Asszeqr"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ",
+        "pinned_tweet_id": "2016929680679653836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3241,
+          "following_count": 280,
+          "like_count": 1930,
+          "listed_count": 5,
+          "media_count": 812,
+          "tweet_count": 5312
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

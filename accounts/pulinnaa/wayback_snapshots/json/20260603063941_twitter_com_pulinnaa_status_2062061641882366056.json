@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2061750783616647615",
+    "created_at": "2026-06-03T06:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062061641882366056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "175650976",
+          "start": 0,
+          "username": "real_zqyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062061641882366056",
+    "in_reply_to_user_id": "175650976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061893884553371778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_zqyj 诶我是在一个小程序上看到的必须要开票🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2061750783616647615",
+        "created_at": "2026-06-03T06:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062061641882366056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "175650976",
+              "start": 0,
+              "username": "real_zqyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062061641882366056",
+        "in_reply_to_user_id": "175650976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061893884553371778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_zqyj 诶我是在一个小程序上看到的必须要开票🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "175650976",
+        "conversation_id": "2061750783616647615",
+        "created_at": "2026-06-02T19:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061893884553371778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061893884553371778",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061750783616647615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 一定要开票？那家公司只做出口来着，而且价格其实没啥优势，又麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 191,
+          "like_count": 4034,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 2545
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-07T05:42:02.000Z",
+        "description": "在卖普瑞原粉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huadao1234",
+                "end": 23,
+                "expanded_url": "https://t.me/huadao1234",
+                "start": 0,
+                "url": "https://t.co/FDJYJlvcLx"
+              }
+            ]
+          }
+        },
+        "id": "175650976",
+        "name": "丈枪 由纪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048486255273648128/pu6HfKom_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/FDJYJlvcLx",
+        "username": "real_zqyj",
+        "verified": false
+      }
+    ]
+  }
+}

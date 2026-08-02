@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798793295801536513"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1798793302982242773",
+    "created_at": "2024-06-06T19:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T20:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798793302982242773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "1747138924450029568",
+          "start": 16,
+          "username": "OVERDOSE_Wiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Kr7qS2DlB5",
+          "end": 54,
+          "expanded_url": "https://twitter.com/pulinnaa/status/1798793302982242773/photo/1",
+          "media_key": "3_1798793295801536513",
+          "start": 31,
+          "url": "https://t.co/Kr7qS2DlB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798793302982242773",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wiki主是真的赔的一分钱不剩了@OVERDOSE_Wiki https://t.co/Kr7qS2DlB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1798793295801536513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPaY-Nya0AEIGLt.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798793295801536513"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1798793302982242773",
+        "created_at": "2024-06-06T19:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T20:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798793302982242773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1747138924450029568",
+              "start": 16,
+              "username": "OVERDOSE_Wiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Kr7qS2DlB5",
+              "end": 54,
+              "expanded_url": "https://twitter.com/pulinnaa/status/1798793302982242773/photo/1",
+              "media_key": "3_1798793295801536513",
+              "start": 31,
+              "url": "https://t.co/Kr7qS2DlB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798793302982242773",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wiki主是真的赔的一分钱不剩了@OVERDOSE_Wiki https://t.co/Kr7qS2DlB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 124,
+          "like_count": 1687,
+          "listed_count": 1,
+          "tweet_count": 362
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "欢迎来到 overdose维基！\n这里是或许可以给予帮助的地方...\nhttps://t.co/Se3CfE5xNq 致力于成为一个免费且持续更新的入门参考od 知识整合站点\n\nwiki主比较nb会乱关注人，请见谅\n截止2024.03.03.03:50，该账号由多名人员运营",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 58,
+                "expanded_url": "http://overdose.wiki",
+                "start": 35,
+                "url": "https://t.co/Se3CfE5xNq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/UVKr7EgL3R"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "✝️天国✝️",
+        "name": "Overdose Wiki",
+        "pinned_tweet_id": "1796780832750989603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786914046882516992/r_sKIFUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 2362,
+          "like_count": 1228,
+          "listed_count": 3,
+          "tweet_count": 602
+        },
+        "url": "https://t.co/UVKr7EgL3R",
+        "username": "OVERDOSE_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

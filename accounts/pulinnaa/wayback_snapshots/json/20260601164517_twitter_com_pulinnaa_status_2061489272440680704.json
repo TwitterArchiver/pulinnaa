@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2061325346281288001",
+    "created_at": "2026-06-01T16:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061489272440680704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037890001485074432",
+          "start": 0,
+          "username": "taffycvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061489272440680704",
+    "in_reply_to_user_id": "2037890001485074432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061428318441005554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taffycvc 原来如此谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2061325346281288001",
+        "created_at": "2026-06-01T16:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061489272440680704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037890001485074432",
+              "start": 0,
+              "username": "taffycvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061489272440680704",
+        "in_reply_to_user_id": "2037890001485074432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061428318441005554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taffycvc 原来如此谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037890001485074432",
+        "conversation_id": "2061325346281288001",
+        "created_at": "2026-06-01T12:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061428318441005554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/koroshiiiiiii/…",
+              "end": 33,
+              "expanded_url": "https://x.com/koroshiiiiiii/status/2061350457768095986?s=46",
+              "start": 10,
+              "url": "https://t.co/Xup9NGXES8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061428318441005554",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061350457768095986",
+            "type": "quoted"
+          },
+          {
+            "id": "2061422438307819659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa https://t.co/Xup9NGXES8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 188,
+          "like_count": 4033,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 2517
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T13:50:38.000Z",
+        "description": "想要一辈子活在药效里\ninfp/普瑞巴林重度依赖/小号:@YuYpap🫐🫐🐰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "YuYpap"
+              }
+            ]
+          }
+        },
+        "id": "2037890001485074432",
+        "location": "普瑞药盒里",
+        "name": "taffy🐰",
+        "pinned_tweet_id": "2058417433262891055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 142,
+          "like_count": 6614,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 167
+        },
+        "username": "taffycvc",
+        "verified": false
+      }
+    ]
+  }
+}

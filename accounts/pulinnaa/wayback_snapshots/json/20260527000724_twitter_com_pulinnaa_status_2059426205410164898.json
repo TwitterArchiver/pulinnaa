@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2059273754010845483",
+    "created_at": "2026-05-27T00:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059426205410164898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2036523006412070912",
+          "start": 0,
+          "username": "Ob0gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059426205410164898",
+    "in_reply_to_user_id": "2036523006412070912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059302760240370002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ob0gu 原来如此谢谢你宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2059273754010845483",
+        "created_at": "2026-05-27T00:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059426205410164898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2036523006412070912",
+              "start": 0,
+              "username": "Ob0gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059426205410164898",
+        "in_reply_to_user_id": "2036523006412070912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059302760240370002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ob0gu 原来如此谢谢你宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036523006412070912",
+        "conversation_id": "2059273754010845483",
+        "created_at": "2026-05-26T15:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059302760240370002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059302760240370002",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059285919543574601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 抗戒断就要去成瘾科看，因为很多精神科医生不能开（但是一般只会给你加巴喷丁戒断）但是我还是建议先不要自爆噢宝宝，可以去神内科或者疼痛科说自己广泛焦虑神经痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 171,
+          "like_count": 4033,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2402
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T19:20:23.000Z",
+        "description": "一个药曲，一个小画师，一个小女孩，一个鼠王，一个被制裁之人。",
+        "id": "2036523006412070912",
+        "name": "O",
+        "pinned_tweet_id": "2057628304497418584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057416642356027392/shgd3UXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 44,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 68
+        },
+        "username": "Ob0gu",
+        "verified": false
+      }
+    ]
+  }
+}

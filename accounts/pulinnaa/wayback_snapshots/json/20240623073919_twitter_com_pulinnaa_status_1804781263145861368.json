@@ -1,0 +1,236 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804244060439207936"
+      ],
+      "media_source_tweet_id": [
+        "1804244066080833869"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1804781263145861368",
+    "created_at": "2024-06-23T07:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T08:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804781263145861368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2740820146",
+          "start": 3,
+          "username": "artlovecouple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/wgfFbwrYQY",
+          "end": 42,
+          "expanded_url": "https://twitter.com/artlovecouple/status/1804244066080833869/photo/1",
+          "media_key": "3_1804244060439207936",
+          "start": 19,
+          "url": "https://t.co/wgfFbwrYQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804781263145861368",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5323
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804244066080833869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artlovecouple: https://t.co/wgfFbwrYQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_1804244060439207936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQn2aeaWYAAj6O4.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804244060439207936"
+          ],
+          "media_source_tweet_id": [
+            "1804244066080833869"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1804781263145861368",
+        "created_at": "2024-06-23T07:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T08:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804781263145861368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2740820146",
+              "start": 3,
+              "username": "artlovecouple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wgfFbwrYQY",
+              "end": 42,
+              "expanded_url": "https://twitter.com/artlovecouple/status/1804244066080833869/photo/1",
+              "media_key": "3_1804244060439207936",
+              "start": 19,
+              "url": "https://t.co/wgfFbwrYQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804781263145861368",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5323
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804244066080833869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artlovecouple: https://t.co/wgfFbwrYQY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804244060439207936"
+          ]
+        },
+        "author_id": "2740820146",
+        "conversation_id": "1804244066080833869",
+        "created_at": "2024-06-21T20:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T21:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804244066080833869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wgfFbwrYQY",
+              "end": 23,
+              "expanded_url": "https://twitter.com/artlovecouple/status/1804244066080833869/photo/1",
+              "media_key": "3_1804244060439207936",
+              "start": 0,
+              "url": "https://t.co/wgfFbwrYQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804244066080833869",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3926,
+          "impression_count": 1528819,
+          "like_count": 34074,
+          "quote_count": 773,
+          "reply_count": 271,
+          "retweet_count": 5323
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wgfFbwrYQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 129,
+          "like_count": 2168,
+          "listed_count": 1,
+          "tweet_count": 587
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-12T13:33:16.000Z",
+        "description": "DM for promo | removal | credits",
+        "id": "2740820146",
+        "name": "Love Art",
+        "pinned_tweet_id": "1791140551099556228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436353514603782144/Ey_ww_U3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720121,
+          "following_count": 1,
+          "like_count": 78774,
+          "listed_count": 0,
+          "tweet_count": 10364
+        },
+        "username": "artlovecouple",
+        "verified": true
+      }
+    ]
+  }
+}

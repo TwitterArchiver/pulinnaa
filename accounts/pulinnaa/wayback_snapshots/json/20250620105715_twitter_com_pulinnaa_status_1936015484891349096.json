@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935625580621234176",
+        "3_1935625610790907904",
+        "3_1935625634606137344",
+        "3_1935626739104768000"
+      ],
+      "media_source_tweet_id": [
+        "1935646240743825421",
+        "1935646240743825421",
+        "1935646240743825421",
+        "1935646240743825421"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "1936015484891349096",
+    "created_at": "2025-06-20T10:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936015484891349096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/20fWUkOLor",
+          "end": 124,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+          "media_key": "3_1935625580621234176",
+          "start": 101,
+          "url": "https://t.co/20fWUkOLor"
+        },
+        {
+          "display_url": "pic.x.com/20fWUkOLor",
+          "end": 124,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+          "media_key": "3_1935625610790907904",
+          "start": 101,
+          "url": "https://t.co/20fWUkOLor"
+        },
+        {
+          "display_url": "pic.x.com/20fWUkOLor",
+          "end": 124,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+          "media_key": "3_1935625634606137344",
+          "start": 101,
+          "url": "https://t.co/20fWUkOLor"
+        },
+        {
+          "display_url": "pic.x.com/20fWUkOLor",
+          "end": 124,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+          "media_key": "3_1935626739104768000",
+          "start": 101,
+          "url": "https://t.co/20fWUkOLor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936015484891349096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 527
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935646240743825421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿\n南京三江学院，一位保洁阿姨寄居在厕所隔间里。\n同时有学生曝光，今年学校文件上，翻新宿舍的搬运费用有10万元，但实际上全楼的行李是这位阿姨一个人搬运的。 https://t.co/20fWUkOLor"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1183,
+        "media_key": "3_1935625580621234176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gty5Nc8WgAAbeTA.jpg",
+        "width": 1426
+      },
+      {
+        "height": 995,
+        "media_key": "3_1935625610790907904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gty5PNVXMAA-t8G.jpg",
+        "width": 541
+      },
+      {
+        "height": 917,
+        "media_key": "3_1935625634606137344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gty5QmDWwAAskfF.jpg",
+        "width": 541
+      },
+      {
+        "height": 1008,
+        "media_key": "3_1935626739104768000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gty6Q4oWYAAnsZH.jpg",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935625580621234176",
+            "3_1935625610790907904",
+            "3_1935625634606137344",
+            "3_1935626739104768000"
+          ],
+          "media_source_tweet_id": [
+            "1935646240743825421",
+            "1935646240743825421",
+            "1935646240743825421",
+            "1935646240743825421"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "1936015484891349096",
+        "created_at": "2025-06-20T10:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936015484891349096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20fWUkOLor",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+              "media_key": "3_1935625580621234176",
+              "start": 101,
+              "url": "https://t.co/20fWUkOLor"
+            },
+            {
+              "display_url": "pic.x.com/20fWUkOLor",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+              "media_key": "3_1935625610790907904",
+              "start": 101,
+              "url": "https://t.co/20fWUkOLor"
+            },
+            {
+              "display_url": "pic.x.com/20fWUkOLor",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+              "media_key": "3_1935625634606137344",
+              "start": 101,
+              "url": "https://t.co/20fWUkOLor"
+            },
+            {
+              "display_url": "pic.x.com/20fWUkOLor",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+              "media_key": "3_1935626739104768000",
+              "start": 101,
+              "url": "https://t.co/20fWUkOLor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936015484891349096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 527
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935646240743825421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿\n南京三江学院，一位保洁阿姨寄居在厕所隔间里。\n同时有学生曝光，今年学校文件上，翻新宿舍的搬运费用有10万元，但实际上全楼的行李是这位阿姨一个人搬运的。 https://t.co/20fWUkOLor"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935625580621234176",
+            "3_1935625610790907904",
+            "3_1935625634606137344",
+            "3_1935626739104768000"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1935646240743825421",
+        "created_at": "2025-06-19T10:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935646240743825421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/20fWUkOLor",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+              "media_key": "3_1935625580621234176",
+              "start": 81,
+              "url": "https://t.co/20fWUkOLor"
+            },
+            {
+              "display_url": "pic.x.com/20fWUkOLor",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+              "media_key": "3_1935625610790907904",
+              "start": 81,
+              "url": "https://t.co/20fWUkOLor"
+            },
+            {
+              "display_url": "pic.x.com/20fWUkOLor",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+              "media_key": "3_1935625634606137344",
+              "start": 81,
+              "url": "https://t.co/20fWUkOLor"
+            },
+            {
+              "display_url": "pic.x.com/20fWUkOLor",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935646240743825421/photo/1",
+              "media_key": "3_1935626739104768000",
+              "start": 81,
+              "url": "https://t.co/20fWUkOLor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935646240743825421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 554,
+          "impression_count": 1335489,
+          "like_count": 5737,
+          "quote_count": 49,
+          "reply_count": 301,
+          "retweet_count": 527
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿\n南京三江学院，一位保洁阿姨寄居在厕所隔间里。\n同时有学生曝光，今年学校文件上，翻新宿舍的搬运费用有10万元，但实际上全楼的行李是这位阿姨一个人搬运的。 https://t.co/20fWUkOLor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 165,
+          "like_count": 4013,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1511
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1933896398610526577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017714,
+          "following_count": 970,
+          "like_count": 7040,
+          "listed_count": 8172,
+          "media_count": 30211,
+          "tweet_count": 36771
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2046290648719057384",
+    "created_at": "2026-04-20T18:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T19:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046290648719057384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2017823427298766848",
+          "start": 3,
+          "username": "AEason_chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046290648719057384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045499001903128848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AEason_chen: 什么一生一世一双人 我还一顶一撞一失禁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2046290648719057384",
+        "created_at": "2026-04-20T18:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046290648719057384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2017823427298766848",
+              "start": 3,
+              "username": "AEason_chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046290648719057384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045499001903128848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AEason_chen: 什么一生一世一双人 我还一顶一撞一失禁。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017823427298766848",
+        "conversation_id": "2045499001903128848",
+        "created_at": "2026-04-18T13:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045499001903128848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045499001903128848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 76891,
+          "like_count": 1453,
+          "quote_count": 13,
+          "reply_count": 143,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "什么一生一世一双人 我还一顶一撞一失禁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852006856802305/LFwa14XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 149,
+          "like_count": 3945,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 1807
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T04:52:55.000Z",
+        "description": "07苦命高中休学生｜抽象文学｜INFJ/switch｜ 若你喜欢怪人 其实我很美⦮_ ̫ _⦯｜@chennnnn0v0黑暗小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "chennnnn0v0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/renleigaozhili…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/renleigaozhiliangnanxing58",
+                "start": 0,
+                "url": "https://t.co/Tq5oRc96uc"
+              }
+            ]
+          }
+        },
+        "id": "2017823427298766848",
+        "location": "发明宝宝这个词的人真的是个天才只需要两个字就能把我骗的团团转",
+        "name": "搓澡巾",
+        "pinned_tweet_id": "2034329173481886129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018240658058903553/u0YT8f3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 181,
+          "like_count": 10742,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/Tq5oRc96uc",
+        "username": "AEason_chen",
+        "verified": false
+      }
+    ]
+  }
+}

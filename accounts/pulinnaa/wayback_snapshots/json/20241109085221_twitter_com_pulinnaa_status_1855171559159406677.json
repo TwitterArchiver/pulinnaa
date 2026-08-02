@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1855170276360663051",
+    "created_at": "2024-11-09T08:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T09:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855171559159406677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820718493140234241",
+          "start": 0,
+          "username": "1407__l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855171559159406677",
+    "in_reply_to_user_id": "1820718493140234241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855170490228212138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1407__l 同じ年⁉︎いいね！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1855170276360663051",
+        "created_at": "2024-11-09T08:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T09:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855171559159406677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820718493140234241",
+              "start": 0,
+              "username": "1407__l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855171559159406677",
+        "in_reply_to_user_id": "1820718493140234241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855170490228212138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1407__l 同じ年⁉︎いいね！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820718493140234241",
+        "conversation_id": "1855170276360663051",
+        "created_at": "2024-11-09T08:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T09:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855170490228212138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855170490228212138",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855170276360663051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 同い年です"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 彼氏います🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1855170276360663051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 168,
+          "like_count": 3744,
+          "listed_count": 1,
+          "tweet_count": 1067
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T07:08:16.000Z",
+        "description": "@PlayApex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "PlayApex"
+              }
+            ]
+          }
+        },
+        "id": "1820718493140234241",
+        "location": "15さい",
+        "name": "hi",
+        "pinned_tweet_id": "1853726029459739099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855164904552194048/GymxuNal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1476,
+          "like_count": 394,
+          "listed_count": 3,
+          "tweet_count": 2377
+        },
+        "username": "1407__l",
+        "verified": false
+      }
+    ]
+  }
+}

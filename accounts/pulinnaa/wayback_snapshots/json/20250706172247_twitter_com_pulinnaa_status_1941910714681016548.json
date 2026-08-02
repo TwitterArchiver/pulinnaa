@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1941905088768811409",
+    "created_at": "2025-07-06T17:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T18:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941910714681016548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1622511426215755777",
+          "start": 0,
+          "username": "dntuxngjihuxng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941910714681016548",
+    "in_reply_to_user_id": "1622511426215755777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941909793234629091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dntuxngjihuxng1 我私信你了。呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1941905088768811409",
+        "created_at": "2025-07-06T17:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T18:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941910714681016548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1622511426215755777",
+              "start": 0,
+              "username": "dntuxngjihuxng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941910714681016548",
+        "in_reply_to_user_id": "1622511426215755777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941909793234629091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dntuxngjihuxng1 我私信你了。呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622511426215755777",
+        "conversation_id": "1941905088768811409",
+        "created_at": "2025-07-06T17:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T18:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941909793234629091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941909793234629091",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941905088768811409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 怎么了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk 251 @ytllyt7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "ytllyt7"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899698664427520/iurYgWqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 163,
+          "like_count": 4006,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 1526
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T08:24:40.000Z",
+        "description": "",
+        "id": "1622511426215755777",
+        "name": "我是一个低能",
+        "pinned_tweet_id": "1906047918408401239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935157402980278273/yXmo46Gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 509,
+          "like_count": 5341,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 4897
+        },
+        "username": "dntuxngjihuxng1",
+        "verified": false
+      }
+    ]
+  }
+}

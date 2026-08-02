@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2065454946548625525",
+    "created_at": "2026-06-12T17:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065487673775603818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831577190770864128",
+          "start": 0,
+          "username": "ran__neco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065487673775603818",
+    "in_reply_to_user_id": "1831577190770864128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065472400838561895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ran__neco らんちゃんも水色も大好き！ありがとう〜💕💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2065454946548625525",
+        "created_at": "2026-06-12T17:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065487673775603818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831577190770864128",
+              "start": 0,
+              "username": "ran__neco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065487673775603818",
+        "in_reply_to_user_id": "1831577190770864128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065472400838561895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ran__neco らんちゃんも水色も大好き！ありがとう〜💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831577190770864128",
+        "conversation_id": "2065454946548625525",
+        "created_at": "2026-06-12T16:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065472400838561895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065472400838561895",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065454946548625525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa めっちゃかわいい！もうさきちゃんといったら水色のイメージ🩵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 200,
+          "like_count": 4050,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 2644
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T06:17:09.000Z",
+        "description": "09 ツイ消し常習犯 リア垢 天才 最強 存在しません",
+        "id": "1831577190770864128",
+        "location": "貴方の涙で濡れる指はいつも私じゃなきゃ嫌だよ꒷꒦❤︎︎",
+        "name": "ららん自認プリンセス❕",
+        "pinned_tweet_id": "2027272437071782100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059253538673610752/AwA4C2KB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 241,
+          "like_count": 6676,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 3754
+        },
+        "username": "ran__neco",
+        "verified": false
+      }
+    ]
+  }
+}

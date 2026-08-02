@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2081819528204636297",
+    "created_at": "2026-07-27T19:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081820167794024511"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081820167794024511",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081819528204636297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和一个朋友出来玩基本就选酒店了，但是和一个以上的只能选民宿，虽然很喜欢loft，但是我一般只选最角落没有床不会有阳光照射进来的房间，不仅床没有别的房的软，空调也差多了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2081819528204636297",
+        "created_at": "2026-07-27T19:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081820167794024511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081820167794024511",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081819528204636297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和一个朋友出来玩基本就选酒店了，但是和一个以上的只能选民宿，虽然很喜欢loft，但是我一般只选最角落没有床不会有阳光照射进来的房间，不仅床没有别的房的软，空调也差多了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2081819528204636297",
+        "created_at": "2026-07-27T19:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081819528204636297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081819528204636297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住酒店或者民宿都感觉睡觉不太舒服，但是和朋友一起出来玩好开心，如果能不认床还有不怕阳光就好了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 195,
+          "like_count": 4030,
+          "listed_count": 2,
+          "media_count": 452,
+          "tweet_count": 2866
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

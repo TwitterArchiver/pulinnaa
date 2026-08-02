@@ -1,0 +1,240 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1801234309053030749",
+    "created_at": "2024-06-13T12:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T13:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801237001964019833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "758510579011035136",
+          "start": 0,
+          "username": "XMXAXHXOXRXOXAX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801237001964019833",
+    "in_reply_to_user_id": "758510579011035136",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801234309053030749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XMXAXHXOXRXOXAX かっこいい❗️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1801234309053030749",
+        "created_at": "2024-06-13T12:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T13:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801237001964019833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "758510579011035136",
+              "start": 0,
+              "username": "XMXAXHXOXRXOXAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801237001964019833",
+        "in_reply_to_user_id": "758510579011035136",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801234309053030749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XMXAXHXOXRXOXAX かっこいい❗️"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801234300836442112"
+          ]
+        },
+        "author_id": "758510579011035136",
+        "conversation_id": "1801234309053030749",
+        "created_at": "2024-06-13T12:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T13:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801234309053030749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/S8DSkNS4lr",
+              "end": 23,
+              "expanded_url": "https://twitter.com/XMXAXHXOXRXOXAX/status/1801234309053030749/photo/1",
+              "media_key": "3_1801234300836442112",
+              "start": 0,
+              "url": "https://t.co/S8DSkNS4lr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801234309053030749",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S8DSkNS4lr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 💍@amatukanoa2o16   🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797971839756779520/mku7h8_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 124,
+          "like_count": 1861,
+          "listed_count": 1,
+          "tweet_count": 484
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-28T03:53:09.000Z",
+        "description": "💉殺伐ノ表現者🔪V系꒦꒷𝑷𝒓𝒐𝒅𝒖𝒄𝒆꒦꒷▶︎▷【@sokyozetubo】𝔊𝔄𝔐𝔈▶︎▷【@uXxzzzxXu】 【@sikokunokagi】の緋色ノ異端児🩸腐敗した日常をトカス日々。#堕天界隈 #アイル教✝︎✝︎2014年～活動開始✝︎✝︎ ︎ ✧DM○ ex.GEEKMODE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 94,
+                "tag": "堕天界隈"
+              },
+              {
+                "end": 105,
+                "start": 100,
+                "tag": "アイル教"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "sokyozetubo"
+              },
+              {
+                "end": 56,
+                "start": 46,
+                "username": "uXxzzzxXu"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "sikokunokagi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/airurun",
+                "end": 23,
+                "expanded_url": "https://lit.link/airurun",
+                "start": 0,
+                "url": "https://t.co/brVTxpxlQt"
+              }
+            ]
+          }
+        },
+        "id": "758510579011035136",
+        "location": "DM○ 友達ください。好きなポケモンはジュペッタ︎^_^",
+        "name": "𝑨𝑰𝑹𝑼【躁狂絶望】𝐋𝐯.𝟐𝟐👁",
+        "pinned_tweet_id": "1798584211739394097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800136623214284801/t79QauNn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1487,
+          "like_count": 19254,
+          "listed_count": 1,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/brVTxpxlQt",
+        "username": "XMXAXHXOXRXOXAX",
+        "verified": false
+      }
+    ]
+  }
+}

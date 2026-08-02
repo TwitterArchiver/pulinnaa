@@ -1,0 +1,259 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1805610425868025926",
+    "created_at": "2024-06-25T14:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T15:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805610425868025926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanak1_jp/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/nanak1_jp/status/1805199977750364247",
+          "start": 7,
+          "url": "https://t.co/hTw2R9Emmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805610425868025926",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805199977750364247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人至少…？😦 https://t.co/hTw2R9Emmh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "1805610425868025926",
+        "created_at": "2024-06-25T14:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T15:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805610425868025926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanak1_jp/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nanak1_jp/status/1805199977750364247",
+              "start": 7,
+              "url": "https://t.co/hTw2R9Emmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805610425868025926",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805199977750364247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人至少…？😦 https://t.co/hTw2R9Emmh"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805199973040148480"
+          ]
+        },
+        "author_id": "1760561131998035968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1805199977750364247",
+        "created_at": "2024-06-24T11:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T12:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805199977750364247"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "すとぷりぎゃらりー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Yfw3B988aJ",
+              "end": 41,
+              "expanded_url": "https://twitter.com/nanak1_jp/status/1805199977750364247/photo/1",
+              "media_key": "3_1805199973040148480",
+              "start": 18,
+              "url": "https://t.co/Yfw3B988aJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805199977750364247",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2810,
+          "impression_count": 1471546,
+          "like_count": 22605,
+          "quote_count": 617,
+          "reply_count": 95,
+          "retweet_count": 2261
+        },
+        "reply_settings": "everyone",
+        "text": "がちごめん\n\n#すとぷりぎゃらりー https://t.co/Yfw3B988aJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 大切な彼氏💍@amatukanoa2o16 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "amatukanoa2o16"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1792859996939522489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801531584899911681/K_ipO-0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 130,
+          "like_count": 2227,
+          "listed_count": 1,
+          "tweet_count": 557
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T07:04:30.000Z",
+        "description": "【従業員▶︎募集中@】【代理￥100】🗝▶︎@yonakisurumono 実績・注意点▶︎@namonaki_kanri 旅行垢▶︎@naatyan137 元本垢▶︎@namonakimono137 ツム専用▶︎@nanak2_jp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "yonakisurumono"
+              },
+              {
+                "end": 61,
+                "start": 46,
+                "username": "namonaki_kanri"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "naatyan137"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "namonakimono137"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "nanak2_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/messages/compo…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/messages/compose?recipient_id=1760561131998035968",
+                "start": 0,
+                "url": "https://t.co/jcOxxdUkyQ"
+              }
+            ]
+          }
+        },
+        "id": "1760561131998035968",
+        "location": "https://discord.gg/6fXg3DkjD2",
+        "name": "名も無き者 ツムツム依頼は@nanak2_jp",
+        "pinned_tweet_id": "1801543809731596454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795357046415708160/jyiP3B6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 68,
+          "like_count": 4117,
+          "listed_count": 0,
+          "tweet_count": 2863
+        },
+        "url": "https://t.co/jcOxxdUkyQ",
+        "username": "nanak1_jp",
+        "verified": false
+      }
+    ]
+  }
+}

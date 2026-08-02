@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "1876837320025952735",
+    "created_at": "2025-01-08T03:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T04:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876837320025952735"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "病み垢"
+        },
+        {
+          "end": 106,
+          "start": 94,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 119,
+          "start": 108,
+          "tag": "病み垢さんと絡みたい"
+        },
+        {
+          "end": 136,
+          "start": 122,
+          "tag": "病み垢女子さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692034834422808576",
+          "start": 3,
+          "username": "nemu_i026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876837320025952735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876803383316672522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @nemu_i026: Tag🏷𓈒𓏸︎\n\n離れないお友達ください^._.^🪄︎︎\n\n06┊︎♀️┊︎嫉妬┊︎od┊︎リスカ┊︎DM◎\n\n全反応ゆっくりお迎えします❕\n\n #病み垢  #病み垢さんと繋がりたい  #病み垢さんと絡みたい \n #病み垢女子さんと繋がりたい ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1876837320025952735].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1876837320025952735",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1876837320025952735"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876803379646836736",
+            "3_1876803379655323648"
+          ]
+        },
+        "author_id": "1692034834422808576",
+        "conversation_id": "1876803383316672522",
+        "created_at": "2025-01-08T01:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T02:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876803383316672522"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "病み垢"
+            },
+            {
+              "end": 91,
+              "start": 79,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 104,
+              "start": 93,
+              "tag": "病み垢さんと絡みたい"
+            },
+            {
+              "end": 121,
+              "start": 107,
+              "tag": "病み垢女子さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qV5CW9y1UO",
+              "end": 145,
+              "expanded_url": "https://x.com/nemu_i026/status/1876803383316672522/photo/1",
+              "media_key": "3_1876803379646836736",
+              "start": 122,
+              "url": "https://t.co/qV5CW9y1UO"
+            },
+            {
+              "display_url": "pic.x.com/qV5CW9y1UO",
+              "end": 145,
+              "expanded_url": "https://x.com/nemu_i026/status/1876803383316672522/photo/1",
+              "media_key": "3_1876803379655323648",
+              "start": 122,
+              "url": "https://t.co/qV5CW9y1UO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876803383316672522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "Tag🏷𓈒𓏸︎\n\n離れないお友達ください^._.^🪄︎︎\n\n06┊︎♀️┊︎嫉妬┊︎od┊︎リスカ┊︎DM◎\n\n全反応ゆっくりお迎えします❕\n\n #病み垢  #病み垢さんと繋がりたい  #病み垢さんと絡みたい \n #病み垢女子さんと繋がりたい https://t.co/qV5CW9y1UO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854773041978654722/_R1Hokav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 181,
+          "like_count": 3696,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1176
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T04:45:30.000Z",
+        "description": "病み垢︎┊︎06┊︎B┊︎通信制┊︎らぶりー🤍ペア画❥@_shippo___┊︎砂糖┊︎自傷┊︎od┊︎未遂2┊︎嫉妬┊︎独占欲┊︎お別れはブロ解で︎┊︎通話〇┊︎DM○┊︎隣いる┊︎即レス┊︎🗝❥@_x_x_260",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "_shippo___"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "_x_x_260"
+              }
+            ]
+          }
+        },
+        "id": "1692034834422808576",
+        "location": "1220🎠",
+        "name": "ねむ",
+        "pinned_tweet_id": "1876803383316672522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825684949858660353/9nO-h3kn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 108,
+          "like_count": 14378,
+          "listed_count": 16,
+          "media_count": 140,
+          "tweet_count": 12262
+        },
+        "username": "nemu_i026",
+        "verified": false
+      }
+    ]
+  }
+}

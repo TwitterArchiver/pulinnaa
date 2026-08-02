@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2062493187093192951",
+    "created_at": "2026-06-04T11:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062493187093192951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1409516495571501066",
+          "start": 3,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062493187093192951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062491913102766229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrankghostU: 来吧迟来的六一快乐（？）\n请互关狠狠吃死目莉的大转抽！！！！\n麦辣鸡腿堡！薯条！吃喵！！😻\n\n请转赞评+关注死目莉！\n（方便留档请一定要记得评论喵不然找不到你们！）😿\n\n奖品在p2໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১\n顺便庆祝300fo⸝⸝ ᳐…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2062491905527787520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9xdeUaMAA1mcK.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1464,
+        "media_key": "3_2062491905473302528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9xdeHa0AALQEE.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062491905477550080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9xdeIboAAp2Ns.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2062493187093192951",
+        "created_at": "2026-06-04T11:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062493187093192951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1409516495571501066",
+              "start": 3,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062493187093192951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062491913102766229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrankghostU: 来吧迟来的六一快乐（？）\n请互关狠狠吃死目莉的大转抽！！！！\n麦辣鸡腿堡！薯条！吃喵！！😻\n\n请转赞评+关注死目莉！\n（方便留档请一定要记得评论喵不然找不到你们！）😿\n\n奖品在p2໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১\n顺便庆祝300fo⸝⸝ ᳐…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062491905527787520",
+            "3_2062491905473302528",
+            "3_2062491905477550080"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062491913102766229",
+        "created_at": "2026-06-04T11:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062491913102766229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BeAzjAGRKi",
+              "end": 184,
+              "expanded_url": "https://x.com/DrankghostU/status/2062491913102766229/photo/1",
+              "media_key": "3_2062491905527787520",
+              "start": 161,
+              "url": "https://t.co/BeAzjAGRKi"
+            },
+            {
+              "display_url": "pic.x.com/BeAzjAGRKi",
+              "end": 184,
+              "expanded_url": "https://x.com/DrankghostU/status/2062491913102766229/photo/1",
+              "media_key": "3_2062491905473302528",
+              "start": 161,
+              "url": "https://t.co/BeAzjAGRKi"
+            },
+            {
+              "display_url": "pic.x.com/BeAzjAGRKi",
+              "end": 184,
+              "expanded_url": "https://x.com/DrankghostU/status/2062491913102766229/photo/1",
+              "media_key": "3_2062491905477550080",
+              "start": 161,
+              "url": "https://t.co/BeAzjAGRKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062491913102766229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来吧迟来的六一快乐（？）\n请互关狠狠吃死目莉的大转抽！！！！\n麦辣鸡腿堡！薯条！吃喵！！😻\n\n请转赞评+关注死目莉！\n（方便留档请一定要记得评论喵不然找不到你们！）😿\n\n奖品在p2໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১\n顺便庆祝300fo⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝谢谢有你们在！\n参与人数不足可能会减少奖项挨个送 https://t.co/BeAzjAGRKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 189,
+          "like_count": 4041,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 2564
+        },
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 177,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 321
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}
