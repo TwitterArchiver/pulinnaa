@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2087450403428311448",
+    "created_at": "2026-08-12T08:33:13.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087457366103163115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087457366103163115",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087450403428311448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 支持正版是好事喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2087450403428311448",
+        "created_at": "2026-08-12T08:33:13.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087457366103163115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087457366103163115",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087450403428311448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 支持正版是好事喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2087450403428311448",
+        "created_at": "2026-08-12T08:05:33.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087450403428311448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Aloevce/status/2085724503578144926",
+              "start": 19,
+              "url": "https://t.co/P8ZsvT7hb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087450403428311448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085724503578144926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽竟然跟原版一模一样还有标啊啊啊啊 https://t.co/P8ZsvT7hb4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2087457366103163115",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 204,
+          "like_count": 4083,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 3027
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2087452061663420539",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18001,
+          "following_count": 1959,
+          "like_count": 56856,
+          "listed_count": 22,
+          "media_count": 7011,
+          "tweet_count": 24526
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

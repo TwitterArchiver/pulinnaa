@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090439445019508737"
+      ],
+      "media_source_tweet_id": [
+        "2090439457652781259"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2091127642175262829",
+    "created_at": "2026-08-22T11:37:35.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091127642175262829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070112228947398656",
+          "start": 3,
+          "username": "ham0n0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vnv6Ims2l5",
+          "end": 70,
+          "expanded_url": "https://x.com/ham0n0/status/2090439457652781259/photo/1",
+          "media_key": "3_2090439445019508737",
+          "start": 47,
+          "url": "https://t.co/Vnv6Ims2l5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091127642175262829",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090439445019508737"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090439457652781259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ham0n0: アイドルと聞いたので……\n★５ [光る陰キャ]　💡\n\n※ｱﾝ⭐️パロ https://t.co/Vnv6Ims2l5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2090439445019508737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK7mYDaQAElSCT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090439445019508737"
+          ],
+          "media_source_tweet_id": [
+            "2090439457652781259"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2091127642175262829",
+        "created_at": "2026-08-22T11:37:35.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091127642175262829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070112228947398656",
+              "start": 3,
+              "username": "ham0n0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vnv6Ims2l5",
+              "end": 70,
+              "expanded_url": "https://x.com/ham0n0/status/2090439457652781259/photo/1",
+              "media_key": "3_2090439445019508737",
+              "start": 47,
+              "url": "https://t.co/Vnv6Ims2l5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091127642175262829",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090439445019508737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090439457652781259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ham0n0: アイドルと聞いたので……\n★５ [光る陰キャ]　💡\n\n※ｱﾝ⭐️パロ https://t.co/Vnv6Ims2l5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090439445019508737"
+          ]
+        },
+        "author_id": "2070112228947398656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2090439457652781259",
+        "created_at": "2026-08-20T14:02:59.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090439457652781259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vnv6Ims2l5",
+              "end": 58,
+              "expanded_url": "https://x.com/ham0n0/status/2090439457652781259/photo/1",
+              "media_key": "3_2090439445019508737",
+              "start": 35,
+              "url": "https://t.co/Vnv6Ims2l5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090439457652781259",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090439445019508737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 19709,
+          "like_count": 2586,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "アイドルと聞いたので……\n★５ [光る陰キャ]　💡\n\n※ｱﾝ⭐️パロ https://t.co/Vnv6Ims2l5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2091127642175262829",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 210,
+          "like_count": 4081,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 3073
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-25T11:50:50.000Z",
+        "description": "成人済/壁打ち/🅱️済\n🕳💡など\n🗝@hamonosabaki\n🔞@hatsuentou_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "hamonosabaki"
+              },
+              {
+                "end": 45,
+                "start": 33,
+                "username": "hatsuentou_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/t0BvRUVPfEf9…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/t0BvRUVPfEf99adp38dNt48wWsa2",
+                "start": 0,
+                "url": "https://t.co/lJXy3C0pOj"
+              }
+            ]
+          }
+        },
+        "id": "2070112228947398656",
+        "is_identity_verified": false,
+        "location": "一読お願いします➡️",
+        "most_recent_tweet_id": "2090938888202457248",
+        "name": "鱧ノ",
+        "pinned_tweet_id": "2076555839251591415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070112228947398656/1782999143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081350580233236480/6CKciKSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 44,
+          "like_count": 1108,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/lJXy3C0pOj",
+        "username": "ham0n0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

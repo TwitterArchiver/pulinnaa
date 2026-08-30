@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2087053068194230349",
+    "created_at": "2026-08-11T14:22:03.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087182763611095305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893308678545252354",
+          "start": 0,
+          "username": "chime_mina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087182763611095305",
+    "in_reply_to_user_id": "1893308678545252354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087128318516883828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chime_mina ok谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2087053068194230349",
+        "created_at": "2026-08-11T14:22:03.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087182763611095305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893308678545252354",
+              "start": 0,
+              "username": "chime_mina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087182763611095305",
+        "in_reply_to_user_id": "1893308678545252354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087128318516883828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chime_mina ok谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893308678545252354",
+        "conversation_id": "2087053068194230349",
+        "created_at": "2026-08-11T10:45:42.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087128318516883828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087128318516883828",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087108849971138898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 药？还是少吃点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2087182763611095305",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 203,
+          "like_count": 4083,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 3023
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T14:35:50.000Z",
+        "description": "",
+        "id": "1893308678545252354",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087164183641264560",
+        "name": "Minamoto Chime",
+        "pinned_tweet_id": "1912536009423876263",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908846654431924224/Wmut7Qx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 174,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "chime_mina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090749634377584640"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2090749646536917301",
+    "created_at": "2026-08-21T10:35:34.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090749646536917301"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "パラ高FA"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "超能力高校"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "平翔子"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "見里未來"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zl8FvlrlxZ",
+          "end": 70,
+          "expanded_url": "https://x.com/pulinnaa/status/2090749646536917301/photo/1",
+          "media_key": "3_2090749634377584640",
+          "start": 47,
+          "url": "https://t.co/zl8FvlrlxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090749646536917301",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090749634377584640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ちょ、うちら今日いい感じじゃね？#パラ高FA #コスプレ #超能力高校 #平翔子 #見里未來 https://t.co/zl8FvlrlxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090749634377584640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPVtxdakAA3qUo.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090749634377584640"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2090749646536917301",
+        "created_at": "2026-08-21T10:35:34.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090749646536917301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "パラ高FA"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "超能力高校"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "平翔子"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "見里未來"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zl8FvlrlxZ",
+              "end": 70,
+              "expanded_url": "https://x.com/pulinnaa/status/2090749646536917301/photo/1",
+              "media_key": "3_2090749634377584640",
+              "start": 47,
+              "url": "https://t.co/zl8FvlrlxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090749646536917301",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090749634377584640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ちょ、うちら今日いい感じじゃね？#パラ高FA #コスプレ #超能力高校 #平翔子 #見里未來 https://t.co/zl8FvlrlxZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2090749646536917301",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 212,
+          "like_count": 4080,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 3072
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

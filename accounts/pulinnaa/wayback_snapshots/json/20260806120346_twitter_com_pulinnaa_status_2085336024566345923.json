@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2085336024566345923",
+    "created_at": "2026-08-06T12:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085336024566345923"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 83,
+          "tag": "パラ高診断"
+        },
+        {
+          "end": 100,
+          "start": 90,
+          "tag": "パラ高4周年ブリ4"
+        },
+        {
+          "end": 108,
+          "start": 101,
+          "tag": "不思議の国編"
+        }
+      ],
+      "urls": [
+        {
+          "description": "あなたのタイプは「みらい」",
+          "display_url": "parako.tokyo/parako-type-4t…",
+          "end": 44,
+          "expanded_url": "https://parako.tokyo/parako-type-4th/result-3",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2083760855603462145/WeszHYeW?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083760855603462145/WeszHYeW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "私立パラの丸高校診断",
+          "unwound_url": "https://parako.tokyo/parako-type-4th/result-3",
+          "url": "https://t.co/4QxMKwbgY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085336024566345923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私のパラ高診断タイプは「みらい」でした！\nhttps://t.co/4QxMKwbgY7\n\n4周年記念特別編「不思議の国編」は\n5月9日(土)から5日間連続公開！\n\n#パラ高診断 #パラ高4周年ブリ4 #不思議の国編\nえーすご"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2085336024566345923",
+        "created_at": "2026-08-06T12:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085336024566345923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "パラ高診断"
+            },
+            {
+              "end": 100,
+              "start": 90,
+              "tag": "パラ高4周年ブリ4"
+            },
+            {
+              "end": 108,
+              "start": 101,
+              "tag": "不思議の国編"
+            }
+          ],
+          "urls": [
+            {
+              "description": "あなたのタイプは「みらい」",
+              "display_url": "parako.tokyo/parako-type-4t…",
+              "end": 44,
+              "expanded_url": "https://parako.tokyo/parako-type-4th/result-3",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2083760855603462145/WeszHYeW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083760855603462145/WeszHYeW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "私立パラの丸高校診断",
+              "unwound_url": "https://parako.tokyo/parako-type-4th/result-3",
+              "url": "https://t.co/4QxMKwbgY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085336024566345923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私のパラ高診断タイプは「みらい」でした！\nhttps://t.co/4QxMKwbgY7\n\n4周年記念特別編「不思議の国編」は\n5月9日(土)から5日間連続公開！\n\n#パラ高診断 #パラ高4周年ブリ4 #不思議の国編\nえーすご"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 200,
+          "like_count": 4066,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 2952
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

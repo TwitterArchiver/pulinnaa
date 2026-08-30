@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2083847126287896991",
+    "created_at": "2026-08-02T11:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083885099125526544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1521807076707737600",
+          "start": 0,
+          "username": "miimiichan1012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083885099125526544",
+    "in_reply_to_user_id": "1521807076707737600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083847126287896991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@miimiichan1012 みぃちゃんが結婚するのかと思ったら、びっくりした笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2083847121917366272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtP6qwa0AAUmgj.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2083847126287896991",
+        "created_at": "2026-08-02T11:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083885099125526544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1521807076707737600",
+              "start": 0,
+              "username": "miimiichan1012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083885099125526544",
+        "in_reply_to_user_id": "1521807076707737600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083847126287896991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@miimiichan1012 みぃちゃんが結婚するのかと思ったら、びっくりした笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083847121917366272"
+          ]
+        },
+        "author_id": "1521807076707737600",
+        "conversation_id": "2083847126287896991",
+        "created_at": "2026-08-02T09:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083847126287896991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooV7AsGhhU",
+              "end": 30,
+              "expanded_url": "https://x.com/miimiichan1012/status/2083847126287896991/photo/1",
+              "media_key": "3_2083847121917366272",
+              "start": 7,
+              "url": "https://t.co/ooV7AsGhhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083847126287896991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "おめでとうだ https://t.co/ooV7AsGhhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 193,
+          "like_count": 4038,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 2903
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T11:01:05.000Z",
+        "description": "04 一応社会人(?)｜お話垢｜女の子と面白い人だけ｜B ｜ 🔑サブ垢 @miimiichan10122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "miimiichan10122"
+              }
+            ]
+          }
+        },
+        "id": "1521807076707737600",
+        "name": "みぃちゃ🏳️‍🌈",
+        "pinned_tweet_id": "1522917198074945536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521811247607525383/wJCC3faw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 147,
+          "like_count": 1585,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "miimiichan1012",
+        "verified": false
+      }
+    ]
+  }
+}

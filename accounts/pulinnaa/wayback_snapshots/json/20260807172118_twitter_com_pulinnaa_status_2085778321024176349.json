@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2085778321024176349",
+    "created_at": "2026-08-07T17:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085778321024176349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085778321024176349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "身边有个傻吃💊的。加吧成盒吃只知道分批不知道要吃高脂肪的增加利用率。买了炸鸡劝她吃点还不听非要熬空腹把自己饿半死。然后喊为什么没感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2085778321024176349",
+        "created_at": "2026-08-07T17:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085778321024176349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085778321024176349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身边有个傻吃💊的。加吧成盒吃只知道分批不知道要吃高脂肪的增加利用率。买了炸鸡劝她吃点还不听非要熬空腹把自己饿半死。然后喊为什么没感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 203,
+          "like_count": 4069,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 2964
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

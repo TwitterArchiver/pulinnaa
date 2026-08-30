@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2092516332692799632",
+    "created_at": "2026-08-26T07:35:45.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092516332692799632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3mstfl/status/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/3mstfl/status/2092435637781553474",
+          "start": 40,
+          "url": "https://t.co/yCqvLCckRU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092516332692799632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092435637781553474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都笑死所有人看他主页。乞讨的还好意思说别人农村人。感觉他应该没钱去境外旅游吧 https://t.co/yCqvLCckRU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2092516332692799632",
+        "created_at": "2026-08-26T07:35:45.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092516332692799632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3mstfl/status/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/3mstfl/status/2092435637781553474",
+              "start": 40,
+              "url": "https://t.co/yCqvLCckRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092516332692799632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092435637781553474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都笑死所有人看他主页。乞讨的还好意思说别人农村人。感觉他应该没钱去境外旅游吧 https://t.co/yCqvLCckRU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092255268327563264",
+        "conversation_id": "2092410495034929633",
+        "created_at": "2026-08-26T02:15:06.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092435637781553474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092435637781553474",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092410495034929633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 臭农村人等着被东方明珠扫射吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2092516332692799632",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 213,
+          "like_count": 4082,
+          "listed_count": 2,
+          "media_count": 483,
+          "tweet_count": 3098
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T14:19:08.000Z",
+        "description": "双相 抑郁 狂躁症 精神分裂通通都有 骂我的一刀砍死你妈 心理不好素质低下别怪我喵",
+        "id": "2092255268327563264",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2092435882112405979",
+        "name": "这个世界就不能属于我吗",
+        "pinned_tweet_id": "2092420157570273499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092255268327563264/1787667904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092255650315423744/FUM83pcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "3mstfl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

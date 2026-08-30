@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2090138596649087409",
+    "created_at": "2026-08-19T19:44:08.000Z",
+    "display_text_range": [
+      25,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T20:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090162919468413437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620279272467476481",
+          "start": 0,
+          "username": "jackeynight1"
+        },
+        {
+          "end": 24,
+          "id": "1624202040489701377",
+          "start": 14,
+          "username": "XUHT_0512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090162919468413437",
+    "in_reply_to_user_id": "1620279272467476481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090161808720175143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackeynight1 @XUHT_0512 那咋子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2090138596649087409",
+        "created_at": "2026-08-19T19:44:08.000Z",
+        "display_text_range": [
+          25,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090162919468413437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620279272467476481",
+              "start": 0,
+              "username": "jackeynight1"
+            },
+            {
+              "end": 24,
+              "id": "1624202040489701377",
+              "start": 14,
+              "username": "XUHT_0512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090162919468413437",
+        "in_reply_to_user_id": "1620279272467476481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090161808720175143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackeynight1 @XUHT_0512 那咋子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620279272467476481",
+        "conversation_id": "2090138596649087409",
+        "created_at": "2026-08-19T19:39:43.000Z",
+        "display_text_range": [
+          21,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090161808720175143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            },
+            {
+              "end": 20,
+              "id": "1624202040489701377",
+              "start": 10,
+              "username": "XUHT_0512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090161808720175143",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090161272805568838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa @XUHT_0512 酒蒙子来的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2090162919468413437",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 207,
+          "like_count": 4080,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 3064
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T04:35:09.000Z",
+        "description": "这个人很懒所以几乎没有留下什么介绍...⭕dm＃惰天使＃od＃自伤 cn夕颜",
+        "id": "1620279272467476481",
+        "is_identity_verified": false,
+        "location": "❤️你的心里❤️",
+        "most_recent_tweet_id": "2090162645462822923",
+        "name": "夕颜",
+        "pinned_tweet_id": "1861772867106636056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620279272467476481/1690386207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998729382849032194/g1FkyEWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 509,
+          "like_count": 17163,
+          "listed_count": 1,
+          "media_count": 473,
+          "tweet_count": 9092
+        },
+        "url": "",
+        "username": "jackeynight1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T00:22:06.000Z",
+        "description": "天蝎座 enfp 二次元 欧美向\n生理男 性别男",
+        "id": "1624202040489701377",
+        "is_identity_verified": false,
+        "location": "外太空",
+        "most_recent_tweet_id": "2090142248168276436",
+        "name": "小馄饨",
+        "pinned_tweet_id": "2083865079934828884",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624202040489701377/1699471392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087538768886816768/OGgoFzrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 310,
+          "like_count": 2682,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 3545
+        },
+        "url": "",
+        "username": "XUHT_0512",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

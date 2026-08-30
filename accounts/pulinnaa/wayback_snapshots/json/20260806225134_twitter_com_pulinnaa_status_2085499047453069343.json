@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085241105424285696"
+      ],
+      "media_source_tweet_id": [
+        "2085241164098347138"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2085499047453069343",
+    "created_at": "2026-08-06T22:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T23:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085499047453069343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1812930374902947840",
+          "start": 3,
+          "username": "Thunder1123456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8rvnuAmEwS",
+          "end": 46,
+          "expanded_url": "https://x.com/Thunder1123456/status/2085241164098347138/photo/1",
+          "media_key": "3_2085241105424285696",
+          "start": 23,
+          "url": "https://t.co/8rvnuAmEwS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085499047453069343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085241164098347138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Thunder1123456: 精彩 https://t.co/8rvnuAmEwS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 835,
+        "media_key": "3_2085241105424285696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBDvL_bgAA31GK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085241105424285696"
+          ]
+        },
+        "author_id": "1812930374902947840",
+        "conversation_id": "2085241164098347138",
+        "created_at": "2026-08-06T05:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085241164098347138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rvnuAmEwS",
+              "end": 26,
+              "expanded_url": "https://x.com/Thunder1123456/status/2085241164098347138/photo/1",
+              "media_key": "3_2085241105424285696",
+              "start": 3,
+              "url": "https://t.co/8rvnuAmEwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085241164098347138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 63304,
+          "like_count": 916,
+          "quote_count": 1,
+          "reply_count": 161,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "精彩 https://t.co/8rvnuAmEwS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085241105424285696"
+          ],
+          "media_source_tweet_id": [
+            "2085241164098347138"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2085499047453069343",
+        "created_at": "2026-08-06T22:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T23:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085499047453069343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1812930374902947840",
+              "start": 3,
+              "username": "Thunder1123456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rvnuAmEwS",
+              "end": 46,
+              "expanded_url": "https://x.com/Thunder1123456/status/2085241164098347138/photo/1",
+              "media_key": "3_2085241105424285696",
+              "start": 23,
+              "url": "https://t.co/8rvnuAmEwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085499047453069343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085241164098347138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Thunder1123456: 精彩 https://t.co/8rvnuAmEwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 201,
+          "like_count": 4066,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 2958
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T19:21:26.000Z",
+        "description": "",
+        "id": "1812930374902947840",
+        "name": "Thunder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023820517279756293/_8KCKN-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 56,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "Thunder1123456",
+        "verified": false
+      }
+    ]
+  }
+}

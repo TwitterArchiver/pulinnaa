@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091544793646239746"
+      ],
+      "media_source_tweet_id": [
+        "2091544803641274795"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2091628500759486817",
+    "created_at": "2026-08-23T20:47:49.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T21:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091628500759486817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2015660394967404544",
+          "start": 3,
+          "username": "Rien6cf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2MWcar1d31",
+          "end": 85,
+          "expanded_url": "https://x.com/Rien6cf/status/2091544803641274795/photo/1",
+          "media_key": "3_2091544793646239746",
+          "start": 62,
+          "url": "https://t.co/2MWcar1d31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091628500759486817",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091544793646239746"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091544803641274795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rien6cf: 庆祝百fo抽奖一下\n一等奖20r/1\n二等奖10r/2\n三等6.66r/2\n\n条件是转发➕关注！ https://t.co/2MWcar1d31"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2091544793646239746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQao6IkaEAIzvH2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091544793646239746"
+          ],
+          "media_source_tweet_id": [
+            "2091544803641274795"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2091628500759486817",
+        "created_at": "2026-08-23T20:47:49.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T21:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091628500759486817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015660394967404544",
+              "start": 3,
+              "username": "Rien6cf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MWcar1d31",
+              "end": 85,
+              "expanded_url": "https://x.com/Rien6cf/status/2091544803641274795/photo/1",
+              "media_key": "3_2091544793646239746",
+              "start": 62,
+              "url": "https://t.co/2MWcar1d31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091628500759486817",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091544793646239746"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091544803641274795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rien6cf: 庆祝百fo抽奖一下\n一等奖20r/1\n二等奖10r/2\n三等6.66r/2\n\n条件是转发➕关注！ https://t.co/2MWcar1d31"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091544793646239746"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2091544803641274795",
+        "created_at": "2026-08-23T15:15:14.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091544803641274795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MWcar1d31",
+              "end": 72,
+              "expanded_url": "https://x.com/Rien6cf/status/2091544803641274795/photo/1",
+              "media_key": "3_2091544793646239746",
+              "start": 49,
+              "url": "https://t.co/2MWcar1d31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091544803641274795",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091544793646239746"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝百fo抽奖一下\n一等奖20r/1\n二等奖10r/2\n三等6.66r/2\n\n条件是转发➕关注！ https://t.co/2MWcar1d31"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2091628500759486817",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 213,
+          "like_count": 4082,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 3085
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091606143814836358",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 219,
+          "like_count": 9879,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3441
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

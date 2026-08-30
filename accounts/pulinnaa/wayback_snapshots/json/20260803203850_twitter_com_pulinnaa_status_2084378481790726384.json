@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084378474404556800"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2084378481790726384",
+    "created_at": "2026-08-03T20:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T21:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084378481790726384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/66irCs3uyD",
+          "end": 74,
+          "expanded_url": "https://x.com/pulinnaa/status/2084378481790726384/photo/1",
+          "media_key": "3_2084378474404556800",
+          "start": 51,
+          "url": "https://t.co/66irCs3uyD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084378481790726384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我给我半网友半现生的朋友做的特殊信封，她不玩推所以只能发这里了，哎希望她能喜欢！因为做的很认真！ https://t.co/66irCs3uyD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084378474404556800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0zLdBasAAPwFZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084378474404556800"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2084378481790726384",
+        "created_at": "2026-08-03T20:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084378481790726384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66irCs3uyD",
+              "end": 74,
+              "expanded_url": "https://x.com/pulinnaa/status/2084378481790726384/photo/1",
+              "media_key": "3_2084378474404556800",
+              "start": 51,
+              "url": "https://t.co/66irCs3uyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084378481790726384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我给我半网友半现生的朋友做的特殊信封，她不玩推所以只能发这里了，哎希望她能喜欢！因为做的很认真！ https://t.co/66irCs3uyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 200,
+          "like_count": 4054,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2918
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2085778321024176349",
+    "created_at": "2026-08-08T08:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T09:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086014012102480363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066161725322526720",
+          "start": 0,
+          "username": "MTFitness6780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086014012102480363",
+    "in_reply_to_user_id": "2066161725322526720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085967973437857990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTFitness6780 主要是他不听劝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2085778321024176349",
+        "created_at": "2026-08-08T08:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086014012102480363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066161725322526720",
+              "start": 0,
+              "username": "MTFitness6780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086014012102480363",
+        "in_reply_to_user_id": "2066161725322526720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085967973437857990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTFitness6780 主要是他不听劝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066161725322526720",
+        "conversation_id": "2085778321024176349",
+        "created_at": "2026-08-08T05:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T06:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085967973437857990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085967973437857990",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085778321024176349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 我的认知水平和这个差不多...因为只吃过pr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 204,
+          "like_count": 4076,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 2980
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T14:18:33.000Z",
+        "description": "08年MTF一枚 家长党😋 OD（?）紫餐（?）主人：@XIAO_LIY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "XIAO_LIY"
+              }
+            ]
+          }
+        },
+        "id": "2066161725322526720",
+        "location": "2.8km",
+        "name": "素風motofu",
+        "pinned_tweet_id": "2083683389870424349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066716754622173184/mlx9B5Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 141,
+          "like_count": 834,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 861
+        },
+        "url": "",
+        "username": "MTFitness6780",
+        "verified": false
+      }
+    ]
+  }
+}

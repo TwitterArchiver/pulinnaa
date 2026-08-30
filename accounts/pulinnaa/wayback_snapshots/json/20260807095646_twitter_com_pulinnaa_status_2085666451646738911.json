@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2085666451646738911",
+    "created_at": "2026-08-07T09:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T10:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085666451646738911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1411727834297548804",
+          "start": 3,
+          "username": "runasiita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085666451646738911",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 462
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085032903713390593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @runasiita: 🕯️🕯️🕯️🕯️enhypen disband y 50 años de mala suerte para todas las engenes que acosaron a esa pobre chavala 🕯️🕯️🕯️🕯️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2085666451646738911",
+        "created_at": "2026-08-07T09:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085666451646738911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1411727834297548804",
+              "start": 3,
+              "username": "runasiita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085666451646738911",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 462
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085032903713390593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @runasiita: 🕯️🕯️🕯️🕯️enhypen disband y 50 años de mala suerte para todas las engenes que acosaron a esa pobre chavala 🕯️🕯️🕯️🕯️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1411727834297548804",
+        "conversation_id": "2085032903713390593",
+        "created_at": "2026-08-05T15:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085032903713390593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085032903713390593",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 254355,
+          "like_count": 14403,
+          "quote_count": 37,
+          "reply_count": 134,
+          "retweet_count": 462
+        },
+        "reply_settings": "everyone",
+        "text": "🕯️🕯️🕯️🕯️enhypen disband y 50 años de mala suerte para todas las engenes que acosaron a esa pobre chavala 🕯️🕯️🕯️🕯️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 202,
+          "like_count": 4066,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 2960
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-04T16:45:29.000Z",
+        "description": "sweating like a priest in a playground",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aerisiita.carrd.co",
+                "end": 23,
+                "expanded_url": "https://aerisiita.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/qIifiqBoLb"
+              }
+            ]
+          }
+        },
+        "id": "1411727834297548804",
+        "location": "saw 7dream, xikers & aespa",
+        "name": "carlititita is seeing xikers :3",
+        "pinned_tweet_id": "2057981879597351280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084780284038270976/ODDU2SCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 581,
+          "like_count": 30092,
+          "listed_count": 1,
+          "media_count": 985,
+          "tweet_count": 9466
+        },
+        "url": "https://t.co/qIifiqBoLb",
+        "username": "runasiita",
+        "verified": false
+      }
+    ]
+  }
+}

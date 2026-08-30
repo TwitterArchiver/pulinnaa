@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2087100189358375088",
+    "created_at": "2026-08-11T08:53:56.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087100189358375088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/impart6324/sta…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/impart6324/status/2087086299962650760",
+          "start": 95,
+          "url": "https://t.co/ay5mtOLzWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087100189358375088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087086299962650760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "tl某位哥哥，从互关的那天起，我就关注你了，经常翻你帖子，不善言辞的我，不敢和你聊天，怕打扰你，但是我确信这就是喜欢，马上就是七夕了，我想和你一起过，你要是同意，你就偷偷私信我，仅你可见。 https://t.co/ay5mtOLzWw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2087100189358375088",
+        "created_at": "2026-08-11T08:53:56.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087100189358375088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/impart6324/status/2087086299962650760",
+              "start": 95,
+              "url": "https://t.co/ay5mtOLzWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087100189358375088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087086299962650760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tl某位哥哥，从互关的那天起，我就关注你了，经常翻你帖子，不善言辞的我，不敢和你聊天，怕打扰你，但是我确信这就是喜欢，马上就是七夕了，我想和你一起过，你要是同意，你就偷偷私信我，仅你可见。 https://t.co/ay5mtOLzWw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2087086299962650760",
+        "created_at": "2026-08-11T07:58:44.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087086299962650760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tylerhou140769…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/tylerhou140769/status/2087069363618959716",
+              "start": 95,
+              "url": "https://t.co/NFZdRWOxIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087086299962650760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087069363618959716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tl某位妈妈，从互关的那天起，我就关注你了，经常翻你帖子，不善言辞的我，不敢和你聊天，怕打扰你，但是我确信这就是喜欢，马上就是七夕了，我想和你一起过，你要是同意，你就偷偷私信我，仅你可见。 https://t.co/NFZdRWOxIz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2087100189358375088",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 202,
+          "like_count": 4083,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 3012
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2087098883700826493",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 511,
+          "like_count": 11668,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

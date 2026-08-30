@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2084871223293649271",
+    "created_at": "2026-08-06T06:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085249067412799656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885853676503474176",
+          "start": 0,
+          "username": "Eroerosense"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085249067412799656",
+    "in_reply_to_user_id": "1885853676503474176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085049635140423940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eroerosense 我基本都是自己剪刘海的。那天晚上不知道咋回事一剪刀下去突然短了那么多额呵呵我可能是傻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2084871223293649271",
+        "created_at": "2026-08-06T06:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085249067412799656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885853676503474176",
+              "start": 0,
+              "username": "Eroerosense"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085249067412799656",
+        "in_reply_to_user_id": "1885853676503474176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085049635140423940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eroerosense 我基本都是自己剪刘海的。那天晚上不知道咋回事一剪刀下去突然短了那么多额呵呵我可能是傻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885853676503474176",
+        "conversation_id": "2084871223293649271",
+        "created_at": "2026-08-05T17:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085049635140423940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085049635140423940",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084871223293649271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 过段时间长出来再剪，试错。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 200,
+          "like_count": 4065,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 2950
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T00:52:30.000Z",
+        "description": "English/日本語/中国語 Ok\n\n想发什么就发什么，互 FO 欢迎\n\n喜欢分享美好生活，对不起我是现充",
+        "id": "1885853676503474176",
+        "location": "🇺🇸",
+        "name": "鬱鬱鬱鬱鬱鬱鬱鬱鬱",
+        "pinned_tweet_id": "2083198083823783986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083905097051017216/qRaY3k7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 51,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1001
+        },
+        "url": "",
+        "username": "Eroerosense",
+        "verified": true
+      }
+    ]
+  }
+}

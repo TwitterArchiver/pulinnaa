@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2089568640953938061",
+    "created_at": "2026-08-19T16:08:25.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090108633120186482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1401158132378730507",
+          "start": 0,
+          "username": "QingH11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090108633120186482",
+    "in_reply_to_user_id": "1401158132378730507",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089797492611408228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingH11 耍起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2089568640953938061",
+        "created_at": "2026-08-19T16:08:25.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090108633120186482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1401158132378730507",
+              "start": 0,
+              "username": "QingH11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090108633120186482",
+        "in_reply_to_user_id": "1401158132378730507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089797492611408228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingH11 耍起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401158132378730507",
+        "conversation_id": "2089568640953938061",
+        "created_at": "2026-08-18T19:32:03.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089797492611408228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089797492611408228",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089568640953938061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 耍起嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2090108633120186482",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 207,
+          "like_count": 4079,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-05T12:45:15.000Z",
+        "description": "人生是孤岛",
+        "id": "1401158132378730507",
+        "is_identity_verified": false,
+        "location": "⚡️",
+        "most_recent_tweet_id": "1966742876551016626",
+        "name": "清禾-",
+        "pinned_tweet_id": "1602581735291736064",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401158132378730507/1719435852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806070680179605504/snJgS3Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 167,
+          "like_count": 1832,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "QingH11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

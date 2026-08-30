@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      }
+    ],
+    "conversation_id": "2085191387239330145",
+    "created_at": "2026-08-06T02:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085191387239330145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814970519638491136",
+          "start": 3,
+          "username": "Awayshui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085191387239330145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084953795826680214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Awayshui: 说一下这个事件的始末，真的让很气愤😡\n\nMina（日籍，约26岁，在韩留学，X账号minann320、Instagram minann22）是韩团ENHYPEN成员NI-KI（西村力）的死忠粉丝（站姐），常参加签售会，成员多认识她。7月底ENHYPE…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          }
+        ],
+        "conversation_id": "2085191387239330145",
+        "created_at": "2026-08-06T02:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085191387239330145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814970519638491136",
+              "start": 3,
+              "username": "Awayshui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085191387239330145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084953795826680214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Awayshui: 说一下这个事件的始末，真的让很气愤😡\n\nMina（日籍，约26岁，在韩留学，X账号minann320、Instagram minann22）是韩团ENHYPEN成员NI-KI（西村力）的死忠粉丝（站姐），常参加签售会，成员多认识她。7月底ENHYPE…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814970519638491136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          }
+        ],
+        "conversation_id": "2084953795826680214",
+        "created_at": "2026-08-05T10:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084953795826680214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awayshui/statu…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/awayshui/status/2084951837875323227",
+              "start": 162,
+              "url": "https://t.co/CyMfFyofYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084953795826680214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说一下这个事件的始末，真的让很气愤😡\n\nMina（日籍，约26岁，在韩留学，X账号minann320、Instagram minann22）是韩团ENHYPEN成员NI-KI（西村力）的死忠粉丝（站姐），常参加签售会，成员多认识她。7月底ENHYPEN美国演唱会期间，她在前排试图让成员把向日葵递给NI-KI，但对方未接。\n\n随后NI-KI在个人直播中提到演唱会部分粉丝缺乏边界感、只想单独引起注意等（未点名），粉丝圈迅速将矛头指向Mina，指责她不尊重舞台、过度求关注等。\n\n随后出现大规模网暴：涌入其页面人身攻击、诅咒，甚至造谣其过去是陪酒女等，并持续私信骚扰。很多粉丝把Mina开盒，并且扒出了她做卖水女的事情，Mina曾公开道歉、解释（称自己把握不好距离感）、宣布关站/脱粉，但攻击未停。\n\n8月4日夜间至5日凌晨，她开直播时情绪崩溃（据传不断说“好可怕”等），SNS流传其在直播中轻生，警察到场\n关闭镜头等画面。好友随后发纪念帖（如“希望你在天堂幸福”）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 275158,
+          "like_count": 552,
+          "quote_count": 8,
+          "reply_count": 43,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084951837875323227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说一下这个事件的始末，真的让很气愤😡\n\nMina（日籍，约26岁，在韩留学，X账号minann320、Instagram minann22）是韩团ENHYPEN成员NI-KI（西村力）的死忠粉丝（站姐），常参加签售会，成员多认识她。7月底ENHYPEN美国演唱会期间，她在前排试图让成员把向日葵递给NI-KI，但对方未接。 https://t.co/CyMfFyofYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 200,
+          "like_count": 4062,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 2947
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:27:56.000Z",
+        "description": "干一行爱一行\n认真对待每个忠实客户！\n\n小特的小号：@xiaote857",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "xiaote857"
+              }
+            ]
+          }
+        },
+        "id": "1814970519638491136",
+        "name": "小特（专业版）",
+        "pinned_tweet_id": "2084544024057389354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007428889665253378/YBbeq5FU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11800,
+          "following_count": 81,
+          "like_count": 5059,
+          "listed_count": 19,
+          "media_count": 130,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "Awayshui",
+        "verified": true
+      }
+    ]
+  }
+}

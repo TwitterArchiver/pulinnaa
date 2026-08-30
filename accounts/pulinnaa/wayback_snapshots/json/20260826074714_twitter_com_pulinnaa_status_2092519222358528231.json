@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2092410495034929633",
+    "created_at": "2026-08-26T07:47:14.000Z",
+    "display_text_range": [
+      20,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092519222358528231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809939166089945088",
+          "start": 0,
+          "username": "zsmk_michy"
+        },
+        {
+          "end": 19,
+          "id": "2092255268327563264",
+          "start": 12,
+          "username": "3mstfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092519222358528231",
+    "in_reply_to_user_id": "1809939166089945088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092519119493181855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zsmk_michy @3mstfl 啊啊哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2092410495034929633",
+        "created_at": "2026-08-26T07:47:14.000Z",
+        "display_text_range": [
+          20,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092519222358528231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809939166089945088",
+              "start": 0,
+              "username": "zsmk_michy"
+            },
+            {
+              "end": 19,
+              "id": "2092255268327563264",
+              "start": 12,
+              "username": "3mstfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092519222358528231",
+        "in_reply_to_user_id": "1809939166089945088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092519119493181855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zsmk_michy @3mstfl 啊啊哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809939166089945088",
+        "conversation_id": "2092410495034929633",
+        "created_at": "2026-08-26T07:46:49.000Z",
+        "display_text_range": [
+          18,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092519119493181855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092255268327563264",
+              "start": 0,
+              "username": "3mstfl"
+            },
+            {
+              "end": 17,
+              "id": "1780570823063171072",
+              "start": 8,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092519119493181855",
+        "in_reply_to_user_id": "2092255268327563264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092435637781553474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3mstfl @pulinnaa 你是最清醒的人，你对世间的一切都看的很透彻，所有的事情你都懂得，你总能提出最精准最准确的见解，你把人心看的很明白，和每个人的关系你都能精准把握，你掌握世界上所有小众正确的事情，这种众人皆醉我独醒的感觉让你觉得非常的爽，特立独行让你觉得你是为数不多的人才，你简直就是世界的观察者"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2092519222358528231",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 213,
+          "like_count": 4082,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 3100
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T13:15:12.000Z",
+        "description": "嘿嘿",
+        "id": "1809939166089945088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092519119493181855",
+        "name": "芝士摩卡_michy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809939166089945088/1722067189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965082237075914752/22sSfGpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 499,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "zsmk_michy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T14:19:08.000Z",
+        "description": "双相 抑郁 狂躁症 精神分裂通通都有 骂我的一刀砍死你妈 心理不好素质低下别怪我喵",
+        "id": "2092255268327563264",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2092435882112405979",
+        "name": "这个世界就不能属于我吗",
+        "pinned_tweet_id": "2092420157570273499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092255268327563264/1787667904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092255650315423744/FUM83pcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "3mstfl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

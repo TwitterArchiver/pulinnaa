@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090715617968222208",
+        "3_2090715617997594624"
+      ],
+      "media_source_tweet_id": [
+        "2090715633071829386",
+        "2090715633071829386"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2091127346359324838",
+    "created_at": "2026-08-22T11:36:25.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091127346359324838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1655482952711831553",
+          "start": 3,
+          "username": "lourou7292"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FSTQHsOadZ",
+          "end": 117,
+          "expanded_url": "https://x.com/lourou7292/status/2090715633071829386/photo/1",
+          "media_key": "3_2090715617968222208",
+          "start": 94,
+          "url": "https://t.co/FSTQHsOadZ"
+        },
+        {
+          "display_url": "pic.x.com/FSTQHsOadZ",
+          "end": 117,
+          "expanded_url": "https://x.com/lourou7292/status/2090715633071829386/photo/1",
+          "media_key": "3_2090715617997594624",
+          "start": 94,
+          "url": "https://t.co/FSTQHsOadZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091127346359324838",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090715617968222208"
+      },
+      {
+        "media_key": "3_2090715617997594624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090715633071829386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lourou7292: 好好出门，就上个厕所，凭空遭遇这种噩梦。被堵在隔间、抢手机、掐脖子，挣扎到失去意识，身体和精神双重受重创。出事之后还要自己付医药费，等结果等到心力交瘁。… https://t.co/FSTQHsOadZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2090715617968222208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQO2xwdbcAAtDy7.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1898,
+        "media_key": "3_2090715617997594624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQO2xwkboAAUBCO.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090715617968222208",
+            "3_2090715617997594624"
+          ],
+          "media_source_tweet_id": [
+            "2090715633071829386",
+            "2090715633071829386"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2091127346359324838",
+        "created_at": "2026-08-22T11:36:25.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091127346359324838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1655482952711831553",
+              "start": 3,
+              "username": "lourou7292"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSTQHsOadZ",
+              "end": 117,
+              "expanded_url": "https://x.com/lourou7292/status/2090715633071829386/photo/1",
+              "media_key": "3_2090715617968222208",
+              "start": 94,
+              "url": "https://t.co/FSTQHsOadZ"
+            },
+            {
+              "display_url": "pic.x.com/FSTQHsOadZ",
+              "end": 117,
+              "expanded_url": "https://x.com/lourou7292/status/2090715633071829386/photo/1",
+              "media_key": "3_2090715617997594624",
+              "start": 94,
+              "url": "https://t.co/FSTQHsOadZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091127346359324838",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090715617968222208"
+          },
+          {
+            "media_key": "3_2090715617997594624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090715633071829386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lourou7292: 好好出门，就上个厕所，凭空遭遇这种噩梦。被堵在隔间、抢手机、掐脖子，挣扎到失去意识，身体和精神双重受重创。出事之后还要自己付医药费，等结果等到心力交瘁。… https://t.co/FSTQHsOadZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090715617968222208",
+            "3_2090715617997594624"
+          ]
+        },
+        "author_id": "1655482952711831553",
+        "conversation_id": "2090715633071829386",
+        "created_at": "2026-08-21T08:20:25.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090715633071829386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSTQHsOadZ",
+              "end": 100,
+              "expanded_url": "https://x.com/lourou7292/status/2090715633071829386/photo/1",
+              "media_key": "3_2090715617968222208",
+              "start": 77,
+              "url": "https://t.co/FSTQHsOadZ"
+            },
+            {
+              "display_url": "pic.x.com/FSTQHsOadZ",
+              "end": 100,
+              "expanded_url": "https://x.com/lourou7292/status/2090715633071829386/photo/1",
+              "media_key": "3_2090715617997594624",
+              "start": 77,
+              "url": "https://t.co/FSTQHsOadZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090715633071829386",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090715617968222208"
+          },
+          {
+            "media_key": "3_2090715617997594624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "好好出门，就上个厕所，凭空遭遇这种噩梦。被堵在隔间、抢手机、掐脖子，挣扎到失去意识，身体和精神双重受重创。出事之后还要自己付医药费，等结果等到心力交瘁。\n\n施暴者已经被拘留，但拒不承认，对方家属也没有赔偿的态度。受害者不仅要消化巨大的心理创伤，还要一遍遍跟进案情、操心医疗和维权，每一步都耗光力气。\n\n也能理解姑娘说的，先不盲目带节奏，等完整证据和官方后续。\n\n真心希望取证可以快一点，所有采样证据能够做实，别让受害者独自承受伤害还要熬漫长的等待。\n\n女孩子在外遇到危险，哪怕逃出来，后续维权这条路，同样难熬。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 224701,
+          "like_count": 2456,
+          "quote_count": 5,
+          "reply_count": 297,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "好好出门，就上个厕所，凭空遭遇这种噩梦。被堵在隔间、抢手机、掐脖子，挣扎到失去意识，身体和精神双重受重创。出事之后还要自己付医药费，等结果等到心力交瘁。 https://t.co/FSTQHsOadZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2091127346359324838",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 210,
+          "like_count": 4081,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 3072
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-08T08:01:21.000Z",
+        "description": "只要心怀热爱，脚踏实地，\n任何时候出发都不算晚。",
+        "id": "1655482952711831553",
+        "is_identity_verified": false,
+        "location": "Central & Western District",
+        "most_recent_tweet_id": "2091117006959599965",
+        "name": "xiayan Lou",
+        "pinned_tweet_id": "2087059288053428536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655482952711831553/1777894401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051673361756123136/lyIhZrV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38343,
+          "following_count": 6962,
+          "like_count": 24283,
+          "listed_count": 53,
+          "media_count": 7447,
+          "tweet_count": 27709
+        },
+        "url": "",
+        "username": "lourou7292",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

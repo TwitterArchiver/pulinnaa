@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2083886705451675864",
+    "created_at": "2026-08-03T07:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084177806863565067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "858868164351873024",
+          "start": 0,
+          "username": "define02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084177806863565067",
+    "in_reply_to_user_id": "858868164351873024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084163736286490943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@define02 对我就感觉这人是不是想白嫖。好无语啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2083886705451675864",
+        "created_at": "2026-08-03T07:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084177806863565067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "858868164351873024",
+              "start": 0,
+              "username": "define02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084177806863565067",
+        "in_reply_to_user_id": "858868164351873024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084163736286490943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@define02 对我就感觉这人是不是想白嫖。好无语啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858868164351873024",
+        "conversation_id": "2083886705451675864",
+        "created_at": "2026-08-03T06:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084163736286490943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084163736286490943",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083886705451675864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 往好的想是单主可能感觉跟你相处觉得轻松所以轻易说出这种话了，往现实的想是死老登还想吃嫩草滚一边去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 199,
+          "like_count": 4039,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 2912
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T02:18:22.000Z",
+        "description": "最后一天冲击前继续告诉我",
+        "id": "858868164351873024",
+        "name": "驟雨の狭間",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038824282730684416/q6M8GsXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 42,
+          "like_count": 3258,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "define02",
+        "verified": false
+      }
+    ]
+  }
+}

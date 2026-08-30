@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2087457638049370120",
+    "created_at": "2026-08-12T08:34:18.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087457638049370120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/parako_officia…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/parako_official/status/2086812084944371749",
+          "start": 10,
+          "url": "https://t.co/UFT0MSfIkW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087457638049370120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086812084944371749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸爸哥哥主人父亲爹 https://t.co/UFT0MSfIkW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2087457638049370120",
+        "created_at": "2026-08-12T08:34:18.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087457638049370120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/parako_officia…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/parako_official/status/2086812084944371749",
+              "start": 10,
+              "url": "https://t.co/UFT0MSfIkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087457638049370120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086812084944371749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸哥哥主人父亲爹 https://t.co/UFT0MSfIkW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524583811811401728",
+        "conversation_id": "2086812084944371749",
+        "created_at": "2026-08-10T13:49:06.000Z",
+        "display_text_range": [
+          0,
+          203
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:47:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086811800432210013",
+          "2086812084944371749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "パラ高"
+            },
+            {
+              "end": 49,
+              "start": 35,
+              "tag": "PLOTTBOYS_AGF"
+            },
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "AGF_2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/plottboys/stat…",
+              "end": 227,
+              "expanded_url": "https://twitter.com/plottboys/status/2086648733106852139",
+              "start": 204,
+              "url": "https://t.co/QIV8AhCzPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086812084944371749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 37542,
+          "like_count": 1710,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086648733106852139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#パラ高\n✫+————————————————+✫\n         #PLOTTBOYS_AGF #AGF_2026\n\n　　　 PLOTT BOYS メンバー公開！\n\n                            ひかる\n\n　 「よく分かりませんが頑張ります」\n　\n✫+————————————————+✫\n\nPLOTT BOYSにひかるが選ばれました！\n詳細は引用先をフォローして待っててね！ https://t.co/QIV8AhCzPL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2087457638049370120",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 204,
+          "like_count": 4083,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 3028
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-12T02:56:52.000Z",
+        "description": "ポンコツ異能力高校生たちの日常ショートアニメコント。だいたい毎日20時投稿。お問い合わせはparako@plott.tokyoまで。感想は #パラ高 /FAは #パラ高FA / #パラ高生徒紹介 も投稿中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "パラ高"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "パラ高FA"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "tag": "パラ高生徒紹介"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC438N…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC438NzuH3byhVc9KSXKc8ZA",
+                "start": 0,
+                "url": "https://t.co/YJCdalRWIF"
+              }
+            ]
+          }
+        },
+        "id": "1524583811811401728",
+        "is_identity_verified": false,
+        "location": "パラの丸町",
+        "most_recent_tweet_id": "2087449009493573817",
+        "name": "私立パラの丸高校",
+        "pinned_tweet_id": "2082062260227506404",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1524583811811401728/1766575561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003789248236077056/iFfzjiAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64022,
+          "following_count": 32,
+          "like_count": 1886,
+          "listed_count": 103,
+          "media_count": 874,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/YJCdalRWIF",
+        "username": "parako_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

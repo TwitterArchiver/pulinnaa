@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085695086340239361",
+        "3_2085695087313379328"
+      ],
+      "media_source_tweet_id": [
+        "2085695105030132158",
+        "2085695105030132158"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2085778363613053342",
+    "created_at": "2026-08-07T17:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085778363613053342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824676575985463296",
+          "start": 3,
+          "username": "candytt88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zia2En6SPW",
+          "end": 76,
+          "expanded_url": "https://x.com/candytt88/status/2085695105030132158/photo/1",
+          "media_key": "3_2085695086340239361",
+          "start": 53,
+          "url": "https://t.co/zia2En6SPW"
+        },
+        {
+          "display_url": "pic.x.com/zia2En6SPW",
+          "end": 76,
+          "expanded_url": "https://x.com/candytt88/status/2085695105030132158/photo/1",
+          "media_key": "3_2085695087313379328",
+          "start": 53,
+          "url": "https://t.co/zia2En6SPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085778363613053342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085695105030132158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @candytt88: 这个贱人是当晚在Mina 直播间怂恿她轻生的网暴者之一，让这个人下地狱吧💀 https://t.co/zia2En6SPW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085695086340239361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHgoWsWcAE0YzB.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1627,
+        "media_key": "3_2085695087313379328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHgoaUXYAA6qA6.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085695086340239361",
+            "3_2085695087313379328"
+          ]
+        },
+        "author_id": "1824676575985463296",
+        "conversation_id": "2085695105030132158",
+        "created_at": "2026-08-07T11:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085695105030132158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zia2En6SPW",
+              "end": 61,
+              "expanded_url": "https://x.com/candytt88/status/2085695105030132158/photo/1",
+              "media_key": "3_2085695086340239361",
+              "start": 38,
+              "url": "https://t.co/zia2En6SPW"
+            },
+            {
+              "display_url": "pic.x.com/zia2En6SPW",
+              "end": 61,
+              "expanded_url": "https://x.com/candytt88/status/2085695105030132158/photo/1",
+              "media_key": "3_2085695087313379328",
+              "start": 38,
+              "url": "https://t.co/zia2En6SPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085695105030132158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 119070,
+          "like_count": 1475,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "following",
+        "text": "这个贱人是当晚在Mina 直播间怂恿她轻生的网暴者之一，让这个人下地狱吧💀 https://t.co/zia2En6SPW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085695086340239361",
+            "3_2085695087313379328"
+          ],
+          "media_source_tweet_id": [
+            "2085695105030132158",
+            "2085695105030132158"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2085778363613053342",
+        "created_at": "2026-08-07T17:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085778363613053342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824676575985463296",
+              "start": 3,
+              "username": "candytt88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zia2En6SPW",
+              "end": 76,
+              "expanded_url": "https://x.com/candytt88/status/2085695105030132158/photo/1",
+              "media_key": "3_2085695086340239361",
+              "start": 53,
+              "url": "https://t.co/zia2En6SPW"
+            },
+            {
+              "display_url": "pic.x.com/zia2En6SPW",
+              "end": 76,
+              "expanded_url": "https://x.com/candytt88/status/2085695105030132158/photo/1",
+              "media_key": "3_2085695087313379328",
+              "start": 53,
+              "url": "https://t.co/zia2En6SPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085778363613053342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085695105030132158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @candytt88: 这个贱人是当晚在Mina 直播间怂恿她轻生的网暴者之一，让这个人下地狱吧💀 https://t.co/zia2En6SPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 203,
+          "like_count": 4069,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 2965
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T05:16:27.000Z",
+        "description": "今天代表我自己，不是谁的粉丝",
+        "id": "1824676575985463296",
+        "name": "yoki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084868447855575040/Q7zbBZZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 21,
+          "like_count": 2328,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "candytt88",
+        "verified": false
+      }
+    ]
+  }
+}

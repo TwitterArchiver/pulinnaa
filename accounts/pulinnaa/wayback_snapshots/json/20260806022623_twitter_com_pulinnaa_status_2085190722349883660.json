@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1427561726438871042",
+          "name": "Ni-Ki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1427561726438871042",
+          "name": "Ni-Ki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1427561726438871042",
+          "name": "Ni-Ki"
+        }
+      }
+    ],
+    "conversation_id": "2085190722349883660",
+    "created_at": "2026-08-06T02:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085190722349883660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824676575985463296",
+          "start": 3,
+          "username": "candytt88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085190722349883660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085156639074824376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @candytt88: 坐飞机十几个小时去美国，夜排十几个小时，站坑几个小时，身体累的要死，兴奋不起来很正常，谁规定演唱会一定要蹦蹦跳跳享受舞台？他们唱的如此难听，还要下面精疲力竭的粉丝给他们提供情绪价值？到底谁是表演者？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          }
+        ],
+        "conversation_id": "2085190722349883660",
+        "created_at": "2026-08-06T02:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085190722349883660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824676575985463296",
+              "start": 3,
+              "username": "candytt88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085190722349883660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085156639074824376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @candytt88: 坐飞机十几个小时去美国，夜排十几个小时，站坑几个小时，身体累的要死，兴奋不起来很正常，谁规定演唱会一定要蹦蹦跳跳享受舞台？他们唱的如此难听，还要下面精疲力竭的粉丝给他们提供情绪价值？到底谁是表演者？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824676575985463296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          }
+        ],
+        "conversation_id": "2085156639074824376",
+        "created_at": "2026-08-06T00:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085156639074824376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garotadoseonwo…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/garotadoseonwoo/status/2085056886441701700",
+              "start": 100,
+              "url": "https://t.co/0aea96qY05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085156639074824376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2514,
+          "like_count": 71,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085056886441701700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "坐飞机十几个小时去美国，夜排十几个小时，站坑几个小时，身体累的要死，兴奋不起来很正常，谁规定演唱会一定要蹦蹦跳跳享受舞台？他们唱的如此难听，还要下面精疲力竭的粉丝给他们提供情绪价值？到底谁是表演者？ https://t.co/0aea96qY05"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 200,
+          "like_count": 4062,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 2946
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T05:16:27.000Z",
+        "description": "今天代表我自己，不是谁的粉丝",
+        "id": "1824676575985463296",
+        "name": "yoki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084868447855575040/Q7zbBZZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 21,
+          "like_count": 2229,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "candytt88",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2088333385416720602",
+    "created_at": "2026-08-14T18:34:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088333385416720602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713951472453619712",
+          "start": 3,
+          "username": "bersuwara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088333385416720602",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20615
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087804576749748463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bersuwara_: GW BINGUNG MAU KETAWA APA KASIAN ada cuking ampe digips gara gara nakal manjat manjat kelambu njirrr😭😭😭 \n\nudah kayak meme s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7833,
+        "height": 960,
+        "media_key": "13_2087804559150505984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087804559150505984/img/dG8O8Ur_NbQXRTca.jpg",
+        "public_metrics": {
+          "view_count": 2306601
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087804559150505984/vid/avc1/320x426/SS1ulcBd_qhZaaNH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087804559150505984/vid/avc1/480x640/gQMNnaXF4BvIw13a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087804559150505984/vid/avc1/720x960/cOqF754ciLbyMWEU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087804559150505984/pl/Yo1YxB2nz9bgso0D.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1599,
+        "media_key": "3_2087804559142125568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlfL1QbgAAfuoO.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2088333385416720602",
+        "created_at": "2026-08-14T18:34:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088333385416720602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713951472453619712",
+              "start": 3,
+              "username": "bersuwara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088333385416720602",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20615
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087804576749748463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bersuwara_: GW BINGUNG MAU KETAWA APA KASIAN ada cuking ampe digips gara gara nakal manjat manjat kelambu njirrr😭😭😭 \n\nudah kayak meme s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087804559150505984",
+            "3_2087804559142125568"
+          ]
+        },
+        "author_id": "1713951472453619712",
+        "conversation_id": "2087804576749748463",
+        "created_at": "2026-08-13T07:32:55.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087804576749748463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CenBv6EnB6",
+              "end": 191,
+              "expanded_url": "https://x.com/bersuwara_/status/2087804576749748463/video/1",
+              "media_key": "13_2087804559150505984",
+              "start": 168,
+              "url": "https://t.co/CenBv6EnB6"
+            },
+            {
+              "display_url": "pic.x.com/CenBv6EnB6",
+              "end": 191,
+              "expanded_url": "https://x.com/bersuwara_/status/2087804576749748463/video/1",
+              "media_key": "3_2087804559142125568",
+              "start": 168,
+              "url": "https://t.co/CenBv6EnB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087804576749748463",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "13_2087804559150505984"
+          },
+          {
+            "media_key": "3_2087804559142125568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12418,
+          "impression_count": 4081525,
+          "like_count": 157661,
+          "quote_count": 2046,
+          "reply_count": 937,
+          "retweet_count": 20615
+        },
+        "reply_settings": "everyone",
+        "text": "GW BINGUNG MAU KETAWA APA KASIAN ada cuking ampe digips gara gara nakal manjat manjat kelambu njirrr😭😭😭 \n\nudah kayak meme saking setujunya tangan saya ga bisa turun😭😭😭 https://t.co/CenBv6EnB6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2088333385416720602",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 206,
+          "like_count": 4085,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 3041
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-16T16:14:18.000Z",
+        "description": "bersuara, berderma meme, bercanda, bercerita, berbagi rasa, beropini — i'm muting tweets that got hit tweet, if u need something to tell/ask pls kindly dm me^^",
+        "id": "1713951472453619712",
+        "is_identity_verified": false,
+        "location": "bi: 0895-4066-74274✨",
+        "most_recent_tweet_id": "2088328577460871645",
+        "name": "bia",
+        "pinned_tweet_id": "2088281697699930226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713951472453619712/1769557205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016292862300983296/wJolrRYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13710,
+          "following_count": 3550,
+          "like_count": 36526,
+          "listed_count": 4,
+          "media_count": 1047,
+          "tweet_count": 39131
+        },
+        "url": "",
+        "username": "bersuwara_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

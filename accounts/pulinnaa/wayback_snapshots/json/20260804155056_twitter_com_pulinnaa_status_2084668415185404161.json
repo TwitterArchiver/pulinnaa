@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2084565739940503953",
+    "created_at": "2026-08-04T15:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084668415185404161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055376212751470593",
+          "start": 0,
+          "username": "AngelMayLies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084668415185404161",
+    "in_reply_to_user_id": "2055376212751470593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084565739940503953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelMayLies 不考虑价格因为对我来说不算太贵，单从口感来说甜的要死还不如买精工小黑条。他有三档，每一档都超级甜，好像只有那个什么茶味的好一点，我之前抽的蜜瓜和荔枝唯一的好处就是我吃淀粉片子被苦到了抽两口马上就好了😹如果有顾虑价格就千万别买了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2084565732755636224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3dfUvaAAAtMaR.jpg",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2084565739940503953",
+        "created_at": "2026-08-04T15:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084668415185404161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084668415185404161",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084565739940503953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 不考虑价格因为对我来说不算太贵，单从口感来说甜的要死还不如买精工小黑条。他有三档，每一档都超级甜，好像只有那个什么茶味的好一点，我之前抽的蜜瓜和荔枝唯一的好处就是我吃淀粉片子被苦到了抽两口马上就好了😹如果有顾虑价格就千万别买了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084565732755636224"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084565739940503953",
+        "created_at": "2026-08-04T09:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084565739940503953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kG5mcTrl1m",
+              "end": 49,
+              "expanded_url": "https://x.com/AngelMayLies/status/2084565739940503953/photo/1",
+              "media_key": "3_2084565732755636224",
+              "start": 26,
+              "url": "https://t.co/kG5mcTrl1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084565739940503953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 693,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个玩意一个要他妈300多块钱，贵死了但是好想尝尝 https://t.co/kG5mcTrl1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 200,
+          "like_count": 4055,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2926
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 60,
+          "like_count": 1281,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 646
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      }
+    ]
+  }
+}

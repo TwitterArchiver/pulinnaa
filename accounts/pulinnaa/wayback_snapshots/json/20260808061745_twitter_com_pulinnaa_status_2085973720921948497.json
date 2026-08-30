@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2085935190938165719",
+    "created_at": "2026-08-08T06:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T07:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085973720921948497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 19,
+          "id": "38217523",
+          "start": 9,
+          "username": "ZakkysLab"
+        },
+        {
+          "end": 28,
+          "id": "2059212406451240960",
+          "start": 20,
+          "username": "Cxq6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085973720921948497",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085968015682908387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @ZakkysLab @Cxq6666 还没有😭最近gaba类换着玩了好久，为了测评效果好一点我正在努力戒断降耐药🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2085935190938165719",
+        "created_at": "2026-08-08T06:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T07:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085973720921948497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 19,
+              "id": "38217523",
+              "start": 9,
+              "username": "ZakkysLab"
+            },
+            {
+              "end": 28,
+              "id": "2059212406451240960",
+              "start": 20,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085973720921948497",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085968015682908387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ZakkysLab @Cxq6666 还没有😭最近gaba类换着玩了好久，为了测评效果好一点我正在努力戒断降耐药🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2085935190938165719",
+        "created_at": "2026-08-08T05:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T06:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085968015682908387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            },
+            {
+              "end": 20,
+              "id": "38217523",
+              "start": 10,
+              "username": "ZakkysLab"
+            },
+            {
+              "end": 29,
+              "id": "2059212406451240960",
+              "start": 21,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085968015682908387",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085967678028878335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa @ZakkysLab @Cxq6666 已经吃上了吗 在飞行了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 204,
+          "like_count": 4076,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 2978
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 537,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 61,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 199,
+          "like_count": 833,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}
