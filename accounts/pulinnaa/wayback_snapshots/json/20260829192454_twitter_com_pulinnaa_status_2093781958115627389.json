@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2093781463657566717",
+    "created_at": "2026-08-29T19:24:54.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T20:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093781958115627389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536716629505359872",
+          "start": 0,
+          "username": "cigsafterdrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093781958115627389",
+    "in_reply_to_user_id": "1536716629505359872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093781463657566717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsafterdrug 宝宝你怎么了TT你快回一下我私讯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093781455747137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6bJAMbwAAguwy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2093781463657566717",
+        "created_at": "2026-08-29T19:24:54.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093781958115627389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093781958115627389",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093781463657566717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 宝宝你怎么了TT你快回一下我私讯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093781455747137536"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2093781463657566717",
+        "created_at": "2026-08-29T19:22:56.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093781463657566717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXBwJUobYz",
+              "end": 36,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2093781463657566717/photo/1",
+              "media_key": "3_2093781455747137536",
+              "start": 13,
+              "url": "https://t.co/yXBwJUobYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093781463657566717",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093781455747137536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也沒有一刀脂肪層的勇氣 https://t.co/yXBwJUobYz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2093781958115627389",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 215,
+          "like_count": 4075,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 3109
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093781463657566717",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 482,
+          "like_count": 34545,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 3473
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2100070261055996200",
+    "created_at": "2026-09-16T08:40:37.000Z",
+    "display_text_range": [
+      28,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T09:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100142801052958731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054968042107346944",
+          "start": 0,
+          "username": "yangyv_huntun"
+        },
+        {
+          "end": 27,
+          "id": "2046117898377379840",
+          "start": 15,
+          "username": "kawaii_imai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100142801052958731",
+    "in_reply_to_user_id": "2054968042107346944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100070261055996200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyv_huntun @kawaii_imai 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2073,
+        "media_key": "3_2100070251593703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTyxGWboAAztjj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2100070261055996200",
+        "created_at": "2026-09-16T08:40:37.000Z",
+        "display_text_range": [
+          28,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100142801052958731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2054968042107346944",
+              "start": 0,
+              "username": "yangyv_huntun"
+            },
+            {
+              "end": 27,
+              "id": "2046117898377379840",
+              "start": 15,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100142801052958731",
+        "in_reply_to_user_id": "2054968042107346944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100070261055996200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyv_huntun @kawaii_imai 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100070251593703424"
+          ]
+        },
+        "author_id": "2054968042107346944",
+        "conversation_id": "2100070261055996200",
+        "created_at": "2026-09-16T03:52:22.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100070261055996200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1A3k8dHd0F",
+              "end": 173,
+              "expanded_url": "https://x.com/yangyv_huntun/status/2100070261055996200/photo/1",
+              "media_key": "3_2100070251593703424",
+              "start": 150,
+              "url": "https://t.co/1A3k8dHd0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100070261055996200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100070251593703424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 682,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "再发一下，抽奖 为了涨fo\n一等奖一人：奖品1g酸奶葡萄\n二等奖三人：奖品5gpr原粉\n三等奖五人：奖品神秘\n㊙️如果涨到500fo奖励翻倍\n参与条件：需要关注我，点赞评论我的这个帖子，还有求求转发\n从这些都做了的宝子们抽奖哦\n截止时间10月1日\n之前参与过的宝子帮帮转发就好！\n可以来我的tg群玩 https://t.co/1A3k8dHd0F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2100142801052958731",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099273250723487744/Q2P9CvaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 217,
+          "like_count": 4086,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 3166
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T16:52:28.000Z",
+        "description": "前世：yangyan_huntun寻回互关中\nINTP | 双相已确诊 | 喜扩列  | 06/185 |  bi男  |  细胞神曲 重返未来1999  | oder | 术力口 | 💊🔪🚬🍺🍥🍬全肯定\n下面是匿名提问，随便问捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/BzlAM4DgrC"
+              }
+            ]
+          }
+        },
+        "id": "2054968042107346944",
+        "is_identity_verified": false,
+        "location": "重塑之手",
+        "most_recent_tweet_id": "2100085685076332587",
+        "name": "羊🐏言转生2.0(咩咩机形态)",
+        "pinned_tweet_id": "2090077682755412427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054968042107346944/1787131897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090008776548159488/NC9zVCI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 302,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/BzlAM4DgrC",
+        "username": "yangyv_huntun",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100110399547027744",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 299,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

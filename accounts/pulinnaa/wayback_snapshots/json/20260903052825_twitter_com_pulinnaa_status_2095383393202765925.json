@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2095066875764064437",
+    "created_at": "2026-09-03T05:28:25.000Z",
+    "display_text_range": [
+      19,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095383393202765925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822109599459397632",
+          "start": 0,
+          "username": "zifensix"
+        },
+        {
+          "end": 18,
+          "id": "1494669485214633984",
+          "start": 10,
+          "username": "_Axer1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095383393202765925",
+    "in_reply_to_user_id": "1822109599459397632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095066875764064437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifensix @_Axer1a 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2095066866507296768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMsNwbbsAA20Q1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2095066875764064437",
+        "created_at": "2026-09-03T05:28:25.000Z",
+        "display_text_range": [
+          19,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095383393202765925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822109599459397632",
+              "start": 0,
+              "username": "zifensix"
+            },
+            {
+              "end": 18,
+              "id": "1494669485214633984",
+              "start": 10,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095383393202765925",
+        "in_reply_to_user_id": "1822109599459397632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095066875764064437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifensix @_Axer1a 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095066866507296768"
+          ]
+        },
+        "author_id": "1822109599459397632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2095066875764064437",
+        "created_at": "2026-09-02T08:30:42.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095066875764064437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZ4kylGxs1",
+              "end": 188,
+              "expanded_url": "https://x.com/zifensix/status/2095066875764064437/photo/1",
+              "media_key": "3_2095066866507296768",
+              "start": 165,
+              "url": "https://t.co/jZ4kylGxs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095066875764064437",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095066866507296768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1531,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "roll点小礼物给大家\n一等：异丙司卡林盐酸盐Isoproscaline hydrochloride 100mg*1份\n二等：IC26 WIN 1161-3 40mg*2份\n三等请大家吃大份奖：盐酸金刚烷胺100mg/100粒*3份\n本期共抽6人\n开奖日期：9月7日 开奖方式：grok随机开奖 参与条件：fo 转发 点赞 评论 https://t.co/jZ4kylGxs1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2095383393202765925",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 214,
+          "like_count": 4076,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 3120
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人😎\n会查成分回fo同类😤\n09年 17岁 男的 性取向是大屌扶他和小屌男娘😡\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓",
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095193731628777504",
+        "name": "自分",
+        "pinned_tweet_id": "2095066875764064437",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 50,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/they？07年生 非健全 💊&🩸/音游/轨道交通？/航天？/观鸟\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 85,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2094085497115320534",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 1936,
+          "like_count": 87994,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 5521
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

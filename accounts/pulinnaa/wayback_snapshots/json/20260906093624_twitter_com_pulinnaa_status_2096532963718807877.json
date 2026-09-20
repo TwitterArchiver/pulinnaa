@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2096532963718807877",
+    "created_at": "2026-09-06T09:36:24.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096532963718807877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822109599459397632",
+          "start": 3,
+          "username": "zifensix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096532963718807877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095664377152331892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zifensix: 重新抽一下\n一等 iso🌵100mg *1\n二等 1161 1t40mg *2\n三等 🧧15 *3\n9.7开 我直接从fo里抽 不用转发点赞评论了 还是用gork随机抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2096532963718807877",
+        "created_at": "2026-09-06T09:36:24.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096532963718807877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822109599459397632",
+              "start": 3,
+              "username": "zifensix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096532963718807877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095664377152331892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zifensix: 重新抽一下\n一等 iso🌵100mg *1\n二等 1161 1t40mg *2\n三等 🧧15 *3\n9.7开 我直接从fo里抽 不用转发点赞评论了 还是用gork随机抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822109599459397632",
+        "conversation_id": "2095664377152331892",
+        "created_at": "2026-09-04T00:04:57.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T01:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095664377152331892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095664377152331892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6845,
+          "like_count": 157,
+          "quote_count": 1,
+          "reply_count": 77,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "重新抽一下\n一等 iso🌵100mg *1\n二等 1161 1t40mg *2\n三等 🧧15 *3\n9.7开 我直接从fo里抽 不用转发点赞评论了 还是用gork随机抽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2096532963718807877",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 212,
+          "like_count": 4075,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 3122
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人😎\n会查成分回fo同类😤\n09年 17岁 男的 性取向是大屌扶他和小屌男娘😡\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/GFoTTuEUGu"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096509838411067713",
+        "name": "自分",
+        "pinned_tweet_id": "2095664377152331892",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 118,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/GFoTTuEUGu",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

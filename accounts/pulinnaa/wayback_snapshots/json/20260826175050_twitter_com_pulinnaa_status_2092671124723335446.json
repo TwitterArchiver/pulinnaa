@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092548112078589952",
+        "3_2092548118898425856",
+        "3_2092548124430733314"
+      ],
+      "media_source_tweet_id": [
+        "2092548130902286570",
+        "2092548130902286570",
+        "2092548130902286570"
+      ]
+    },
+    "author_id": "1780570823063171072",
+    "conversation_id": "2092671124723335446",
+    "created_at": "2026-08-26T17:50:50.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092671124723335446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057835400790462464",
+          "start": 3,
+          "username": "Curse0307"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/94T7RnUAnt",
+          "end": 135,
+          "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+          "media_key": "3_2092548112078589952",
+          "start": 112,
+          "url": "https://t.co/94T7RnUAnt"
+        },
+        {
+          "display_url": "pic.x.com/94T7RnUAnt",
+          "end": 135,
+          "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+          "media_key": "3_2092548118898425856",
+          "start": 112,
+          "url": "https://t.co/94T7RnUAnt"
+        },
+        {
+          "display_url": "pic.x.com/94T7RnUAnt",
+          "end": 135,
+          "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+          "media_key": "3_2092548124430733314",
+          "start": 112,
+          "url": "https://t.co/94T7RnUAnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092671124723335446",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092548112078589952"
+      },
+      {
+        "media_key": "3_2092548118898425856"
+      },
+      {
+        "media_key": "3_2092548124430733314"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092548130902286570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Curse0307: 09♀｜🩸🔪💊🎨｜已炸柜｜\n我很温良欢迎找我互fo互转\n\n顺便搞一个抽奖\n抽两条小手链以下款式任选，不喜欢也可折现20喵🥺（尽量不要喵）\n关注➕评论➕转帖抽奖9.1开奖\n求求你们跟我互fo互转 https://t.co/94T7RnUAnt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2092548112078589952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo5a8_b0AAThOT.jpg",
+        "width": 1024
+      },
+      {
+        "height": 800,
+        "media_key": "3_2092548118898425856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo5bWZaQAAVxuo.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2092548124430733314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo5brAakAIj8jk.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092548112078589952",
+            "3_2092548118898425856",
+            "3_2092548124430733314"
+          ],
+          "media_source_tweet_id": [
+            "2092548130902286570",
+            "2092548130902286570",
+            "2092548130902286570"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2092671124723335446",
+        "created_at": "2026-08-26T17:50:50.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092671124723335446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057835400790462464",
+              "start": 3,
+              "username": "Curse0307"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/94T7RnUAnt",
+              "end": 135,
+              "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+              "media_key": "3_2092548112078589952",
+              "start": 112,
+              "url": "https://t.co/94T7RnUAnt"
+            },
+            {
+              "display_url": "pic.x.com/94T7RnUAnt",
+              "end": 135,
+              "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+              "media_key": "3_2092548118898425856",
+              "start": 112,
+              "url": "https://t.co/94T7RnUAnt"
+            },
+            {
+              "display_url": "pic.x.com/94T7RnUAnt",
+              "end": 135,
+              "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+              "media_key": "3_2092548124430733314",
+              "start": 112,
+              "url": "https://t.co/94T7RnUAnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092671124723335446",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092548112078589952"
+          },
+          {
+            "media_key": "3_2092548118898425856"
+          },
+          {
+            "media_key": "3_2092548124430733314"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092548130902286570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Curse0307: 09♀｜🩸🔪💊🎨｜已炸柜｜\n我很温良欢迎找我互fo互转\n\n顺便搞一个抽奖\n抽两条小手链以下款式任选，不喜欢也可折现20喵🥺（尽量不要喵）\n关注➕评论➕转帖抽奖9.1开奖\n求求你们跟我互fo互转 https://t.co/94T7RnUAnt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092548112078589952",
+            "3_2092548118898425856",
+            "3_2092548124430733314"
+          ]
+        },
+        "author_id": "2057835400790462464",
+        "conversation_id": "2092548130902286570",
+        "created_at": "2026-08-26T09:42:06.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092548130902286570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94T7RnUAnt",
+              "end": 120,
+              "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+              "media_key": "3_2092548112078589952",
+              "start": 97,
+              "url": "https://t.co/94T7RnUAnt"
+            },
+            {
+              "display_url": "pic.x.com/94T7RnUAnt",
+              "end": 120,
+              "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+              "media_key": "3_2092548118898425856",
+              "start": 97,
+              "url": "https://t.co/94T7RnUAnt"
+            },
+            {
+              "display_url": "pic.x.com/94T7RnUAnt",
+              "end": 120,
+              "expanded_url": "https://x.com/Curse0307/status/2092548130902286570/photo/1",
+              "media_key": "3_2092548124430733314",
+              "start": 97,
+              "url": "https://t.co/94T7RnUAnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092548130902286570",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092548112078589952"
+          },
+          {
+            "media_key": "3_2092548118898425856"
+          },
+          {
+            "media_key": "3_2092548124430733314"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 814,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "09♀｜🩸🔪💊🎨｜已炸柜｜\n我很温良欢迎找我互fo互转\n\n顺便搞一个抽奖\n抽两条小手链以下款式任选，不喜欢也可折现20喵🥺（尽量不要喵）\n关注➕评论➕转帖抽奖9.1开奖\n求求你们跟我互fo互转 https://t.co/94T7RnUAnt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2092671124723335446",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 214,
+          "like_count": 4082,
+          "listed_count": 2,
+          "media_count": 486,
+          "tweet_count": 3103
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "步此苦旅\n宝宝@AngelIlIIl @Sakura_rain98",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "AngelIlIIl"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Sakura_rain98"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "is_identity_verified": false,
+        "location": "步此苦旅",
+        "most_recent_tweet_id": "2092661876597588096",
+        "name": "Curse",
+        "pinned_tweet_id": "2092548130902286570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057835400790462464/1787373706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091444334944219136/sSbOEq2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 259,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "Curse0307",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

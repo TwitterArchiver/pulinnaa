@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2099050439929126983",
+    "created_at": "2026-09-13T20:19:05.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T21:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099231412243345753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2099022653294325760",
+          "start": 0,
+          "username": "peachjarea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099231412243345753",
+    "in_reply_to_user_id": "2099022653294325760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099050439929126983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peachjarea 自己滚过来给你妈报销"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099050433482518528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFTP31a8AAIm0J.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2099050439929126983",
+        "created_at": "2026-09-13T20:19:05.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T21:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099231412243345753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2099022653294325760",
+              "start": 0,
+              "username": "peachjarea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099231412243345753",
+        "in_reply_to_user_id": "2099022653294325760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099050439929126983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peachjarea 自己滚过来给你妈报销"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099050433482518528"
+          ]
+        },
+        "author_id": "2099022653294325760",
+        "conversation_id": "2099050439929126983",
+        "created_at": "2026-09-13T08:19:58.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099050439929126983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "贡猪"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "榨金"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "上贡"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "舔狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujQ9AlWqJR",
+              "end": 57,
+              "expanded_url": "https://x.com/peachjarea/status/2099050439929126983/photo/1",
+              "media_key": "3_2099050433482518528",
+              "start": 34,
+              "url": "https://t.co/ujQ9AlWqJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099050439929126983",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099050433482518528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近期贡瘾发作记录vol.1 ww\n\n#贡猪 #榨金 #上贡 #舔狗 https://t.co/ujQ9AlWqJR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2099231412243345753",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 212,
+          "like_count": 4076,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 3149
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-13T06:33:51.000Z",
+        "description": "神秘酒鬼短发女~",
+        "id": "2099022653294325760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099050439929126983",
+        "name": "♡🍑♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2099022653294325760/1789281948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099023918355169280/VOoIb7dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 44,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "peachjarea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

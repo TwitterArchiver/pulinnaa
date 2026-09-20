@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2094875115360248188",
+    "created_at": "2026-09-02T01:00:45.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T02:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094953643711909950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1214894491968012288",
+          "start": 0,
+          "username": "l666lll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094953643711909950",
+    "in_reply_to_user_id": "1214894491968012288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094875115360248188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l666lll おはよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2094875115360248188",
+        "created_at": "2026-09-02T01:00:45.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094953643711909950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1214894491968012288",
+              "start": 0,
+              "username": "l666lll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094953643711909950",
+        "in_reply_to_user_id": "1214894491968012288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094875115360248188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l666lll おはよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1214894491968012288",
+        "conversation_id": "2094875115360248188",
+        "created_at": "2026-09-01T19:48:43.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094875115360248188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094875115360248188",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@pulinnaa はなさき\n(*´_○｀)ﾉ○o｡おはよう｡o○ヽ(´●_｀*)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2094953643711909950",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 214,
+          "like_count": 4074,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 3117
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-08T13:00:36.000Z",
+        "description": "ﾁｯ(･д･)！！ \nスーパーネガティブ人間ダミアンです！ \nよろしくお願いします♭\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▹◃┄▸◂┄▹◃┄▸◂\n病み垢┊︎男性┊︎63歳┊︎元A.Sax吹き┊︎車椅子ユーザー(脳梗塞で右半身麻痺)┊︎器質性パーソナリティー障害(希死念慮、自殺企図、情動不安定、被刺激の亢進、不眠)",
+        "id": "1214894491968012288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094943955440066636",
+        "name": "ダミアン",
+        "pinned_tweet_id": "1393530150306816000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1214894491968012288/1678295712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465763074670215168/zE0n6AXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 3652,
+          "like_count": 682703,
+          "listed_count": 59,
+          "media_count": 2328,
+          "tweet_count": 489275
+        },
+        "url": "",
+        "username": "l666lll",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
