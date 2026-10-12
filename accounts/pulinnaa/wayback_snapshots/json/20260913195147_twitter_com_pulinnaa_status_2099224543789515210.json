@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2097717757840359870",
+    "created_at": "2026-09-13T19:51:47.000Z",
+    "display_text_range": [
+      30,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T20:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099224543789515210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814518989399465987",
+          "start": 0,
+          "username": "JASONMA918986"
+        },
+        {
+          "end": 29,
+          "id": "1753075020136587266",
+          "start": 15,
+          "username": "1043039804Kkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099224543789515210",
+    "in_reply_to_user_id": "1814518989399465987",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098281326810161402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JASONMA918986 @1043039804Kkk 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2097717757840359870",
+        "created_at": "2026-09-13T19:51:47.000Z",
+        "display_text_range": [
+          30,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099224543789515210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814518989399465987",
+              "start": 0,
+              "username": "JASONMA918986"
+            },
+            {
+              "end": 29,
+              "id": "1753075020136587266",
+              "start": 15,
+              "username": "1043039804Kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099224543789515210",
+        "in_reply_to_user_id": "1814518989399465987",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098281326810161402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JASONMA918986 @1043039804Kkk 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814518989399465987",
+        "conversation_id": "2097717757840359870",
+        "created_at": "2026-09-11T05:23:47.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098281326810161402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753075020136587266",
+              "start": 0,
+              "username": "1043039804Kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098281326810161402",
+        "in_reply_to_user_id": "1753075020136587266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097717757840359870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1043039804Kkk 兄弟有没有女神接受一起贡 我也想贡找不到女神"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2099224543789515210",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 210,
+          "like_count": 4073,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 3142
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-20T04:34:23.000Z",
+        "description": "",
+        "id": "1814518989399465987",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098304284945527114",
+        "name": "法师刘海柱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062468612305416192/d3F3SJMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 497,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "JASONMA918986",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-01T15:17:18.000Z",
+        "description": "",
+        "id": "1753075020136587266",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098796956500033975",
+        "name": "kkk",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 153,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "1043039804Kkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

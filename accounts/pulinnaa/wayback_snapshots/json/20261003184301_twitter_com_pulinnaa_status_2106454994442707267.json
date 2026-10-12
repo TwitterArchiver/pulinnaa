@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2106424202568122609",
+    "created_at": "2026-10-03T18:43:01.000Z",
+    "display_text_range": [
+      19,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106454994442707267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066928700562784256",
+          "start": 0,
+          "username": "kkkkkkpro"
+        },
+        {
+          "end": 18,
+          "id": "2092517131552423936",
+          "start": 11,
+          "username": "MT7276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106454994442707267",
+    "in_reply_to_user_id": "2066928700562784256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106424202568122609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkkpro @MT7276 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2106424202568122609",
+        "created_at": "2026-10-03T18:43:01.000Z",
+        "display_text_range": [
+          19,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106454994442707267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066928700562784256",
+              "start": 0,
+              "username": "kkkkkkpro"
+            },
+            {
+              "end": 18,
+              "id": "2092517131552423936",
+              "start": 11,
+              "username": "MT7276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106454994442707267",
+        "in_reply_to_user_id": "2066928700562784256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106424202568122609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkkpro @MT7276 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066928700562784256",
+        "conversation_id": "2106424202568122609",
+        "created_at": "2026-10-03T16:40:40.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106424202568122609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106424202568122609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "发个贴来涨涨粉啦！抽11个人现金奖励！点赞关注转帖即可参加！由于我粉丝少所以概率很高o！虽然少但相当于白捡了嘛\n              一等奖。20。 一人\n              二等奖。5元   十人\n               点赞关注转帖即可参加，一定要破50粉丝啊…………"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2106454994442707267",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099273250723487744/Q2P9CvaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 224,
+          "like_count": 4091,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 3242
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T17:00:10.000Z",
+        "description": "09/男/od/🚬/🍷/187cm70kg（增长中）\n药物重度依赖，分享一些日常和负面信息。pr！pr！ym！ym！†升天† †升天†",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k25547",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k25547",
+                "start": 0,
+                "url": "https://t.co/uT9Gd62vsP"
+              }
+            ]
+          }
+        },
+        "id": "2066928700562784256",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2106424518806004012",
+        "name": "k！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066928700562784256/1788984992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096291987662286849/8PtG3_T-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 67,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/uT9Gd62vsP",
+        "username": "kkkkkkpro",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:43:46.000Z",
+        "description": "友所有人\n会回fo同类喵\n简介施工中\nhttps://t.co/6gBhlfU4Bv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mt17276",
+                "end": 42,
+                "expanded_url": "https://ngl.link/mt17276",
+                "start": 19,
+                "url": "https://t.co/6gBhlfU4Bv"
+              }
+            ]
+          }
+        },
+        "id": "2092517131552423936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106437498755027232",
+        "name": "MT",
+        "pinned_tweet_id": "2106331688838348909",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092519007610118145/cevOQhIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 199,
+          "like_count": 4720,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1069
+        },
+        "url": "",
+        "username": "MT7276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

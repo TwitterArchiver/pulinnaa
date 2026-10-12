@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780570823063171072",
+    "conversation_id": "2096477717067931911",
+    "created_at": "2026-09-06T06:59:21.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096493439584190526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096460299213905920",
+          "start": 0,
+          "username": "d9nmTTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096493439584190526",
+    "in_reply_to_user_id": "2096460299213905920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096477717067931911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d9nmTTT 什么情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2096477717067931911",
+        "created_at": "2026-09-06T06:59:21.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096493439584190526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096460299213905920",
+              "start": 0,
+              "username": "d9nmTTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096493439584190526",
+        "in_reply_to_user_id": "2096460299213905920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096477717067931911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d9nmTTT 什么情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096460299213905920",
+        "conversation_id": "2096477717067931911",
+        "created_at": "2026-09-06T05:56:53.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096477717067931911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096477717067931911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "举报呗 举报呗 你举报我容易 我注册新账号不一样容易？动你利益了怕没钱赚了？你自己做的那些事情都公开的差不多了吧 您何止是把自己当神 不过只是一个性压抑不行了被人吹捧上天的普通人而已 你怎么还想卖黑心药过上好日子 你的认知就在这里 你觉得你赚的到你认知之外的钱？你会反噬的  风水轮流转"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2096493439584190526",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091859782437421057/U2KBO197_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 212,
+          "like_count": 4075,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 3121
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则 绝不违规@d9nmTT\n我是原料革命 黑药贩随你们怎么举报 我继续注册就是了 我有的是时间和你们耗着",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 13,
+                "username": "d9nmTT"
+              }
+            ]
+          }
+        },
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2096488082065559763",
+        "name": "東九三代",
+        "pinned_tweet_id": "2096477717067931911",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096460978963791872/v-rAic8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 15,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
